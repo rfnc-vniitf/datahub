@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Северный флот приступил ко второму этапу вакцинации личного состава от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Северный флот приступил ко второму этапу вакцинации личного состава от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12331658@egNews"
+            },
+            {
+                "length": "174952",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/Kasatonov-1200(1).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12331658@egNews",
+        "summary": "До конца года вакциной «Гам-КОВИД-Вак» будут привиты около трёх тысяч военнослужащих и лиц гражданского персонала СФ.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "До конца года вакциной «Гам-КОВИД-Вак» будут привиты около трёх тысяч военнослужащих и лиц гражданского персонала СФ."
+        },
+        "published": "Thu, 24 Dec 2020 13:41:50 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            24,
+            10,
+            41,
+            50,
+            3,
+            359,
+            0
+        ],
+        "id": "12331658@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "На Северном Кавказе и Закавказье началась вакцинация военнослужащих ЮВО от новой коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "На Северном Кавказе и Закавказье началась вакцинация военнослужащих ЮВО от новой коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12331631@egNews"
+            },
+            {
+                "length": "118410",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/vakcina-550(4).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12331631@egNews",
+        "summary": "В настоящее время вакцинацию уже проходят командный состав и военнослужащие управления 58-й армии, военные врачи, которые работают с больными коронавирусной инфекцией, а также военнослужащие, несущие боевое дежурство.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В настоящее время вакцинацию уже проходят командный состав и военнослужащие управления 58-й армии, военные врачи, которые работают с больными коронавирусной инфекцией, а также военнослужащие, несущие боевое дежурство."
+        },
+        "published": "Thu, 24 Dec 2020 11:00:53 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            24,
+            8,
+            0,
+            53,
+            3,
+            359,
+            0
+        ],
+        "id": "12331631@egNews",
+        "guidislink": false
+    }
+]

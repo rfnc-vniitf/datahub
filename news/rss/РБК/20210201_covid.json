@@ -1,0 +1,132 @@
+[
+    {
+        "title": "Падение экономики России из-за пандемии стало максимальным за 11 лет",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Падение экономики России из-за пандемии стало максимальным за 11 лет"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/economics/01/02/2021/6017e1819a7947cb98f23f95"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/60/756121896903603.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/756121927470534.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/economics/01/02/2021/6017e1819a7947cb98f23f95",
+        "summary": "Экономика России по итогам пандемийного 2020 года упала на 3,1%, следует из первой оценки Росстата. Хотя оценка сокращения ВВП оказалась лучше прогнозов, это максимальный спад с кризиса 2009 года",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Экономика России по итогам пандемийного 2020 года упала на 3,1%, следует из первой оценки Росстата. Хотя оценка сокращения ВВП оказалась лучше прогнозов, это максимальный спад с кризиса 2009 года"
+        },
+        "authors": [
+            {
+                "name": "Юлия Старостина"
+            }
+        ],
+        "author": "Юлия Старостина",
+        "author_detail": {
+            "name": "Юлия Старостина"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6017e1819a7947cb98f23f95",
+        "guidislink": false,
+        "published": "Mon, 01 Feb 2021 19:14:47 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            1,
+            16,
+            14,
+            47,
+            0,
+            32,
+            0
+        ]
+    },
+    {
+        "title": "Число созданных иностранцами компаний в России в пандемию упало на треть",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Число созданных иностранцами компаний в России в пандемию упало на треть"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/economics/01/02/2021/6012d8889a7947eca63a5ba1"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/77/756119126088771.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/42/756121677236425.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/02/01/160508.7___mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/75/756121604963755.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/economics/01/02/2021/6012d8889a7947eca63a5ba1",
+        "summary": "За последние три года иностранцы стали вдвое реже учреждать компании в России, следует из данных Kartoteka.ru. Тенденция началась задолго до пандемии, но в 2020 году усилилась на фоне закрытия границ",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "За последние три года иностранцы стали вдвое реже учреждать компании в России, следует из данных Kartoteka.ru. Тенденция началась задолго до пандемии, но в 2020 году усилилась на фоне закрытия границ"
+        },
+        "authors": [
+            {
+                "name": "Иван Ткачёв"
+            }
+        ],
+        "author": "Иван Ткачёв",
+        "author_detail": {
+            "name": "Иван Ткачёв"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6012d8889a7947eca63a5ba1",
+        "guidislink": false,
+        "published": "Mon, 01 Feb 2021 07:00:04 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            1,
+            4,
+            0,
+            4,
+            0,
+            32,
+            0
+        ]
+    }
+]

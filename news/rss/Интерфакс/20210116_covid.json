@@ -1,0 +1,47 @@
+[
+    {
+        "title": "В России за сутки выявлено 24 тыс. новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В России за сутки выявлено 24 тыс. новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/745443"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/745443",
+        "summary": "Еще 24 092 заболевших коронавирусной инфекцией нового типа зафиксировано в России за последние сутки, сообщает оперштаб.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Еще 24 092 заболевших коронавирусной инфекцией нового типа зафиксировано в России за последние сутки, сообщает оперштаб."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 16 Jan 2021 11:13:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            16,
+            8,
+            13,
+            0,
+            5,
+            16,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/745443",
+        "guidislink": false
+    }
+]

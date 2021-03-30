@@ -1,0 +1,108 @@
+[
+    {
+        "title": "В Петербурге снизилось число госпитализаций с ковидом, но тяжесть возросла",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://regnum.ru/rss/news.html",
+            "value": "В Петербурге снизилось число госпитализаций с ковидом, но тяжесть возросла"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://regnum.ru/news/society/3177955.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://regnum.ru/uploads/pictures/news/2021/01/31/regnum_picture_1612115321397660_normal.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://regnum.ru/news/society/3177955.html",
+        "summary": "Санкт-Петербург, \n    31 января 2021, 20:49 — REGNUM В Петербурге на 9% за неделю уменьшилось количество госпитализаций пациентов с COVID-19 и подозрением на него. Однако увеличилась доля пациентов в тяжелом состоянии, находящихся в стационарах. Об этом 31 января сообщил глава комитета по...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://regnum.ru/rss/news.html",
+            "value": "Санкт-Петербург, \n    31 января 2021, 20:49 — REGNUM В Петербурге на 9% за неделю уменьшилось количество госпитализаций пациентов с COVID-19 и подозрением на него. Однако увеличилась доля пациентов в тяжелом состоянии, находящихся в стационарах. Об этом 31 января сообщил глава комитета по..."
+        },
+        "authors": [
+            {
+                "name": "ИА REGNUM"
+            }
+        ],
+        "author": "ИА REGNUM",
+        "author_detail": {
+            "name": "ИА REGNUM"
+        },
+        "published": "Sun, 31 Jan 2021 20:49:57 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            31,
+            17,
+            49,
+            57,
+            6,
+            31,
+            0
+        ],
+        "id": "https://regnum.ru/news/society/3177955.html",
+        "guidislink": false
+    },
+    {
+        "title": "В Калужской области за сутки выявили 150 носителей коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://regnum.ru/rss/news.html",
+            "value": "В Калужской области за сутки выявили 150 носителей коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://regnum.ru/news/society/3177852.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://regnum.ru/uploads/pictures/news/2021/01/31/regnum_picture_161208871945803_normal.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://regnum.ru/news/society/3177852.html",
+        "summary": "Калуга, \n    31 января 2021, 13:22 — REGNUM В Калужской области положительные результаты тестов на коронавирус подтверждены у 150 человек за последние сутки, сообщает корреспондент ИА REGNUM со ссылкой на информацию федерального штаба от 31 января. Днём ранее, 30 января, в регионе были...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://regnum.ru/rss/news.html",
+            "value": "Калуга, \n    31 января 2021, 13:22 — REGNUM В Калужской области положительные результаты тестов на коронавирус подтверждены у 150 человек за последние сутки, сообщает корреспондент ИА REGNUM со ссылкой на информацию федерального штаба от 31 января. Днём ранее, 30 января, в регионе были..."
+        },
+        "authors": [
+            {
+                "name": "ИА REGNUM"
+            }
+        ],
+        "author": "ИА REGNUM",
+        "author_detail": {
+            "name": "ИА REGNUM"
+        },
+        "published": "Sun, 31 Jan 2021 13:22:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            31,
+            10,
+            22,
+            0,
+            6,
+            31,
+            0
+        ],
+        "id": "https://regnum.ru/news/society/3177852.html",
+        "guidislink": false
+    }
+]

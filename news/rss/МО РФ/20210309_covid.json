@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Около 50% военнослужащих Северного флота вакцинировались от коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Около 50% военнослужащих Северного флота вакцинировались от коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12348047@egNews"
+            },
+            {
+                "length": "163041",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/PR9A7412-550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12348047@egNews",
+        "summary": "Практически полностью реализована очередная партия вакцины, которая была распределена между участниками мероприятий, связанных с подготовкой и проведением парада Победы и Военно-морского парада.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Практически полностью реализована очередная партия вакцины, которая была распределена между участниками мероприятий, связанных с подготовкой и проведением парада Победы и Военно-морского парада."
+        },
+        "published": "Tue, 9 Mar 2021 14:00:25 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            9,
+            11,
+            0,
+            25,
+            1,
+            68,
+            0
+        ],
+        "id": "12348047@egNews",
+        "guidislink": false
+    }
+]

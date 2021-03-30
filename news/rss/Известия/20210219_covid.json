@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Собянин оценил ситуацию с коронавирусом в Москве",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Собянин оценил ситуацию с коронавирусом в Москве"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1127331/2021-02-19/sobianin-otcenil-situatciiu-s-koronavirusom-v-moskve"
+            }
+        ],
+        "link": "https://iz.ru/1127331/2021-02-19/sobianin-otcenil-situatciiu-s-koronavirusom-v-moskve",
+        "summary": "<p>Снижение показателей распространения коронавируса и госпитализаций в Москве не позволяют говорить об окончании пандемии. Об этом в пятницу, 19 февраля, заявил мэр столицы Сергей Собянин.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Снижение показателей распространения коронавируса и госпитализаций в Москве не позволяют говорить об окончании пандемии. Об этом в пятницу, 19 февраля, заявил мэр столицы Сергей Собянин.</p>"
+        },
+        "published": "Fri, 19 Feb 2021 20:33:28 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            19,
+            17,
+            33,
+            28,
+            4,
+            50,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Юлия Захарова"
+            }
+        ],
+        "author": "Юлия Захарова",
+        "author_detail": {
+            "name": "Юлия Захарова"
+        },
+        "id": "https://iz.ru/1127331/2021-02-19/sobianin-otcenil-situatciiu-s-koronavirusom-v-moskve",
+        "guidislink": false
+    }
+]

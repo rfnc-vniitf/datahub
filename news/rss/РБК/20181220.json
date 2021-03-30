@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Определен победитель зрительского голосования Премии РБК",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Определен победитель зрительского голосования Премии РБК"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/own_business/20/12/2018/5c1b5c4e9a7947e874585e19"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/17/755452971156175.jpeg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/55/755444683670554.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/90/755444683670903.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/92/755444683670923.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755444683670930.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/42/755444683670425.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/755444683670973.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/own_business/20/12/2018/5c1b5c4e9a7947e874585e19",
+        "summary": "Самой популярной номинанткой среди аудитории РБК стала Татьяна Бакальчук, основатель и генеральный директор Wildberries",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Самой популярной номинанткой среди аудитории РБК стала Татьяна Бакальчук, основатель и генеральный директор Wildberries"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5c1b5c4e9a7947e874585e19",
+        "guidislink": false,
+        "published": "Thu, 20 Dec 2018 12:13:15 +0300",
+        "published_parsed": [
+            2018,
+            12,
+            20,
+            9,
+            13,
+            15,
+            3,
+            354,
+            0
+        ]
+    }
+]

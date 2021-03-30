@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Российскую вакцину от коронавируса «Спутник V» зарегистрировали в Габоне",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Российскую вакцину от коронавируса «Спутник V» зарегистрировали в Габоне"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/602d212c9a794725f288d5dc"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/10/756135706191104.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/602d212c9a794725f288d5dc",
+        "summary": "Министерство здравоохранения Габонской Республики зарегистрировало российскую вакцину против коронавируса «Спутник V».",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Министерство здравоохранения Габонской Республики зарегистрировало российскую вакцину против коронавируса «Спутник V»."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/602d212c9a794725f288d5dc",
+        "guidislink": false,
+        "published": "Wed, 17 Feb 2021 17:16:07 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            17,
+            14,
+            16,
+            7,
+            2,
+            48,
+            0
+        ]
+    }
+]

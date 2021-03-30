@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Эксперт прокомментировал ситуацию со штаммами коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://russian.rt.com/rss",
+            "value": "Эксперт прокомментировал ситуацию со штаммами коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://russian.rt.com/russia/news/820259-koronavirus-shtamm-ekspert?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "123",
+                "href": "https://cdni.rt.com/russian/images/2021.01/thumbnail/5ff724a802e8bd051069e272.png",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://russian.rt.com/russia/news/820259-koronavirus-shtamm-ekspert?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "id": "https://russian.rt.com/russia/news/820259-koronavirus-shtamm-ekspert?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "guidislink": false,
+        "summary": "<img align=\"left\" alt=\"Preview\" src=\"https://cdni.rt.com/russian/images/2021.01/thumbnail/5ff724a802e8bd051069e272.png\" style=\"margin-right: 10px;\" /> Директор НИЦ по профилактике и лечению вирусных инфекций Георгий Викулов прокомментировал ситуацию со штаммами коронавируса. <br /><a href=\"https://russian.rt.com/russia/news/820259-koronavirus-shtamm-ekspert?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Читать далее</a>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://russian.rt.com/rss",
+            "value": "<img align=\"left\" alt=\"Preview\" src=\"https://cdni.rt.com/russian/images/2021.01/thumbnail/5ff724a802e8bd051069e272.png\" style=\"margin-right: 10px;\" /> Директор НИЦ по профилактике и лечению вирусных инфекций Георгий Викулов прокомментировал ситуацию со штаммами коронавируса. <br /><a href=\"https://russian.rt.com/russia/news/820259-koronavirus-shtamm-ekspert?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Читать далее</a>"
+        },
+        "published": "Thu, 07 Jan 2021 18:44:37 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            7,
+            15,
+            44,
+            37,
+            3,
+            7,
+            0
+        ],
+        "authors": [
+            {
+                "name": "RT на русском"
+            }
+        ],
+        "author": "RT на русском",
+        "author_detail": {
+            "name": "RT на русском"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Алису Фрейндлих выписали из больницы после лечения от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Алису Фрейндлих выписали из больницы после лечения от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/602675019a79474afe1519f6"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/92/756131355478925.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/602675019a79474afe1519f6",
+        "summary": "Актрису Алису Фрейндлих выписали из клинической больницы № 122 имени Л.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Актрису Алису Фрейндлих выписали из клинической больницы № 122 имени Л."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/602675019a79474afe1519f6",
+        "guidislink": false,
+        "published": "Fri, 12 Feb 2021 16:01:40 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            12,
+            13,
+            1,
+            40,
+            4,
+            43,
+            0
+        ]
+    }
+]

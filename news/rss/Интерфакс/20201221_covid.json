@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Рынки акций Европы упали на новостях о новом штамме коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Рынки акций Европы упали на новостях о новом штамме коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/business/742335"
+            }
+        ],
+        "link": "https://www.interfax.ru/business/742335",
+        "summary": "Фондовые индексы стран Западной Европы заметно снизились по итогам торгов в понедельник на новостях об обнаружении в Великобритании новой разновидности коронавируса.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Фондовые индексы стран Западной Европы заметно снизились по итогам торгов в понедельник на новостях об обнаружении в Великобритании новой разновидности коронавируса."
+        },
+        "tags": [
+            {
+                "term": "Экономика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Mon, 21 Dec 2020 20:18:00 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            21,
+            17,
+            18,
+            0,
+            0,
+            356,
+            0
+        ],
+        "id": "https://www.interfax.ru/business/742335",
+        "guidislink": false
+    },
+    {
+        "title": "Половина всех медиков Москвы переболела коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Половина всех медиков Москвы переболела коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/moscow/742318"
+            }
+        ],
+        "link": "https://www.interfax.ru/moscow/742318",
+        "summary": "Свыше половины московских медиков переболели коронавирусом, сообщил в понедельник мэр столицы Сергей Собянин.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Свыше половины московских медиков переболели коронавирусом, сообщил в понедельник мэр столицы Сергей Собянин."
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Mon, 21 Dec 2020 18:16:00 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            21,
+            15,
+            16,
+            0,
+            0,
+            356,
+            0
+        ],
+        "id": "https://www.interfax.ru/moscow/742318",
+        "guidislink": false
+    }
+]

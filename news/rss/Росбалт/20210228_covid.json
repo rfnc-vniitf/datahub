@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/02/28/1889743.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/02/28/1889743.html",
+        "title": "За сутки скончались 379 заболевших коронавирусом россиян",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "За сутки скончались 379 заболевших коронавирусом россиян"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/02/28/1889743.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/0/2/c/5/XxtHKVZ3-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Москва, Петербург и Подмосковье все так же входят в топ-3 по распространенности инфекции.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Москва, Петербург и Подмосковье все так же входят в топ-3 по распространенности инфекции."
+        },
+        "published": "Sun, 28 Feb 2021 11:09:00 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            28,
+            8,
+            9,
+            0,
+            6,
+            59,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

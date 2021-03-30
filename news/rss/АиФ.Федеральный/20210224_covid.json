@@ -1,0 +1,144 @@
+[
+    {
+        "title": "Что за вирус Silver Sparrow?",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://aif.ru/rss/all.php",
+            "value": "Что за вирус Silver Sparrow?"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://aif.ru/society/web/chto_za_virus_silver_sparrow"
+            }
+        ],
+        "link": "https://aif.ru/society/web/chto_za_virus_silver_sparrow",
+        "summary": "​На компьютерах Mac обнаружили новый вирус Silver Sparrow, который может работать даже в системах с новым чипом Apple M1 и имеет алгоритм самоуничтожения.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://aif.ru/rss/all.php",
+            "value": "​На компьютерах Mac обнаружили новый вирус Silver Sparrow, который может работать даже в системах с новым чипом Apple M1 и имеет алгоритм самоуничтожения."
+        },
+        "pdalink": "https://aif.ru/society/web/chto_za_virus_silver_sparrow",
+        "tags": [
+            {
+                "term": "Сеть",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "authors": [
+            {
+                "name": "Кристина Горчилина"
+            }
+        ],
+        "author": "Кристина Горчилина",
+        "author_detail": {
+            "name": "Кристина Горчилина"
+        },
+        "published": "Wed, 24 Feb 2021 18:14:35 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            24,
+            15,
+            14,
+            35,
+            2,
+            55,
+            0
+        ],
+        "yandex_genre": "article",
+        "yandex_full-text": "<p>Почти 40 тыс. компьютеров Mac оказались заражены новым вирусом Silver Sparrow, который привлек внимание специалистов в сфере информационной безопасности. Об этом Брайан Донохью, аналитик разведывательной службы компании Red Canary, занимающейся информационной безопасностью, рассказал агентству ABC News. </p><p>Вредоносная программа была обнаружена на компьютерах в не менее чем 153 странах мира, преимущественно в США, Великобритании, Канаде, Франции и Германии. По словам Донохью, на деле зараженных устройств наверняка больше 40 тыс., так как это только данные компании Malwarebytes, разрабатывающей программное обеспечение (ПО) для кибербезопасности.</p><p>Вирус был обнаружен экспертами компании Red Canary и изучен совместно со специалистами из Malwarebytes и VMWare Carbon Black. У вредоносной программы оказалось две необычных особенности: ее предназначение до сих пор не ясно и одна из двух ее версий создана для устройств с новым чипом от Apple M1, выпущенным совсем недавно — в конце 2020 года.</p><p>Что известно о вирусе Silver Sparrow?</p><p>Как именно Silver Sparrow распространяют, пока неизвестно. Возможно через такие стандартные каналы, как вредоносная реклама, пиратские программы или поддельные обновления Flash. Ясно то, что установочные пакеты вируса используют JavaScript API (интерфейс программирования на языке JavaScript) установщика macOS, что наблюдается впервые в случае вредоносного ПО.</p><p>Известно, что имена файлов-установщиков Silver Sparrow — «update.pkg» (для архитектур Intel x86_64 и M1 ARM64) и «updater.pkg» (только для архитектуры Intel x86_64). Признаком заражения также может быть наличие файлов (скриптов) по следующим путям:</p><p>~/Library/Application Support/verx_updater/verx.sh;</p><p>/tmp/agent.sh.</p><p>После заражения системы Silver Sparrow раз в час обращается к неизвестному серверу и ожидает новых команд от своих операторов, но за все время, что исследователи наблюдали за вирусом, никаких команд не поступало.</p><p>«У большинства вредоносных программ есть конечная цель. Это может быть кража конфиденциальной информации, нанесение ущерба устройствам или серверам или блокирование доступа к данным. Какова конечная цель в данном случае мы не знаем, так как пока не обнаружили, чтобы Silver Sparrow совершал какие-либо злонамеренные действия», — объяснил Брайан Донохью. </p><p>Эксперты предполагают также, что вирус может обнаруживать аналитические инструменты и оставаться неактивным, замечая, что за ним «следят». Учитывая масштаб заражения и тот факт, что Silver Sparrow может работать даже в системах с новым чипом Apple M1, вредоносная программа не похожа на неудачный эксперимент или шутку хакеров, отмечают эксперты. Что еще примечательно, у вируса предусмотрен алгоритм самоуничтожения, который может стереть все упоминания о его присутствии на компьютере.</p><p>Как отреагировали в Apple?</p><p>После обнаружения вируса компания Apple сразу отозвала текущие сертификаты безопасности учетных записей разработчиков, которые использовались для подписи пакетов вредоносного ПО. Теперь их нельзя установить, если у пользователя стоят настройки безопасности «по умолчанию». Это касается только приложений в Mac App Store или от разработчиков с действующими сертификатами.</p>",
+        "turbo_content": "<header>\n                \n                <h1>Что за вирус Silver Sparrow?</h1>\n            </header>\n            <p>Почти 40 тыс. компьютеров Mac оказались заражены новым вирусом Silver Sparrow, который привлек внимание специалистов в сфере информационной безопасности. Об этом <strong>Брайан Донохью</strong>, аналитик разведывательной службы компании Red Canary, занимающейся информационной безопасностью, рассказал агентству ABC News.<div data-block=\"feed\" data-layout=\"vertical\" data-title=\"Вопрос-ответ\"><div data-block=\"feed-item\" data-title=\"Что нужно сделать, чтобы ваш компьютер не заразился вирусом?\" data-href=\"https://aif.ru/dontknows/actual/chto_nuzhno_sdelat_chtoby_vash_kompyuter_ne_zarazilsya_virusom\" data-thumb=\"https://aif-s3.aif.ru/images/012/006/6e5452439189dacba9286eb1f87520d4.jpg\"></div></div></p>\n<p>Вредоносная программа была обнаружена на компьютерах в не менее чем 153 странах мира, преимущественно в США, Великобритании, Канаде, Франции и Германии. По словам Донохью, на деле зараженных устройств наверняка больше 40 тыс., так как это только данные компании Malwarebytes, разрабатывающей программное обеспечение (ПО) для кибербезопасности.</p>\n<figure data-turbo-ad-id=\"first_ad_place\"></figure>\n<p>Вирус был обнаружен экспертами компании Red Canary и изучен совместно со специалистами из Malwarebytes и VMWare Carbon Black. У вредоносной программы оказалось две необычных особенности: ее предназначение до сих пор не ясно и одна из двух ее версий создана для устройств с новым чипом от Apple M1, выпущенным совсем недавно — в конце 2020 года.</p><h2>Что известно о вирусе Silver Sparrow?</h2>\n<p>Как именно Silver Sparrow распространяют, пока неизвестно. Возможно через такие стандартные каналы, как вредоносная реклама, пиратские программы или поддельные обновления Flash. Ясно то, что установочные пакеты вируса используют JavaScript API (интерфейс программирования на языке JavaScript) установщика macOS, что наблюдается впервые в случае вредоносного ПО.</p>\n<p>Известно, что имена файлов-установщиков Silver Sparrow — «update.pkg» (для архитектур Intel x86_64 и M1 ARM64) и «updater.pkg» (только для архитектуры Intel x86_64). Признаком заражения также может быть наличие файлов (скриптов) по следующим путям:</p>\n<p>~/Library/Application Support/verx_updater/verx.sh;</p>\n<p>/tmp/agent.sh.</p>\n<p>После заражения системы Silver Sparrow раз в час обращается к неизвестному серверу и ожидает новых команд от своих операторов, но за все время, что исследователи наблюдали за вирусом, никаких команд не поступало.</p>\n<p>«У большинства вредоносных программ есть конечная цель. Это может быть кража конфиденциальной информации, нанесение ущерба устройствам или серверам или блокирование доступа к данным. Какова конечная цель в данном случае мы не знаем, так как пока не обнаружили, чтобы Silver Sparrow совершал какие-либо злонамеренные действия», — объяснил Брайан Донохью.<div data-block=\"feed\" data-layout=\"vertical\" data-title=\"Вопрос-ответ\"><div data-block=\"feed-item\" data-title=\"Какие антивирусные программы самые надежные и эффективные?\" data-href=\"https://aif.ru/society/web/kakie_antivirusnye_programmy_samye_nadezhnye_i_effektivnye\" data-thumb=\"https://aif-s3.aif.ru/images/017/488/58bf5d389669dd053f0bec45485acc6e.jpg\"></div></div></p>\n<p>Эксперты предполагают также, что вирус может обнаруживать аналитические инструменты и оставаться неактивным, замечая, что за ним «следят». Учитывая масштаб заражения и тот факт, что Silver Sparrow может работать даже в системах с новым чипом Apple M1, вредоносная программа не похожа на неудачный эксперимент или шутку хакеров, отмечают эксперты. Что еще примечательно, у вируса предусмотрен алгоритм самоуничтожения, который может стереть все упоминания о его присутствии на компьютере.</p><h2>Как отреагировали в Apple?</h2>\n<p>После обнаружения вируса компания Apple сразу отозвала текущие сертификаты безопасности учетных записей разработчиков, которые использовались для подписи пакетов вредоносного ПО. Теперь их нельзя установить, если у пользователя стоят настройки безопасности «по умолчанию». Это касается только приложений в Mac App Store или от разработчиков с действующими сертификатами.</p>\n<figure data-turbo-ad-id=\"second_ad_place\"></figure>\n<ExtGiraffWidget data-widget-id=\"1\" data-block-name=\"aifru\" data-height=\"600\">Giraff.io widget</ExtGiraffWidget>\n<ExtZenWidget data-desktop-clid=\"9379\" data-mobile-clid=\"9378\">Zen widget</ExtZenWidget>"
+    },
+    {
+        "title": "Путин пообещал продолжить помощь Киргизии в борьбе с пандемией коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://aif.ru/rss/all.php",
+            "value": "Путин пообещал продолжить помощь Киргизии в борьбе с пандемией коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://aif.ru/politics/world/putin_poobeshchal_prodolzhit_pomoshch_kirgizii_v_borbe_s_pandemiey_koronavirusa"
+            },
+            {
+                "length": "30000",
+                "type": "image/jpeg",
+                "href": "https://aif-s3.aif.ru/images/022/900/de4812c17e3dece54958f9e584ac1a0a.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "img": "https://aif-s3.aif.ru/images/022/891/9384c7bab1feb801d0765f6b231f9cc7.jpg",
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://aif.ru/politics/world/prezident_kirgizii_vpervye_pribudet_v_rossiyu_s_oficialnym_vizitom"
+            },
+            {
+                "img": "https://aif-s3.aif.ru/images/022/882/6167a7d589ae7f538d2e39515df1757e.jpg",
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://aif.ru/health/coronavirus/rossiyskuyu_vakcinu_sputnik_v_zaregistrirovali_v_kirgizii"
+            },
+            {
+                "img": "https://aif-s3.aif.ru/images/022/877/eb07760bbc7a8752fe6ab6cee8174a25.jpg",
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://aif.ru/politics/world/poslom_kirgizii_v_rossii_stala_gulnara-klara_samat"
+            },
+            {
+                "img": "https://aif-s3.aif.ru/images/022/870/edbc8ede9e79a3bf981ed9253ee0fbc4.jpg",
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://aif.ru/politics/world/rf_vydelit_bolee_5_mln_kirgizii_na_borbu_s_nezakonnym_oborotom_narkotikov"
+            },
+            {
+                "img": "https://aif-s3.aif.ru/images/022/868/5455b32a4f88ca96c9c35634c850cc18.jpg",
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://aif.ru/politics/putin_provedet_v_moskve_peregovory_s_prezidentom_kirgizii"
+            }
+        ],
+        "link": "https://aif.ru/politics/putin_provedet_v_moskve_peregovory_s_prezidentom_kirgizii",
+        "summary": "Также российский лидер в ходе встречи с главой Киргизии выразил надежду на стабилизацию обстановки в республике.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://aif.ru/rss/all.php",
+            "value": "Также российский лидер в ходе встречи с главой Киргизии выразил надежду на стабилизацию обстановки в республике."
+        },
+        "pdalink": "https://aif.ru/politics/world/putin_poobeshchal_prodolzhit_pomoshch_kirgizii_v_borbe_s_pandemiey_koronavirusa",
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Wed, 24 Feb 2021 18:09:30 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            24,
+            15,
+            9,
+            30,
+            2,
+            55,
+            0
+        ],
+        "yandex_genre": "article",
+        "yandex_full-text": "<p dir=\"ltr\">Президент России Владимир Путин в ходе сегодняшней встречи с главой Киргизии Садыром Жапаровым пообещал продолжить помощь республике в борьбе с пандемией коронавируса.</p><p dir=\"ltr\">Как сообщается на <a href=\"http://www.kremlin.ru/events/president/news/65069\" target=\"_blank\">сайте</a> Кремля, Путин выразил удовлетворение тем, как в Киргизии сдерживают пандемию, и добавил, что Россия готова предпринять дополнительные меры для совместной работы по этому направлению.</p><p dir=\"ltr\">Также российский лидер выразил надежду на стабилизацию обстановки в Киргизии после выборов нового главы государства и пожелал Жапарову, чтобы все задуманное им способствовало поступательному развитию государства. </p><p dir=\"ltr\">Отметим, что президент Киргизии <a href=\"https://aif.ru/politics/world/kirgizskiy_politik_i_obshchestvennyy_deyatel_sadyr_zhaparov_dose\" target=\"_blank\">Садыр Жапаров</a> сегодня <a href=\"https://aif.ru/politics/world/prezident_kirgizii_vpervye_pribudet_v_rossiyu_s_oficialnym_vizitom\" target=\"_blank\">прилетел</a> в Россию с первым официальным визитом. В Москве у него запланированы встречи с главой правительства РФ Михаилом Мишустиным, председателями Совфеда и Госдумы, а также с российскими бизнесменами.</p><p dir=\"ltr\">Накануне стало известно, что власти Киргизии <a href=\"https://aif.ru/health/coronavirus/rossiyskuyu_vakcinu_sputnik_v_zaregistrirovali_v_kirgizii\" target=\"_blank\">зарегистрировали </a>российскую противокоронавирусную вакцину «Спутник V». В минздраве республики считают, что регистрация препарата позволит в ближайшее время провести вакцинацию населения в стране.</p>",
+        "yandex_related": {
+            "type": "infinity"
+        },
+        "turbo_content": "<header>\n                <figure><img src=\"https://aif-s3.aif.ru/images/022/900/de4812c17e3dece54958f9e584ac1a0a.jpg\"/><figcaption>Путин пообещал продолжить помощь Киргизии в борьбе с пандемией коронавируса &copy пресс-служба Кремля</figcaption></figure>\n                <h1>Путин пообещал продолжить помощь Киргизии в борьбе с пандемией коронавируса</h1>\n            </header>\n            <figure data-turbo-ad-id=\"first_ad_place\"></figure>\n<p dir=\"ltr\">Президент России Владимир Путин в ходе сегодняшней встречи с главой Киргизии Садыром Жапаровым пообещал продолжить помощь республике в борьбе с пандемией коронавируса.</p><p dir=\"ltr\">Как сообщается на <a href=\"http://www.kremlin.ru/events/president/news/65069\" target=\"_blank\">сайте</a> Кремля, Путин выразил удовлетворение тем, как в Киргизии сдерживают пандемию, и добавил, что Россия готова предпринять дополнительные меры для совместной работы по этому направлению.</p><p dir=\"ltr\">Также российский лидер выразил надежду на стабилизацию обстановки в Киргизии после выборов нового главы государства и пожелал Жапарову, чтобы все задуманное им способствовало поступательному развитию государства. </p><p dir=\"ltr\">Отметим, что президент Киргизии <a href=\"https://aif.ru/politics/world/kirgizskiy_politik_i_obshchestvennyy_deyatel_sadyr_zhaparov_dose\" target=\"_blank\">Садыр Жапаров</a> сегодня <a href=\"https://aif.ru/politics/world/prezident_kirgizii_vpervye_pribudet_v_rossiyu_s_oficialnym_vizitom\" target=\"_blank\">прилетел</a> в Россию с первым официальным визитом. В Москве у него запланированы встречи с главой правительства РФ Михаилом Мишустиным, председателями Совфеда и Госдумы, а также с российскими бизнесменами.</p><p dir=\"ltr\">Накануне стало известно, что власти Киргизии <a href=\"https://aif.ru/health/coronavirus/rossiyskuyu_vakcinu_sputnik_v_zaregistrirovali_v_kirgizii\" target=\"_blank\">зарегистрировали </a>российскую противокоронавирусную вакцину «Спутник V». В минздраве республики считают, что регистрация препарата позволит в ближайшее время провести вакцинацию населения в стране.</p>\n<figure data-turbo-ad-id=\"second_ad_place\"></figure>\n<ExtGiraffWidget data-widget-id=\"1\" data-block-name=\"aifru\" data-height=\"600\">Giraff.io widget</ExtGiraffWidget>\n<ExtZenWidget data-desktop-clid=\"9379\" data-mobile-clid=\"9378\">Zen widget</ExtZenWidget>"
+    }
+]

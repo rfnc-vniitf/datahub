@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Мэрия обсудила отмену коронавирусных ограничений для пожилых людей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Мэрия обсудила отмену коронавирусных ограничений для пожилых людей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/25/02/2021/6037aa0d9a79470c93c349df"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/34/756142640740341.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/25/02/2021/6037aa0d9a79470c93c349df",
+        "summary": "В марте власти столицы могут снять связанные с коронавирусом ограничения для людей старше 65 лет, в частности разблокировать социальные карты. Окончательное решение мэрия примет после мартовских праздников",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В марте власти столицы могут снять связанные с коронавирусом ограничения для людей старше 65 лет, в частности разблокировать социальные карты. Окончательное решение мэрия примет после мартовских праздников"
+        },
+        "authors": [
+            {
+                "name": "Наталья Галимова, Вячеслав Козлов, Евгения Кузнецова"
+            }
+        ],
+        "author": "Наталья Галимова, Вячеслав Козлов, Евгения Кузнецова",
+        "author_detail": {
+            "name": "Наталья Галимова, Вячеслав Козлов, Евгения Кузнецова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6037aa0d9a79470c93c349df",
+        "guidislink": false,
+        "published": "Thu, 25 Feb 2021 17:40:43 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            25,
+            14,
+            40,
+            43,
+            3,
+            56,
+            0
+        ]
+    },
+    {
+        "title": "Чистая прибыль ВТБ в год пандемии оказалась на четырехлетнем минимуме",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Чистая прибыль ВТБ в год пандемии оказалась на четырехлетнем минимуме"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/finances/25/02/2021/603681139a79473675f89502"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/32/756141862827327.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/finances/25/02/2021/603681139a79473675f89502",
+        "summary": "Финансовый результат был бы выше запланированного на 2020 год, если бы не создание резервов и обесценение непрофильных активов, подчеркивают в банке. В 2021 году ВТБ рассчитывает на «прыжок» по приросту прибыли",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Финансовый результат был бы выше запланированного на 2020 год, если бы не создание резервов и обесценение непрофильных активов, подчеркивают в банке. В 2021 году ВТБ рассчитывает на «прыжок» по приросту прибыли"
+        },
+        "authors": [
+            {
+                "name": "Юлия Кошкина"
+            }
+        ],
+        "author": "Юлия Кошкина",
+        "author_detail": {
+            "name": "Юлия Кошкина"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/603681139a79473675f89502",
+        "guidislink": false,
+        "published": "Thu, 25 Feb 2021 10:16:24 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            25,
+            7,
+            16,
+            24,
+            3,
+            56,
+            0
+        ]
+    }
+]

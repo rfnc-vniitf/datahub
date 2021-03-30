@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/world/2021/02/21/1888800.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/02/21/1888800.html",
+        "title": "Умерла зараженная коронавирусом мать Роналдиньо",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Умерла зараженная коронавирусом мать Роналдиньо"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/02/21/1888800.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/8/e/e/8/Xg6fJy9n-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Скончалась мать бывшего нападающего футбольного клуба «Барселона» и бразильской сборной Роналдиньо Мигелина Элои Дос Сантос. В декабре прошлого года у...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Скончалась мать бывшего нападающего футбольного клуба «Барселона» и бразильской сборной Роналдиньо Мигелина Элои Дос Сантос. В декабре прошлого года у..."
+        },
+        "published": "Sun, 21 Feb 2021 16:20:00 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            21,
+            13,
+            20,
+            0,
+            6,
+            52,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/02/21/1888793.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/02/21/1888793.html",
+        "title": "Более 400 человек за сутки умерли от коронавируса в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Более 400 человек за сутки умерли от коронавируса в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/02/21/1888793.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/3/2/9/a/9ytqRLcD-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "За сутки стало на 12 тыс. 742 пациента больше, на первых местах — Москва и Петербург.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "За сутки стало на 12 тыс. 742 пациента больше, на первых местах — Москва и Петербург."
+        },
+        "published": "Sun, 21 Feb 2021 11:20:00 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            21,
+            8,
+            20,
+            0,
+            6,
+            52,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

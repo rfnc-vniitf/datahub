@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Папа римский собрался привиться от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Папа римский собрался привиться от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/744450"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/744450",
+        "summary": "Папа римский Франциск объявил, что он собирается на следующей неделе сделать прививку от коронавируса COVID-19, сообщили в субботу западные СМИ.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Папа римский Франциск объявил, что он собирается на следующей неделе сделать прививку от коронавируса COVID-19, сообщили в субботу западные СМИ."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 9 Jan 2021 19:52:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            9,
+            16,
+            52,
+            0,
+            5,
+            9,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/744450",
+        "guidislink": false
+    },
+    {
+        "title": "В доме престарелых в Новгородской области выявили коронавирус",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В доме престарелых в Новгородской области выявили коронавирус"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/744444"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/744444",
+        "summary": "Десять ветеранов из Боровичского дома-интерната для престарелых и инвалидов госпитализированы с коронавирусом в местную больницу, сообщили в субботу \"Интерфаксу\" в правительстве Новгородской области.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Десять ветеранов из Боровичского дома-интерната для престарелых и инвалидов госпитализированы с коронавирусом в местную больницу, сообщили в субботу \"Интерфаксу\" в правительстве Новгородской области."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 9 Jan 2021 18:04:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            9,
+            15,
+            4,
+            0,
+            5,
+            9,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/744444",
+        "guidislink": false
+    }
+]

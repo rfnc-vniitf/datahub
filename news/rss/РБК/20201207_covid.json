@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Рената Литвинова заразилась коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Рената Литвинова заразилась коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/5fce6a6e9a794711b51aa3ef"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/756073636952877.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/5fce6a6e9a794711b51aa3ef",
+        "summary": "Актриса Рената Литвинова сообщила, что заразилась коронавирусом.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Актриса Рената Литвинова сообщила, что заразилась коронавирусом."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5fce6a6e9a794711b51aa3ef",
+        "guidislink": false,
+        "published": "Mon, 07 Dec 2020 20:49:29 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            7,
+            17,
+            49,
+            29,
+            0,
+            342,
+            0
+        ]
+    }
+]

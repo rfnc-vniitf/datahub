@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Сто тысяч военных получат прививку от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "Сто тысяч военных получат прививку от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vesti.ru/article/2508828"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn-st1.rtr-vesti.ru/vh/pictures/b/309/361/9.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vesti.ru/article/2508828",
+        "published": "Tue, 12 Jan 2021 06:03:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            12,
+            3,
+            3,
+            0,
+            1,
+            12,
+            0
+        ],
+        "summary": "Около ста тысяч военных будут привиты от коронавируса COVID-19. В ЦВО привиты уже 10 000 человек. В первую очередь вакцинируют медиков.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "Около ста тысяч военных будут привиты от коронавируса COVID-19. В ЦВО привиты уже 10 000 человек. В первую очередь вакцинируют медиков."
+        },
+        "yandex_full-text": "Вакцинация от коронавируса полным ходом идет в российской армии. Так, в Центральном военном округе первый компонент \"Спутника V\" получили уже более 10 тысяч военных, передает телеканал \"Россия 24\".\r\n\r\nПрежде всего защиту от инфекции обеспечили медикам, которые занимаются диагностикой коронавируса COVID-19 среди солдат и офицеров и лечением больных с коронавирусом. Также в приоритетном порядке вакцинируют военных на боевом дежурстве, командиров и дежурные подразделения. По плану, в Центральном военном округе прививку получат около ста тысяч человек.",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "медицина",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "amplink": "https://www.vesti.ru/amp/article/2508828",
+        "media_content": [
+            {
+                "url": "https://player.vgtrk.com/go/video2/2257663"
+            },
+            {
+                "url": "https://player.vgtrk.com/go/video2/2257834"
+            }
+        ],
+        "media_thumbnail": [
+            {
+                "url": "https://player.vgtrk.com/go/poster/xw/2257663"
+            },
+            {
+                "url": "https://player.vgtrk.com/go/poster/xw/2257834"
+            }
+        ],
+        "href": ""
+    }
+]

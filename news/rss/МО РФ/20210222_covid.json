@@ -1,0 +1,46 @@
+[
+    {
+        "title": "В организациях Балтийского флота проводится плановая вакцинации от коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В организациях Балтийского флота проводится плановая вакцинации от коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12345600@egNews"
+            },
+            {
+                "length": "144944",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/bf_2_22.02.2021_550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12345600@egNews",
+        "summary": "Сотрудники филиала ФГБУ «ЦЖКУ» Минобороны России по Балтийскому флоту проходят вакцинацию Спутником V от коронавирусной инфекции.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Сотрудники филиала ФГБУ «ЦЖКУ» Минобороны России по Балтийскому флоту проходят вакцинацию Спутником V от коронавирусной инфекции."
+        },
+        "published": "Mon, 22 Feb 2021 13:45:47 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            22,
+            10,
+            45,
+            47,
+            0,
+            53,
+            0
+        ],
+        "id": "12345600@egNews",
+        "guidislink": false
+    }
+]

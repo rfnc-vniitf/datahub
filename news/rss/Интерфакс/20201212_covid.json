@@ -1,0 +1,92 @@
+[
+    {
+        "title": "В России за сутки выявлено еще 28,1 тыс. случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В России за сутки выявлено еще 28,1 тыс. случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/741027"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/741027",
+        "summary": "Суточный COVID-прирост в России составил 28 137, сообщает оперштаб.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Суточный COVID-прирост в России составил 28 137, сообщает оперштаб."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 12 Dec 2020 11:03:00 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            12,
+            8,
+            3,
+            0,
+            5,
+            347,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/741027",
+        "guidislink": false
+    },
+    {
+        "title": "Число жертв коронавируса на Украине приблизилось к 15 тысячам",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Число жертв коронавируса на Украине приблизилось к 15 тысячам"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/741024"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/741024",
+        "summary": "На Украине за сутки зафиксировано 12,8 тыс.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "На Украине за сутки зафиксировано 12,8 тыс."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 12 Dec 2020 10:10:00 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            12,
+            7,
+            10,
+            0,
+            5,
+            347,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/741024",
+        "guidislink": false
+    }
+]

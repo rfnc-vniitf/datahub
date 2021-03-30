@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/02/11/1887096.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/02/11/1887096.html",
+        "title": "В алтайском ковидном госпитале пенсионерок привязывали к кроватям, морили голодом и жаждой",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В алтайском ковидном госпитале пенсионерок привязывали к кроватям, морили голодом и жаждой"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/02/11/1887096.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/51/06/48/34/Fwq7vPK4bJ2d-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В Новоалтайске Алтайского края возбуждено уголовное дело после сообщений о невыносимых условий, в которых содержали пациентов. По версии СК РФ, в декабре...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Новоалтайске Алтайского края возбуждено уголовное дело после сообщений о невыносимых условий, в которых содержали пациентов. По версии СК РФ, в декабре..."
+        },
+        "published": "Thu, 11 Feb 2021 17:59:00 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            11,
+            14,
+            59,
+            0,
+            3,
+            42,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/02/11/1887052.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/02/11/1887052.html",
+        "title": "Депутат из Башкирии доказал, что властям можно проводить массовые мероприятия в пандемию, а недовольным — нет",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Депутат из Башкирии доказал, что властям можно проводить массовые мероприятия в пандемию, а недовольным — нет"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/02/11/1887052.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/6/0/0/a/xmFGHQ8L-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Депутат парламента Башкирии Дмитрий Чувилин попытался согласовать протестный митинг 23 февраля, однако ему отказали. При этом 31 января власти сами устроили...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Депутат парламента Башкирии Дмитрий Чувилин попытался согласовать протестный митинг 23 февраля, однако ему отказали. При этом 31 января власти сами устроили..."
+        },
+        "published": "Thu, 11 Feb 2021 15:40:00 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            11,
+            12,
+            40,
+            0,
+            3,
+            42,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

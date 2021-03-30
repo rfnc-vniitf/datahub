@@ -1,0 +1,93 @@
+[
+    {
+        "title": "РБК составил рейтинг самых популярных в России франшиз",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "РБК составил рейтинг самых популярных в России франшиз"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/own_business/01/04/2020/5e7cc2179a794712d53a334b"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/33/755856576252333.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/own_business/01/04/2020/5e7cc2179a794712d53a334b",
+        "summary": "РБК составил ежегодный рейтинг самых динамично развивающихся в России франшиз. Используя данные Роспатента за 2019 год, мы определили самые популярные у покупателей франшиз торговые марки",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "РБК составил ежегодный рейтинг самых динамично развивающихся в России франшиз. Используя данные Роспатента за 2019 год, мы определили самые популярные у покупателей франшиз торговые марки"
+        },
+        "authors": [
+            {
+                "name": "Дада Линделл, Мария Шакирова"
+            }
+        ],
+        "author": "Дада Линделл, Мария Шакирова",
+        "author_detail": {
+            "name": "Дада Линделл, Мария Шакирова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e7cc2179a794712d53a334b",
+        "guidislink": false,
+        "published": "Wed, 01 Apr 2020 09:00:35 +0300",
+        "published_parsed": [
+            2020,
+            4,
+            1,
+            6,
+            0,
+            35,
+            2,
+            92,
+            0
+        ]
+    },
+    {
+        "title": "«Трансойл» Тимченко отсудил у Марийского НПЗ 605 млн руб.",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "«Трансойл» Тимченко отсудил у Марийского НПЗ 605 млн руб."
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/5dbc52759a7947eca0e89912"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/5dbc52759a7947eca0e89912",
+        "summary": "Компания «Трансойл» отсудила у Марийского нефтеперерабатывающего завода 605 млн руб.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Компания «Трансойл» отсудила у Марийского нефтеперерабатывающего завода 605 млн руб."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5dbc52759a7947eca0e89912",
+        "guidislink": false,
+        "published": "Fri, 01 Nov 2019 18:51:18 +0300",
+        "published_parsed": [
+            2019,
+            11,
+            1,
+            15,
+            51,
+            18,
+            4,
+            305,
+            0
+        ]
+    }
+]

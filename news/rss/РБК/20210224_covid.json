@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Врачи зафиксировали рост обращений россиян к психологам на фоне пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Врачи зафиксировали рост обращений россиян к психологам на фоне пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/24/02/2021/6035b9ef9a7947e8b47a5afa"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/756141365106666.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/24/02/2021/6035b9ef9a7947e8b47a5afa",
+        "summary": "В Москве с марта и по конец 2020 года за неотложной психологической помощью обратились на 28% граждан больше, чем годом ранее. Такую же тенденцию специалисты отметили и в других регионах",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Москве с марта и по конец 2020 года за неотложной психологической помощью обратились на 28% граждан больше, чем годом ранее. Такую же тенденцию специалисты отметили и в других регионах"
+        },
+        "authors": [
+            {
+                "name": "Анастасия Батманова"
+            }
+        ],
+        "author": "Анастасия Батманова",
+        "author_detail": {
+            "name": "Анастасия Батманова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6035b9ef9a7947e8b47a5afa",
+        "guidislink": false,
+        "published": "Wed, 24 Feb 2021 06:05:33 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            24,
+            3,
+            5,
+            33,
+            2,
+            55,
+            0
+        ]
+    },
+    {
+        "title": "В торговых центрах Санкт-Петербурга начали прививать от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В торговых центрах Санкт-Петербурга начали прививать от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/602f7a789a7947dd80a8c89c"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/73/756137252786737.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/602f7a789a7947dd80a8c89c",
+        "summary": "В торговых центрах Санкт-Петербурга началась вакцинация от коронавируса.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В торговых центрах Санкт-Петербурга началась вакцинация от коронавируса."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/602f7a789a7947dd80a8c89c",
+        "guidislink": false,
+        "published": "Wed, 24 Feb 2021 03:02:31 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            24,
+            0,
+            2,
+            31,
+            2,
+            55,
+            0
+        ]
+    }
+]

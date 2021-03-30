@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Актриса Ирина Муравьева заболела коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Актриса Ирина Муравьева заболела коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/moscow/742514"
+            }
+        ],
+        "link": "https://www.interfax.ru/moscow/742514",
+        "summary": "Народная артистка РФ, актриса Малого театра Ирина Муравьева заболела коронавирусом, сообщила \"Интерфаксу\" во вторник директор театра Тамара Михайлова.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Народная артистка РФ, актриса Малого театра Ирина Муравьева заболела коронавирусом, сообщила \"Интерфаксу\" во вторник директор театра Тамара Михайлова."
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 22 Dec 2020 20:21:00 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            22,
+            17,
+            21,
+            0,
+            1,
+            357,
+            0
+        ],
+        "id": "https://www.interfax.ru/moscow/742514",
+        "guidislink": false
+    },
+    {
+        "title": "Энтони Фаучи допустил, что \"британский вирус\" уже проник в США",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Энтони Фаучи допустил, что \"британский вирус\" уже проник в США"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/742494"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/742494",
+        "summary": "Главный инфекционист США Энтони Фаучи заявил, что не исключает, что новый, \"британский\" штамм коронавируса уже проник в США.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Главный инфекционист США Энтони Фаучи заявил, что не исключает, что новый, \"британский\" штамм коронавируса уже проник в США."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 22 Dec 2020 17:50:00 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            22,
+            14,
+            50,
+            0,
+            1,
+            357,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/742494",
+        "guidislink": false
+    }
+]

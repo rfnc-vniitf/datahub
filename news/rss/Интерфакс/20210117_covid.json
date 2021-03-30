@@ -1,0 +1,92 @@
+[
+    {
+        "title": "В Петербурге освободилась четверть коронавирусных коек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В Петербурге освободилась четверть коронавирусных коек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/745553"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/745553",
+        "summary": "Доля свободных коек для пациентов с COVID-19 и пневмониями в Санкт-Петербурге превысила 25%, сообщила пресс-служба Смольного.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Доля свободных коек для пациентов с COVID-19 и пневмониями в Санкт-Петербурге превысила 25%, сообщила пресс-служба Смольного."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sun, 17 Jan 2021 20:39:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            17,
+            17,
+            39,
+            0,
+            6,
+            17,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/745553",
+        "guidislink": false
+    },
+    {
+        "title": "Австрия продлит локдаун до 7 февраля из-за коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Австрия продлит локдаун до 7 февраля из-за коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/745535"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/745535",
+        "summary": "Австрийское правительство с целью не допустить распространения новых штаммов коронавируса COVID-19 приняло решение перенести сроки окончания уже третьего локдауна, введенного 26 декабря, с 24 января на 7 февраля, заявил канцлер Австрии Себастьян Курц.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Австрийское правительство с целью не допустить распространения новых штаммов коронавируса COVID-19 приняло решение перенести сроки окончания уже третьего локдауна, введенного 26 декабря, с 24 января на 7 февраля, заявил канцлер Австрии Себастьян Курц."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sun, 17 Jan 2021 15:50:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            17,
+            12,
+            50,
+            0,
+            6,
+            17,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/745535",
+        "guidislink": false
+    }
+]

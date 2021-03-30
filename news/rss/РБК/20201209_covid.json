@@ -1,0 +1,111 @@
+[
+    {
+        "title": "Путин не увидел связи между ростом цен на продукты и пандемией",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Путин не увидел связи между ростом цен на продукты и пандемией"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/5fd0e2ec9a79476267368a41"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/756075259814454.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/5fd0e2ec9a79476267368a41",
+        "summary": "Рост цен на базовые продукты в России нельзя объяснить влиянием пандемии коронавируса.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Рост цен на базовые продукты в России нельзя объяснить влиянием пандемии коронавируса."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5fd0e2ec9a79476267368a41",
+        "guidislink": false,
+        "published": "Wed, 09 Dec 2020 17:50:48 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            9,
+            14,
+            50,
+            48,
+            2,
+            344,
+            0
+        ]
+    },
+    {
+        "title": "Турция отказалась закупать российскую вакцину от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Турция отказалась закупать российскую вакцину от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/09/12/2020/5fd0d8ec9a79475e33f4d877"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/756075242263779.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2020/11/23/_3_mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/48/756061322657482.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/09/12/2020/5fd0d8ec9a79475e33f4d877",
+        "summary": "Глава Минздрава Турции отметил, что «Спутник V» не соответствует нормам надлежащей лабораторной практики, поэтому не может получить лицензию в стране",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Глава Минздрава Турции отметил, что «Спутник V» не соответствует нормам надлежащей лабораторной практики, поэтому не может получить лицензию в стране"
+        },
+        "authors": [
+            {
+                "name": "Михаил Котляр, Георгий Тадтаев"
+            }
+        ],
+        "author": "Михаил Котляр, Георгий Тадтаев",
+        "author_detail": {
+            "name": "Михаил Котляр, Георгий Тадтаев"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5fd0d8ec9a79475e33f4d877",
+        "guidislink": false,
+        "published": "Wed, 09 Dec 2020 17:21:24 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            9,
+            14,
+            21,
+            24,
+            2,
+            344,
+            0
+        ]
+    }
+]

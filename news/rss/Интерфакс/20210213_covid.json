@@ -1,0 +1,47 @@
+[
+    {
+        "title": "В России за сутки выявлено 14,8 тысяч случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В России за сутки выявлено 14,8 тысяч случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/750777"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/750777",
+        "summary": "Еще 14 861 случай заражения коронавирусной инфекцией нового типа выявлен в России за последние сутки.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Еще 14 861 случай заражения коронавирусной инфекцией нового типа выявлен в России за последние сутки."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 13 Feb 2021 10:30:00 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            13,
+            7,
+            30,
+            0,
+            5,
+            44,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/750777",
+        "guidislink": false
+    }
+]

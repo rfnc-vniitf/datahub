@@ -1,0 +1,46 @@
+[
+    {
+        "title": "РВСН получили около 30 тыс. доз вакцины от коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "РВСН получили около 30 тыс. доз вакцины от коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12346890@egNews"
+            },
+            {
+                "length": "48025",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/sryjjjfxjg9564dj-550(1).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12346890@egNews",
+        "summary": "Ежедневно на добровольной основе вакцинируются около 2 тыс. военнослужащих соединений и воинских частей Ракетных войск стратегического назначения.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Ежедневно на добровольной основе вакцинируются около 2 тыс. военнослужащих соединений и воинских частей Ракетных войск стратегического назначения."
+        },
+        "published": "Tue, 2 Mar 2021 12:30:10 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            2,
+            9,
+            30,
+            10,
+            1,
+            61,
+            0
+        ],
+        "id": "12346890@egNews",
+        "guidislink": false
+    }
+]

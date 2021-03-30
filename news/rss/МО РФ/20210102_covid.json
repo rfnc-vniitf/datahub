@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Первая тысяча военнослужащих ЦВО полностью прошла вакцинацию от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Первая тысяча военнослужащих ЦВО полностью прошла вакцинацию от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12332973@egNews"
+            },
+            {
+                "length": "197826",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/cmd_news_02_01_1.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12332973@egNews",
+        "summary": "В течение декабря военнослужащие были привиты первым и вторым компонентом вакцины.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В течение декабря военнослужащие были привиты первым и вторым компонентом вакцины."
+        },
+        "published": "Sat, 2 Jan 2021 10:58:02 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            2,
+            7,
+            58,
+            2,
+            5,
+            2,
+            0
+        ],
+        "id": "12332973@egNews",
+        "guidislink": false
+    }
+]

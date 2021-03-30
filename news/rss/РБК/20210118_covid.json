@@ -1,0 +1,111 @@
+[
+    {
+        "title": "Лавров переболел коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Лавров переболел коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/18/01/2021/60056a429a79472bd7c20ce9"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/70/756109679734703.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/01/18/969333.7___mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/21/756109692934211.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/18/01/2021/60056a429a79472bd7c20ce9",
+        "summary": "Министр сообщил, что у него есть антитела после заболевания. Лавров при этом отметил, что намерен посоветоваться с врачами касательно прививки",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Министр сообщил, что у него есть антитела после заболевания. Лавров при этом отметил, что намерен посоветоваться с врачами касательно прививки"
+        },
+        "authors": [
+            {
+                "name": "Артем Филипенок"
+            }
+        ],
+        "author": "Артем Филипенок",
+        "author_detail": {
+            "name": "Артем Филипенок"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/60056a429a79472bd7c20ce9",
+        "guidislink": false,
+        "published": "Mon, 18 Jan 2021 14:00:37 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            18,
+            11,
+            0,
+            37,
+            0,
+            18,
+            0
+        ]
+    },
+    {
+        "title": "Лавров заявил о попытках США использовать пандемию для давления на страны",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Лавров заявил о попытках США использовать пандемию для давления на страны"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/600557bd9a794723185a9b2e"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/756109653523445.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/600557bd9a794723185a9b2e",
+        "summary": "Некоторые страны, в том числе США, пытались использовать пандемию коронавируса для наращивания давления, шантажа и ультиматумов.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Некоторые страны, в том числе США, пытались использовать пандемию коронавируса для наращивания давления, шантажа и ультиматумов."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/600557bd9a794723185a9b2e",
+        "guidislink": false,
+        "published": "Mon, 18 Jan 2021 13:05:53 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            18,
+            10,
+            5,
+            53,
+            0,
+            18,
+            0
+        ]
+    }
+]

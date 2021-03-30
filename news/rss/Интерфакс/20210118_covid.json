@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Лавров переболел коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Лавров переболел коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/745638"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/745638",
+        "summary": "Глава МИД РФ Сергей Лавров сообщил, что переболел COVID-19 в легкой форме.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Глава МИД РФ Сергей Лавров сообщил, что переболел COVID-19 в легкой форме."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Mon, 18 Jan 2021 14:08:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            18,
+            11,
+            8,
+            0,
+            0,
+            18,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/745638",
+        "guidislink": false
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/02/19/1888518.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/02/19/1888518.html",
+        "title": "Россияне требуют запретить пени за долги по ЖКХ до окончания пандемии ковида",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Россияне требуют запретить пени за долги по ЖКХ до окончания пандемии ковида"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/02/19/1888518.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/1/6/c/2/gv39YNrf-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "На всей территории РФ на время пандемии COVID-19 и еще полгода после ее окончания должно быть запрещено начисление пеней за просрочку по оплате жилищно-коммунальных...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "На всей территории РФ на время пандемии COVID-19 и еще полгода после ее окончания должно быть запрещено начисление пеней за просрочку по оплате жилищно-коммунальных..."
+        },
+        "published": "Fri, 19 Feb 2021 18:48:35 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            19,
+            15,
+            48,
+            35,
+            4,
+            50,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/piter/2021/02/19/1888502.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/piter/2021/02/19/1888502.html",
+        "title": "Шесть петербургских больниц свернут коронавирусные койки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Шесть петербургских больниц свернут коронавирусные койки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/piter/2021/02/19/1888502.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/83/0b/9e/4d/bhpJ67nw9zxF-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Еще шесть петербургских стационаров свернут койки, предназначенные для больных с COVID-19. Как пишет «Доктор Питер», медучреждения возобновят пример профильных...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Еще шесть петербургских стационаров свернут койки, предназначенные для больных с COVID-19. Как пишет «Доктор Питер», медучреждения возобновят пример профильных..."
+        },
+        "published": "Fri, 19 Feb 2021 17:54:04 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            19,
+            14,
+            54,
+            4,
+            4,
+            50,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

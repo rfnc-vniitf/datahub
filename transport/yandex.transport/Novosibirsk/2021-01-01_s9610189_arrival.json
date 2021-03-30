@@ -1,0 +1,2068 @@
+{
+    "pagination": {
+        "total": 62,
+        "limit": 100,
+        "offset": 0
+    },
+    "schedule": [
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T02:56:00+07:00",
+            "thread": {
+                "uid": "013N_4_2",
+                "title": "Новокузнецк — Санкт-Петербург",
+                "number": "013Н",
+                "short_title": "Новокузнецк — Санкт-Петербург",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6, 8 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T03:49:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T04:03:00+07:00",
+            "thread": {
+                "uid": "129QI_3_2",
+                "title": "Красноярск — Анапа",
+                "number": "129Ы",
+                "short_title": "Красноярск — Анапа",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "1, 8, 15, 22, 29 января, 5, 26 февраля, 5, 12, 19, 26, 27, 29, 31 марта, 2, 4, 6, 8, 10, 12 апреля, …",
+            "stops": "",
+            "departure": "2021-01-01T04:21:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T04:19:00+07:00",
+            "thread": {
+                "uid": "059S_0_2",
+                "title": "Кисловодск — Новокузнецк",
+                "number": "059С",
+                "short_title": "Кисловодск — Новокузнецк",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "28, 30 декабря, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T05:11:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T04:42:00+07:00",
+            "thread": {
+                "uid": "129S_1_2",
+                "title": "Анапа — Красноярск",
+                "number": "129С",
+                "short_title": "Анапа — Красноярск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "1, 8, 15, 22, 29 января, 5, 12 февраля, 5, 12, 19, 26 марта, 2, 3, 5, 7, 9, 11, 13, 15, 17 апреля, …",
+            "stops": "",
+            "departure": "2021-01-01T05:00:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T05:06:00+07:00",
+            "thread": {
+                "uid": "117N_3_2",
+                "title": "Новокузнецк — Москва",
+                "number": "117Н",
+                "short_title": "Новокузнецк — Москва",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6, 8 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T06:03:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T06:36:00+07:00",
+            "thread": {
+                "uid": "6630_0_9610642_g21_4",
+                "title": "Искитим — Новосибирск-главный",
+                "number": "6630",
+                "short_title": "Искитим — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T06:46:00+07:00",
+            "thread": {
+                "uid": "6519x6520_0_9610228_g21_4",
+                "title": "Жеребцово — Новосибирск-главный",
+                "number": "6519/6520",
+                "short_title": "Жеребцово — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T06:47:00+07:00",
+            "thread": {
+                "uid": "6302_0_9610454_g21_4",
+                "title": "Коченёво — Новосибирск-главный",
+                "number": "6302",
+                "short_title": "Коченёво — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T06:49:00+07:00",
+            "thread": {
+                "uid": "6425_0_9654586_g21_4",
+                "title": "Ояш — Новосибирск-главный",
+                "number": "6425",
+                "short_title": "Ояш — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T07:06:00+07:00",
+            "thread": {
+                "uid": "6823x6824_0_9610467_g21_4",
+                "title": "Изынский — Новосибирск-главный",
+                "number": "6823/6824",
+                "short_title": "Изынский — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T07:15:00+07:00",
+            "thread": {
+                "uid": "6632_0_9610474_g21_4",
+                "title": "Ложок — Новосибирск-главный",
+                "number": "6632",
+                "short_title": "Ложок — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T07:26:00+07:00",
+            "thread": {
+                "uid": "6634_0_9610543_g21_4",
+                "title": "Черепаново — Новосибирск-главный",
+                "number": "6634",
+                "short_title": "Черепаново — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T07:35:00+07:00",
+            "thread": {
+                "uid": "6521x6522_0_9610228_g21_4",
+                "title": "Жеребцово — Новосибирск-главный",
+                "number": "6521/6522",
+                "short_title": "Жеребцово — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T07:37:00+07:00",
+            "thread": {
+                "uid": "6326_0_9610563_g21_4",
+                "title": "Чулымская — Новосибирск-главный",
+                "number": "6326",
+                "short_title": "Чулымская — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T07:39:00+07:00",
+            "thread": {
+                "uid": "6417_0_9610605_g21_4",
+                "title": "Болотная — Новосибирск-главный",
+                "number": "6417",
+                "short_title": "Болотная — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T08:19:00+07:00",
+            "thread": {
+                "uid": "6334_0_9610454_g21_4",
+                "title": "Коченёво — Новосибирск-главный",
+                "number": "6334",
+                "short_title": "Коченёво — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T08:24:00+07:00",
+            "thread": {
+                "uid": "6421_0_9610605_g21_4",
+                "title": "Болотная — Новосибирск-главный",
+                "number": "6421",
+                "short_title": "Болотная — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T08:34:00+07:00",
+            "thread": {
+                "uid": "097YE_1_2",
+                "title": "Тында — Кисловодск",
+                "number": "097Э",
+                "short_title": "Тында — Кисловодск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "30 декабря, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T09:24:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T08:40:00+07:00",
+            "thread": {
+                "uid": "6825x6826_0_9607130_g21_4",
+                "title": "Курундус — Новосибирск-главный",
+                "number": "6825/6826",
+                "short_title": "Курундус — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T08:46:00+07:00",
+            "thread": {
+                "uid": "091I_0_2",
+                "title": "Северобайкальск — Москва",
+                "number": "091И",
+                "short_title": "Северобайкальск — Москва",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "30 декабря, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T09:36:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T08:50:00+07:00",
+            "thread": {
+                "uid": "6628_0_9610543_g21_4",
+                "title": "Черепаново — Новосибирск-главный",
+                "number": "6628",
+                "short_title": "Черепаново — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T09:13:00+07:00",
+            "thread": {
+                "uid": "6304_0_9610454_g21_4",
+                "title": "Коченёво — Новосибирск-главный",
+                "number": "6304",
+                "short_title": "Коченёво — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T09:31:00+07:00",
+            "thread": {
+                "uid": "001YE_0_2",
+                "title": "Владивосток — Москва",
+                "number": "001Э",
+                "short_title": "Владивосток — Москва",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "только 31 декабря, 1 января",
+            "stops": "",
+            "departure": "2021-01-01T10:31:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T10:24:00+07:00",
+            "thread": {
+                "uid": "6614_0_9610543_g21_4",
+                "title": "Черепаново — Новосибирск-главный",
+                "number": "6614",
+                "short_title": "Черепаново — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T11:08:00+07:00",
+            "thread": {
+                "uid": "6501x6502_0_9610458_g21_4",
+                "title": "Сокур — Новосибирск-главный",
+                "number": "6501/6502",
+                "short_title": "Сокур — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T11:12:00+07:00",
+            "thread": {
+                "uid": "6372x6306_0_9610374_g21_4",
+                "title": "Барабинск — Новосибирск-главный",
+                "number": "6372/6306",
+                "short_title": "Барабинск — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T11:55:00+07:00",
+            "thread": {
+                "uid": "002YE_17_2",
+                "title": "Москва — Владивосток",
+                "number": "002Э",
+                "short_title": "Москва — Владивосток",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно по 07.01, кроме 23.12",
+            "stops": "",
+            "departure": "2021-01-01T12:53:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T12:00:00+07:00",
+            "thread": {
+                "uid": "7102x7104_0_9610483_g21_4",
+                "title": "Барнаул — Черепаново — Новосибирск-главный (согласованные поезда)",
+                "number": "7102/7104",
+                "short_title": "Барнаул — Черепаново — Новосибирск-главный (согласованные поезда)",
+                "carrier": {
+                    "code": 61235,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород/Алтай-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T12:12:00+07:00",
+            "thread": {
+                "uid": "6801x6802_0_9610469_g21_4",
+                "title": "Тогучин — Новосибирск-главный",
+                "number": "6801/6802",
+                "short_title": "Тогучин — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T12:27:00+07:00",
+            "thread": {
+                "uid": "6403_0_9610605_g21_4",
+                "title": "Болотная — Новосибирск-главный",
+                "number": "6403",
+                "short_title": "Болотная — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T12:33:00+07:00",
+            "thread": {
+                "uid": "6308_0_9610454_g21_4",
+                "title": "Коченёво — Новосибирск-главный",
+                "number": "6308",
+                "short_title": "Коченёво — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T14:04:00+07:00",
+            "thread": {
+                "uid": "6606_0_9610543_g21_4",
+                "title": "Черепаново — Новосибирск-главный",
+                "number": "6606",
+                "short_title": "Черепаново — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T14:15:00+07:00",
+            "thread": {
+                "uid": "6807x6808_0_9610469_g21_4",
+                "title": "Тогучин — Новосибирск-главный",
+                "number": "6807/6808",
+                "short_title": "Тогучин — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "по выходным",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T14:28:00+07:00",
+            "thread": {
+                "uid": "6312_0_9610563_g21_4",
+                "title": "Чулымская — Новосибирск-главный",
+                "number": "6312",
+                "short_title": "Чулымская — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T16:14:00+07:00",
+            "thread": {
+                "uid": "067QI_8_2",
+                "title": "Абакан — Москва",
+                "number": "067Ы",
+                "short_title": "Абакан — Москва",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6, 8 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T16:59:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T16:33:00+07:00",
+            "thread": {
+                "uid": "6612_0_9610543_g21_4",
+                "title": "Черепаново — Новосибирск-главный",
+                "number": "6612",
+                "short_title": "Черепаново — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T17:04:00+07:00",
+            "thread": {
+                "uid": "6407_0_9610605_g21_4",
+                "title": "Болотная — Новосибирск-главный",
+                "number": "6407",
+                "short_title": "Болотная — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T17:22:00+07:00",
+            "thread": {
+                "uid": "6509x6510_0_9610458_g21_4",
+                "title": "Сокур — Новосибирск-главный",
+                "number": "6509/6510",
+                "short_title": "Сокур — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T17:42:00+07:00",
+            "thread": {
+                "uid": "6809x6810_0_9610469_g21_4",
+                "title": "Тогучин — Новосибирск-главный",
+                "number": "6809/6810",
+                "short_title": "Тогучин — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T17:56:00+07:00",
+            "thread": {
+                "uid": "6310_0_9610453_g21_4",
+                "title": "Каргат — Новосибирск-главный",
+                "number": "6310",
+                "short_title": "Каргат — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T18:07:00+07:00",
+            "thread": {
+                "uid": "112N_0_2",
+                "title": "Барнаул — Северобайкальск",
+                "number": "112Н",
+                "short_title": "Барнаул — Северобайкальск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6, 8 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T18:58:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T19:10:00+07:00",
+            "thread": {
+                "uid": "6616_0_9610543_g21_4",
+                "title": "Черепаново — Новосибирск-главный",
+                "number": "6616",
+                "short_title": "Черепаново — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T19:18:00+07:00",
+            "thread": {
+                "uid": "6813x6814_0_9610469_g21_4",
+                "title": "Тогучин — Новосибирск-главный",
+                "number": "6813/6814",
+                "short_title": "Тогучин — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T19:26:00+07:00",
+            "thread": {
+                "uid": "6314_0_9610563_g21_4",
+                "title": "Чулымская — Новосибирск-главный",
+                "number": "6314",
+                "short_title": "Чулымская — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T19:28:00+07:00",
+            "thread": {
+                "uid": "6413_0_9610605_g21_4",
+                "title": "Болотная — Новосибирск-главный",
+                "number": "6413",
+                "short_title": "Болотная — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T19:39:00+07:00",
+            "thread": {
+                "uid": "061M_3_2",
+                "title": "Владивосток — Москва",
+                "number": "061М",
+                "short_title": "Владивосток — Москва",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "пн, вт, чт, пт",
+            "stops": "",
+            "departure": "2021-01-01T19:57:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T19:53:00+07:00",
+            "thread": {
+                "uid": "092I_3_2",
+                "title": "Москва — Северобайкальск",
+                "number": "092И",
+                "short_title": "Москва — Северобайкальск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "30 декабря, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T20:43:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T20:18:00+07:00",
+            "thread": {
+                "uid": "6513x6514_0_9610228_g21_4",
+                "title": "Жеребцово — Новосибирск-главный",
+                "number": "6513/6514",
+                "short_title": "Жеребцово — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T20:35:00+07:00",
+            "thread": {
+                "uid": "115N_0_2",
+                "title": "Томск — Адлер",
+                "number": "115Н",
+                "short_title": "Томск — Адлер",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6, 8 февраля, …",
+            "stops": "",
+            "departure": "2021-01-01T21:38:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T20:54:00+07:00",
+            "thread": {
+                "uid": "6016x6620_0_9610483_g21_4",
+                "title": "Барнаул — Черепаново — Новосибирск-главный (согласованные поезда)",
+                "number": "6016/6620",
+                "short_title": "Барнаул — Черепаново — Новосибирск-главный (согласованные поезда)",
+                "carrier": {
+                    "code": 61235,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород/Алтай-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T21:10:00+07:00",
+            "thread": {
+                "uid": "070CH_2_2",
+                "title": "Москва — Чита",
+                "number": "070Ч",
+                "short_title": "Москва — Чита",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "30, 31 декабря, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 января, …",
+            "stops": "",
+            "departure": "2021-01-01T21:37:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T21:25:00+07:00",
+            "thread": {
+                "uid": "6419_0_9654586_g21_4",
+                "title": "Ояш — Новосибирск-главный",
+                "number": "6419",
+                "short_title": "Ояш — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T22:09:00+07:00",
+            "thread": {
+                "uid": "6819x6820_0_9610467_g21_4",
+                "title": "Изынский — Новосибирск-главный",
+                "number": "6819/6820",
+                "short_title": "Изынский — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T22:23:00+07:00",
+            "thread": {
+                "uid": "6374x6322_0_9610374_g21_4",
+                "title": "Барабинск — Новосибирск-главный",
+                "number": "6374/6322",
+                "short_title": "Барабинск — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T22:51:00+07:00",
+            "thread": {
+                "uid": "6626_0_9610642_g21_4",
+                "title": "Искитим — Новосибирск-главный",
+                "number": "6626",
+                "short_title": "Искитим — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T23:09:00+07:00",
+            "thread": {
+                "uid": "012J_6_2",
+                "title": "Самара — Владивосток",
+                "number": "012Й",
+                "short_title": "Самара — Владивосток",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "30 декабря, 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 25, 29 января, 2, 6, 10, 14, 18, 22, 26 февраля, …",
+            "stops": "",
+            "departure": "2021-01-02T00:13:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T23:22:00+07:00",
+            "thread": {
+                "uid": "6817x6818_0_9607130_g21_4",
+                "title": "Курундус — Новосибирск-главный",
+                "number": "6817/6818",
+                "short_title": "Курундус — Новосибирск-главный",
+                "carrier": {
+                    "code": 151,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "Экспресс-пригород"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T23:27:00+07:00",
+            "thread": {
+                "uid": "069CH_1_2",
+                "title": "Чита — Москва",
+                "number": "069Ч",
+                "short_title": "Чита — Москва",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно",
+            "stops": "",
+            "departure": "2021-01-02T00:26:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-01T23:49:00+07:00",
+            "thread": {
+                "uid": "118N_1_2",
+                "title": "Москва — Новокузнецк",
+                "number": "118Н",
+                "short_title": "Москва — Новокузнецк",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "30 декабря, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 6 февраля, …",
+            "stops": "",
+            "departure": "2021-01-02T00:41:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-02T00:09:00+07:00",
+            "thread": {
+                "uid": "128QI_5_2",
+                "title": "Адлер — Красноярск",
+                "number": "128Ы",
+                "short_title": "Адлер — Красноярск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "31 декабря, 2, 4, 7, 11, 14, 18, 21, 25, 28 января, 1, 4, 8, 11, 15, 18, 22, 25 февраля, 1, 4 марта, …",
+            "stops": "",
+            "departure": "2021-01-02T00:27:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-02T01:49:00+07:00",
+            "thread": {
+                "uid": "038N_0_2",
+                "title": "Москва — Томск",
+                "number": "038Н",
+                "short_title": "Москва — Томск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "31 декабря, 2, 4, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31 января, 2, 4, 7, 9 февраля, …",
+            "stops": "",
+            "departure": "2021-01-02T02:51:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-01-02T03:20:00+07:00",
+            "thread": {
+                "uid": "014N_0_2",
+                "title": "Санкт-Петербург — Новокузнецк",
+                "number": "014Н",
+                "short_title": "Санкт-Петербург — Новокузнецк",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "31 декабря, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30 января, 1, 3, 5, 7 февраля, …",
+            "stops": "",
+            "departure": "2021-01-02T04:10:00+07:00",
+            "terminal": null,
+            "platform": ""
+        }
+    ],
+    "station": {
+        "code": "s9610189",
+        "title": "Новосибирск-главный",
+        "station_type": "station",
+        "popular_title": "",
+        "short_title": "",
+        "transport_type": "train",
+        "station_type_name": "станция",
+        "type": "station"
+    },
+    "date": "2021-01-01",
+    "interval_schedule": [],
+    "event": "arrival"
+}

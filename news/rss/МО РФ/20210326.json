@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Российские миротворцы продолжают уничтожение взрывоопасных предметов, обнаруженных в Нагорном Карабахе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Российские миротворцы продолжают уничтожение взрывоопасных предметов, обнаруженных в Нагорном Карабахе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12350940@egNews"
+            },
+            {
+                "length": "60584",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/55054515651616141.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12350940@egNews",
+        "summary": "Ежедневно на специальном полигоне «Баллыджа» российскими военнослужащими уничтожается около 120 взрывоопасных предметов.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Ежедневно на специальном полигоне «Баллыджа» российскими военнослужащими уничтожается около 120 взрывоопасных предметов."
+        },
+        "published": "Fri, 26 Mar 2021 03:00:00 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            26,
+            0,
+            0,
+            0,
+            4,
+            85,
+            0
+        ],
+        "id": "12350940@egNews",
+        "guidislink": false
+    }
+]

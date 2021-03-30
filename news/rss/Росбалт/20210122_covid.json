@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/01/22/1883408.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/01/22/1883408.html",
+        "title": "Петербург вновь вышел в лидеры по числу заболевших коронавирусом за сутки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Петербург вновь вышел в лидеры по числу заболевших коронавирусом за сутки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/01/22/1883408.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/3a/d3/06/30/4NvkDLj6RCdW-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "При этом смертность выше — в Москве.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "При этом смертность выше — в Москве."
+        },
+        "published": "Fri, 22 Jan 2021 11:00:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            22,
+            8,
+            0,
+            0,
+            4,
+            22,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

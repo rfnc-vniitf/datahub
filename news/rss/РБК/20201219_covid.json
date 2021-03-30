@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Попова оценила срок окончания эпидемии COVID-19 в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Попова оценила срок окончания эпидемии COVID-19 в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/19/12/2020/5fddd0ec9a79475f7b69cc85"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/19/756083731751198.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2020/12/16/__1_mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/06/756081274887065.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/19/12/2020/5fddd0ec9a79475f7b69cc85",
+        "summary": "Главный санитарный врач страны считает, что остановить распространение вируса удастся к весне 2021 года или раньше",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Главный санитарный врач страны считает, что остановить распространение вируса удастся к весне 2021 года или раньше"
+        },
+        "authors": [
+            {
+                "name": "Екатерина Митрохина"
+            }
+        ],
+        "author": "Екатерина Митрохина",
+        "author_detail": {
+            "name": "Екатерина Митрохина"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5fddd0ec9a79475f7b69cc85",
+        "guidislink": false,
+        "published": "Sat, 19 Dec 2020 13:39:58 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            19,
+            10,
+            39,
+            58,
+            5,
+            354,
+            0
+        ]
+    }
+]

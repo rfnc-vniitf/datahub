@@ -1,0 +1,49 @@
+[
+    {
+        "title": "В Москве журналистов избили в кальянной за съемку о коронавирусе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В Москве журналистов избили в кальянной за съемку о коронавирусе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1096496/2020-12-06/v-moskve-zhurnalistov-izbili-v-kaliannoi-za-semku-o-koronaviruse"
+            }
+        ],
+        "link": "https://iz.ru/1096496/2020-12-06/v-moskve-zhurnalistov-izbili-v-kaliannoi-za-semku-o-koronaviruse",
+        "summary": "<p>В Москве сотрудники кальянной заперли журналистку и оператора, которые снимали репортаж о нарушениях мер по борьбе с коронавирусом в заведении. Об этом в воскресенье, 6 декабря, сообщает <a href=\"https://ren.tv/news/kriminal/779715-zhurnalistov-izbili-vo-vremia-semki-covid-narushenii-v-kaliannoi\" target=\"_blank\">РЕН ТВ</a>.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>В Москве сотрудники кальянной заперли журналистку и оператора, которые снимали репортаж о нарушениях мер по борьбе с коронавирусом в заведении. Об этом в воскресенье, 6 декабря, сообщает <a href=\"https://ren.tv/news/kriminal/779715-zhurnalistov-izbili-vo-vremia-semki-covid-narushenii-v-kaliannoi\" target=\"_blank\">РЕН ТВ</a>.</p>"
+        },
+        "published": "Sun, 06 Dec 2020 12:10:11 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            6,
+            9,
+            10,
+            11,
+            6,
+            341,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Анна Соколова"
+            }
+        ],
+        "author": "Анна Соколова",
+        "author_detail": {
+            "name": "Анна Соколова"
+        },
+        "id": "https://iz.ru/1096496/2020-12-06/v-moskve-zhurnalistov-izbili-v-kaliannoi-za-semku-o-koronaviruse",
+        "guidislink": false
+    }
+]

@@ -1,0 +1,154 @@
+{
+    "pagination": {
+        "total": 4,
+        "limit": 100,
+        "offset": 0
+    },
+    "schedule": [
+        {
+            "except_days": null,
+            "arrival": "2020-10-29T18:07:00+07:00",
+            "thread": {
+                "uid": "112U_2_2",
+                "title": "Барнаул — Северобайкальск",
+                "number": "112У",
+                "short_title": "Барнаул — Северобайкальск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "только 29, 31 октября, 2, 4, 6, 8, 10, 12, 14, 18, 22, 26, 30 ноября, 4, 8 декабря",
+            "stops": "",
+            "departure": "2020-10-29T18:56:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": null,
+            "thread": {
+                "uid": "627N_0_2",
+                "title": "Новосибирск — Кулунда",
+                "number": "627Н",
+                "short_title": "Новосибирск — Кулунда",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "29, 31 октября, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30 ноября, 2, 4, 6 декабря, …",
+            "stops": "",
+            "departure": "2020-10-29T18:58:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": null,
+            "thread": {
+                "uid": "187N_0_2",
+                "title": "Новосибирск — Омск",
+                "number": "187Н",
+                "short_title": "Новосибирск — Омск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "только 29, 30, 31 октября, 1 ноября",
+            "stops": "",
+            "departure": "2020-10-29T23:13:00+07:00",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": null,
+            "thread": {
+                "uid": "008I_0_2",
+                "title": "Новосибирск — Владивосток",
+                "number": "008И",
+                "short_title": "Новосибирск — Владивосток",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "только 29 октября, 2, 6, 10, 14, 18 ноября",
+            "stops": "",
+            "departure": "2020-10-29T23:54:00+07:00",
+            "terminal": null,
+            "platform": ""
+        }
+    ],
+    "station": {
+        "code": "s9610189",
+        "title": "Новосибирск-главный",
+        "station_type": "station",
+        "popular_title": "",
+        "short_title": "",
+        "transport_type": "train",
+        "station_type_name": "станция",
+        "type": "station"
+    },
+    "date": "2020-10-29",
+    "interval_schedule": [],
+    "event": "departure"
+}

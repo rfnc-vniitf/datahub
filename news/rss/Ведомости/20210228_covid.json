@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 11 359 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 11 359 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/02/28/859539-v-rossii-za-sutki-viyavili-11-359-novih-sluchaev-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/1n/nun6h/normal-uws.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/02/28/859539-v-rossii-za-sutki-viyavili-11-359-novih-sluchaev-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/02/28/859539-v-rossii-za-sutki-viyavili-11-359-novih-sluchaev-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/02/28/859539-v-rossii-za-sutki-viyavili-11-359-novih-sluchaev-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sun, 28 Feb 2021 11:08:36 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            28,
+            8,
+            8,
+            36,
+            6,
+            59,
+            0
+        ]
+    }
+]

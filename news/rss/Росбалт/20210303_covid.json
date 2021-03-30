@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/03/03/1890229.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/03/03/1890229.html",
+        "title": "Российским работодателям предложат субсидию за трудоустройство потерявших работу из-за ковида",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Российским работодателям предложат субсидию за трудоустройство потерявших работу из-за ковида"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/03/03/1890229.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/c/0/5/8/jdbMDk6p-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Размер выплаты составит 1 МРОТ.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Размер выплаты составит 1 МРОТ."
+        },
+        "published": "Wed, 03 Mar 2021 06:40:00 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            3,
+            3,
+            40,
+            0,
+            2,
+            62,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

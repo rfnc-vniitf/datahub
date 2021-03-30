@@ -1,0 +1,47 @@
+[
+    {
+        "title": "В России за сутки выявлено 19 тыс. новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В России за сутки выявлено 19 тыс. новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/748596"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/748596",
+        "summary": "Еще 19 032 заболевших коронавирусной инфекцией нового типа зарегистрировано в России, сообщает оперштаб.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Еще 19 032 заболевших коронавирусной инфекцией нового типа зарегистрировано в России, сообщает оперштаб."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 30 Jan 2021 11:00:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            30,
+            8,
+            0,
+            0,
+            5,
+            30,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/748596",
+        "guidislink": false
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "title": "За сутки в России выявили более 10 тыс. новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "За сутки в России выявили более 10 тыс. новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1136801/2021-03-14/za-sutki-v-rossii-vyiavili-bolee-10-tys-novykh-sluchaev-koronavirusa"
+            }
+        ],
+        "link": "https://iz.ru/1136801/2021-03-14/za-sutki-v-rossii-vyiavili-bolee-10-tys-novykh-sluchaev-koronavirusa",
+        "summary": "<p>За минувшие 24 часа в России зафиксировано 10 083 случая коронавирусной инфекции, сообщил в воскресенье, 14 марта, оперативный штаб по мониторингу и контролю распространения заболевания.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>За минувшие 24 часа в России зафиксировано 10 083 случая коронавирусной инфекции, сообщил в воскресенье, 14 марта, оперативный штаб по мониторингу и контролю распространения заболевания.</p>"
+        },
+        "published": "Sun, 14 Mar 2021 12:20:46 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            14,
+            9,
+            20,
+            46,
+            6,
+            73,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Елена Плавская"
+            }
+        ],
+        "author": "Елена Плавская",
+        "author_detail": {
+            "name": "Елена Плавская"
+        },
+        "id": "https://iz.ru/1136801/2021-03-14/za-sutki-v-rossii-vyiavili-bolee-10-tys-novykh-sluchaev-koronavirusa",
+        "guidislink": false
+    }
+]

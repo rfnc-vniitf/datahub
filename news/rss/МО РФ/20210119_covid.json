@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Правительство Республики Хакасия поблагодарило военных медиков ЦВО за помощь в борьбе с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Правительство Республики Хакасия поблагодарило военных медиков ЦВО за помощь в борьбе с коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12339491@egNews"
+            },
+            {
+                "length": "239680",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/tghyhy-550_5.JPG",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12339491@egNews",
+        "summary": "За время работы мобильного госпиталя от Covid-19 вылечено более 350 человек.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "За время работы мобильного госпиталя от Covid-19 вылечено более 350 человек."
+        },
+        "published": "Tue, 19 Jan 2021 13:35:59 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            19,
+            10,
+            35,
+            59,
+            1,
+            19,
+            0
+        ],
+        "id": "12339491@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Воронежской области более 500 родственников военнослужащих ЗВО прошли вакцинацию против коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Воронежской области более 500 родственников военнослужащих ЗВО прошли вакцинацию против коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12339490@egNews"
+            },
+            {
+                "length": "467313",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/dfdfgdfgdf-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12339490@egNews",
+        "summary": "Вакцинация членов семей военнослужащих началась после того, как количество поступивших вакцин превысило численность личного состава подразделений.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Вакцинация членов семей военнослужащих началась после того, как количество поступивших вакцин превысило численность личного состава подразделений."
+        },
+        "published": "Tue, 19 Jan 2021 13:20:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            19,
+            10,
+            20,
+            0,
+            1,
+            19,
+            0
+        ],
+        "id": "12339490@egNews",
+        "guidislink": false
+    }
+]

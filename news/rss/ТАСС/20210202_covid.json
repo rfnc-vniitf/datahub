@@ -1,0 +1,158 @@
+[
+    {
+        "title": "В Британии выявили наименьшее с 9 декабря число случаев заражения коронавирусом за сутки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Британии выявили наименьшее с 9 декабря число случаев заражения коронавирусом за сутки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/10607631"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/10607631",
+        "id": "https://tass.ru/obschestvo/10607631",
+        "guidislink": false,
+        "published": "Tue, 02 Feb 2021 19:45:41 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            2,
+            16,
+            45,
+            41,
+            1,
+            33,
+            0
+        ],
+        "summary": "За последние 24 часа от осложнений, вызванных инфекцией, в стране умерли 1 449 человек",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "За последние 24 часа от осложнений, вызванных инфекцией, в стране умерли 1 449 человек"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Эфиопия запросила у России дополнительную помощь для борьбы с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Эфиопия запросила у России дополнительную помощь для борьбы с коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/10605827"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/10605827",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/10605827",
+        "guidislink": false,
+        "published": "Tue, 02 Feb 2021 19:24:43 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            2,
+            16,
+            24,
+            43,
+            1,
+            33,
+            0
+        ],
+        "summary": "Стороны обсуждали и возможности поставок российских вакцин, указал посол республики в Москве Алемайеху Тегену Аргау",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Стороны обсуждали и возможности поставок российских вакцин, указал посол республики в Москве Алемайеху Тегену Аргау"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "\"Спутник V\" эффективен на 91,6%. Главное о коронавирусе за 2 февраля",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "\"Спутник V\" эффективен на 91,6%. Главное о коронавирусе за 2 февраля"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/10606597"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "3201387",
+                "href": "https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210202/5968327.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/10606597",
+        "id": "https://tass.ru/obschestvo/10606597",
+        "guidislink": false,
+        "published": "Tue, 02 Feb 2021 19:02:43 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            2,
+            16,
+            2,
+            43,
+            1,
+            33,
+            0
+        ],
+        "summary": "Коротко об основных новостях в Москве, России и мире",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Коротко об основных новостях в Москве, России и мире"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

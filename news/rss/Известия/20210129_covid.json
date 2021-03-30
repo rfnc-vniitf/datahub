@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Мурашко дал прогноз по ситуации с коронавирусом в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Мурашко дал прогноз по ситуации с коронавирусом в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1118008/2021-01-29/murashko-dal-prognoz-po-situatcii-s-koronavirusom-v-rossii"
+            }
+        ],
+        "link": "https://iz.ru/1118008/2021-01-29/murashko-dal-prognoz-po-situatcii-s-koronavirusom-v-rossii",
+        "summary": "<p>Февраль и март этого года могут стать переломным моментом в ситуации с распространением коронавируса в России. Об этом в пятницу, 29 января, заявил министр здравоохранения России Михаил Мурашко.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Февраль и март этого года могут стать переломным моментом в ситуации с распространением коронавируса в России. Об этом в пятницу, 29 января, заявил министр здравоохранения России Михаил Мурашко.</p>"
+        },
+        "published": "Fri, 29 Jan 2021 16:21:48 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            29,
+            13,
+            21,
+            48,
+            4,
+            29,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Евгения Чукалина"
+            }
+        ],
+        "author": "Евгения Чукалина",
+        "author_detail": {
+            "name": "Евгения Чукалина"
+        },
+        "id": "https://iz.ru/1118008/2021-01-29/murashko-dal-prognoz-po-situatcii-s-koronavirusom-v-rossii",
+        "guidislink": false
+    }
+]

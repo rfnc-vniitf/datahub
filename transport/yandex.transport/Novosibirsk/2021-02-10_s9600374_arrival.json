@@ -1,0 +1,2167 @@
+{
+    "pagination": {
+        "total": 65,
+        "limit": 100,
+        "offset": 0
+    },
+    "schedule": [
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T01:20:00+07:00",
+            "thread": {
+                "uid": "S7-2509_20210209_c23_12",
+                "title": "Москва — Новосибирск",
+                "number": "S7 2509",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T01:35:00+07:00",
+            "thread": {
+                "uid": "S7-5020_20210209_c23_12",
+                "title": "Екатеринбург — Новосибирск",
+                "number": "S7 5020",
+                "short_title": "Екатеринбург — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T02:00:00+07:00",
+            "thread": {
+                "uid": "6R-530_20210209_c156_12",
+                "title": "Москва — Мирный",
+                "number": "6R 530",
+                "short_title": "Москва — Мирный",
+                "carrier": {
+                    "code": 156,
+                    "codes": {
+                        "icao": "DRU",
+                        "sirena": "ЯМ",
+                        "iata": "6R"
+                    },
+                    "title": "Алроса"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-700",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T02:10:00+07:00",
+            "thread": {
+                "uid": "6R-9977_20210209_c156_12",
+                "title": "Москва — Певек",
+                "number": "6R 9977",
+                "short_title": "Москва — Певек",
+                "carrier": {
+                    "code": 156,
+                    "codes": {
+                        "icao": "DRU",
+                        "sirena": "ЯМ",
+                        "iata": "6R"
+                    },
+                    "title": "Алроса"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T02:50:00+07:00",
+            "thread": {
+                "uid": "S7-5072_20210209_c23_12",
+                "title": "Оренбург — Новосибирск",
+                "number": "S7 5072",
+                "short_title": "Оренбург — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T04:20:00+07:00",
+            "thread": {
+                "uid": "S7-5060_20210209_c23_12",
+                "title": "Магнитогорск — Новосибирск",
+                "number": "S7 5060",
+                "short_title": "Магнитогорск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T04:30:00+07:00",
+            "thread": {
+                "uid": "DP-443_20210209_c9144_12",
+                "title": "Москва — Новосибирск",
+                "number": "DP 443",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 9144,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "ДР",
+                        "iata": "DP"
+                    },
+                    "title": "Победа"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T05:05:00+07:00",
+            "thread": {
+                "uid": "S7-5068_20210209_c23_12",
+                "title": "Нижнекамск — Новосибирск",
+                "number": "S7 5068",
+                "short_title": "Нижнекамск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T05:15:00+07:00",
+            "thread": {
+                "uid": "SU-1548_20210209_c26_12",
+                "title": "Москва — Новосибирск",
+                "number": "SU 1548",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "icao": "AFL",
+                        "sirena": "СУ",
+                        "iata": "SU"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "transport_type": "plane",
+                "vehicle": "Airbus A320",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T05:15:00+07:00",
+            "thread": {
+                "uid": "S7-2511_20210209_c23_12",
+                "title": "Москва — Новосибирск",
+                "number": "S7 2511",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T05:50:00+07:00",
+            "thread": {
+                "uid": "FV-6541_20210209_c8565_12",
+                "title": "Санкт-Петербург — Новосибирск",
+                "number": "FV 6541",
+                "short_title": "Санкт-Петербург — Новосибирск",
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "ФВ",
+                        "iata": "FV"
+                    },
+                    "title": "Россия"
+                },
+                "transport_type": "plane",
+                "vehicle": "Airbus A319",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T06:25:00+07:00",
+            "thread": {
+                "uid": "S7-5310_20210210_c23_12",
+                "title": "Красноярск — Новосибирск",
+                "number": "S7 5310",
+                "short_title": "Красноярск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 10.07",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T06:55:00+07:00",
+            "thread": {
+                "uid": "S7-5006_20210209_c23_12",
+                "title": "Санкт-Петербург — Новосибирск",
+                "number": "S7 5006",
+                "short_title": "Санкт-Петербург — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T07:10:00+07:00",
+            "thread": {
+                "uid": "DP-419_20210209_c9144_12",
+                "title": "Москва — Новосибирск",
+                "number": "DP 419",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 9144,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "ДР",
+                        "iata": "DP"
+                    },
+                    "title": "Победа"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T07:30:00+07:00",
+            "thread": {
+                "uid": "S7-2513_20210209_c23_12",
+                "title": "Москва — Новосибирск",
+                "number": "S7 2513",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Airbus А321",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T08:10:00+07:00",
+            "thread": {
+                "uid": "DP-557_20210209_c9144_12",
+                "title": "Санкт-Петербург — Новосибирск",
+                "number": "DP 557",
+                "short_title": "Санкт-Петербург — Новосибирск",
+                "carrier": {
+                    "code": 9144,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "ДР",
+                        "iata": "DP"
+                    },
+                    "title": "Победа"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T08:15:00+07:00",
+            "thread": {
+                "uid": "S7-5228_20210210_c23_12",
+                "title": "Иркутск — Новосибирск",
+                "number": "S7 5228",
+                "short_title": "Иркутск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 28.03, кроме 22.02",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T08:20:00+07:00",
+            "thread": {
+                "uid": "UT-137_20210210_c29_12",
+                "title": "Сургут — Иркутск",
+                "number": "UT 137",
+                "short_title": "Сургут — Иркутск",
+                "carrier": {
+                    "code": 29,
+                    "codes": {
+                        "icao": "UTA",
+                        "sirena": "ЮТ",
+                        "iata": "UT"
+                    },
+                    "title": "ЮТэйр"
+                },
+                "transport_type": "plane",
+                "vehicle": "ATR 72",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "пн, ср, пт, вс по 09.07",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T08:45:00+07:00",
+            "thread": {
+                "uid": "RUSKS-1552_20210210_c62655_12",
+                "title": "Якутск — Новосибирск",
+                "number": "КС 1552",
+                "short_title": "Якутск — Новосибирск",
+                "carrier": {
+                    "code": 62655,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "КС",
+                        "iata": "KC"
+                    },
+                    "title": "FlyArystan"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T08:45:00+07:00",
+            "thread": {
+                "uid": "S7-5262_20210210_c23_12",
+                "title": "Якутск — Новосибирск",
+                "number": "S7 5262",
+                "short_title": "Якутск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 28.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T09:00:00+07:00",
+            "thread": {
+                "uid": "S7-5256_20210210_c23_12",
+                "title": "Улан-Удэ — Новосибирск",
+                "number": "S7 5256",
+                "short_title": "Улан-Удэ — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 28.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T09:05:00+07:00",
+            "thread": {
+                "uid": "SU-1306_20210210_c26_12",
+                "title": "Москва — Новосибирск",
+                "number": "SU 1306",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "icao": "AFL",
+                        "sirena": "СУ",
+                        "iata": "SU"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 28.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T09:50:00+07:00",
+            "thread": {
+                "uid": "S7-5224_20210210_c23_12",
+                "title": "Чита — Новосибирск",
+                "number": "S7 5224",
+                "short_title": "Чита — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно, кроме чт по 28.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T10:25:00+07:00",
+            "thread": {
+                "uid": "S7-5312_20210210_c23_12",
+                "title": "Абакан — Новосибирск",
+                "number": "S7 5312",
+                "short_title": "Абакан — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T10:35:00+07:00",
+            "thread": {
+                "uid": "S7-5238_20210210_c23_12",
+                "title": "Хабаровск — Новосибирск",
+                "number": "S7 5238",
+                "short_title": "Хабаровск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 февраля, 1, 2, 3 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T10:35:00+07:00",
+            "thread": {
+                "uid": "S7-5356_20210210_c23_12",
+                "title": "Вахтовый посёлок Талакан — Новосибирск",
+                "number": "S7 5356",
+                "short_title": "Вахтовый посёлок Талакан — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 12, 14, 15, 17, 19, 21, 22, 24, 26, 28 февраля, 1, 3, 4, 5, 7, 8, 10, 11, 12 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T10:40:00+07:00",
+            "thread": {
+                "uid": "6R-529_20210210_c156_12",
+                "title": "Мирный — Москва",
+                "number": "6R 529",
+                "short_title": "Мирный — Москва",
+                "carrier": {
+                    "code": 156,
+                    "codes": {
+                        "icao": "DRU",
+                        "sirena": "ЯМ",
+                        "iata": "6R"
+                    },
+                    "title": "Алроса"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-700",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 24 февраля, 14, 21 апреля",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T11:05:00+07:00",
+            "thread": {
+                "uid": "S7-5328_20210210_c23_12",
+                "title": "Нижневартовск — Новосибирск",
+                "number": "S7 5328",
+                "short_title": "Нижневартовск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T11:45:00+07:00",
+            "thread": {
+                "uid": "S7-5278_20210210_c23_12",
+                "title": "Полярный — Новосибирск",
+                "number": "S7 5278",
+                "short_title": "Полярный — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ср по 24.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T11:50:00+07:00",
+            "thread": {
+                "uid": "S7-5242_20210210_c23_12",
+                "title": "Мирный — Новосибирск",
+                "number": "S7 5242",
+                "short_title": "Мирный — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "пн, ср по 24.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T12:00:00+07:00",
+            "thread": {
+                "uid": "S7-5258_20210210_c23_12",
+                "title": "Южно-Сахалинск — Новосибирск",
+                "number": "S7 5258",
+                "short_title": "Южно-Сахалинск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 28.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T12:05:00+07:00",
+            "thread": {
+                "uid": "S7-5304_20210210_c23_12",
+                "title": "Норильск — Новосибирск",
+                "number": "S7 5304",
+                "short_title": "Норильск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "вт, ср, чт, пт по 26.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T12:10:00+07:00",
+            "thread": {
+                "uid": "S7-5220_20210210_c23_12",
+                "title": "Магадан — Новосибирск",
+                "number": "S7 5220",
+                "short_title": "Магадан — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 11, 13, 15, 16, 17, 18, 20, 22, 23, 24, 25, 27 февраля, 1, 2, 3, 4, 6, 8, 9 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T12:10:00+07:00",
+            "thread": {
+                "uid": "S7-5204_20210210_c23_12",
+                "title": "Владивосток — Новосибирск",
+                "number": "S7 5204",
+                "short_title": "Владивосток — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 28.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T12:35:00+07:00",
+            "thread": {
+                "uid": "S7-5306_20210210_c23_12",
+                "title": "Красноярск — Новосибирск",
+                "number": "S7 5306",
+                "short_title": "Красноярск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T13:00:00+07:00",
+            "thread": {
+                "uid": "YK-761_20210210_c140_12",
+                "title": "Бишкек — Новосибирск",
+                "number": "YK 761",
+                "short_title": "Бишкек — Новосибирск",
+                "carrier": {
+                    "code": 140,
+                    "codes": {
+                        "icao": "AVJ",
+                        "sirena": "ТФ",
+                        "iata": "YK"
+                    },
+                    "title": "Avia Traffic Company"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "пн, ср, пт по 09.07",
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T13:05:00+07:00",
+            "thread": {
+                "uid": "S7-5230_20210210_c23_12",
+                "title": "Иркутск — Новосибирск",
+                "number": "S7 5230",
+                "short_title": "Иркутск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 23, 24, 25, 26, 27 февраля, 1, 2, 3, 4, 5 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T13:15:00+07:00",
+            "thread": {
+                "uid": "S7-5344_20210210_c23_12",
+                "title": "Омск — Новосибирск",
+                "number": "S7 5344",
+                "short_title": "Омск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 11, 12, 15, 17, 18, 19, 22, 24, 25, 26 февраля, 1, 2, 3, 4, 5, 8, 9, 10, 11 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T13:25:00+07:00",
+            "thread": {
+                "uid": "S7-5314_20210210_c23_12",
+                "title": "Барнаул — Новосибирск",
+                "number": "S7 5314",
+                "short_title": "Барнаул — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ср, чт, вс по 25.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T13:30:00+07:00",
+            "thread": {
+                "uid": "YC-168_20210210_c69_12",
+                "title": "Новый Уренгой — Новосибирск",
+                "number": "YC 168",
+                "short_title": "Новый Уренгой — Новосибирск",
+                "carrier": {
+                    "code": 69,
+                    "codes": {
+                        "icao": "LLM",
+                        "sirena": "ЛА",
+                        "iata": "YC"
+                    },
+                    "title": "Ямал"
+                },
+                "transport_type": "plane",
+                "vehicle": "Сухой Суперджет 100",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ср по 07.07",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T13:35:00+07:00",
+            "thread": {
+                "uid": "S7-5250_20210210_c23_12",
+                "title": "Петропавловск-Камчатский — Новосибирск",
+                "number": "S7 5250",
+                "short_title": "Петропавловск-Камчатский — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 12, 13, 14, 16, 17, 19, 20, 21, 23, 24, 26, 27, 28 февраля, 2, 3, 5, 6, 7, 9 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T13:55:00+07:00",
+            "thread": {
+                "uid": "S7-5362_20210210_c23_12",
+                "title": "Новокузнецк — Новосибирск",
+                "number": "S7 5362",
+                "short_title": "Новокузнецк — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "пн, ср, вс по 24.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T14:00:00+07:00",
+            "thread": {
+                "uid": "IO-123_20210210_c105_12",
+                "title": "Иркутск — Новосибирск",
+                "number": "IO 123",
+                "short_title": "Иркутск — Новосибирск",
+                "carrier": {
+                    "code": 105,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "РД",
+                        "iata": "IO"
+                    },
+                    "title": "ИрАэро"
+                },
+                "transport_type": "plane",
+                "vehicle": "Сухой Суперджет 100",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "пн, ср, пт по 26.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T14:40:00+07:00",
+            "thread": {
+                "uid": "Y7-915_20210210_c1364_12",
+                "title": "Норильск — Краснодар",
+                "number": "Y7 915",
+                "short_title": "Норильск — Краснодар",
+                "carrier": {
+                    "code": 1364,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "ТИ",
+                        "iata": "Y7"
+                    },
+                    "title": "Нордстар"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ср по 07.07",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T15:55:00+07:00",
+            "thread": {
+                "uid": "RUSFV-5646_20210210_c8565_12",
+                "title": "Сочи — Новосибирск",
+                "number": "ФВ 5646",
+                "short_title": "Сочи — Новосибирск",
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "ФВ",
+                        "iata": "FV"
+                    },
+                    "title": "Россия"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T16:45:00+07:00",
+            "thread": {
+                "uid": "S7-5348_20210210_c23_12",
+                "title": "Сургут — Новосибирск",
+                "number": "S7 5348",
+                "short_title": "Сургут — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T17:25:00+07:00",
+            "thread": {
+                "uid": "SU-1460_20210210_c26_12",
+                "title": "Москва — Новосибирск",
+                "number": "SU 1460",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "icao": "AFL",
+                        "sirena": "СУ",
+                        "iata": "SU"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T17:35:00+07:00",
+            "thread": {
+                "uid": "6R-9978_20210210_c156_12",
+                "title": "Певек — Москва",
+                "number": "6R 9978",
+                "short_title": "Певек — Москва",
+                "carrier": {
+                    "code": 156,
+                    "codes": {
+                        "icao": "DRU",
+                        "sirena": "ЯМ",
+                        "iata": "6R"
+                    },
+                    "title": "Алроса"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 24 февраля, 10, 24 марта, 7, 21 апреля",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T19:10:00+07:00",
+            "thread": {
+                "uid": "S7-5336_20210210_c23_12",
+                "title": "Новый Уренгой — Новосибирск",
+                "number": "S7 5336",
+                "short_title": "Новый Уренгой — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно, кроме вт, сб по 26.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T19:15:00+07:00",
+            "thread": {
+                "uid": "S7-5352_20210210_c23_12",
+                "title": "Тюмень — Новосибирск",
+                "number": "S7 5352",
+                "short_title": "Тюмень — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T19:30:00+07:00",
+            "thread": {
+                "uid": "S7-2505_20210210_c23_12",
+                "title": "Москва — Новосибирск",
+                "number": "S7 2505",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T19:35:00+07:00",
+            "thread": {
+                "uid": "S7-5018_20210210_c23_12",
+                "title": "Екатеринбург — Новосибирск",
+                "number": "S7 5018",
+                "short_title": "Екатеринбург — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 24, 25, 26, 27, 28 февраля, 2, 3, 4, 5 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T19:45:00+07:00",
+            "thread": {
+                "uid": "S7-5318_20210210_c23_12",
+                "title": "Кемерово — Новосибирск",
+                "number": "S7 5318",
+                "short_title": "Кемерово — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 13, 15, 17, 20, 22, 24, 27 февраля, 1, 3, 6, 8, 10, 13, 15, 17, 20, 22, 24, 27 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T20:20:00+07:00",
+            "thread": {
+                "uid": "UT-138_20210210_c29_12",
+                "title": "Иркутск — Сургут",
+                "number": "UT 138",
+                "short_title": "Иркутск — Сургут",
+                "carrier": {
+                    "code": 29,
+                    "codes": {
+                        "icao": "UTA",
+                        "sirena": "ЮТ",
+                        "iata": "UT"
+                    },
+                    "title": "ЮТэйр"
+                },
+                "transport_type": "plane",
+                "vehicle": "ATR 72",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "пн, ср, пт, вс по 26.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T20:40:00+07:00",
+            "thread": {
+                "uid": "S7-5046_20210210_c23_12",
+                "title": "Уфа — Новосибирск",
+                "number": "S7 5046",
+                "short_title": "Уфа — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "вт, ср, чт, сб по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T20:45:00+07:00",
+            "thread": {
+                "uid": "S7-5028_20210210_c23_12",
+                "title": "Челябинск — Новосибирск",
+                "number": "S7 5028",
+                "short_title": "Челябинск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T21:25:00+07:00",
+            "thread": {
+                "uid": "S7-5040_20210210_c23_12",
+                "title": "Пермь — Новосибирск",
+                "number": "S7 5040",
+                "short_title": "Пермь — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "10, 13, 15, 17, 20, 22, 24, 27 февраля, 1, 3, 6, 8, 10, 13, 15, 17, 20, 22, 24, 27 марта, …",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T21:30:00+07:00",
+            "thread": {
+                "uid": "S7-5308_20210210_c23_12",
+                "title": "Красноярск — Новосибирск",
+                "number": "S7 5308",
+                "short_title": "Красноярск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 10.07",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T21:30:00+07:00",
+            "thread": {
+                "uid": "S7-5346_20210210_c23_12",
+                "title": "Омск — Новосибирск",
+                "number": "S7 5346",
+                "short_title": "Омск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T21:30:00+07:00",
+            "thread": {
+                "uid": "S7-5564_20210210_c23_12",
+                "title": "Бухара — Новосибирск",
+                "number": "S7 5564",
+                "short_title": "Бухара — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "",
+            "terminal": "Б",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T21:40:00+07:00",
+            "thread": {
+                "uid": "S7-2507_20210210_c23_12",
+                "title": "Москва — Новосибирск",
+                "number": "S7 2507",
+                "short_title": "Москва — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно, кроме чт, вс по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T21:40:00+07:00",
+            "thread": {
+                "uid": "S7-5004_20210210_c23_12",
+                "title": "Санкт-Петербург — Новосибирск",
+                "number": "S7 5004",
+                "short_title": "Санкт-Петербург — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T21:45:00+07:00",
+            "thread": {
+                "uid": "HZ-5642_20210210_c50_12",
+                "title": "Хабаровск — Новосибирск",
+                "number": "HZ 5642",
+                "short_title": "Хабаровск — Новосибирск",
+                "carrier": {
+                    "code": 50,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "ИЕ",
+                        "iata": "HZ"
+                    },
+                    "title": "Аврора"
+                },
+                "transport_type": "plane",
+                "vehicle": "Airbus A319",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно, кроме вт, вс по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T22:05:00+07:00",
+            "thread": {
+                "uid": "S7-5116_20210210_c23_12",
+                "title": "Краснодар — Новосибирск",
+                "number": "S7 5116",
+                "short_title": "Краснодар — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2021-02-10T22:05:00+07:00",
+            "thread": {
+                "uid": "S7-5104_20210210_c23_12",
+                "title": "Сочи — Новосибирск",
+                "number": "S7 5104",
+                "short_title": "Сочи — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Boeing 737-800",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "departure": null,
+            "stops": "",
+            "days": "ежедневно по 27.03",
+            "terminal": "A",
+            "platform": ""
+        }
+    ],
+    "station": {
+        "code": "s9600374",
+        "title": "Толмачёво",
+        "station_type": "airport",
+        "popular_title": "",
+        "short_title": "",
+        "transport_type": "plane",
+        "station_type_name": "аэропорт",
+        "type": "station"
+    },
+    "date": "2021-02-10",
+    "interval_schedule": [],
+    "event": "arrival"
+}

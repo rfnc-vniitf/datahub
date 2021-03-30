@@ -1,0 +1,40 @@
+[
+    {
+        "title": "СМИ сообщили о возможных проблемах с поиском денег на задачи президента",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "СМИ сообщили о возможных проблемах с поиском денег на задачи президента"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/5e291e419a79475072e2a45d"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/5e291e419a79475072e2a45d",
+        "summary": "Средства для выполнения поставленных президентом России задач в 2020 году возьмут из Резервного фонда правительства и скопившихся остатков.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Средства для выполнения поставленных президентом России задач в 2020 году возьмут из Резервного фонда правительства и скопившихся остатков."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e291e419a79475072e2a45d",
+        "guidislink": false,
+        "published": "Thu, 23 Jan 2020 07:48:43 +0300",
+        "published_parsed": [
+            2020,
+            1,
+            23,
+            4,
+            48,
+            43,
+            3,
+            23,
+            0
+        ]
+    }
+]

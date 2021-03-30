@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Евросоюз обвинил Россию и Китай в дезинформации по коронавирусу",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Евросоюз обвинил Россию и Китай в дезинформации по коронавирусу"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/5fc91a7c9a79471c953e4433"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/5fc91a7c9a79471c953e4433",
+        "summary": "Россия и Китай распространяют дезинформацию вокруг пандемии коронавирусной инфекции, полагают в Евросоюзе.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Россия и Китай распространяют дезинформацию вокруг пандемии коронавирусной инфекции, полагают в Евросоюзе."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5fc91a7c9a79471c953e4433",
+        "guidislink": false,
+        "published": "Thu, 03 Dec 2020 20:30:31 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            3,
+            17,
+            30,
+            31,
+            3,
+            338,
+            0
+        ]
+    },
+    {
+        "title": "Эксперты указали на риск для ведомств остаться без антивирусов в 2021-м",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Эксперты указали на риск для ведомств остаться без антивирусов в 2021-м"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/technology_and_media/03/12/2020/5fc785f09a79478cc69af170"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/42/756069130933429.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/technology_and_media/03/12/2020/5fc785f09a79478cc69af170",
+        "summary": "В ближайшее время в российских ведомствах истечет срок действия российского антивирусного и офисного софта. Минцифры решило поменять формат закупок лицензий на эти продукты, из-за чего их могут не успеть обновить в срок",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В ближайшее время в российских ведомствах истечет срок действия российского антивирусного и офисного софта. Минцифры решило поменять формат закупок лицензий на эти продукты, из-за чего их могут не успеть обновить в срок"
+        },
+        "authors": [
+            {
+                "name": "Владислав Скобелев, Анастасия Скрынникова"
+            }
+        ],
+        "author": "Владислав Скобелев, Анастасия Скрынникова",
+        "author_detail": {
+            "name": "Владислав Скобелев, Анастасия Скрынникова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5fc785f09a79478cc69af170",
+        "guidislink": false,
+        "published": "Thu, 03 Dec 2020 09:00:23 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            3,
+            6,
+            0,
+            23,
+            3,
+            338,
+            0
+        ]
+    }
+]

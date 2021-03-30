@@ -1,0 +1,102 @@
+[
+    {
+        "title": "В России выявили меньше 15 тыс. случаев коронавируса за сутки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В России выявили меньше 15 тыс. случаев коронавируса за сутки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/13/02/2021/602780899a7947093e5fe5cb"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/83/756132021193830.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/13/02/2021/602780899a7947093e5fe5cb",
+        "summary": "В Москве суточное число заражений составило 1,9 тыс. Умерли за минувшие сутки в стране 502 заболевших коронавирусом",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Москве суточное число заражений составило 1,9 тыс. Умерли за минувшие сутки в стране 502 заболевших коронавирусом"
+        },
+        "authors": [
+            {
+                "name": "Анастасия Батманова"
+            }
+        ],
+        "author": "Анастасия Батманова",
+        "author_detail": {
+            "name": "Анастасия Батманова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/602780899a7947093e5fe5cb",
+        "guidislink": false,
+        "published": "Sat, 13 Feb 2021 10:38:51 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            13,
+            7,
+            38,
+            51,
+            5,
+            44,
+            0
+        ]
+    },
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 13 февраля",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 13 февраля"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/13/02/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/13/02/2021/5e2fe9459a79479d102bada6",
+        "summary": "Эксперты оценили вероятность весенней вспышки коронавируса в России как высокую, США обвинили Россию и Китай в использовании вакцины в качестве инструмента дипломатии. Актуальные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Эксперты оценили вероятность весенней вспышки коронавируса в России как высокую, США обвинили Россию и Китай в использовании вакцины в качестве инструмента дипломатии. Актуальные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Sat, 13 Feb 2021 10:20:48 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            13,
+            7,
+            20,
+            48,
+            5,
+            44,
+            0
+        ]
+    }
+]

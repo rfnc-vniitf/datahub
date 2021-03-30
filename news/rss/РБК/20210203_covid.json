@@ -1,0 +1,152 @@
+[
+    {
+        "title": "В Китае обнаружили коронавирус в импортированном из России мясе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Китае обнаружили коронавирус в импортированном из России мясе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/601ae1b49a7947c3d8cf37cc"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/84/756123748549849.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/601ae1b49a7947c3d8cf37cc",
+        "summary": "Главное таможенное управление КНР проинформировало о выявлении санитарными властями провинции Гуандун генома возбудителя COVID-19 в 13 партиях продукции трех российских предприятий по производству мяса и субпродуктов, аттестованных для экспорта в Китай.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Главное таможенное управление КНР проинформировало о выявлении санитарными властями провинции Гуандун генома возбудителя COVID-19 в 13 партиях продукции трех российских предприятий по производству мяса и субпродуктов, аттестованных для экспорта в Китай."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/601ae1b49a7947c3d8cf37cc",
+        "guidislink": false,
+        "published": "Wed, 03 Feb 2021 21:16:08 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            3,
+            18,
+            16,
+            8,
+            2,
+            34,
+            0
+        ]
+    },
+    {
+        "title": "Число россиян с кредитами сократилось из-за пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Число россиян с кредитами сократилось из-за пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/finances/03/02/2021/601a8e129a79479212a126d7"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/30/756123571918307.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/finances/03/02/2021/601a8e129a79479212a126d7",
+        "summary": "Во время первой волны пандемии COVID-19 число заемщиков банков и МФО сократилось почти на 1 млн человек, подсчитал Банк России. После снятия ограничений кредиторы наверстали упущенное, но не до конца",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Во время первой волны пандемии COVID-19 число заемщиков банков и МФО сократилось почти на 1 млн человек, подсчитал Банк России. После снятия ограничений кредиторы наверстали упущенное, но не до конца"
+        },
+        "authors": [
+            {
+                "name": "Юлия Кошкина"
+            }
+        ],
+        "author": "Юлия Кошкина",
+        "author_detail": {
+            "name": "Юлия Кошкина"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/601a8e129a79479212a126d7",
+        "guidislink": false,
+        "published": "Wed, 03 Feb 2021 15:51:05 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            3,
+            12,
+            51,
+            5,
+            2,
+            34,
+            0
+        ]
+    },
+    {
+        "title": "Bloomberg оценил успехи российской экономики на фоне пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Bloomberg оценил успехи российской экономики на фоне пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/economics/03/02/2021/601a045f9a79475e3e4b565e"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/74/756123249411743.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/economics/03/02/2021/601a045f9a79475e3e4b565e",
+        "summary": "По данным Росстата, российская экономика в 2020 году сократилась на 3,1%, что стало максимумом за 11 лет. Опрошенные Bloomberg экономисты ожидали более серьезного падения",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "По данным Росстата, российская экономика в 2020 году сократилась на 3,1%, что стало максимумом за 11 лет. Опрошенные Bloomberg экономисты ожидали более серьезного падения"
+        },
+        "authors": [
+            {
+                "name": "Наталия Анисимова"
+            }
+        ],
+        "author": "Наталия Анисимова",
+        "author_detail": {
+            "name": "Наталия Анисимова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/601a045f9a79475e3e4b565e",
+        "guidislink": false,
+        "published": "Wed, 03 Feb 2021 05:21:56 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            3,
+            2,
+            21,
+            56,
+            2,
+            34,
+            0
+        ]
+    }
+]

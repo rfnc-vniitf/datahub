@@ -1,0 +1,47 @@
+[
+    {
+        "title": "СМИ сообщили, что Трамп привился от коронавируса в январе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "СМИ сообщили, что Трамп привился от коронавируса в январе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/754076"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/754076",
+        "summary": "Экс-президент США Дональд Трамп и его жена Мелания привились от коронавируса в январе, пока еще находились в Белом доме, сообщили CNN и Axios со ссылкой на неназванного советника Трампа.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Экс-президент США Дональд Трамп и его жена Мелания привились от коронавируса в январе, пока еще находились в Белом доме, сообщили CNN и Axios со ссылкой на неназванного советника Трампа."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 2 Mar 2021 08:35:00 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            2,
+            5,
+            35,
+            0,
+            1,
+            61,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/754076",
+        "guidislink": false
+    }
+]

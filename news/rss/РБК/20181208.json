@@ -1,0 +1,61 @@
+[
+    {
+        "title": "3D-редактор от художника и ужины по подписке: два стартапа ноября",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "3D-редактор от художника и ужины по подписке: два стартапа ноября"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/own_business/08/12/2018/5c0a87b69a7947d5b3c19100"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2018/12/07/rbc_-_720/576p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/52/755441938156523.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/own_business/08/12/2018/5c0a87b69a7947d5b3c19100",
+        "summary": "3D-редактор Polybrush, который должен упростить жизнь художникам, и сервис ужинов по подписке «Партия еды». РБК выбрал два самых интересных стартапа этого месяца",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "3D-редактор Polybrush, который должен упростить жизнь художникам, и сервис ужинов по подписке «Партия еды». РБК выбрал два самых интересных стартапа этого месяца"
+        },
+        "authors": [
+            {
+                "name": "Иван Вуколов, Александр Грачев"
+            }
+        ],
+        "author": "Иван Вуколов, Александр Грачев",
+        "author_detail": {
+            "name": "Иван Вуколов, Александр Грачев"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5c0a87b69a7947d5b3c19100",
+        "guidislink": false,
+        "published": "Sat, 08 Dec 2018 09:01:58 +0300",
+        "published_parsed": [
+            2018,
+            12,
+            8,
+            6,
+            1,
+            58,
+            5,
+            342,
+            0
+        ]
+    }
+]

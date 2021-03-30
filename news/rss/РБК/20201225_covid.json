@@ -1,0 +1,40 @@
+[
+    {
+        "title": "В каких регионах губернаторы переболели коронавирусом. Карта",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В каких регионах губернаторы переболели коронавирусом. Карта"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/25/12/2020/5f69d7769a794749b1511d86"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/25/12/2020/5f69d7769a794749b1511d86",
+        "summary": "В России растет число ежедневно выявляемых случаев заражения коронавирусом. О своих положительных тестах на COVID-19 сообщают и главы регионов",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В России растет число ежедневно выявляемых случаев заражения коронавирусом. О своих положительных тестах на COVID-19 сообщают и главы регионов"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5f69d7769a794749b1511d86",
+        "guidislink": false,
+        "published": "Fri, 25 Dec 2020 13:01:48 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            25,
+            10,
+            1,
+            48,
+            4,
+            360,
+            0
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Партия вакцины от новой коронавирусной инфекции поступила в танковую армию ЗВО",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Партия вакцины от новой коронавирусной инфекции поступила в танковую армию ЗВО"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12328611@egNews"
+            },
+            {
+                "length": "53398",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/03072017-logo_video-346534573467(1).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12328611@egNews",
+        "summary": "Всего в Западный военный округ завезли более 3 тыс. доз вакцины от новой коронавирусной инфекции.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Всего в Западный военный округ завезли более 3 тыс. доз вакцины от новой коронавирусной инфекции."
+        },
+        "published": "Sat, 5 Dec 2020 09:45:25 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            5,
+            6,
+            45,
+            25,
+            5,
+            340,
+            0
+        ],
+        "id": "12328611@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Юнармейцы отряда «Монолит» из Приморья приняли участие во всероссийской акции против распространения коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Юнармейцы отряда «Монолит» из Приморья приняли участие во всероссийской акции против распространения коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12328589@egNews"
+            },
+            {
+                "length": "205760",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/emd_news_5_dec-11(1).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12328589@egNews",
+        "summary": "Свои работы ребята разместили на информационных площадках в интернете. На плакатах юнармейцы призывают жителей региона носить медицинские маски в период распространения коронавирусной инфекции.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Свои работы ребята разместили на информационных площадках в интернете. На плакатах юнармейцы призывают жителей региона носить медицинские маски в период распространения коронавирусной инфекции."
+        },
+        "published": "Sat, 5 Dec 2020 05:00:41 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            5,
+            2,
+            0,
+            41,
+            5,
+            340,
+            0
+        ],
+        "id": "12328589@egNews",
+        "guidislink": false
+    }
+]

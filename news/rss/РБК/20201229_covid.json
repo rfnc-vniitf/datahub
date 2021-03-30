@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Греф спрогнозировал затихание «хвоста коронавируса» к июню",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Греф спрогнозировал затихание «хвоста коронавируса» к июню"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/29/12/2020/5feb56779a7947e5b3862aab"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/756092609265292.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/29/12/2020/5feb56779a7947e5b3862aab",
+        "summary": "По словам президента Сбербанка, пандемия ослабнет к началу следующего лета, на что, в частности, повлияет общедоступность вакцин. В целом, убежден Греф, последствия коронавируса никуда не исчезнут",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "По словам президента Сбербанка, пандемия ослабнет к началу следующего лета, на что, в частности, повлияет общедоступность вакцин. В целом, убежден Греф, последствия коронавируса никуда не исчезнут"
+        },
+        "authors": [
+            {
+                "name": "Михаил Юшков"
+            }
+        ],
+        "author": "Михаил Юшков",
+        "author_detail": {
+            "name": "Михаил Юшков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5feb56779a7947e5b3862aab",
+        "guidislink": false,
+        "published": "Tue, 29 Dec 2020 20:33:07 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            29,
+            17,
+            33,
+            7,
+            1,
+            364,
+            0
+        ]
+    },
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 29 декабря",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 29 декабря"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/29/12/2020/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/29/12/2020/5e2fe9459a79479d102bada6",
+        "summary": "В России в январе появятся паспорта вакцинированных, а в Испании составят реестр отказавшихся от вакцинации — самое актуальное о коронавирусе в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В России в январе появятся паспорта вакцинированных, а в Испании составят реестр отказавшихся от вакцинации — самое актуальное о коронавирусе в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Михаил Юшков"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Михаил Юшков",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Михаил Юшков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Tue, 29 Dec 2020 14:19:52 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            29,
+            11,
+            19,
+            52,
+            1,
+            364,
+            0
+        ]
+    }
+]

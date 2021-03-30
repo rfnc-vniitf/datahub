@@ -1,0 +1,84 @@
+[
+    {
+        "title": "Главврач калужской скорой помощи умерла от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Главврач калужской скорой помощи умерла от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/5ffc2b619a7947854fbfae49"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/35/756103637044357.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/5ffc2b619a7947854fbfae49",
+        "summary": "Главный врач калужского регионального Центра скорой медицинской помощи и медицины катастроф Виктория Кардаш скончалась 8 января в одной из московских больниц от осложнений, вызванных COVID-19, сообщило региональное министерство здравоохранения на странице в социальной сети «ВКонтакте».",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Главный врач калужского регионального Центра скорой медицинской помощи и медицины катастроф Виктория Кардаш скончалась 8 января в одной из московских больниц от осложнений, вызванных COVID-19, сообщило региональное министерство здравоохранения на странице в социальной сети «ВКонтакте»."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5ffc2b619a7947854fbfae49",
+        "guidislink": false,
+        "published": "Mon, 11 Jan 2021 14:29:32 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            11,
+            11,
+            29,
+            32,
+            0,
+            11,
+            0
+        ]
+    },
+    {
+        "title": "В каких регионах губернаторы переболели коронавирусом. Карта",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В каких регионах губернаторы переболели коронавирусом. Карта"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/11/01/2021/5f69d7769a794749b1511d86"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/11/01/2021/5f69d7769a794749b1511d86",
+        "summary": "В России растет число ежедневно выявляемых случаев заражения коронавирусом. О своих положительных тестах на COVID-19 сообщают и главы регионов",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В России растет число ежедневно выявляемых случаев заражения коронавирусом. О своих положительных тестах на COVID-19 сообщают и главы регионов"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5f69d7769a794749b1511d86",
+        "guidislink": false,
+        "published": "Mon, 11 Jan 2021 11:12:55 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            11,
+            8,
+            12,
+            55,
+            0,
+            11,
+            0
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/02/06/1886208.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/02/06/1886208.html",
+        "title": "Вирусолог уточнил сроки окончания пандемии коронавируса в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Вирусолог уточнил сроки окончания пандемии коронавируса в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/02/06/1886208.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/7e/84/4e/d9/HmG97nk6WpZd-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Переломным станет март.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Переломным станет март."
+        },
+        "published": "Sat, 06 Feb 2021 20:46:00 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            6,
+            17,
+            46,
+            0,
+            5,
+            37,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/02/06/1886173.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/02/06/1886173.html",
+        "title": "ВОЗ заявила о снижении темпов распространения коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "ВОЗ заявила о снижении темпов распространения коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/02/06/1886173.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/7/7/0/e/gNYz2ML7-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Во Всемирной организации здравоохранения отмечают замедление темпов распространения коронавируса, но считают необходимым продолжать соблюдать меры профилактики...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Во Всемирной организации здравоохранения отмечают замедление темпов распространения коронавируса, но считают необходимым продолжать соблюдать меры профилактики..."
+        },
+        "published": "Sat, 06 Feb 2021 08:58:49 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            6,
+            5,
+            58,
+            49,
+            5,
+            37,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/02/06/1886057.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/02/06/1886057.html",
+        "title": "Эксперты определили время окончания пандемии COVID",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Эксперты определили время окончания пандемии COVID"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/02/06/1886057.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/18/78/d2/d8/GMLr3wChyVBk-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Это, по их словам, зависит от процента вакцинированного населения планеты.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Это, по их словам, зависит от процента вакцинированного населения планеты."
+        },
+        "published": "Sat, 06 Feb 2021 04:20:00 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            6,
+            1,
+            20,
+            0,
+            5,
+            37,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

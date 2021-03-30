@@ -1,0 +1,99 @@
+[
+    {
+        "title": "«Аэрофлот» отчитался об убытке в 123 млрд руб. по итогам года пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "«Аэрофлот» отчитался об убытке в 123 млрд руб. по итогам года пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/business/10/03/2021/6048f5ed9a7947583ea863bf"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/756153997189265.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/business/10/03/2021/6048f5ed9a7947583ea863bf",
+        "summary": "Выручка группы компаний снизилась на 55,4% по сравнению с прошлым годом, а пассажиропоток упал в два раза. При этом «Победа» закончила год с прибылью",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Выручка группы компаний снизилась на 55,4% по сравнению с прошлым годом, а пассажиропоток упал в два раза. При этом «Победа» закончила год с прибылью"
+        },
+        "authors": [
+            {
+                "name": "Тимофей Дзядко, Наталия Анисимова"
+            }
+        ],
+        "author": "Тимофей Дзядко, Наталия Анисимова",
+        "author_detail": {
+            "name": "Тимофей Дзядко, Наталия Анисимова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6048f5ed9a7947583ea863bf",
+        "guidislink": false,
+        "published": "Wed, 10 Mar 2021 20:52:19 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            10,
+            17,
+            52,
+            19,
+            2,
+            69,
+            0
+        ]
+    },
+    {
+        "title": "Песков сообщил о самочувствии заразившегося коронавирусом Орешкина",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Песков сообщил о самочувствии заразившегося коронавирусом Орешкина"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/6048dc829a79474fa209c1fd"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/85/756153886562854.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/6048dc829a79474fa209c1fd",
+        "summary": "Помощник президента Максим Орешкин, заболевший коронавирусом, поправился.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Помощник президента Максим Орешкин, заболевший коронавирусом, поправился."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6048dc829a79474fa209c1fd",
+        "guidislink": false,
+        "published": "Wed, 10 Mar 2021 18:11:38 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            10,
+            15,
+            11,
+            38,
+            2,
+            69,
+            0
+        ]
+    }
+]

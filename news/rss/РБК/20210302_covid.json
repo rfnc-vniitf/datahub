@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Зеленский привился от коронавируса произведенной в Индии вакциной",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Зеленский привился от коронавируса произведенной в Индии вакциной"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/02/03/2021/603e23b49a79474b3cc629fb"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/16/756146865928166.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2020/12/31/__mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/90/756094054182901.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/02/03/2021/603e23b49a79474b3cc629fb",
+        "summary": "Чтобы поставить прививку от коронавируса, президент Украины Владимир Зеленский приехал на «передовую» — в Донбасс. Ему поставили препарат, произведенный на заводе в Индии",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Чтобы поставить прививку от коронавируса, президент Украины Владимир Зеленский приехал на «передовую» — в Донбасс. Ему поставили препарат, произведенный на заводе в Индии"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/603e23b49a79474b3cc629fb",
+        "guidislink": false,
+        "published": "Tue, 02 Mar 2021 14:47:09 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            2,
+            11,
+            47,
+            9,
+            1,
+            61,
+            0
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Число случаев заражения коронавирусом в Москве превысило 1 млн",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Число случаев заражения коронавирусом в Москве превысило 1 млн"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/14/03/2021/604dd8429a794737581c83ec"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/26/756157147893264.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/14/03/2021/604dd8429a794737581c83ec",
+        "summary": "За сутки в стране выявили чуть более 10 тыс. заболевших. Общее число зараженных в России перевалило за 4 млн",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "За сутки в стране выявили чуть более 10 тыс. заболевших. Общее число зараженных в России перевалило за 4 млн"
+        },
+        "authors": [
+            {
+                "name": "Анна Громова"
+            }
+        ],
+        "author": "Анна Громова",
+        "author_detail": {
+            "name": "Анна Громова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/604dd8429a794737581c83ec",
+        "guidislink": false,
+        "published": "Sun, 14 Mar 2021 12:37:00 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            14,
+            9,
+            37,
+            0,
+            6,
+            73,
+            0
+        ]
+    },
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 14 марта",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 14 марта"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/14/03/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/14/03/2021/5e2fe9459a79479d102bada6",
+        "summary": "Вакцина «Спутник V» эффективна для всех возрастов, Ницца потребовала от Парижа прав на закупку российской вакцины, в ЕС признали ошибки кампании вакцинации. Актуальные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Вакцина «Спутник V» эффективна для всех возрастов, Ницца потребовала от Парижа прав на закупку российской вакцины, в ЕС признали ошибки кампании вакцинации. Актуальные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Sun, 14 Mar 2021 12:24:32 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            14,
+            9,
+            24,
+            32,
+            6,
+            73,
+            0
+        ]
+    }
+]

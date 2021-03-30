@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 16 048 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 16 048 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/02/07/856943-v-rossii-za-sutki-viyavili-16-048-novih-sluchaev-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/12/ntiil/normal-uvc.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/02/07/856943-v-rossii-za-sutki-viyavili-16-048-novih-sluchaev-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/02/07/856943-v-rossii-za-sutki-viyavili-16-048-novih-sluchaev-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/02/07/856943-v-rossii-za-sutki-viyavili-16-048-novih-sluchaev-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sun, 07 Feb 2021 11:07:03 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            7,
+            8,
+            7,
+            3,
+            6,
+            38,
+            0
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "title": "В Москве от коронавируса привились около 50 тыс. человек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В Москве от коронавируса привились около 50 тыс. человек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1106143/2020-12-29/v-moskve-ot-koronavirusa-privilis-okolo-50-tys-chelovek"
+            }
+        ],
+        "link": "https://iz.ru/1106143/2020-12-29/v-moskve-ot-koronavirusa-privilis-okolo-50-tys-chelovek",
+        "summary": "<p>Мэр Москвы Сергей Собянин, сообщил, что в городе от коронавируса уже привились почти 50 тыс. человек и еще около 70 тыс. москвичей записались на вакцинацию.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Мэр Москвы Сергей Собянин, сообщил, что в городе от коронавируса уже привились почти 50 тыс. человек и еще около 70 тыс. москвичей записались на вакцинацию.</p>"
+        },
+        "published": "Tue, 29 Dec 2020 19:22:40 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            29,
+            16,
+            22,
+            40,
+            1,
+            364,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Маргарита Дмитриева"
+            }
+        ],
+        "author": "Маргарита Дмитриева",
+        "author_detail": {
+            "name": "Маргарита Дмитриева"
+        },
+        "id": "https://iz.ru/1106143/2020-12-29/v-moskve-ot-koronavirusa-privilis-okolo-50-tys-chelovek",
+        "guidislink": false
+    }
+]

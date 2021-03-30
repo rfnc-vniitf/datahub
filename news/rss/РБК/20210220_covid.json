@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Роспотребнадзор сообщил о новом вирусе, способном заражать людей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Роспотребнадзор сообщил о новом вирусе, способном заражать людей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/02/2021/6030ec2d9a79475c973ed1fe"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/756138202290178.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/02/20/824700.0___mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/756138246647172.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/02/2021/6030ec2d9a79475c973ed1fe",
+        "summary": "По словам главы Роспотребнадзора, своевременное выявление у вируса птичьего гриппа H5N8 способности передаваться от птиц к людям дает время, чтобы подготовиться к возможному увеличению его опасности",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "По словам главы Роспотребнадзора, своевременное выявление у вируса птичьего гриппа H5N8 способности передаваться от птиц к людям дает время, чтобы подготовиться к возможному увеличению его опасности"
+        },
+        "authors": [
+            {
+                "name": "Евгений Калюков"
+            }
+        ],
+        "author": "Евгений Калюков",
+        "author_detail": {
+            "name": "Евгений Калюков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6030ec2d9a79475c973ed1fe",
+        "guidislink": false,
+        "published": "Sat, 20 Feb 2021 14:12:59 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            20,
+            11,
+            12,
+            59,
+            5,
+            51,
+            0
+        ]
+    },
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 20 февраля",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 20 февраля"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/02/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/02/2021/5e2fe9459a79479d102bada6",
+        "summary": "Более 3 млн россиян привились от коронавируса, зарегистрирована третья российская вакцина, открытие Кипра для российских туристов отложили до 1 апреля. Актуальные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Более 3 млн россиян привились от коронавируса, зарегистрирована третья российская вакцина, открытие Кипра для российских туристов отложили до 1 апреля. Актуальные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Sat, 20 Feb 2021 13:34:48 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            20,
+            10,
+            34,
+            48,
+            5,
+            51,
+            0
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 28 февраля",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 28 февраля"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/28/02/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/28/02/2021/5e2fe9459a79479d102bada6",
+        "summary": "В США одобрили вакцину от Johnson & Johnson в экстренных случаях, а в России подали заявку на одобрение «Спутника Лайт». Актуальные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В США одобрили вакцину от Johnson & Johnson в экстренных случаях, а в России подали заявку на одобрение «Спутника Лайт». Актуальные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Sun, 28 Feb 2021 11:38:24 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            28,
+            8,
+            38,
+            24,
+            6,
+            59,
+            0
+        ]
+    }
+]

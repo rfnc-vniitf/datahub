@@ -1,0 +1,55 @@
+{
+    "pagination": {
+        "total": 1,
+        "limit": 100,
+        "offset": 0
+    },
+    "schedule": [
+        {
+            "except_days": null,
+            "arrival": "2020-10-29T18:07:00+07:00",
+            "thread": {
+                "uid": "112U_2_2",
+                "title": "Барнаул — Северобайкальск",
+                "number": "112У",
+                "short_title": "Барнаул — Северобайкальск",
+                "carrier": {
+                    "code": 112,
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "title": "РЖД/ФПК"
+                },
+                "transport_type": "train",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "только 29, 31 октября, 2, 4, 6, 8, 10, 12, 14, 18, 22, 26, 30 ноября, 4, 8 декабря",
+            "stops": "",
+            "departure": "2020-10-29T18:56:00+07:00",
+            "terminal": null,
+            "platform": ""
+        }
+    ],
+    "station": {
+        "code": "s9610189",
+        "title": "Новосибирск-главный",
+        "station_type": "station",
+        "popular_title": "",
+        "short_title": "",
+        "transport_type": "train",
+        "station_type_name": "станция",
+        "type": "station"
+    },
+    "date": "2020-10-29",
+    "interval_schedule": [],
+    "event": "arrival"
+}

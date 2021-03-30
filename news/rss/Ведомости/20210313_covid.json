@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 9908 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 9908 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/03/13/861315-v-rossii-za-sutki-viyavili-9908-novih-sluchaev-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/20/o4ex2/normal-v9g.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/03/13/861315-v-rossii-za-sutki-viyavili-9908-novih-sluchaev-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/03/13/861315-v-rossii-za-sutki-viyavili-9908-novih-sluchaev-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/03/13/861315-v-rossii-za-sutki-viyavili-9908-novih-sluchaev-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 13 Mar 2021 11:15:33 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            13,
+            8,
+            15,
+            33,
+            5,
+            72,
+            0
+        ]
+    }
+]

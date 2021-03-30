@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 11 823 новых случая коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 11 823 новых случая коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/02/23/858947-v-rossii-za-sutki-viyavili-11-823-novih-sluchaya-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/1i/nu7ma/normal-uw8.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/02/23/858947-v-rossii-za-sutki-viyavili-11-823-novih-sluchaya-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/02/23/858947-v-rossii-za-sutki-viyavili-11-823-novih-sluchaya-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/02/23/858947-v-rossii-za-sutki-viyavili-11-823-novih-sluchaya-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 23 Feb 2021 11:08:26 +0300",
+        "published_parsed": [
+            2021,
+            2,
+            23,
+            8,
+            8,
+            26,
+            1,
+            54,
+            0
+        ]
+    }
+]

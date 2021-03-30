@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/03/17/1892272.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/03/17/1892272.html",
+        "title": "Россияне перечислили упущенные из-за коронавируса возможности",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Россияне перечислили упущенные из-за коронавируса возможности"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/03/17/1892272.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/6/5/0/c/yRf9TBYC-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Если бы россияне могли вернуться в период до пандемии коронавируса, то посоветовали сами себе «не нервничать». Таких оказалось 15% респондентов, следует...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Если бы россияне могли вернуться в период до пандемии коронавируса, то посоветовали сами себе «не нервничать». Таких оказалось 15% респондентов, следует..."
+        },
+        "published": "Wed, 17 Mar 2021 08:23:00 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            17,
+            5,
+            23,
+            0,
+            2,
+            76,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "title": "Путин заявил о возможности постепенно снимать коронавирусные меры",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Путин заявил о возможности постепенно снимать коронавирусные меры"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/25/01/2021/600ea8b99a7947017c47653b"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/69/756115742186698.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/01/25/574739.9___mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/48/756115747202484.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/25/01/2021/600ea8b99a7947017c47653b",
+        "summary": "Ситуация с распространением коронавируса в России постепенно стабилизируется, сказал Путин. По его словам, в связи с этим можно будет аккуратно снимать введенные ограничения, в том числе возвращаться к нормальному учебному ритму",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Ситуация с распространением коронавируса в России постепенно стабилизируется, сказал Путин. По его словам, в связи с этим можно будет аккуратно снимать введенные ограничения, в том числе возвращаться к нормальному учебному ритму"
+        },
+        "authors": [
+            {
+                "name": "Михаил Котляр, Виктория Полякова"
+            }
+        ],
+        "author": "Михаил Котляр, Виктория Полякова",
+        "author_detail": {
+            "name": "Михаил Котляр, Виктория Полякова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/600ea8b99a7947017c47653b",
+        "guidislink": false,
+        "published": "Mon, 25 Jan 2021 14:23:39 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            25,
+            11,
+            23,
+            39,
+            0,
+            25,
+            0
+        ]
+    },
+    {
+        "title": "Собянин заявил о спаде эпидемии COVID-19 в Москве",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Собянин заявил о спаде эпидемии COVID-19 в Москве"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/600ea9469a79470166d309fe"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/756115738938770.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/600ea9469a79470166d309fe",
+        "summary": "В столице снижается количество новых заболевших коронавирусной инфекцией, что позволяет властям постепенно возвращать город к нормальной жизни.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В столице снижается количество новых заболевших коронавирусной инфекцией, что позволяет властям постепенно возвращать город к нормальной жизни."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/600ea9469a79470166d309fe",
+        "guidislink": false,
+        "published": "Mon, 25 Jan 2021 14:21:38 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            25,
+            11,
+            21,
+            38,
+            0,
+            25,
+            0
+        ]
+    }
+]

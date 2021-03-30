@@ -1,0 +1,88 @@
+{
+    "pagination": {
+        "total": 2,
+        "limit": 100,
+        "offset": 0
+    },
+    "schedule": [
+        {
+            "except_days": null,
+            "arrival": "2020-10-24T14:15:00+07:00",
+            "thread": {
+                "uid": "YC-487_4_c69_547",
+                "title": "Салехард — Новосибирск",
+                "number": "YC 487",
+                "short_title": "Салехард — Новосибирск",
+                "carrier": {
+                    "code": 69,
+                    "codes": {
+                        "icao": "LLM",
+                        "sirena": "ЛА",
+                        "iata": "YC"
+                    },
+                    "title": "Ямал"
+                },
+                "transport_type": "plane",
+                "vehicle": "Сухой Суперджет 100",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "сб по 26.12",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        },
+        {
+            "except_days": null,
+            "arrival": "2020-10-24T21:30:00+07:00",
+            "thread": {
+                "uid": "S7-5308_2_c23_547",
+                "title": "Красноярск — Новосибирск",
+                "number": "S7 5308",
+                "short_title": "Красноярск — Новосибирск",
+                "carrier": {
+                    "code": 23,
+                    "codes": {
+                        "icao": null,
+                        "sirena": "С7",
+                        "iata": "S7"
+                    },
+                    "title": "S7 Airlines"
+                },
+                "transport_type": "plane",
+                "vehicle": "Embraer 170",
+                "transport_subtype": {
+                    "color": null,
+                    "code": null,
+                    "title": null
+                },
+                "express_type": null
+            },
+            "is_fuzzy": false,
+            "days": "ежедневно по 07.04",
+            "stops": "",
+            "departure": null,
+            "terminal": null,
+            "platform": ""
+        }
+    ],
+    "station": {
+        "code": "s9600374",
+        "title": "Толмачёво",
+        "station_type": "airport",
+        "popular_title": "",
+        "short_title": "",
+        "transport_type": "plane",
+        "station_type_name": "аэропорт",
+        "type": "station"
+    },
+    "date": "2020-10-24",
+    "interval_schedule": [],
+    "event": "arrival"
+}

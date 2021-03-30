@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Россияне в пандемию предпочли Акунина и Кинга книгам-мотиваторам",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Россияне в пандемию предпочли Акунина и Кинга книгам-мотиваторам"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/08/12/2020/5fcf556b9a7947563ad240da"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/09/756074242077099.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/08/12/2020/5fcf556b9a7947563ad240da",
+        "summary": "Сервис Storytel ждал всплеска интереса к аудиокнигам по психологии и саморазвитию, но люди предпочли им фантастику, детективы и триллеры. А самой популярной аудиокнигой года стал «Sapiens. Краткая история человечества»",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Сервис Storytel ждал всплеска интереса к аудиокнигам по психологии и саморазвитию, но люди предпочли им фантастику, детективы и триллеры. А самой популярной аудиокнигой года стал «Sapiens. Краткая история человечества»"
+        },
+        "authors": [
+            {
+                "name": "Артем Филипенок"
+            }
+        ],
+        "author": "Артем Филипенок",
+        "author_detail": {
+            "name": "Артем Филипенок"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5fcf556b9a7947563ad240da",
+        "guidislink": false,
+        "published": "Tue, 08 Dec 2020 15:29:23 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            8,
+            12,
+            29,
+            23,
+            1,
+            343,
+            0
+        ]
+    },
+    {
+        "title": "Песков рассказал о мыслях о завещании во время болезни коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Песков рассказал о мыслях о завещании во время болезни коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/08/12/2020/5fcf59309a79475c0d739d5e"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/22/756074247340220.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/08/12/2020/5fcf59309a79475c0d739d5e",
+        "summary": "Ранее пресс-секретарь президента делился своими ощущениями во время болезни, в частности говорил о потере вкуса и обоняния",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Ранее пресс-секретарь президента делился своими ощущениями во время болезни, в частности говорил о потере вкуса и обоняния"
+        },
+        "authors": [
+            {
+                "name": "Владислав Гордеев"
+            }
+        ],
+        "author": "Владислав Гордеев",
+        "author_detail": {
+            "name": "Владислав Гордеев"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5fcf59309a79475c0d739d5e",
+        "guidislink": false,
+        "published": "Tue, 08 Dec 2020 14:20:03 +0300",
+        "published_parsed": [
+            2020,
+            12,
+            8,
+            11,
+            20,
+            3,
+            1,
+            343,
+            0
+        ]
+    }
+]

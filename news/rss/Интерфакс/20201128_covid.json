@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Еще 72 пациента с коронавирусом скончались в Москве",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Еще 72 пациента с коронавирусом скончались в Москве"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/moscow/739112"
+            }
+        ],
+        "link": "https://www.interfax.ru/moscow/739112",
+        "summary": "Число жертв коронавируса в Москве увеличилось с 8756 до 8828, сообщил столичный оперштаб по контролю за коронавирусом в субботу.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Число жертв коронавируса в Москве увеличилось с 8756 до 8828, сообщил столичный оперштаб по контролю за коронавирусом в субботу."
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 28 Nov 2020 23:24:00 +0300",
+        "published_parsed": [
+            2020,
+            11,
+            28,
+            20,
+            24,
+            0,
+            5,
+            333,
+            0
+        ],
+        "id": "https://www.interfax.ru/moscow/739112",
+        "guidislink": false
+    }
+]

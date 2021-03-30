@@ -1,0 +1,155 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/piter/2021/01/16/1882398.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/piter/2021/01/16/1882398.html",
+        "title": "Умер зараженный коронавирусом пресс-секретарь российского отделения «Гринпис»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Умер зараженный коронавирусом пресс-секретарь российского отделения «Гринпис»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/piter/2021/01/16/1882398.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/2/7/7/b/dDpwThMY-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В больнице в Петербурге скончался пресс-секретарь российского отделения «Гринпис» Евгений Усов. Об этом сообщается на сайте Союза журналистов Санкт-Петербурга...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В больнице в Петербурге скончался пресс-секретарь российского отделения «Гринпис» Евгений Усов. Об этом сообщается на сайте Союза журналистов Санкт-Петербурга..."
+        },
+        "published": "Sat, 16 Jan 2021 19:42:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            16,
+            16,
+            42,
+            0,
+            5,
+            16,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/01/16/1882385.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/01/16/1882385.html",
+        "title": "«Раскрыта» тайна происхождения коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "«Раскрыта» тайна происхождения коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/01/16/1882385.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/3/9/0/4/KLfCD9Ft-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Госсекретарь США рассказал о секретных проектах и назвал «виновника» пандемии.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Госсекретарь США рассказал о секретных проектах и назвал «виновника» пандемии."
+        },
+        "published": "Sat, 16 Jan 2021 16:48:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            16,
+            13,
+            48,
+            0,
+            5,
+            16,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/01/16/1882373.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/01/16/1882373.html",
+        "title": "Коронавирус за сутки убил рекордное с начала года число россиян",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Коронавирус за сутки убил рекордное с начала года число россиян"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/01/16/1882373.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/e/c/e/c/rKGJy2k3-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Общее количество жертв COVID-19 в России превысило 65 тыс. 85 человек.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Общее количество жертв COVID-19 в России превысило 65 тыс. 85 человек."
+        },
+        "published": "Sat, 16 Jan 2021 11:18:00 +0300",
+        "published_parsed": [
+            2021,
+            1,
+            16,
+            8,
+            18,
+            0,
+            5,
+            16,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]
