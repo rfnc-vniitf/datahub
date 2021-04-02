@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/02/1895146.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/02/1895146.html",
+        "title": "В России научились модернизировать вакцину от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России научились модернизировать вакцину от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/02/1895146.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/e/8/8/1/NTrb9g8z-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В России разработали механизм обновления вакцины от коронавируса. Об этом, как сообщает РИА «Новости», заявил директор Национального исследовательского...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России разработали механизм обновления вакцины от коронавируса. Об этом, как сообщает РИА «Новости», заявил директор Национального исследовательского..."
+        },
+        "published": "Fri, 02 Apr 2021 09:28:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            2,
+            6,
+            28,
+            0,
+            4,
+            92,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/02/1895142.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/02/1895142.html",
+        "title": "В Роспотребнадзоре представили два прогноза по ситуации с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Роспотребнадзоре представили два прогноза по ситуации с коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/02/1895142.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/2e/c5/6f/b8/zkM6dq8TNpZF-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Эксперты пытаются предсказать, когда закончится пандемия.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Эксперты пытаются предсказать, когда закончится пандемия."
+        },
+        "published": "Fri, 02 Apr 2021 08:43:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            2,
+            5,
+            43,
+            0,
+            4,
+            92,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]
