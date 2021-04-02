@@ -1,5 +1,52 @@
 [
     {
+        "title": "Поветкин ответил на обвинение Уайта в симуляции коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Поветкин ответил на обвинение Уайта в симуляции коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1138060/2021-03-17/povetkin-otvetil-na-obvinenie-uaita-v-simuliatcii-koronavirusa"
+            }
+        ],
+        "link": "https://iz.ru/1138060/2021-03-17/povetkin-otvetil-na-obvinenie-uaita-v-simuliatcii-koronavirusa",
+        "summary": "<p>Российский боксер Александр Поветкин ответил на заявление Диллиана Уайта о том, что спортсмен симулировал коронавирус для переноса поединка между ними, передает <a href=\"https://ren.tv/news/sport/812910-povetkin-pered-boem-s-uaitom-provel-sparring-s-ukrainskim-khalkom\" target=\"_blank\">РЕН ТВ</a> в среду, 17 марта.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Российский боксер Александр Поветкин ответил на заявление Диллиана Уайта о том, что спортсмен симулировал коронавирус для переноса поединка между ними, передает <a href=\"https://ren.tv/news/sport/812910-povetkin-pered-boem-s-uaitom-provel-sparring-s-ukrainskim-khalkom\" target=\"_blank\">РЕН ТВ</a> в среду, 17 марта.</p>"
+        },
+        "published": "Wed, 17 Mar 2021 03:33:25 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            17,
+            0,
+            33,
+            25,
+            2,
+            76,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Маргарита Сурикова"
+            }
+        ],
+        "author": "Маргарита Сурикова",
+        "author_detail": {
+            "name": "Маргарита Сурикова"
+        },
+        "id": "https://iz.ru/1138060/2021-03-17/povetkin-otvetil-na-obvinenie-uaita-v-simuliatcii-koronavirusa",
+        "guidislink": false
+    },
+    {
         "title": "В РФ разрабатывают прибор для измерения антител к коронавирусу дома",
         "title_detail": {
             "type": "text/plain",

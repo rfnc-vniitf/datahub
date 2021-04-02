@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Более 10 тысяч сотрудников военкоматов ЦВО привиты от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Более 10 тысяч сотрудников военкоматов ЦВО привиты от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12352028@egNews"
+            },
+            {
+                "length": "135128",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/16516541-550(1).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12352028@egNews",
+        "summary": "К вакцинации приступили в начале марта. Она проводится на добровольной основе.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "К вакцинации приступили в начале марта. Она проводится на добровольной основе."
+        },
+        "published": "Thu, 1 Apr 2021 14:00:17 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            1,
+            11,
+            0,
+            17,
+            3,
+            91,
+            0
+        ],
+        "id": "12352028@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Иностранные курсанты военного вуза в Сибири привились от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Иностранные курсанты военного вуза в Сибири привились от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351967@egNews"
+            },
+            {
+                "length": "110545",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/gezxzwtqxwwqqqaz-550_2.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351967@egNews",
+        "summary": "В Новосибирском высшем военном командном училище (НВВКУ) курсанты специального факультета из 10 стран Азии, Африки и Ближнего Востока завершили вакцинацию против коронавирусной инфекции.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Новосибирском высшем военном командном училище (НВВКУ) курсанты специального факультета из 10 стран Азии, Африки и Ближнего Востока завершили вакцинацию против коронавирусной инфекции."
+        },
+        "published": "Thu, 1 Apr 2021 08:00:11 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            1,
+            5,
+            0,
+            11,
+            3,
+            91,
+            0
+        ],
+        "id": "12351967@egNews",
+        "guidislink": false
+    }
+]

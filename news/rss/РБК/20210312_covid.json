@@ -1,96 +1,46 @@
 [
     {
-        "title": "Росавиация сравнила число уволенных в пандемию пилотов в России и мире",
+        "title": "Пандемия коронавируса. Самое актуальное на 12 марта",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Росавиация сравнила число уволенных в пандемию пилотов в России и мире"
+            "value": "Пандемия коронавируса. Самое актуальное на 12 марта"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.rbc.ru/society/12/03/2021/604b2d189a79470ab27d3063"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/82/756155466546820.jpg",
-                "rel": "enclosure"
+                "href": "https://www.rbc.ru/society/12/03/2021/5e2fe9459a79479d102bada6"
             }
         ],
-        "link": "https://www.rbc.ru/society/12/03/2021/604b2d189a79470ab27d3063",
-        "summary": "В России в 2020 году число пилотов уменьшилось на 200 человек, в то время как в мире — примерно на 50 тыс., сообщил Нерадько. Подготовка российских специалистов ведется при хроническом бюджетном недофинансировании, добавил он",
+        "link": "https://www.rbc.ru/society/12/03/2021/5e2fe9459a79479d102bada6",
+        "summary": "Иммунитет с вакциной «ЭпиВакКорона» вырабатывается устойчиво, но медленно, ПМЭФ пройдет в смешанном формате. Актуальные новости о коронавирусе — в обзоре РБК",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "В России в 2020 году число пилотов уменьшилось на 200 человек, в то время как в мире — примерно на 50 тыс., сообщил Нерадько. Подготовка российских специалистов ведется при хроническом бюджетном недофинансировании, добавил он"
+            "value": "Иммунитет с вакциной «ЭпиВакКорона» вырабатывается устойчиво, но медленно, ПМЭФ пройдет в смешанном формате. Актуальные новости о коронавирусе — в обзоре РБК"
         },
         "authors": [
             {
-                "name": "Тимофей Дзядко, Виктория Полякова"
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
             }
         ],
-        "author": "Тимофей Дзядко, Виктория Полякова",
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко",
         "author_detail": {
-            "name": "Тимофей Дзядко, Виктория Полякова"
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
         },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/604b2d189a79470ab27d3063",
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
         "guidislink": false,
-        "published": "Fri, 12 Mar 2021 13:42:43 +0300",
+        "published": "Fri, 12 Mar 2021 11:02:53 +0300",
         "published_parsed": [
             2021,
             3,
             12,
-            10,
-            42,
-            43,
-            4,
-            71,
-            0
-        ]
-    },
-    {
-        "title": "ФСИН назвала число привитых от коронавируса заключенных",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "ФСИН назвала число привитых от коронавируса заключенных"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/604b2e8c9a79470ae8118c04"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/79/756155405616792.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/604b2e8c9a79470ae8118c04",
-        "summary": "В исправительных колониях от коронавируса привились примерно 1,9% процента заключенных.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "В исправительных колониях от коронавируса привились примерно 1,9% процента заключенных."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/604b2e8c9a79470ae8118c04",
-        "guidislink": false,
-        "published": "Fri, 12 Mar 2021 12:34:38 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            12,
-            9,
-            34,
-            38,
+            8,
+            2,
+            53,
             4,
             71,
             0

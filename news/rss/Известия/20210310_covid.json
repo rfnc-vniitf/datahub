@@ -1,96 +1,49 @@
 [
     {
-        "title": "Ученый предупредил о вероятности третьей волны коронавируса в Европе",
+        "title": "В России провели более 113 млн тестов на коронавирус",
         "title_detail": {
             "type": "text/plain",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "Ученый предупредил о вероятности третьей волны коронавируса в Европе"
+            "value": "В России провели более 113 млн тестов на коронавирус"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://iz.ru/1135178/2021-03-10/uchenyi-predupredil-o-veroiatnosti-tretei-volny-koronavirusa-v-evrope"
+                "href": "https://iz.ru/1134829/2021-03-10/v-rossii-proveli-bolee-113-mln-testov-na-koronavirus"
             }
         ],
-        "link": "https://iz.ru/1135178/2021-03-10/uchenyi-predupredil-o-veroiatnosti-tretei-volny-koronavirusa-v-evrope",
-        "summary": "<p>Третья волна коронавирусной инфекции может в ближайшее время ударить по Европе. Если не будет привито достаточное количество людей, то ограничения вернут осенью, заявил в среду, 10 марта, президент института Роберта Коха профессор Лотар Вилер на пресс-конференции Ассоциации иностранных корреспондентов, аккредитованных при женевском офисе ООН.</p>",
+        "link": "https://iz.ru/1134829/2021-03-10/v-rossii-proveli-bolee-113-mln-testov-na-koronavirus",
+        "summary": "<p>На сегодняшний день в России проведено более 113,8 млн лабораторных исследований на наличие коронавирусной инфекции, свидетельствуют данные оперативного штаба по борьбе с COVID-19 на 10 марта.</p>",
         "summary_detail": {
             "type": "text/html",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "<p>Третья волна коронавирусной инфекции может в ближайшее время ударить по Европе. Если не будет привито достаточное количество людей, то ограничения вернут осенью, заявил в среду, 10 марта, президент института Роберта Коха профессор Лотар Вилер на пресс-конференции Ассоциации иностранных корреспондентов, аккредитованных при женевском офисе ООН.</p>"
+            "value": "<p>На сегодняшний день в России проведено более 113,8 млн лабораторных исследований на наличие коронавирусной инфекции, свидетельствуют данные оперативного штаба по борьбе с COVID-19 на 10 марта.</p>"
         },
-        "published": "Wed, 10 Mar 2021 18:59:13 +0300",
+        "published": "Wed, 10 Mar 2021 10:40:12 +0300",
         "published_parsed": [
             2021,
             3,
             10,
-            15,
-            59,
-            13,
+            7,
+            40,
+            12,
             2,
             69,
             0
         ],
         "authors": [
             {
-                "name": "Юлия Горностаева"
+                "name": "Анна Соколова"
             }
         ],
-        "author": "Юлия Горностаева",
+        "author": "Анна Соколова",
         "author_detail": {
-            "name": "Юлия Горностаева"
+            "name": "Анна Соколова"
         },
-        "id": "https://iz.ru/1135178/2021-03-10/uchenyi-predupredil-o-veroiatnosti-tretei-volny-koronavirusa-v-evrope",
-        "guidislink": false
-    },
-    {
-        "title": "Попова оценила распространенность новых штаммов коронавируса в РФ",
-        "title_detail": {
-            "type": "text/plain",
-            "language": "ru",
-            "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "Попова оценила распространенность новых штаммов коронавируса в РФ"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://iz.ru/1135174/2021-03-10/popova-otcenila-rasprostranennost-novykh-shtammov-koronavirusa-v-rf"
-            }
-        ],
-        "link": "https://iz.ru/1135174/2021-03-10/popova-otcenila-rasprostranennost-novykh-shtammov-koronavirusa-v-rf",
-        "summary": "<p>В России на сегодняшний день пока нет широкого распространения новых мутаций коронавирусной инфекции. Об этом заявила глава Роспотребнадзора Анна Попова в среду, 10 марта.</p>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": "ru",
-            "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "<p>В России на сегодняшний день пока нет широкого распространения новых мутаций коронавирусной инфекции. Об этом заявила глава Роспотребнадзора Анна Попова в среду, 10 марта.</p>"
-        },
-        "published": "Wed, 10 Mar 2021 18:51:15 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            10,
-            15,
-            51,
-            15,
-            2,
-            69,
-            0
-        ],
-        "authors": [
-            {
-                "name": "Кристина Манич"
-            }
-        ],
-        "author": "Кристина Манич",
-        "author_detail": {
-            "name": "Кристина Манич"
-        },
-        "id": "https://iz.ru/1135174/2021-03-10/popova-otcenila-rasprostranennost-novykh-shtammov-koronavirusa-v-rf",
+        "id": "https://iz.ru/1134829/2021-03-10/v-rossii-proveli-bolee-113-mln-testov-na-koronavirus",
         "guidislink": false
     }
 ]

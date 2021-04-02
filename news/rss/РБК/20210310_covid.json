@@ -1,96 +1,46 @@
 [
     {
-        "title": "«Аэрофлот» отчитался об убытке в 123 млрд руб. по итогам года пандемии",
+        "title": "Пандемия коронавируса. Самое актуальное на 10 марта",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "«Аэрофлот» отчитался об убытке в 123 млрд руб. по итогам года пандемии"
+            "value": "Пандемия коронавируса. Самое актуальное на 10 марта"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.rbc.ru/business/10/03/2021/6048f5ed9a7947583ea863bf"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/756153997189265.jpg",
-                "rel": "enclosure"
+                "href": "https://www.rbc.ru/society/10/03/2021/5e2fe9459a79479d102bada6"
             }
         ],
-        "link": "https://www.rbc.ru/business/10/03/2021/6048f5ed9a7947583ea863bf",
-        "summary": "Выручка группы компаний снизилась на 55,4% по сравнению с прошлым годом, а пассажиропоток упал в два раза. При этом «Победа» закончила год с прибылью",
+        "link": "https://www.rbc.ru/society/10/03/2021/5e2fe9459a79479d102bada6",
+        "summary": "Собянин раскрыл будущее ограничений в Москве, Латвия возобновила авиасообщение с Россией. Актуальные новости о коронавирусе — в обзоре РБК",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Выручка группы компаний снизилась на 55,4% по сравнению с прошлым годом, а пассажиропоток упал в два раза. При этом «Победа» закончила год с прибылью"
+            "value": "Собянин раскрыл будущее ограничений в Москве, Латвия возобновила авиасообщение с Россией. Актуальные новости о коронавирусе — в обзоре РБК"
         },
         "authors": [
             {
-                "name": "Тимофей Дзядко, Наталия Анисимова"
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
             }
         ],
-        "author": "Тимофей Дзядко, Наталия Анисимова",
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко",
         "author_detail": {
-            "name": "Тимофей Дзядко, Наталия Анисимова"
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Наталья Демченко"
         },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6048f5ed9a7947583ea863bf",
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
         "guidislink": false,
-        "published": "Wed, 10 Mar 2021 20:52:19 +0300",
+        "published": "Wed, 10 Mar 2021 11:32:05 +0300",
         "published_parsed": [
             2021,
             3,
             10,
-            17,
-            52,
-            19,
-            2,
-            69,
-            0
-        ]
-    },
-    {
-        "title": "Песков сообщил о самочувствии заразившегося коронавирусом Орешкина",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Песков сообщил о самочувствии заразившегося коронавирусом Орешкина"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/6048dc829a79474fa209c1fd"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/85/756153886562854.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/6048dc829a79474fa209c1fd",
-        "summary": "Помощник президента Максим Орешкин, заболевший коронавирусом, поправился.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Помощник президента Максим Орешкин, заболевший коронавирусом, поправился."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6048dc829a79474fa209c1fd",
-        "guidislink": false,
-        "published": "Wed, 10 Mar 2021 18:11:38 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            10,
-            15,
-            11,
-            38,
+            8,
+            32,
+            5,
             2,
             69,
             0

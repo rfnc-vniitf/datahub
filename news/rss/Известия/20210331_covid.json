@@ -1,0 +1,49 @@
+[
+    {
+        "title": "В Белоруссии число случаев коронавируса превысило 321 тыс.",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В Белоруссии число случаев коронавируса превысило 321 тыс."
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1144886/2021-03-31/v-belorussii-chislo-sluchaev-koronavirusa-prevysilo-321-tys"
+            }
+        ],
+        "link": "https://iz.ru/1144886/2021-03-31/v-belorussii-chislo-sluchaev-koronavirusa-prevysilo-321-tys",
+        "summary": "<p>В Белоруссии число выявленных случаев заболевания коронавирусной инфекцией достигло 321 807. Об этом в среду, 31 марта, сообщает <a href=\"https://www.belta.by/society/view/za-sutki-v-belarusi-zaregistrirovany-1213-patsientov-s-covid-19-vypisany-1337-435139-2021/\" target=\"_blank\">БелТА</a>.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>В Белоруссии число выявленных случаев заболевания коронавирусной инфекцией достигло 321 807. Об этом в среду, 31 марта, сообщает <a href=\"https://www.belta.by/society/view/za-sutki-v-belarusi-zaregistrirovany-1213-patsientov-s-covid-19-vypisany-1337-435139-2021/\" target=\"_blank\">БелТА</a>.</p>"
+        },
+        "published": "Wed, 31 Mar 2021 16:06:26 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            31,
+            13,
+            6,
+            26,
+            2,
+            90,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Юлия Горностаева"
+            }
+        ],
+        "author": "Юлия Горностаева",
+        "author_detail": {
+            "name": "Юлия Горностаева"
+        },
+        "id": "https://iz.ru/1144886/2021-03-31/v-belorussii-chislo-sluchaev-koronavirusa-prevysilo-321-tys",
+        "guidislink": false
+    }
+]

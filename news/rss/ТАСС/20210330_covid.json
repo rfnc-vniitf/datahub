@@ -1,44 +1,42 @@
 [
     {
-        "title": "В Одессе из-за ситуации с коронавирусом отменили \"Юморину-2021\"",
+        "title": "В СВР заявили о попытках чиновников ЕС дискредитировать российскую вакцину от коронавируса",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "В Одессе из-за ситуации с коронавирусом отменили \"Юморину-2021\""
+            "value": "В СВР заявили о попытках чиновников ЕС дискредитировать российскую вакцину от коронавируса"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11024817"
+                "href": "https://tass.ru/politika/11029719"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11024817",
-        "id": "https://tass.ru/obschestvo/11024817",
+        "link": "https://tass.ru/politika/11029719",
+        "id": "https://tass.ru/politika/11029719",
         "guidislink": false,
-        "published": "Tue, 30 Mar 2021 10:03:12 +0300",
+        "published": "Tue, 30 Mar 2021 17:03:28 +0300",
         "published_parsed": [
             2021,
             3,
             30,
-            7,
+            14,
             3,
-            12,
+            28,
             1,
             89,
             0
         ],
-        "summary": "Город внесен в \"красную зону\", где действуют строгие ограничения",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Город внесен в \"красную зону\", где действуют строгие ограничения"
-        },
         "tags": [
             {
-                "term": "Общество",
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Внешняя политика",
                 "scheme": null,
                 "label": null
             },
@@ -50,197 +48,35 @@
         ]
     },
     {
-        "title": "Башар Асад вернулся к работе после перенесенного коронавируса",
+        "title": "В России разрешили измерять охват тестированием на коронавирус по анализам на антитела",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Башар Асад вернулся к работе после перенесенного коронавируса"
+            "value": "В России разрешили измерять охват тестированием на коронавирус по анализам на антитела"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11024779"
+                "href": "https://tass.ru/obschestvo/11029565"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11024779",
-        "id": "https://tass.ru/obschestvo/11024779",
+        "link": "https://tass.ru/obschestvo/11029565",
+        "id": "https://tass.ru/obschestvo/11029565",
         "guidislink": false,
-        "published": "Tue, 30 Mar 2021 09:46:03 +0300",
+        "published": "Tue, 30 Mar 2021 16:45:28 +0300",
         "published_parsed": [
             2021,
             3,
             30,
-            6,
-            46,
-            3,
-            1,
-            89,
-            0
-        ],
-        "summary": "ПЦР-тест сирийского президента показал отрицательный результат, симптомы заражения исчезли",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "ПЦР-тест сирийского президента показал отрицательный результат, симптомы заражения исчезли"
-        },
-        "tags": [
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Москалькова заявила, что многие сотрудники в аппарате омбудсмена привились от коронавируса",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Москалькова заявила, что многие сотрудники в аппарате омбудсмена привились от коронавируса"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11024599"
-            }
-        ],
-        "link": "https://tass.ru/obschestvo/11024599",
-        "id": "https://tass.ru/obschestvo/11024599",
-        "guidislink": false,
-        "published": "Tue, 30 Mar 2021 09:11:57 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            30,
-            6,
-            11,
-            57,
-            1,
-            89,
-            0
-        ],
-        "summary": "По словам омбудсмена, вакцинация - самый надежный и доказанный способ снизить риск заражения",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "По словам омбудсмена, вакцинация - самый надежный и доказанный способ снизить риск заражения"
-        },
-        "tags": [
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Вакцинация от коронавируса в России",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Президент Пакистана заразился коронавирусом после вакцинации",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Президент Пакистана заразился коронавирусом после вакцинации"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11020759"
-            }
-        ],
-        "link": "https://tass.ru/obschestvo/11020759",
-        "id": "https://tass.ru/obschestvo/11020759",
-        "guidislink": false,
-        "published": "Tue, 30 Mar 2021 08:59:56 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            30,
-            5,
-            59,
-            56,
-            1,
-            89,
-            0
-        ],
-        "summary": "Ариф Алви сообщил, что получил только одну дозу вакцины",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Ариф Алви сообщил, что получил только одну дозу вакцины"
-        },
-        "tags": [
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Песков рассказал, что пока не планирует прививаться от коронавируса",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Песков рассказал, что пока не планирует прививаться от коронавируса"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11024539"
-            }
-        ],
-        "link": "https://tass.ru/obschestvo/11024539",
-        "id": "https://tass.ru/obschestvo/11024539",
-        "guidislink": false,
-        "published": "Tue, 30 Mar 2021 08:53:13 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            30,
-            5,
-            53,
             13,
+            45,
+            28,
             1,
             89,
             0
         ],
-        "summary": "Пресс-секретарь президента отметил, что сдавал анализ, который показал, что количество антител у него достаточно высокое",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Пресс-секретарь президента отметил, что сдавал анализ, который показал, что количество антител у него достаточно высокое"
-        },
         "tags": [
             {
                 "term": "Общество",
@@ -249,261 +85,6 @@
             },
             {
                 "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Вице-премьер Башкирии заразился коронавирусом",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Вице-премьер Башкирии заразился коронавирусом"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11024487"
-            }
-        ],
-        "link": "https://tass.ru/obschestvo/11024487",
-        "id": "https://tass.ru/obschestvo/11024487",
-        "guidislink": false,
-        "published": "Tue, 30 Mar 2021 08:48:41 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            30,
-            5,
-            48,
-            41,
-            1,
-            89,
-            0
-        ],
-        "summary": "Илшата Тажитдинова доставили в больницу",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Илшата Тажитдинова доставили в больницу"
-        },
-        "tags": [
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "В ООН призвали в развитии городов учитывать уроки пандемии",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "В ООН призвали в развитии городов учитывать уроки пандемии"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11023981"
-            }
-        ],
-        "link": "https://tass.ru/obschestvo/11023981",
-        "id": "https://tass.ru/obschestvo/11023981",
-        "guidislink": false,
-        "published": "Tue, 30 Mar 2021 08:38:07 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            30,
-            5,
-            38,
-            7,
-            1,
-            89,
-            0
-        ],
-        "summary": "Как отмечают авторы доклада, города должны стать \"более зелеными и здоровыми\"",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Как отмечают авторы доклада, города должны стать \"более зелеными и здоровыми\""
-        },
-        "tags": [
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Протесты против введенных из-за коронавируса мер в Румынии переросли в стычки с жандармами",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Протесты против введенных из-за коронавируса мер в Румынии переросли в стычки с жандармами"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/mezhdunarodnaya-panorama/11024325"
-            }
-        ],
-        "link": "https://tass.ru/mezhdunarodnaya-panorama/11024325",
-        "id": "https://tass.ru/mezhdunarodnaya-panorama/11024325",
-        "guidislink": false,
-        "published": "Tue, 30 Mar 2021 08:33:47 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            30,
-            5,
-            33,
-            47,
-            1,
-            89,
-            0
-        ],
-        "summary": "По неофициальным данным, приводимым Радио Румынии, в манифестации протеста на площади Победы в Бухаресте приняли участие около 5 тыс. человек",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "По неофициальным данным, приводимым Радио Румынии, в манифестации протеста на площади Победы в Бухаресте приняли участие около 5 тыс. человек"
-        },
-        "tags": [
-            {
-                "term": "Международная панорама",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Около 1 700 доз вакцины от коронавируса поступит на Камчатку до конца недели",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Около 1 700 доз вакцины от коронавируса поступит на Камчатку до конца недели"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11024375"
-            }
-        ],
-        "link": "https://tass.ru/obschestvo/11024375",
-        "id": "https://tass.ru/obschestvo/11024375",
-        "guidislink": false,
-        "published": "Tue, 30 Mar 2021 08:25:50 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            30,
-            5,
-            25,
-            50,
-            1,
-            89,
-            0
-        ],
-        "summary": "Ранее в краевом Минздраве сообщали, что 16 тыс. доз вакцины на полуострове были израсходованы",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Ранее в краевом Минздраве сообщали, что 16 тыс. доз вакцины на полуострове были израсходованы"
-        },
-        "tags": [
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Вакцинация от коронавируса в России",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Песков считает, что иммунизация - единственный путь борьбы с коронавирусом",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Песков считает, что иммунизация - единственный путь борьбы с коронавирусом"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11024097"
-            }
-        ],
-        "link": "https://tass.ru/obschestvo/11024097",
-        "id": "https://tass.ru/obschestvo/11024097",
-        "guidislink": false,
-        "published": "Tue, 30 Mar 2021 07:40:43 +0300",
-        "published_parsed": [
-            2021,
-            3,
-            30,
-            4,
-            40,
-            43,
-            1,
-            89,
-            0
-        ],
-        "summary": "Как отметил пресс-секретарь президента РФ, \"очень важно наращивать разъяснительную кампанию вместе с наращиванием объемов производства вакцины\"",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Как отметил пресс-секретарь президента РФ, \"очень важно наращивать разъяснительную кампанию вместе с наращиванием объемов производства вакцины\""
-        },
-        "tags": [
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Вакцинация от коронавируса в России",
                 "scheme": null,
                 "label": null
             }

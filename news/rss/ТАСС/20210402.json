@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Власти США задержали двух американцев, намеревавшихся вступить в ряды ИГ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Власти США задержали двух американцев, намеревавшихся вступить в ряды ИГ"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11054927"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11054927",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11054927",
+        "guidislink": false,
+        "published": "Fri, 02 Apr 2021 03:05:18 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            2,
+            0,
+            5,
+            18,
+            4,
+            92,
+            0
+        ],
+        "summary": "В общей сложности им грозит до 40 лет тюремного заключения",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В общей сложности им грозит до 40 лет тюремного заключения"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "\"Известия\": студенты из РФ смогут участвовать в новой программе ЕС Erasmus+ с 2022 года",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "\"Известия\": студенты из РФ смогут участвовать в новой программе ЕС Erasmus+ с 2022 года"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11054917"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11054917",
+        "id": "https://tass.ru/obschestvo/11054917",
+        "guidislink": false,
+        "published": "Fri, 02 Apr 2021 03:02:05 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            2,
+            0,
+            2,
+            5,
+            4,
+            92,
+            0
+        ],
+        "summary": "Бюджет программы составит €26,2 млрд",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Бюджет программы составит €26,2 млрд"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Образование",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

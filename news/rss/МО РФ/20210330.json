@@ -1,5 +1,929 @@
 [
     {
+        "title": "Образовательный форум «Юнармия: стартгодарегионов» пройдет в Архангельске",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Образовательный форум «Юнармия: стартгодарегионов» пройдет в Архангельске"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351677@egNews"
+            },
+            {
+                "length": "136386",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/PHOTO-2021-03-30-15-53-04-550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351677@egNews",
+        "summary": "Цель форума — создание механизмов и инструментов продвижения ценностей военно-патриотического воспитания граждан России через распространение передового опыта и практик движения «Юнармия».",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Цель форума — создание механизмов и инструментов продвижения ценностей военно-патриотического воспитания граждан России через распространение передового опыта и практик движения «Юнармия»."
+        },
+        "published": "Tue, 30 Mar 2021 16:58:00 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            13,
+            58,
+            0,
+            1,
+            89,
+            0
+        ],
+        "id": "12351677@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Подразделения танковой армии ЗВО совместно с военнослужащими Белоруссии совершили марш для занятия обороны",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Подразделения танковой армии ЗВО совместно с военнослужащими Белоруссии совершили марш для занятия обороны"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351671@egNews"
+            },
+            {
+                "length": "422339",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/_DSC8641.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351671@egNews",
+        "summary": "Экипажи танков и боевых машин пехоты перемещались в режиме радиомолчания, обмениваясь информацией с помощью сигнальных флагов.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Экипажи танков и боевых машин пехоты перемещались в режиме радиомолчания, обмениваясь информацией с помощью сигнальных флагов."
+        },
+        "published": "Tue, 30 Mar 2021 16:41:57 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            13,
+            41,
+            57,
+            1,
+            89,
+            0
+        ],
+        "id": "12351671@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Ракетные полки ПГРК «Ярс» в ходе учения осваивают новые районы боевого патрулирования в Алтайском крае",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Ракетные полки ПГРК «Ярс» в ходе учения осваивают новые районы боевого патрулирования в Алтайском крае"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351676@egNews"
+            },
+            {
+                "length": "39018",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/24092017-rvsn-y4enia-550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351676@egNews",
+        "summary": "Впервые в ходе учения РВСН при совершении интенсивных маневренных действий ракетные полки прокладывают маршруты с учетом возможностей и тактико-технических характеристик новейших ракетных комплексов.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Впервые в ходе учения РВСН при совершении интенсивных маневренных действий ракетные полки прокладывают маршруты с учетом возможностей и тактико-технических характеристик новейших ракетных комплексов."
+        },
+        "published": "Tue, 30 Mar 2021 16:41:01 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            13,
+            41,
+            1,
+            1,
+            89,
+            0
+        ],
+        "id": "12351676@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Военно-медицинской академии прошел конкурс среди курсантов и слушателей вузов Минобороны России на лучшие научные работы",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Военно-медицинской академии прошел конкурс среди курсантов и слушателей вузов Минобороны России на лучшие научные работы"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351675@egNews"
+            },
+            {
+                "length": "357143",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/P3191915-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351675@egNews",
+        "summary": "Победители конкурса будут награждены премией Министра обороны Российской Федерации.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Победители конкурса будут награждены премией Министра обороны Российской Федерации."
+        },
+        "published": "Tue, 30 Mar 2021 16:36:37 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            13,
+            36,
+            37,
+            1,
+            89,
+            0
+        ],
+        "id": "12351675@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "На территории объединенной российской военной базы Кант в Киргизии прошло учение по противодействию терроризму",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "На территории объединенной российской военной базы Кант в Киргизии прошло учение по противодействию терроризму"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351667@egNews"
+            },
+            {
+                "length": "346657",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/35d465g465sf4g4g56465sfg465s4g6-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351667@egNews",
+        "summary": "Военнослужащие отразили нападение условных боевиков на контрольно-пропускной пункт воинской части, а также оцепили периметр и провели инженерную разведку подъездных путей.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Военнослужащие отразили нападение условных боевиков на контрольно-пропускной пункт воинской части, а также оцепили периметр и провели инженерную разведку подъездных путей."
+        },
+        "published": "Tue, 30 Mar 2021 16:26:44 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            13,
+            26,
+            44,
+            1,
+            89,
+            0
+        ],
+        "id": "12351667@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Женская сборная Вооруженных Сил России провела завершающую тренировку по ски-альпинизму перед стартом «Саянского марша»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Женская сборная Вооруженных Сил России провела завершающую тренировку по ски-альпинизму перед стартом «Саянского марша»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351663@egNews"
+            },
+            {
+                "length": "266547",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/64fd64s6dfb46sd4b.JPG",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351663@egNews",
+        "summary": "Подготовка к соревнованиям проходила в течение двух недель на базе учебного центра военно-спортивной подготовки «Ергаки» в Красноярском крае.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Подготовка к соревнованиям проходила в течение двух недель на базе учебного центра военно-спортивной подготовки «Ергаки» в Красноярском крае."
+        },
+        "published": "Tue, 30 Mar 2021 16:09:01 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            13,
+            9,
+            1,
+            1,
+            89,
+            0
+        ],
+        "id": "12351663@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "На Балтийском флоте состязаются лучшие военные повара и хлебопеки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "На Балтийском флоте состязаются лучшие военные повара и хлебопеки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351661@egNews"
+            },
+            {
+                "length": "358959",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/1617093400530-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351661@egNews",
+        "summary": "Кроме навыков по специальности, они сдали нормативы по огневой и физической подготовке, а также по ряду других видов подготовки.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Кроме навыков по специальности, они сдали нормативы по огневой и физической подготовке, а также по ряду других видов подготовки."
+        },
+        "published": "Tue, 30 Mar 2021 15:46:18 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            12,
+            46,
+            18,
+            1,
+            89,
+            0
+        ],
+        "id": "12351661@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Центральном музее ВВС открылась уникальная выставка военной формы одежды",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Центральном музее ВВС открылась уникальная выставка военной формы одежды"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351650@egNews"
+            },
+            {
+                "length": "127387",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/FormaVVS7-550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351650@egNews",
+        "summary": "Экспозиция даёт представление о внешнем облике отечественных авиаторов за 100 лет.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Экспозиция даёт представление о внешнем облике отечественных авиаторов за 100 лет."
+        },
+        "published": "Tue, 30 Mar 2021 15:25:28 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            12,
+            25,
+            28,
+            1,
+            89,
+            0
+        ],
+        "id": "12351650@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Ленобласти артиллеристы общевойсковой армии ЗВО почтили память героев-партизан, погибших в годы Великой Отечественной войны",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Ленобласти артиллеристы общевойсковой армии ЗВО почтили память героев-партизан, погибших в годы Великой Отечественной войны"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351655@egNews"
+            },
+            {
+                "length": "177742",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/4646b465s46sfg45fgn-550(4).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351655@egNews",
+        "summary": "Военнослужащие возложили цветы и гирлянды к подножью монумента «Лужским партизанам» в поселке Красная Гора.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Военнослужащие возложили цветы и гирлянды к подножью монумента «Лужским партизанам» в поселке Красная Гора."
+        },
+        "published": "Tue, 30 Mar 2021 14:56:52 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            11,
+            56,
+            52,
+            1,
+            89,
+            0
+        ],
+        "id": "12351655@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "С экипажами боевых машин в ОГРВ ПРРМ проведено занятие по огневой подготовке",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "С экипажами боевых машин в ОГРВ ПРРМ проведено занятие по огневой подготовке"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351652@egNews"
+            },
+            {
+                "length": "443693",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/IMGP5597-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351652@egNews",
+        "summary": "В ходе выполнения упражнения стрельб экипажи поразили мишени, имитирующие бронетранспортер, перебегающую группу пехоты, ручной противотанковый гранатомет и пулеметный расчет условного противника.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В ходе выполнения упражнения стрельб экипажи поразили мишени, имитирующие бронетранспортер, перебегающую группу пехоты, ручной противотанковый гранатомет и пулеметный расчет условного противника."
+        },
+        "published": "Tue, 30 Mar 2021 14:41:33 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            11,
+            41,
+            33,
+            1,
+            89,
+            0
+        ],
+        "id": "12351652@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Военные полицейские Северного флота приступили к последнему отборочному этапу конкурса «Страж порядка»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Военные полицейские Северного флота приступили к последнему отборочному этапу конкурса «Страж порядка»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351637@egNews"
+            },
+            {
+                "length": "233053",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/4654646464XD65GB4X6-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351637@egNews",
+        "summary": "На церемонии открытия военнослужащие показали зрителям эпизод поимки и обезвреживания вооружённого преступника.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "На церемонии открытия военнослужащие показали зрителям эпизод поимки и обезвреживания вооружённого преступника."
+        },
+        "published": "Tue, 30 Mar 2021 14:16:57 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            11,
+            16,
+            57,
+            1,
+            89,
+            0
+        ],
+        "id": "12351637@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Оперативной группе российских войск в Приднестровском регионе Республики Молдова готовятся к боевым стрельбам взводов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Оперативной группе российских войск в Приднестровском регионе Республики Молдова готовятся к боевым стрельбам взводов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351653@egNews"
+            },
+            {
+                "length": "349736",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/IMG_8767.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351653@egNews",
+        "summary": "В ходе подготовки к стрельбам военнослужащие ОГРВ ПРРМ проверили техническое состояние вооружения и исправность приборов прицеливания, наличие уровня и соответствия охлаждающих жидкостей, моторного и трансмиссионного масла в узлах и агрегатах.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В ходе подготовки к стрельбам военнослужащие ОГРВ ПРРМ проверили техническое состояние вооружения и исправность приборов прицеливания, наличие уровня и соответствия охлаждающих жидкостей, моторного и трансмиссионного масла в узлах и агрегатах."
+        },
+        "published": "Tue, 30 Mar 2021 14:06:14 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            11,
+            6,
+            14,
+            1,
+            89,
+            0
+        ],
+        "id": "12351653@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Московской области стартует армейский этап международного конкурса «Верный друг»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Московской области стартует армейский этап международного конкурса «Верный друг»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351642@egNews"
+            },
+            {
+                "length": "344844",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/OU9A8015-1200(1).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351642@egNews",
+        "summary": "В состязании примут участие свыше 20 расчетов в составе 4 команд, пять лучших специалистов-кинологов вместе с питомцами представят танковое объединение на окружном этапе конкурса.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В состязании примут участие свыше 20 расчетов в составе 4 команд, пять лучших специалистов-кинологов вместе с питомцами представят танковое объединение на окружном этапе конкурса."
+        },
+        "published": "Tue, 30 Mar 2021 13:53:18 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            10,
+            53,
+            18,
+            1,
+            89,
+            0
+        ],
+        "id": "12351642@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Центрально-Чернозёмном регионе России полностью завершена подготовка сборных пунктов и военкоматов к новому призыву",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Центрально-Чернозёмном регионе России полностью завершена подготовка сборных пунктов и военкоматов к новому призыву"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351643@egNews"
+            },
+            {
+                "length": "157509",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/20160330181431_4U4A0034-550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351643@egNews",
+        "summary": "До получения результата теста на COVID-19 новобранцы будут находиться в специальных изоляционных помещениях.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "До получения результата теста на COVID-19 новобранцы будут находиться в специальных изоляционных помещениях."
+        },
+        "published": "Tue, 30 Mar 2021 13:43:46 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            10,
+            43,
+            46,
+            1,
+            89,
+            0
+        ],
+        "id": "12351643@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Международный противоминный центр ВС РФ посетила военная делегация Республики Узбекистан",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Международный противоминный центр ВС РФ посетила военная делегация Республики Узбекистан"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351641@egNews"
+            },
+            {
+                "length": "53398",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/03072017-logo_video-346534573467(1).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351641@egNews",
+        "summary": "Гости ознакомились с российскими средствами инженерного вооружения, организацией учебного процесса, учебно-материальной базой, а также инфраструктурой противоминного центра.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Гости ознакомились с российскими средствами инженерного вооружения, организацией учебного процесса, учебно-материальной базой, а также инфраструктурой противоминного центра."
+        },
+        "published": "Tue, 30 Mar 2021 13:15:02 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            10,
+            15,
+            2,
+            1,
+            89,
+            0
+        ],
+        "id": "12351641@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Ракетный полк ПГРК «Ярс» в ходе командно-штабных учений РВСН приступил к совершению марша на полевую позицию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Ракетный полк ПГРК «Ярс» в ходе командно-штабных учений РВСН приступил к совершению марша на полевую позицию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351638@egNews"
+            },
+            {
+                "length": "222513",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/16032020-rvsn-irkutsk-550(2).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351638@egNews",
+        "summary": "В рамках КШУ подразделения РВСН отрабатывают вопросы взаимодействия с соединениями и частями ЦВО, органами МЧС и МВД России.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В рамках КШУ подразделения РВСН отрабатывают вопросы взаимодействия с соединениями и частями ЦВО, органами МЧС и МВД России."
+        },
+        "published": "Tue, 30 Mar 2021 13:00:33 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            10,
+            0,
+            33,
+            1,
+            89,
+            0
+        ],
+        "id": "12351638@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Флагман Черноморского флота ГРКР «Москва» провёл тренировку по ПВО в пункте базирования",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Флагман Черноморского флота ГРКР «Москва» провёл тренировку по ПВО в пункте базирования"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351629@egNews"
+            },
+            {
+                "length": "230573",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/P1012116.JPG",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351629@egNews",
+        "summary": "Тренировка прошла успешно: личный состав показал высокий уровень слаженности при выполнении поставленной задачи.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Тренировка прошла успешно: личный состав показал высокий уровень слаженности при выполнении поставленной задачи."
+        },
+        "published": "Tue, 30 Mar 2021 13:00:27 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            10,
+            0,
+            27,
+            1,
+            89,
+            0
+        ],
+        "id": "12351629@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В рамках сдачи контрольной проверки в войсках ЮВО будет задействовано свыше 150 вертолетов армейской авиации",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В рамках сдачи контрольной проверки в войсках ЮВО будет задействовано свыше 150 вертолетов армейской авиации"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351624@egNews"
+            },
+            {
+                "length": "271228",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/d54db465d4g65d4gh6s4h6565h6565fg65-1.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351624@egNews",
+        "summary": "В соответствии с требованиями командующего войсками ЮВО генерала армии Александра Дворникова на учениях будут отработаны действия войск с применением подразделений тактического воздушного десанта.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В соответствии с требованиями командующего войсками ЮВО генерала армии Александра Дворникова на учениях будут отработаны действия войск с применением подразделений тактического воздушного десанта."
+        },
+        "published": "Tue, 30 Mar 2021 11:23:45 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            8,
+            23,
+            45,
+            1,
+            89,
+            0
+        ],
+        "id": "12351624@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "На Черноморский флот поступила самая объёмная партия вакцины «Спутник-V» после начала вакцинации военнослужащих",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "На Черноморский флот поступила самая объёмная партия вакцины «Спутник-V» после начала вакцинации военнослужащих"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351610@egNews"
+            },
+            {
+                "length": "104818",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/DSCF5372.JPG",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351610@egNews",
+        "summary": "Очередная партия вакцины составила 15000 доз препарата.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Очередная партия вакцины составила 15000 доз препарата."
+        },
+        "published": "Tue, 30 Mar 2021 11:01:26 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            8,
+            1,
+            26,
+            1,
+            89,
+            0
+        ],
+        "id": "12351610@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Псковской области в рамках масштабных учений военнослужащие десантно-штурмового соединения ВДВ погрузили технику на аэродроме взлета",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Псковской области в рамках масштабных учений военнослужащие десантно-штурмового соединения ВДВ погрузили технику на аэродроме взлета"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351617@egNews"
+            },
+            {
+                "length": "336390",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/4S6A9799-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351617@egNews",
+        "summary": "Всего в учении будет задействовано более 1500 военнослужащих и 200 единиц боевой и специальной техники, 8 самолетов военно-транспортной авиации ВКС России, а также 2 транспортно-боевых вертолета.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Всего в учении будет задействовано более 1500 военнослужащих и 200 единиц боевой и специальной техники, 8 самолетов военно-транспортной авиации ВКС России, а также 2 транспортно-боевых вертолета."
+        },
+        "published": "Tue, 30 Mar 2021 10:39:25 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            7,
+            39,
+            25,
+            1,
+            89,
+            0
+        ],
+        "id": "12351617@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Центральном военном округе проводится масштабная командно-штабная тренировка",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Центральном военном округе проводится масштабная командно-штабная тренировка"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351611@egNews"
+            },
+            {
+                "length": "273596",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/sh354f54dhn6h4n65h-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351611@egNews",
+        "summary": "Целями КШТ являются проверка готовности органов управления и штабов к организации качественного взаимодействия и устойчивого управления подчиненными группировками войск при решении задач в соответствии с предназначением.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Целями КШТ являются проверка готовности органов управления и штабов к организации качественного взаимодействия и устойчивого управления подчиненными группировками войск при решении задач в соответствии с предназначением."
+        },
+        "published": "Tue, 30 Mar 2021 09:58:29 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            6,
+            58,
+            29,
+            1,
+            89,
+            0
+        ],
+        "id": "12351611@egNews",
+        "guidislink": false
+    },
+    {
         "title": "Открытие конкурсов АРМИ-2021 состоится на полигоне под Челябинском",
         "title_detail": {
             "type": "text/plain",
@@ -657,6 +1581,50 @@
             0
         ],
         "id": "12351533@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "В Подмосковье завершилось масштабное учение с танкистами Кантемировской дивизии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Подмосковье завершилось масштабное учение с танкистами Кантемировской дивизии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12351640@egNews"
+            },
+            {
+                "length": "142595",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/z5dfb465d4b65d4b564g64gf6546gs4n65g-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12351640@egNews",
+        "summary": "Учения проходили под общим руководством командующего гвардейской танковой армией Западного военного округа генерал-лейтенанта Сергея Киселя.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Учения проходили под общим руководством командующего гвардейской танковой армией Западного военного округа генерал-лейтенанта Сергея Киселя."
+        },
+        "published": "Tue, 30 Mar 2021 05:27:40 +0300",
+        "published_parsed": [
+            2021,
+            3,
+            30,
+            2,
+            27,
+            40,
+            1,
+            89,
+            0
+        ],
+        "id": "12351640@egNews",
         "guidislink": false
     },
     {
