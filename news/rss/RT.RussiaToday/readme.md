@@ -107,10 +107,11 @@
 30.03.2021 | 50 | 6 
 31.03.2021 | 50 | 2 
 01.04.2021 | 50 | 9 
-02.04.2021 | 49 | 4 
+02.04.2021 | 50 | 4 
+03.04.2021 | 50 | 4 
+04.04.2021 | 50 | 5 
+05.04.2021 | 50 | 1 
+06.04.2021 | 1 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [СМИ: Кубок мира по прыжкам в воду в Токио отменят из-за коронавируса](https://russian.rt.com/sport/news/848698-kubok-mira-pryzhki-v-vodu-otmena?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Германии за сутки выявили более 21 тысячи случаев коронавируса](https://russian.rt.com/world/news/848682-germaniya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Число случаев коронавируса в Казахстане достигло почти 249 тысяч](https://russian.rt.com/ussr/news/848667-kazahstan-koronavirus-zabolevaemost?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Глава Чукотки привился от коронавируса](https://russian.rt.com/russia/news/848663-chukotka-glava-koronavirus-vakcinaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Исследование: кибермошенники похитили 2,8 млрд рублей за время пандемии](https://russian.rt.com/russia/news/849573-ekspert-moshennichestvo-pandemiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

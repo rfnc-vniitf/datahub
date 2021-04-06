@@ -1,42 +1,93 @@
 [
     {
-        "id": "https://www.rosbalt.ru/russia/2021/04/02/1895146.html",
+        "id": "https://www.rosbalt.ru/piter/2021/04/02/1895214.html",
         "guidislink": true,
-        "link": "https://www.rosbalt.ru/russia/2021/04/02/1895146.html",
-        "title": "В России научились модернизировать вакцину от коронавируса",
+        "link": "https://www.rosbalt.ru/piter/2021/04/02/1895214.html",
+        "title": "В Петербурге переболевшие медсестры борются с поликлиникой за ковидные выплаты",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.rosbalt.ru/feed/",
-            "value": "В России научились модернизировать вакцину от коронавируса"
+            "value": "В Петербурге переболевшие медсестры борются с поликлиникой за ковидные выплаты"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.rosbalt.ru/russia/2021/04/02/1895146.html"
+                "href": "https://www.rosbalt.ru/piter/2021/04/02/1895214.html"
             },
             {
                 "length": "0",
                 "type": "image/jpeg",
-                "href": "https://img.rosbalt.ru/photobank/e/8/8/1/NTrb9g8z-580.jpg",
+                "href": "https://img.rosbalt.ru/photobank/0/2/6/7/N6XB3jxQ-580.jpg",
                 "rel": "enclosure"
             }
         ],
-        "summary": "В России разработали механизм обновления вакцины от коронавируса. Об этом, как сообщает РИА «Новости», заявил директор Национального исследовательского...",
+        "summary": "В Петербурге четыре медсестры заболели коронавирусом и безуспешно пытаются доказать начальству, что заразились на рабочем месте. Об этом корреспонденту...",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://www.rosbalt.ru/feed/",
-            "value": "В России разработали механизм обновления вакцины от коронавируса. Об этом, как сообщает РИА «Новости», заявил директор Национального исследовательского..."
+            "value": "В Петербурге четыре медсестры заболели коронавирусом и безуспешно пытаются доказать начальству, что заразились на рабочем месте. Об этом корреспонденту..."
         },
-        "published": "Fri, 02 Apr 2021 09:28:00 +0300",
+        "published": "Fri, 02 Apr 2021 13:45:21 +0300",
         "published_parsed": [
             2021,
             4,
             2,
+            10,
+            45,
+            21,
+            4,
+            92,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/02/1895176.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/02/1895176.html",
+        "title": "«Сибирское стекло»: рецепты роста вопреки пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "«Сибирское стекло»: рецепты роста вопреки пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/02/1895176.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/fa/c9/42/9e/CpKMDvbQgNXV-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Нарастить объемы производства и улучшить эффективность в условиях падения экономики возможно с опорой на инновации и заинтересованность работников.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Нарастить объемы производства и улучшить эффективность в условиях падения экономики возможно с опорой на инновации и заинтересованность работников."
+        },
+        "published": "Fri, 02 Apr 2021 12:06:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            2,
+            9,
             6,
-            28,
             0,
             4,
             92,
@@ -51,43 +102,94 @@
         ]
     },
     {
-        "id": "https://www.rosbalt.ru/russia/2021/04/02/1895142.html",
+        "id": "https://www.rosbalt.ru/moscow/2021/04/02/1895166.html",
         "guidislink": true,
-        "link": "https://www.rosbalt.ru/russia/2021/04/02/1895142.html",
-        "title": "В Роспотребнадзоре представили два прогноза по ситуации с коронавирусом",
+        "link": "https://www.rosbalt.ru/moscow/2021/04/02/1895166.html",
+        "title": "Гинцбург сомневается, что пандемия коронавируса закончится к осени",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.rosbalt.ru/feed/",
-            "value": "В Роспотребнадзоре представили два прогноза по ситуации с коронавирусом"
+            "value": "Гинцбург сомневается, что пандемия коронавируса закончится к осени"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.rosbalt.ru/russia/2021/04/02/1895142.html"
+                "href": "https://www.rosbalt.ru/moscow/2021/04/02/1895166.html"
             },
             {
                 "length": "0",
                 "type": "image/jpeg",
-                "href": "https://img.rosbalt.ru/photobank/2e/c5/6f/b8/zkM6dq8TNpZF-580.jpg",
+                "href": "https://img.rosbalt.ru/photobank/95/35/59/8c/ZjYycKJvTH2P-580.jpg",
                 "rel": "enclosure"
             }
         ],
-        "summary": "Эксперты пытаются предсказать, когда закончится пандемия.",
+        "summary": "При этом, по его словам, в РФ можно будет управлять ситуацией.",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://www.rosbalt.ru/feed/",
-            "value": "Эксперты пытаются предсказать, когда закончится пандемия."
+            "value": "При этом, по его словам, в РФ можно будет управлять ситуацией."
         },
-        "published": "Fri, 02 Apr 2021 08:43:00 +0300",
+        "published": "Fri, 02 Apr 2021 11:41:00 +0300",
         "published_parsed": [
             2021,
             4,
             2,
-            5,
-            43,
+            8,
+            41,
+            0,
+            4,
+            92,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/02/1895173.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/02/1895173.html",
+        "title": "Еще 400 человек в России скончались от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Еще 400 человек в России скончались от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/02/1895173.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/7/a/2/8/tHg4ydzr-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "За последние сутки в РФ зарегистрировано 8 тыс. 792 новых случая коронавируса.  По данным оперштаба, в Москве подтвердилось 1 тыс. 764 случаев заболевания,...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "За последние сутки в РФ зарегистрировано 8 тыс. 792 новых случая коронавируса.  По данным оперштаба, в Москве подтвердилось 1 тыс. 764 случаев заболевания,..."
+        },
+        "published": "Fri, 02 Apr 2021 11:37:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            2,
+            8,
+            37,
             0,
             4,
             92,
@@ -96,6 +198,108 @@
         "tags": [
             {
                 "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/moscow/2021/04/02/1895156.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/moscow/2021/04/02/1895156.html",
+        "title": "Малышеву проверят после слов о вреде масок в пандемию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Малышеву проверят после слов о вреде масок в пандемию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/moscow/2021/04/02/1895156.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/b0/e4/8c/46/fhkG3rXBywVd-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Депутат Госдумы от фракции КПРФ Валерий Рашкин пожаловался в Роспотребнадзор и Роскомнадзор на известную телеведущую Елену Малышеву. Народный избранник...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Депутат Госдумы от фракции КПРФ Валерий Рашкин пожаловался в Роспотребнадзор и Роскомнадзор на известную телеведущую Елену Малышеву. Народный избранник..."
+        },
+        "published": "Fri, 02 Apr 2021 10:38:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            2,
+            7,
+            38,
+            0,
+            4,
+            92,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/02/1895155.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/02/1895155.html",
+        "title": "На Украине «рекордное» число заразившихся COVID-19 и умерших от коронавируса за сутки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "На Украине «рекордное» число заразившихся COVID-19 и умерших от коронавируса за сутки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/02/1895155.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/24/c5/b8/be/qPNVmdhcvMyK-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "За минувшие сутки на Украине зафиксировали «рекордное» количество инфицированных COVID-19 — 19 893. Об этом сообщил на своей странице в Facebook глава...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "За минувшие сутки на Украине зафиксировали «рекордное» количество инфицированных COVID-19 — 19 893. Об этом сообщил на своей странице в Facebook глава..."
+        },
+        "published": "Fri, 02 Apr 2021 10:37:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            2,
+            7,
+            37,
+            0,
+            4,
+            92,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
                 "scheme": null,
                 "label": null
             }

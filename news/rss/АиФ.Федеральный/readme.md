@@ -107,7 +107,13 @@
 30.03.2021 | 133 | 5 
 31.03.2021 | 127 | 6 
 01.04.2021 | 131 | 5 
-02.04.2021 | 33 | 1 
+02.04.2021 | 127 | 4 
+03.04.2021 | 57 | 4 
+04.04.2021 | 56 | 2 
+05.04.2021 | 126 | 3 
+06.04.2021 | 1 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Когда закончатся пандемийные льготы?](https://aif.ru/money/economy/kogda_zakonchatsya_pandemiynye_lgoty)
++ [Додон призвал Санду прекратить политическую борьбу и бороться с пандемией](https://aif.ru/politics/world/rassypayushchiysya_buket_moldavii_kak_segodnya_zhivyot_respublika)
++ [Число заболевших коронавирусом в России за сутки выросло на 8 646](https://aif.ru/health/coronavirus/v_rossii_za_sutki_vyyavleno_8_817_novyh_sluchaev_zarazheniya_koronavirusom)
++ [Католическая Пасха в условиях пандемии](https://aif.ru/society/religion/katolicheskaya_pasha_v_usloviyah_pandemii)

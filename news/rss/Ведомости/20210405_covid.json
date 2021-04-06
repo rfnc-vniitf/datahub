@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 8646 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8646 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/05/864564-8646-novih-sluchaev"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2n/nistl/normal-uhg.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/05/864564-8646-novih-sluchaev",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/05/864564-8646-novih-sluchaev",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/05/864564-8646-novih-sluchaev",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Mon, 05 Apr 2021 11:06:06 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            5,
+            8,
+            6,
+            6,
+            0,
+            95,
+            0
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "title": "На Украине за сутки зафиксировали более 10 тыс. случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "На Украине за сутки зафиксировали более 10 тыс. случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1146703/2021-04-05/na-ukraine-za-sutki-zafiksirovali-bolee-10-tys-sluchaev-koronavirusa"
+            }
+        ],
+        "link": "https://iz.ru/1146703/2021-04-05/na-ukraine-za-sutki-zafiksirovali-bolee-10-tys-sluchaev-koronavirusa",
+        "summary": "<p>Более 10 тыс. новых случаев коронавирусной инфекции зафиксировали на Украине за прошедшие сутки. Такие данные в понедельник, 5 апреля, опубликовал минздрав страны в официальном Telegram-канале «Коронавирус инфо».</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Более 10 тыс. новых случаев коронавирусной инфекции зафиксировали на Украине за прошедшие сутки. Такие данные в понедельник, 5 апреля, опубликовал минздрав страны в официальном Telegram-канале «Коронавирус инфо».</p>"
+        },
+        "published": "Mon, 05 Apr 2021 09:32:07 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            5,
+            6,
+            32,
+            7,
+            0,
+            95,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Кристина Манич"
+            }
+        ],
+        "author": "Кристина Манич",
+        "author_detail": {
+            "name": "Кристина Манич"
+        },
+        "id": "https://iz.ru/1146703/2021-04-05/na-ukraine-za-sutki-zafiksirovali-bolee-10-tys-sluchaev-koronavirusa",
+        "guidislink": false
+    }
+]

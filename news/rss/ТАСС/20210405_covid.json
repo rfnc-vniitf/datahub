@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Главный ковидный госпиталь Астрахани закрылся из-за снижения заболеваемости",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Главный ковидный госпиталь Астрахани закрылся из-за снижения заболеваемости"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11072319"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11072319",
+        "id": "https://tass.ru/obschestvo/11072319",
+        "guidislink": false,
+        "published": "Mon, 05 Apr 2021 16:41:19 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            5,
+            13,
+            41,
+            19,
+            0,
+            95,
+            0
+        ],
+        "summary": "По словам главы Минздрава региона, область возвращается к показателям до распространения COVID-19",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По словам главы Минздрава региона, область возвращается к показателям до распространения COVID-19"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

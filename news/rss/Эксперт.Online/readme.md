@@ -106,7 +106,10 @@
 30.03.2021 | 25 | 1 
 31.03.2021 | 25 | 0 
 01.04.2021 | 25 | 1 
-02.04.2021 | 10 | 0 
+02.04.2021 | 25 | 1 
+03.04.2021 | 7 | 2 
+04.04.2021 | 6 | 1 
+05.04.2021 | 23 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Академик спрогнозировал окончание эпидемии коронавируса в РФ](http://expert.ru/2021/04/1/akademik-sprognoziroval-okonchaniye-epidemii-koronavirusa-v-rf/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/1/akademik-sprognoziroval-okonchaniye-epidemii-koronavirusa-v-rf/)
++ [Коронавирус в России: за стуки выявили менее 9 тыс. заболевших](http://expert.ru/2021/04/4/koronavirus-v-rossii-za-stuki-vyyavili-yeschyo-9-tys-zabolevshikh/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/4/koronavirus-v-rossii-za-stuki-vyyavili-yeschyo-9-tys-zabolevshikh/)

@@ -89,7 +89,10 @@
 30.03.2021 | 9 | 1 
 31.03.2021 | 9 | 0 
 01.04.2021 | 7 | 0 
-02.04.2021 | 3 | 0 
+02.04.2021 | 8 | 0 
+03.04.2021 | 7 | 1 
+04.04.2021 | 6 | 0 
+05.04.2021 | 11 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Красота изнутри: как пандемия поставила вопросы здоровья на первое место](http://www.forbes.ru/forbeslife/424647-krasota-iznutri-kak-pandemiya-postavila-voprosy-zdorovya-na-pervoe-mesto)
++ [Не чувствовать себя рабочей функцией: как мы изменились за год с коронавирусом](http://www.forbes.ru/forbeslife/425145-ne-chuvstvovat-sebya-rabochey-funkciey-kak-my-izmenilis-za-god-s-koronavirusom)

@@ -107,9 +107,15 @@
 30.03.2021 | 20 | 2 
 31.03.2021 | 20 | 1 
 01.04.2021 | 20 | 0 
-02.04.2021 | 20 | 3 
+02.04.2021 | 20 | 1 
+03.04.2021 | 20 | 0 
+04.04.2021 | 20 | 5 
+05.04.2021 | 20 | 0 
+06.04.2021 | 1 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Турция снова вводит жесткие ограничения из-за ситуации с коронавирусом](https://riafan.ru/1416021-turciya-snova-vvodit-zhestkie-ogranicheniya-iz-za-situacii-s-koronavirusom)
-+ [Число зараженных коронавирусом в Петербурге снизилось на 32%](https://riafan.ru/region/spb/1416020-chislo-zarazhennyh-koronavirusom-v-peterburge-snizilos-na-32)
-+ [Названо идеальное туристическое направление для переболевших коронавирусом россиян](https://riafan.ru/1416006-nazvano-idealnoe-turisticheskoe-napravlenie-dlya-perebolevshih-koronavirusom-rossiyan)
++ [Антирекорды пандемии: что ждет экономику стран Ближнего Востока к концу 2021 года](https://riafan.ru/1417043-antirekordy-pandemii-chto-zhdet-ekonomiku-stran-blizhnego-vostoka-k-koncu-2021-goda)
++ [Россиянам рассказали о симптомах коронавируса после вакцинации](https://riafan.ru/1417239-rossiyanam-rasskazali-o-simptomah-koronavirusa-posle-vakcinacii)
++ [Доктор Мясников перечислил основные показания к вакцинации от коронавируса](https://riafan.ru/1417236-doktor-myasnikov-perechislil-osnovnye-pokazaniya-k-vakcinacii-ot-koronavirusa)
++ [Умерший от коронавируса бразильский пациент внезапно ожил в гробу](https://riafan.ru/1417231-umershii-ot-koronavirusa-brazilskii-pacient-vnezapno-ozhil-v-grobu)
++ [Траты жителей России на интернет выросли на фоне пандемии](https://riafan.ru/1417229-traty-zhitelei-rossii-na-internet-vyrosli-na-fone-pandemii)

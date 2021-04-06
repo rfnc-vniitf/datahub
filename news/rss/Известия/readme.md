@@ -108,7 +108,10 @@
 31.03.2021 | 50 | 1 
 01.04.2021 | 50 | 3 
 02.04.2021 | 50 | 2 
+03.04.2021 | 50 | 3 
+04.04.2021 | 50 | 3 
+05.04.2021 | 50 | 1 
+06.04.2021 | 4 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [В Роспотребнадзоре назвали максимальный срок окончания пандемии COVID-19](https://iz.ru/1145675/2021-04-02/v-rospotrebnadzore-nazvali-maksimalnyi-srok-okonchaniia-pandemii-covid-19)
-+ [В РФ создали технологию обновления вакцины при мутации коронавируса](https://iz.ru/1145664/2021-04-02/tcentr-gamalei-sozdal-tekhnologiiu-obnovleniia-vaktciny-pri-mutatcii-covid)
++ [КНДР не будет участвовать в Олимпиаде в Токио из-за коронавируса](https://iz.ru/1147148/2021-04-06/kndr-ne-budet-uchastvovat-v-olimpiade-v-tokio-iz-za-koronavirusa)

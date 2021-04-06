@@ -1,0 +1,155 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/03/1895351.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/03/1895351.html",
+        "title": "Привитый российской вакцинной президент Аргентины заболел коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Привитый российской вакцинной президент Аргентины заболел коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/03/1895351.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/24/c5/b8/be/qPNVmdhcvMyK-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "62-летний президент Аргентины Альберто Фернандес заразился коронавирусом. Об этом он сам написал в своем аккаунте в Twitter. Фернандес решил провериться...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "62-летний президент Аргентины Альберто Фернандес заразился коронавирусом. Об этом он сам написал в своем аккаунте в Twitter. Фернандес решил провериться..."
+        },
+        "published": "Sat, 03 Apr 2021 16:16:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            3,
+            13,
+            16,
+            0,
+            5,
+            93,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/03/1895299.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/03/1895299.html",
+        "title": "Ученые задумали лечить коронавирус грибами",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Ученые задумали лечить коронавирус грибами"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/03/1895299.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/2e/c5/6f/b8/zkM6dq8TNpZF-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Ученые из Южно-Уральского госуниверситета установили, что в борьбе с коронавирусной инфекцией COVID-19 могут помочь компоненты плесневых грибов. Как рассказал...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Ученые из Южно-Уральского госуниверситета установили, что в борьбе с коронавирусной инфекцией COVID-19 могут помочь компоненты плесневых грибов. Как рассказал..."
+        },
+        "published": "Sat, 03 Apr 2021 04:41:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            3,
+            1,
+            41,
+            0,
+            5,
+            93,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/03/1895323.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/03/1895323.html",
+        "title": "Ученые выяснили, кто сильнее всего уязвим перед коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Ученые выяснили, кто сильнее всего уязвим перед коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/03/1895323.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/b9/94/f0/da/ZxGCjNzMY6H2-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Ученые Университета Мэриленда определили, что пациенты с диабетом II типа и высоким индексом массы тела не только подвергаются высокому риску осложнений...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Ученые Университета Мэриленда определили, что пациенты с диабетом II типа и высоким индексом массы тела не только подвергаются высокому риску осложнений..."
+        },
+        "published": "Sat, 03 Apr 2021 03:16:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            3,
+            0,
+            16,
+            0,
+            5,
+            93,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

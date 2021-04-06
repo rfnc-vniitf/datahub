@@ -1,0 +1,155 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/moscow/2021/04/04/1895400.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/moscow/2021/04/04/1895400.html",
+        "title": "Звезду сериала «Воронины» Станислава Дужникова госпитализировали с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Звезду сериала «Воронины» Станислава Дужникова госпитализировали с коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/moscow/2021/04/04/1895400.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/c3/d5/74/d1/BQwJC4q3yrYF-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "У 47-летнего актера пневмония и сопутствующие заболевания.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "У 47-летнего актера пневмония и сопутствующие заболевания."
+        },
+        "published": "Sun, 04 Apr 2021 13:33:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            4,
+            10,
+            33,
+            0,
+            6,
+            94,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/04/1895395.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/04/1895395.html",
+        "title": "В России из-за коронавируса умерли 100 тыс. человек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России из-за коронавируса умерли 100 тыс. человек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/04/1895395.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/95/35/59/8c/ZjYycKJvTH2P-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Больше всего случаев выявляют в Москве и Петербурге.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Больше всего случаев выявляют в Москве и Петербурге."
+        },
+        "published": "Sun, 04 Apr 2021 11:09:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            4,
+            8,
+            9,
+            0,
+            6,
+            94,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/04/1895372.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/04/1895372.html",
+        "title": "В Сербии от коронавируса привили 107-летнюю бабушку",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Сербии от коронавируса привили 107-летнюю бабушку"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/04/1895372.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/52/c7/02/64/pwBzHhZrdNq2-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В Сербии привили от коронавируса старейшую жительницу города Нови-Сад. Две дозы вакцины получила женщина 1914 года рождения, сообщают местные СМИ. Повторный...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Сербии привили от коронавируса старейшую жительницу города Нови-Сад. Две дозы вакцины получила женщина 1914 года рождения, сообщают местные СМИ. Повторный..."
+        },
+        "published": "Sun, 04 Apr 2021 04:33:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            4,
+            1,
+            33,
+            0,
+            6,
+            94,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]
