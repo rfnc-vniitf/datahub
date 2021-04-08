@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/08/1896124.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/08/1896124.html",
+        "title": "Британский штамм коронавируса захватил США",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Британский штамм коронавируса захватил США"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/08/1896124.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/3/9/0/4/KLfCD9Ft-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Штамм коронавируса, первоначально выявленный в Британии, стал преобладающим в США среди новых случаев заражения, передает ТАСС со ссылкой на заявление...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Штамм коронавируса, первоначально выявленный в Британии, стал преобладающим в США среди новых случаев заражения, передает ТАСС со ссылкой на заявление..."
+        },
+        "published": "Thu, 08 Apr 2021 04:51:13 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            8,
+            1,
+            51,
+            13,
+            3,
+            98,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

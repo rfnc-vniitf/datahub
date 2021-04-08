@@ -111,6 +111,10 @@
 03.04.2021 | 12 | 3 
 04.04.2021 | 11 | 4 
 05.04.2021 | 45 | 1 
+06.04.2021 | 49 | 5 
+07.04.2021 | 46 | 2 
+08.04.2021 | 9 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [В России за сутки выявили 8646 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/04/05/864564-8646-novih-sluchaev)
++ [В ОНК сообщили о госпитализации Фургала после заражения коронавирусом](https://www.vedomosti.ru/society/news/2021/04/07/864989-v-onk-soobschili-o-gospitalizatsii-furgala-posle-zarazheniya-koronavirusom)
++ [В России за сутки выявили 8294 случая коронавируса](https://www.vedomosti.ru/society/news/2021/04/07/864916-8294-sluchaya-koronavirusa)

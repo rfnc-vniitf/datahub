@@ -111,7 +111,12 @@
 03.04.2021 | 50 | 4 
 04.04.2021 | 50 | 5 
 05.04.2021 | 50 | 1 
-06.04.2021 | 1 | 0 
+06.04.2021 | 50 | 3 
+07.04.2021 | 50 | 2 
+08.04.2021 | 50 | 4 
 
 > ### Последние новости по теме covid-19:
-+ [Исследование: кибермошенники похитили 2,8 млрд рублей за время пандемии](https://russian.rt.com/russia/news/849573-ekspert-moshennichestvo-pandemiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В России за сутки проведено 323 тысячи тестов на коронавирус](https://russian.rt.com/russia/news/850639-rossiya-koronavirus-testy?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [На Украине за сутки выявили более 19 тысяч случаев коронавируса](https://russian.rt.com/ussr/news/850636-ukraina-sluchai-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Индии за сутки выявили более 126 тысяч случаев коронавируса](https://russian.rt.com/world/news/850626-indiya-sluchai-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Число случаев коронавируса в Казахстане превысило 261 тысячу](https://russian.rt.com/ussr/news/850616-koronavirus-kazakhstan?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

@@ -93,6 +93,9 @@
 03.04.2021 | 7 | 1 
 04.04.2021 | 6 | 0 
 05.04.2021 | 11 | 0 
+06.04.2021 | 9 | 0 
+07.04.2021 | 9 | 1 
+08.04.2021 | 4 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Не чувствовать себя рабочей функцией: как мы изменились за год с коронавирусом](http://www.forbes.ru/forbeslife/425145-ne-chuvstvovat-sebya-rabochey-funkciey-kak-my-izmenilis-za-god-s-koronavirusom)
++ [«Россия — нерадивый родитель»: директор СПИД.ЦЕНТРа — о профилактике ВИЧ, коронавирусе и «иноагентстве»](http://www.forbes.ru/forbeslife/425501-rossiya-neradivyy-roditel-direktor-spidcentra-o-profilaktike-vich-koronaviruse-i)

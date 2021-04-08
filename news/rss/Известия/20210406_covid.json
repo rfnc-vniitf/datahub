@@ -1,49 +1,143 @@
 [
     {
-        "title": "КНДР не будет участвовать в Олимпиаде в Токио из-за коронавируса",
+        "title": "В РФ не выявляли случаев передачи коронавируса от животных человеку",
         "title_detail": {
             "type": "text/plain",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "КНДР не будет участвовать в Олимпиаде в Токио из-за коронавируса"
+            "value": "В РФ не выявляли случаев передачи коронавируса от животных человеку"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://iz.ru/1147148/2021-04-06/kndr-ne-budet-uchastvovat-v-olimpiade-v-tokio-iz-za-koronavirusa"
+                "href": "https://iz.ru/1147413/2021-04-06/v-rf-ne-vyiavliali-sluchaev-peredachi-koronavirusa-ot-zhivotnykh-cheloveku"
             }
         ],
-        "link": "https://iz.ru/1147148/2021-04-06/kndr-ne-budet-uchastvovat-v-olimpiade-v-tokio-iz-za-koronavirusa",
-        "summary": "<p lang=\"EN-US\" xml:lang=\"EN-US\">КНДР не будет участвовать в летних Олимпийских играх в Токио. Об этом во вторник, 6 апреля, сообщило агентство <a href=\"https://en.yna.co.kr/view/AEN20210406001500325?section=nk/nk\" target=\"_blank\">Ренхап</a>.</p>",
+        "link": "https://iz.ru/1147413/2021-04-06/v-rf-ne-vyiavliali-sluchaev-peredachi-koronavirusa-ot-zhivotnykh-cheloveku",
+        "summary": "<p>Случаи передачи COVID-19 от животных человеку в России не зарегистрированы. Об этом во вторник, 6 апреля, сообщила в беседе с журналистами заместитель директора по клинико-аналитической работе ЦНИИ эпидемиологии Роспотребнадзора Наталья Пшеничная.</p>",
         "summary_detail": {
             "type": "text/html",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "<p lang=\"EN-US\" xml:lang=\"EN-US\">КНДР не будет участвовать в летних Олимпийских играх в Токио. Об этом во вторник, 6 апреля, сообщило агентство <a href=\"https://en.yna.co.kr/view/AEN20210406001500325?section=nk/nk\" target=\"_blank\">Ренхап</a>.</p>"
+            "value": "<p>Случаи передачи COVID-19 от животных человеку в России не зарегистрированы. Об этом во вторник, 6 апреля, сообщила в беседе с журналистами заместитель директора по клинико-аналитической работе ЦНИИ эпидемиологии Роспотребнадзора Наталья Пшеничная.</p>"
         },
-        "published": "Tue, 06 Apr 2021 03:02:27 +0300",
+        "published": "Tue, 06 Apr 2021 16:28:22 +0300",
         "published_parsed": [
             2021,
             4,
             6,
-            0,
-            2,
-            27,
+            13,
+            28,
+            22,
             1,
             96,
             0
         ],
         "authors": [
             {
-                "name": "Анастасия Астахова"
+                "name": "Лейсан Давлетшина"
             }
         ],
-        "author": "Анастасия Астахова",
+        "author": "Лейсан Давлетшина",
         "author_detail": {
-            "name": "Анастасия Астахова"
+            "name": "Лейсан Давлетшина"
         },
-        "id": "https://iz.ru/1147148/2021-04-06/kndr-ne-budet-uchastvovat-v-olimpiade-v-tokio-iz-za-koronavirusa",
+        "id": "https://iz.ru/1147413/2021-04-06/v-rf-ne-vyiavliali-sluchaev-peredachi-koronavirusa-ot-zhivotnykh-cheloveku",
+        "guidislink": false
+    },
+    {
+        "title": "Инфекционист сделал прогноз о третьей волне коронавируса в РФ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Инфекционист сделал прогноз о третьей волне коронавируса в РФ"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1147408/2021-04-06/infektcionist-sdelal-prognoz-o-tretei-volne-koronavirusa-v-rf"
+            }
+        ],
+        "link": "https://iz.ru/1147408/2021-04-06/infektcionist-sdelal-prognoz-o-tretei-volne-koronavirusa-v-rf",
+        "summary": "<p>Третьей волны коронавирусной инфекции в России не будет. Такое мнение 6 апреля высказал на пресс-конференции доктор медицинских наук, врач-инфекционист Николай Малышев.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Третьей волны коронавирусной инфекции в России не будет. Такое мнение 6 апреля высказал на пресс-конференции доктор медицинских наук, врач-инфекционист Николай Малышев.</p>"
+        },
+        "published": "Tue, 06 Apr 2021 16:14:54 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            6,
+            13,
+            14,
+            54,
+            1,
+            96,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Дарья Зарембо"
+            }
+        ],
+        "author": "Дарья Зарембо",
+        "author_detail": {
+            "name": "Дарья Зарембо"
+        },
+        "id": "https://iz.ru/1147408/2021-04-06/infektcionist-sdelal-prognoz-o-tretei-volne-koronavirusa-v-rf",
+        "guidislink": false
+    },
+    {
+        "title": "В оперштабе оценили возможность прививать мигрантов от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В оперштабе оценили возможность прививать мигрантов от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1147389/2021-04-06/v-opershtabe-otcenili-vozmozhnost-privivat-migrantov-ot-koronavirusa"
+            }
+        ],
+        "link": "https://iz.ru/1147389/2021-04-06/v-opershtabe-otcenili-vozmozhnost-privivat-migrantov-ot-koronavirusa",
+        "summary": "<p>В России пока не планируют вакцинировать от коронавируса иностранных граждан, в том числе трудовых мигрантов. Об этом во вторник, 6 апреля, сообщили журналистам в оперативном штабе по борьбе с новой коронавирусной инфекцией.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>В России пока не планируют вакцинировать от коронавируса иностранных граждан, в том числе трудовых мигрантов. Об этом во вторник, 6 апреля, сообщили журналистам в оперативном штабе по борьбе с новой коронавирусной инфекцией.</p>"
+        },
+        "published": "Tue, 06 Apr 2021 15:54:43 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            6,
+            12,
+            54,
+            43,
+            1,
+            96,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Кристина Манич"
+            }
+        ],
+        "author": "Кристина Манич",
+        "author_detail": {
+            "name": "Кристина Манич"
+        },
+        "id": "https://iz.ru/1147389/2021-04-06/v-opershtabe-otcenili-vozmozhnost-privivat-migrantov-ot-koronavirusa",
         "guidislink": false
     }
 ]

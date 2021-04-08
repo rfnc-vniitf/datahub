@@ -111,11 +111,10 @@
 03.04.2021 | 20 | 0 
 04.04.2021 | 20 | 5 
 05.04.2021 | 20 | 0 
-06.04.2021 | 1 | 0 
+06.04.2021 | 20 | 1 
+07.04.2021 | 20 | 2 
+08.04.2021 | 20 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Антирекорды пандемии: что ждет экономику стран Ближнего Востока к концу 2021 года](https://riafan.ru/1417043-antirekordy-pandemii-chto-zhdet-ekonomiku-stran-blizhnego-vostoka-k-koncu-2021-goda)
-+ [Россиянам рассказали о симптомах коронавируса после вакцинации](https://riafan.ru/1417239-rossiyanam-rasskazali-o-simptomah-koronavirusa-posle-vakcinacii)
-+ [Доктор Мясников перечислил основные показания к вакцинации от коронавируса](https://riafan.ru/1417236-doktor-myasnikov-perechislil-osnovnye-pokazaniya-k-vakcinacii-ot-koronavirusa)
-+ [Умерший от коронавируса бразильский пациент внезапно ожил в гробу](https://riafan.ru/1417231-umershii-ot-koronavirusa-brazilskii-pacient-vnezapno-ozhil-v-grobu)
-+ [Траты жителей России на интернет выросли на фоне пандемии](https://riafan.ru/1417229-traty-zhitelei-rossii-na-internet-vyrosli-na-fone-pandemii)
++ [Ученый рассказал о «подарке», который пандемия COVID-19 готовит россиянам в мае](https://riafan.ru/1419520-uchenyi-rasskazal-o-podarke-kotoryi-pandemiya-covid-19-gotovit-rossiyanam-v-mae)
++ [Главный эпидемиолог Боливии подала в отставку на фоне проблем с вакцинацией](https://riafan.ru/1419483-glavnyi-epidemiolog-bolivii-podala-v-otstavku-na-fone-problem-s-vakcinaciei)

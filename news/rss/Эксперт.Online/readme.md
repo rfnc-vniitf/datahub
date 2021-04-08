@@ -110,6 +110,9 @@
 03.04.2021 | 7 | 2 
 04.04.2021 | 6 | 1 
 05.04.2021 | 23 | 0 
+06.04.2021 | 23 | 1 
+07.04.2021 | 25 | 1 
+08.04.2021 | 5 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Коронавирус в России: за стуки выявили менее 9 тыс. заболевших](http://expert.ru/2021/04/4/koronavirus-v-rossii-za-stuki-vyyavili-yeschyo-9-tys-zabolevshikh/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/4/koronavirus-v-rossii-za-stuki-vyyavili-yeschyo-9-tys-zabolevshikh/)
++ [Нефть дешевеет на новостях о коронавирусе в Азии](http://expert.ru/2021/04/8/neft/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/8/neft/)

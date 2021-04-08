@@ -1,0 +1,68 @@
+[
+    {
+        "title": "В Австрии 63 человека умерли после прививки от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "В Австрии 63 человека умерли после прививки от коронавируса"
+        },
+        "summary": "Власти устанавливают, есть ли связь летальных исходов с вакцинами.<a href=\"https://life.ru/p/1389964\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Власти устанавливают, есть ли связь летальных исходов с вакцинами.<a href=\"https://life.ru/p/1389964\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1389964"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/0/27/179117098359.94318.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1389964",
+        "id": "https://life.ru/p/1389964",
+        "guidislink": false,
+        "published": "Thu, 08 Apr 2021 01:52:59 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            8,
+            1,
+            52,
+            59,
+            3,
+            98,
+            0
+        ],
+        "tags": [
+            {
+                "term": "вакцинация",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "прививки",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "австрия",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

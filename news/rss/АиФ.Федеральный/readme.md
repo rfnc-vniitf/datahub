@@ -111,9 +111,13 @@
 03.04.2021 | 57 | 4 
 04.04.2021 | 56 | 2 
 05.04.2021 | 126 | 3 
-06.04.2021 | 1 | 0 
+06.04.2021 | 115 | 6 
+07.04.2021 | 120 | 6 
+08.04.2021 | 27 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Додон призвал Санду прекратить политическую борьбу и бороться с пандемией](https://aif.ru/politics/world/rassypayushchiysya_buket_moldavii_kak_segodnya_zhivyot_respublika)
-+ [Число заболевших коронавирусом в России за сутки выросло на 8 646](https://aif.ru/health/coronavirus/v_rossii_za_sutki_vyyavleno_8_817_novyh_sluchaev_zarazheniya_koronavirusom)
-+ [Католическая Пасха в условиях пандемии](https://aif.ru/society/religion/katolicheskaya_pasha_v_usloviyah_pandemii)
++ [В Узбекистане, Казахстане и Киргизии заметили необычную вспышку в небе](https://aif.ru/society/nature/chto_za_nlo_proletelo_nad_sibiryu)
++ [В каких центрах госуслуг можно привиться от коронавирус?](https://aif.ru/health/coronavirus/v_kakih_centrah_gosuslug_mozhno_privitsya_ot_koronavirus)
++ [Фургала с коронавирусом госпитализировали в больницу СИЗО](https://aif.ru/society/law/mosgorsud_otklonil_zhalobu_advokatov_furgala_po_delu_ob_ubiystve_zori)
++ [«Вектор» заявил об эффективности своей вакцины против разных штаммов вируса](https://aif.ru/health/coronavirus/gincburg_obyasnil_pochemu_sputnik_v_ne_puskayut_na_evropeyskiy_rynok)
++ [В России за сутки выявили 8 294 случая заражения коронавирусом](https://aif.ru/moscow/sobyanin_rasskazal_o_tehnologiyah_kotorye_pomogli_borotsya_s_covid-19)
