@@ -1,0 +1,124 @@
+[
+    {
+        "title": "Первый в России обсерватор для коронавирусных пациентов закроют под Тюменью",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Первый в России обсерватор для коронавирусных пациентов закроют под Тюменью"
+        },
+        "summary": "Ранее там проходили реабилитацию люди после протезирования суставов, онкологических и других заболеваний.<a href=\"https://life.ru/p/1390667\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Ранее там проходили реабилитацию люди после протезирования суставов, онкологических и других заболеваний.<a href=\"https://life.ru/p/1390667\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1390667"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/3/12/864077297481.4408.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1390667",
+        "id": "https://life.ru/p/1390667",
+        "guidislink": false,
+        "published": "Mon, 12 Apr 2021 07:05:42 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            12,
+            7,
+            5,
+            42,
+            0,
+            102,
+            0
+        ],
+        "tags": [
+            {
+                "term": "тюменскаяобласть",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "медицина",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Турции рассказали, к какому сроку планируют взять под контроль ситуацию с ковидом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "В Турции рассказали, к какому сроку планируют взять под контроль ситуацию с ковидом"
+        },
+        "summary": "По данным СМИ, сегодня Россия может принять решение об ограничении полётов в эту страну.<a href=\"https://life.ru/p/1390665\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "По данным СМИ, сегодня Россия может принять решение об ограничении полётов в эту страну.<a href=\"https://life.ru/p/1390665\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1390665"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/3/12/845764017876.3357.png",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1390665",
+        "id": "https://life.ru/p/1390665",
+        "guidislink": false,
+        "published": "Mon, 12 Apr 2021 06:25:23 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            12,
+            6,
+            25,
+            23,
+            0,
+            102,
+            0
+        ],
+        "tags": [
+            {
+                "term": "турция",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "туризм",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

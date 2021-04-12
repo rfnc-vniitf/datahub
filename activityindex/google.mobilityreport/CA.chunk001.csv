@@ -1,4 +1,823 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-10-22,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-10-23,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-10-26,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-10-27,,,,,-2.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-10-28,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-10-29,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-10-30,,,,,1.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-02,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-03,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-04,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-05,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-06,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-09,,,,,-23.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-10,,,,,-2.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-11,,,,,-65.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-12,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-13,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-16,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-17,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-18,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-19,,,,,-2.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-20,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-23,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-24,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-25,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-26,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-27,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-11-30,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-01,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-02,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-03,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-04,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-07,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-08,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-09,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-10,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-11,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-14,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-15,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-16,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-17,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-18,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-21,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-22,,,,,-26.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-23,,,,,-26.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-24,,,,,-35.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-28,,,,,-53.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-29,,,,,-38.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-30,,,,,-35.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-12-31,,,,,-38.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-01,,,,,-69.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-04,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-05,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-06,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-07,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-08,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-11,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-12,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-13,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-14,,,,,-43.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-15,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-18,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-19,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-20,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-21,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-22,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-25,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-26,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-27,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-28,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-01-29,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-01,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-02,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-03,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-04,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-05,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-08,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-09,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-10,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-11,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-12,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-15,,,,,-69.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-16,,,,,-31.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-17,,,,,-27.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-18,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-19,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-22,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-23,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-24,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-25,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-02-26,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-01,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-02,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-03,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-04,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-05,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-08,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-09,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-10,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-11,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-12,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-15,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-16,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-17,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-18,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-19,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-22,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-23,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-24,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-25,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-26,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-29,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-30,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-03-31,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-04-01,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-04-02,,,,,-62.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-04-05,,,,,-41.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-04-06,,,,,-27.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-04-07,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-08,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-09,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-10,,,,,-26.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-11,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-12,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-15,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-16,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-17,,,,,-23.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-18,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-19,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-22,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-23,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-24,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-25,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-26,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-29,,,,,-33.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-30,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-01,,,,,-53.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-02,,,,,-30.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-03,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-06,,,,,-28.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-07,,,,,-27.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-08,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-09,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-10,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-13,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-14,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-15,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-16,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-17,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-20,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-21,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-22,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-23,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-24,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-27,,,,,-26.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-28,,,,,-23.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-29,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-30,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-07-31,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-03,,,,,-64.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-04,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-05,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-06,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-10,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-11,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-12,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-13,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-08-14,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-14,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-15,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-16,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-17,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-21,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-22,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-23,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-24,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-28,,,,,-2.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-29,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-09-30,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-01,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-05,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-06,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-07,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-08,,,,,-2.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-12,,,,,-60.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-13,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-14,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-15,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-19,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-20,,,,,-2.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-21,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-22,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-26,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-27,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-28,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-29,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-10-30,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-02,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-03,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-04,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-05,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-09,,,,,-50.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-10,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-11,,,,,-67.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-12,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-16,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-17,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-18,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-19,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-20,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-23,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-24,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-25,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-26,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-27,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-11-30,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-01,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-02,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-03,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-07,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-08,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-09,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-10,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-14,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-15,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-16,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-17,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-21,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-22,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-23,,,,,-28.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-24,,,,,-50.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-28,,,,,-53.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-29,,,,,-40.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-30,,,,,-39.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-12-31,,,,,-44.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-04,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-05,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-06,,,,,2.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-07,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-11,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-12,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-13,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-14,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-18,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-19,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-20,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-21,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-25,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-26,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-27,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-28,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-01-29,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-01,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-02,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-03,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-04,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-08,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-09,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-10,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-11,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-15,,,,,-66.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-16,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-17,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-18,,,,,-26.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-19,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-22,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-23,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-24,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-02-25,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-01,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-02,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-03,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-04,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-08,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-09,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-10,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-11,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-15,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-16,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-17,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-18,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-22,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-23,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-24,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-25,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-29,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-30,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-03-31,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-04-01,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-04-02,,,,,-64.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-04-05,,,,,-31.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-04-06,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2021-04-07,,,,,-27.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-17,,,,,-63.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-18,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-19,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-20,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-21,-4.0,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-24,,,,,4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-25,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-26,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-27,,,,,2.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-02-28,11.0,,,,4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-02,,,,,6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-03,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-04,0.0,,,,6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-05,,,,,5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-06,8.0,,,,10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-09,,,,,6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-10,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-11,,,,,9.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-12,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-13,-2.0,,,,4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-16,,,,,5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-17,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-18,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-19,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-20,,,,,-23.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-23,,,,,-32.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-24,,,,,-37.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-25,,,,,-34.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-26,,,,,-39.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-27,,,,,-33.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-30,,,,,-31.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-03-31,,,,,-36.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-01,,,,,-38.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-02,,,,,-37.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-03,,,,,-32.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-06,,,,,-33.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-07,,,,,-39.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-08,,,,,-36.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-09,,,,,-39.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-10,,,,,-67.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-13,,,,,-42.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-14,,,,,-40.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-15,,,,,-38.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-16,,,,,-37.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-17,,,,,-29.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-20,,,,,-30.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-21,,,,,-34.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-22,,,,,-32.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-23,,,,,-31.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-24,,,,,-32.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-27,,,,,-31.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-28,,,,,-35.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-29,,,,,-32.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-04-30,,,,,-34.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-01,,,,,-31.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-04,,,,,-27.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-05,,,,,-33.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-06,,,,,-28.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-07,,,,,-34.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-08,,,,,-32.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-11,,,,,-28.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-12,,,,,-35.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-13,,,,,-30.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-14,,,,,-34.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-15,,,,,-26.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-18,,,,,-66.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-19,,,,,-34.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-20,,,,,-28.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-21,,,,,-30.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-22,,,,,-28.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-25,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-26,,,,,-28.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-27,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-28,,,,,-28.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-05-29,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-01,,,,,-25.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-02,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-03,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-04,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-05,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-08,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-09,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-10,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-11,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-12,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-13,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-14,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-15,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-16,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-17,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-18,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-19,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-20,,,,,1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-21,,,,,1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-22,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-23,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-24,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-25,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-26,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-27,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-28,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-29,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-06-30,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-01,,,,,-53.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-02,,,,,-27.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-03,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-04,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-05,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-06,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-07,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-08,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-09,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-10,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-11,,,,,1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-12,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-13,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-14,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-15,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-16,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-17,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-18,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-19,,,,,1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-20,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-21,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-22,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-23,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-24,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-25,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-26,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-27,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-28,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-29,,,,,-23.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-30,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-07-31,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-01,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-02,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-03,,,,,-60.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-04,,,,,-26.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-05,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-06,,,,,-23.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-07,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-08,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-09,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-10,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-11,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-12,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-13,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-14,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-15,,,,,4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-08-16,,,,,5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-11,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-12,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-13,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-14,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-15,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-16,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-17,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-18,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-19,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-20,,,,,6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-21,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-22,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-23,,,,,-5.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-24,,,,,-10.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-25,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-26,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-27,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-28,,,,,-3.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-29,,,,,-10.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-09-30,,,,,-8.0,-1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-01,,,,,-10.0,-1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-02,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-03,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-04,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-05,,,,,-9.0,-2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-06,,,,,-9.0,-1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-07,,,,,-6.0,-1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-08,,,,,-8.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-09,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-10,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-11,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-12,,,,,-62.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-13,,,,,-10.0,1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-14,,,,,-7.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-15,,,,,-7.0,1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-16,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-17,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-18,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-19,,,,,-3.0,1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-20,,,,,-7.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-21,,,,,-3.0,1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-22,,,,,-6.0,1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-23,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-24,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-25,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-26,,,,,-12.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-27,,,,,-7.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-28,,,,,0.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-29,,,,,-5.0,-1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-30,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-10-31,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-01,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-02,,,,,-2.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-03,,,,,-9.0,1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-04,,,,,-1.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-05,,,,,-1.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-06,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-07,,,,,11.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-08,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-09,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-10,,,,,-7.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-11,,,,,-55.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-12,,,,,-9.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-13,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-14,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-15,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-16,,,,,-1.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-17,,,,,-5.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-18,,,,,-2.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-19,,,,,-3.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-20,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-21,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-22,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-23,,,,,-3.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-24,,,,,-5.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-25,,,,,2.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-26,,,,,-4.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-27,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-28,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-29,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-11-30,,,,,-5.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-01,,,,,-6.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-02,,,,,0.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-03,,,,,-5.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-04,,,,,3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-05,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-06,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-07,,,,,-2.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-08,,,,,-6.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-09,,,,,-3.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-10,,,,,-6.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-11,,,,,0.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-12,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-13,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-14,,,,,-5.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-15,,,,,-7.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-16,,,,,-5.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-17,,,,,-6.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-18,,,,,1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-19,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-20,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-21,,,,,-23.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-22,,,,,-31.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-23,,,,,-33.0,9.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-24,,,,,-44.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-25,,,,,-76.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-26,,,,,-38.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-27,,,,,-30.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-28,,,,,-47.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-29,,,,,-42.0,12.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-30,,,,,-35.0,10.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2020-12-31,,,,,-41.0,9.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-01,,,,,-69.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-02,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-03,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-04,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-05,,,,,-11.0,7.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-06,,,,,-8.0,6.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-07,,,,,-10.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-08,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-09,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-10,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-11,,,,,-4.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-12,,,,,-10.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-13,,,,,-9.0,6.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-14,,,,,-42.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-15,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-16,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-17,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-18,,,,,-7.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-19,,,,,-12.0,6.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-20,,,,,-8.0,7.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-21,,,,,-7.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-22,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-23,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-24,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-25,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-26,,,,,-12.0,9.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-27,,,,,-4.0,6.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-28,,,,,-10.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-29,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-30,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-01-31,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-01,,,,,-9.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-02,,,,,-7.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-03,,,,,-5.0,6.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-04,,,,,-10.0,6.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-05,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-06,,,,,-16.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-07,,,,,-20.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-08,,,,,-22.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-09,,,,,-16.0,10.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-10,,,,,-9.0,8.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-11,,,,,-17.0,7.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-12,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-13,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-14,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-15,,,,,-64.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-16,,,,,-27.0,6.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-17,,,,,-21.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-18,,,,,-22.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-19,,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-20,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-21,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-22,,,,,-9.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-23,,,,,-10.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-24,,,,,-5.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-25,,,,,-8.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-26,,,,,-4.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-27,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-02-28,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-01,,,,,-8.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-02,,,,,-10.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-03,,,,,-7.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-04,,,,,-7.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-05,,,,,-1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-06,,,,,-2.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-07,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-08,,,,,-11.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-09,,,,,-9.0,7.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-10,,,,,-8.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-11,,,,,-7.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-12,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-13,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-14,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-15,,,,,-9.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-16,,,,,-11.0,5.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-17,,,,,-7.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-18,,,,,-8.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-19,,,,,-7.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-20,,,,,1.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-21,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-22,,,,,-10.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-23,,,,,-9.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-24,,,,,-4.0,3.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-25,,,,,-6.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-26,,,,,-6.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-27,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-28,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-29,,,,,-9.0,6.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-30,,,,,-18.0,9.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-03-31,,,,,-7.0,2.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-04-01,,,,,-11.0,0.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-04-02,,,,,-57.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-04-03,,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-04-04,,,,,-3.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-04-05,,,,,-27.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-04-06,,,,,-23.0,4.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-04-07,,,,,-19.0,3.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-15,2.0,5.0,-6.0,-5.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-16,5.0,5.0,40.0,-5.0,-2.0,-2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-17,-2.0,4.0,9.0,-32.0,-70.0,16.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-18,-3.0,0.0,-11.0,-10.0,-17.0,4.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-19,-1.0,3.0,-7.0,-8.0,-14.0,4.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-20,12.0,19.0,21.0,-6.0,-13.0,2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-21,2.0,11.0,11.0,-5.0,-11.0,2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-22,3.0,9.0,23.0,-9.0,4.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-23,3.0,9.0,45.0,-2.0,4.0,-1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-24,-1.0,4.0,15.0,-2.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-25,-1.0,3.0,9.0,1.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-26,4.0,11.0,15.0,0.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-27,10.0,18.0,21.0,-1.0,3.0,-1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-28,6.0,19.0,22.0,3.0,5.0,-2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-29,7.0,20.0,25.0,-2.0,8.0,-1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-01,-4.0,11.0,1.0,-9.0,4.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-02,1.0,16.0,0.0,1.0,3.0,1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-03,3.0,8.0,1.0,3.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-04,4.0,14.0,7.0,-1.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-05,5.0,15.0,4.0,-3.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-06,4.0,14.0,20.0,-2.0,4.0,-1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-07,4.0,15.0,-6.0,-10.0,4.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-08,-3.0,5.0,-12.0,-10.0,-1.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-09,5.0,11.0,22.0,-4.0,0.0,1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-10,5.0,6.0,17.0,3.0,1.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-11,9.0,12.0,31.0,1.0,2.0,-1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-12,8.0,32.0,-2.0,-6.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-13,1.0,41.0,-10.0,-9.0,2.0,1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-14,-5.0,30.0,-33.0,-21.0,2.0,3.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-15,-16.0,15.0,-14.0,-19.0,-5.0,3.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-16,-7.0,37.0,-8.0,-24.0,-8.0,5.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-17,-20.0,16.0,6.0,-28.0,-20.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-18,-27.0,18.0,9.0,-31.0,-26.0,12.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-19,-32.0,10.0,6.0,-39.0,-31.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-20,-40.0,7.0,-7.0,-44.0,-38.0,17.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-21,-52.0,-11.0,2.0,-48.0,-27.0,13.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-22,-53.0,-22.0,47.0,-51.0,-30.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-23,-49.0,-16.0,52.0,-54.0,-48.0,19.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-24,-55.0,-26.0,-18.0,-55.0,-52.0,22.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-25,-53.0,-21.0,-13.0,-57.0,-52.0,22.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-26,-52.0,-15.0,4.0,-61.0,-53.0,23.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-27,-51.0,-12.0,31.0,-57.0,-52.0,22.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-28,-54.0,-20.0,35.0,-57.0,-36.0,14.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-29,-52.0,-25.0,75.0,-58.0,-34.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-30,-46.0,-14.0,38.0,-58.0,-53.0,20.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-03-31,-49.0,-20.0,-18.0,-60.0,-54.0,22.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-01,-51.0,-19.0,-24.0,-63.0,-54.0,23.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-02,-53.0,-18.0,-18.0,-63.0,-54.0,23.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-03,-51.0,-13.0,-5.0,-60.0,-52.0,23.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-04,-57.0,-24.0,-37.0,-68.0,-38.0,16.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-05,-56.0,-29.0,1.0,-61.0,-38.0,12.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-06,-50.0,-20.0,6.0,-62.0,-54.0,22.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-07,-49.0,-19.0,19.0,-61.0,-54.0,22.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-08,-50.0,-12.0,-31.0,-61.0,-54.0,23.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-09,-34.0,12.0,18.0,-61.0,-55.0,21.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-10,-57.0,-26.0,2.0,-70.0,-79.0,30.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-11,-53.0,-17.0,-34.0,-65.0,-41.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-12,-63.0,-45.0,-14.0,-71.0,-39.0,12.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-13,-54.0,-30.0,-30.0,-64.0,-61.0,24.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-14,-47.0,-24.0,20.0,-59.0,-54.0,22.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-15,-42.0,-14.0,27.0,-58.0,-53.0,21.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-16,-45.0,-14.0,5.0,-62.0,-54.0,23.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-17,-47.0,-13.0,17.0,-58.0,-51.0,22.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-18,-50.0,-18.0,-14.0,-63.0,-34.0,14.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-19,-45.0,-23.0,56.0,-64.0,-32.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-20,-40.0,-16.0,48.0,-58.0,-51.0,19.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-21,-38.0,-14.0,101.0,-55.0,-52.0,19.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-22,-40.0,-13.0,35.0,-57.0,-51.0,20.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-23,-38.0,-9.0,56.0,-58.0,-51.0,20.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-24,-44.0,-11.0,6.0,-57.0,-49.0,21.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-25,-43.0,-13.0,66.0,-56.0,-29.0,11.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-26,-43.0,-21.0,18.0,-61.0,-28.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-27,-36.0,-12.0,71.0,-55.0,-50.0,18.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-28,-37.0,-14.0,28.0,-54.0,-50.0,20.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-29,-32.0,0.0,85.0,-48.0,-50.0,18.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-04-30,-30.0,3.0,80.0,-53.0,-49.0,18.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-01,-38.0,-5.0,24.0,-54.0,-47.0,19.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-02,-39.0,-9.0,59.0,-54.0,-26.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-03,-35.0,-12.0,72.0,-55.0,-22.0,7.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-04,-31.0,-4.0,55.0,-51.0,-48.0,18.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-05,-34.0,-9.0,55.0,-54.0,-48.0,18.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-06,-30.0,-3.0,104.0,-52.0,-47.0,17.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-07,-28.0,1.0,81.0,-52.0,-48.0,18.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-08,-36.0,-4.0,34.0,-52.0,-46.0,18.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-09,-36.0,1.0,-3.0,-56.0,-23.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-10,-25.0,-2.0,77.0,-50.0,-17.0,5.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-11,-32.0,-10.0,58.0,-51.0,-46.0,17.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-12,-32.0,-11.0,44.0,-52.0,-46.0,17.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-13,-32.0,2.0,46.0,-51.0,-46.0,18.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-14,-25.0,8.0,127.0,-48.0,-46.0,16.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-15,-30.0,8.0,104.0,-49.0,-45.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-16,-35.0,-4.0,107.0,-49.0,-21.0,6.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-17,-31.0,-6.0,134.0,-54.0,-18.0,4.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-18,-33.0,-7.0,110.0,-62.0,-76.0,20.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-19,-20.0,5.0,118.0,-45.0,-45.0,14.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-20,-16.0,18.0,83.0,-44.0,-44.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-21,-16.0,20.0,80.0,-46.0,-43.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-22,-24.0,8.0,101.0,-45.0,-39.0,14.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-23,-26.0,5.0,79.0,-53.0,-13.0,7.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-24,-23.0,1.0,173.0,-47.0,-12.0,3.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-25,-17.0,9.0,138.0,-45.0,-43.0,13.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-26,-22.0,-2.0,76.0,-50.0,-41.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-27,-19.0,12.0,69.0,-43.0,-42.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-28,-15.0,19.0,87.0,-45.0,-40.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-29,-22.0,16.0,97.0,-43.0,-38.0,13.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-30,-25.0,8.0,133.0,-45.0,-5.0,5.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-05-31,-24.0,2.0,111.0,-51.0,-4.0,3.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-01,-14.0,14.0,108.0,-45.0,-39.0,13.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-02,-18.0,7.0,113.0,-45.0,-40.0,14.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-03,-19.0,14.0,90.0,-44.0,-39.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-04,-18.0,13.0,108.0,-46.0,-39.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-05,-24.0,9.0,141.0,-44.0,-36.0,12.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-06,-32.0,0.0,-4.0,-57.0,-10.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-07,-25.0,0.0,118.0,-50.0,-7.0,4.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-08,-14.0,7.0,88.0,-45.0,-37.0,13.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-09,-15.0,2.0,109.0,-45.0,-37.0,13.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-10,-9.0,10.0,129.0,-40.0,-36.0,12.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-11,-8.0,13.0,160.0,-44.0,-36.0,12.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-12,-16.0,8.0,134.0,-43.0,-34.0,11.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-13,-21.0,-2.0,92.0,-48.0,-3.0,5.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-14,-21.0,-11.0,104.0,-50.0,-3.0,3.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-15,-6.0,7.0,155.0,-40.0,-36.0,11.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-16,-11.0,0.0,121.0,-41.0,-37.0,13.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-17,-10.0,7.0,76.0,-42.0,-37.0,13.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-18,-10.0,12.0,16.0,-51.0,-37.0,14.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-19,-14.0,10.0,91.0,-45.0,-34.0,11.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-20,-16.0,8.0,122.0,-38.0,1.0,3.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-21,-11.0,1.0,267.0,-42.0,7.0,-2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-22,-7.0,7.0,197.0,-40.0,-38.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-23,-10.0,3.0,191.0,-36.0,-38.0,11.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-24,-7.0,12.0,160.0,-36.0,-36.0,11.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-25,-3.0,16.0,171.0,-37.0,-36.0,11.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-26,-12.0,12.0,173.0,-38.0,-34.0,8.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-27,-19.0,1.0,218.0,-41.0,-2.0,1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-28,-17.0,-6.0,107.0,-41.0,0.0,1.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-29,0.0,13.0,109.0,-36.0,-38.0,11.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-06-30,3.0,18.0,106.0,-44.0,-39.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-01,-13.0,8.0,367.0,-46.0,-70.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-02,-5.0,17.0,192.0,-41.0,-42.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-03,-14.0,11.0,189.0,-43.0,-39.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-04,-18.0,2.0,222.0,-44.0,-1.0,2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-05,-9.0,0.0,306.0,-34.0,0.0,-2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-06,-1.0,13.0,218.0,-37.0,-37.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-07,-5.0,5.0,176.0,-40.0,-38.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-08,1.0,18.0,116.0,-41.0,-37.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-09,-1.0,17.0,127.0,-43.0,-36.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-10,-14.0,5.0,86.0,-41.0,-34.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-11,-15.0,7.0,260.0,-40.0,2.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-12,-9.0,0.0,283.0,-39.0,0.0,-2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-13,-2.0,10.0,143.0,-40.0,-37.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-14,-5.0,2.0,142.0,-39.0,-38.0,10.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-15,-2.0,15.0,186.0,-36.0,-35.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-16,-3.0,16.0,208.0,-40.0,-35.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-17,-14.0,7.0,165.0,-38.0,-34.0,7.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-18,-17.0,1.0,144.0,-43.0,0.0,3.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-19,-10.0,-2.0,276.0,-36.0,2.0,-2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-20,-2.0,11.0,149.0,-39.0,-35.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-21,-2.0,5.0,190.0,-39.0,-35.0,8.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-22,-3.0,14.0,208.0,-37.0,-35.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-23,-4.0,13.0,150.0,-44.0,-35.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-24,-13.0,10.0,172.0,-38.0,-33.0,7.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-25,-17.0,0.0,213.0,-40.0,-1.0,0.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-26,-11.0,-5.0,273.0,-39.0,-2.0,-2.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-27,-4.0,9.0,210.0,-35.0,-37.0,8.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-28,-7.0,4.0,192.0,-39.0,-37.0,9.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-29,0.0,15.0,195.0,-40.0,-35.0,8.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-30,2.0,18.0,164.0,-45.0,-37.0,8.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-07-31,-10.0,12.0,176.0,-38.0,-38.0,6.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-08-01,-19.0,-2.0,242.0,-44.0,-3.0,0.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-08-02,-12.0,-6.0,336.0,-45.0,-3.0,-3.0
@@ -247,6 +1066,9 @@ CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,20
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-04-02,-38.0,-8.0,66.0,-60.0,-73.0,25.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-04-03,-31.0,0.0,48.0,-53.0,-16.0,9.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-04-04,-41.0,-27.0,76.0,-52.0,-18.0,7.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-04-05,-27.0,-8.0,55.0,-53.0,-48.0,17.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-04-06,-29.0,-14.0,67.0,-54.0,-42.0,15.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-04-07,-24.0,-6.0,78.0,-46.0,-40.0,15.0
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2020-02-15,3.0,8.0,,,6.0,
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2020-02-16,24.0,21.0,,,5.0,
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2020-02-17,-2.0,-7.0,,,-60.0,
@@ -655,6 +1477,9 @@ CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-04-02,-21.0,1.0,,,-63.0,19.0
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-04-03,-13.0,15.0,,,-10.0,
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-04-04,-31.0,2.0,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-04-05,-8.0,-14.0,,,-41.0,11.0
+CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-04-06,-9.0,5.0,,,-32.0,10.0
+CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-04-07,-7.0,1.0,,,-31.0,8.0
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2020-02-15,7.0,,,,,
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2020-02-16,3.0,,,,,
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2020-02-17,-16.0,-34.0,,,-66.0,
@@ -1040,6 +1865,9 @@ CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcn
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-04-02,-21.0,,,,-66.0,
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-04-03,-3.0,,,,-19.0,
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-04-04,-21.0,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-04-05,-9.0,,,,-31.0,6.0
+CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-04-06,0.0,,,,-21.0,4.0
+CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-04-07,-5.0,,,,-21.0,7.0
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2020-02-15,-2.0,,,,,
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2020-02-16,9.0,,,,,
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2020-02-17,-25.0,,,,-61.0,
@@ -1425,6 +2253,9 @@ CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-04-02,-22.0,-2.0,,,-63.0,18.0
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-04-03,2.0,,,,-18.0,
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-04-04,-18.0,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-04-05,-4.0,4.0,,,-32.0,7.0
+CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-04-06,3.0,12.0,,,-19.0,6.0
+CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-04-07,0.0,14.0,,,-15.0,5.0
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2020-02-15,12.0,7.0,,,,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2020-02-16,13.0,-2.0,,,,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2020-02-17,10.0,-2.0,,,2.0,
@@ -1788,3 +2619,6 @@ CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-03-31,-22.0,,,,-8.0,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-04-01,-8.0,,,,-14.0,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-04-02,-47.0,,,,-67.0,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-04-03,-30.0,,,,-6.0,
+CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-04-05,-50.0,,,,-56.0,
+CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-04-06,-31.0,,,,-14.0,
+CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-04-07,-24.0,,,,-12.0,

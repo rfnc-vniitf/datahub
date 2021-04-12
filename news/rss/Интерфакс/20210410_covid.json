@@ -1,0 +1,47 @@
+[
+    {
+        "title": "В России за сутки выявлено 8,7 тыс. новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В России за сутки выявлено 8,7 тыс. новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/760539"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/760539",
+        "summary": "Еще 8704 случая зараженных коронавирусной инфекцией нового типа зарегистрировано в России, сообщает оперштаб по борьбе с заболеванием.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Еще 8704 случая зараженных коронавирусной инфекцией нового типа зарегистрировано в России, сообщает оперштаб по борьбе с заболеванием."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 10 Apr 2021 11:00:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            10,
+            8,
+            0,
+            0,
+            5,
+            100,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/760539",
+        "guidislink": false
+    }
+]

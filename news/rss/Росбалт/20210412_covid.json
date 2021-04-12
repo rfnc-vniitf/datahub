@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/moscow/2021/04/12/1896749.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/moscow/2021/04/12/1896749.html",
+        "title": "Еще 1833 жителя Москвы заразились коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Еще 1833 жителя Москвы заразились коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/moscow/2021/04/12/1896749.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/3/5/9/5/W8Nf9Lvc-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В Москве за сутки выявили менее 2 тыс. новых случаев заражения коронавирусом. Как сообщили в оперативном штабе по контролю и мониторингу ситуации с коронавирусом...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Москве за сутки выявили менее 2 тыс. новых случаев заражения коронавирусом. Как сообщили в оперативном штабе по контролю и мониторингу ситуации с коронавирусом..."
+        },
+        "published": "Mon, 12 Apr 2021 10:05:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            12,
+            7,
+            5,
+            0,
+            0,
+            102,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

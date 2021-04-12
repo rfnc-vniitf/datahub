@@ -113,8 +113,11 @@
 05.04.2021 | 20 | 0 
 06.04.2021 | 20 | 1 
 07.04.2021 | 20 | 2 
-08.04.2021 | 20 | 0 
+08.04.2021 | 20 | 1 
+09.04.2021 | 20 | 0 
+10.04.2021 | 20 | 0 
+11.04.2021 | 20 | 1 
+12.04.2021 | 20 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Ученый рассказал о «подарке», который пандемия COVID-19 готовит россиянам в мае](https://riafan.ru/1419520-uchenyi-rasskazal-o-podarke-kotoryi-pandemiya-covid-19-gotovit-rossiyanam-v-mae)
-+ [Главный эпидемиолог Боливии подала в отставку на фоне проблем с вакцинацией](https://riafan.ru/1419483-glavnyi-epidemiolog-bolivii-podala-v-otstavku-na-fone-problem-s-vakcinaciei)
++ [В Роспотребнадзоре рассказали о вакцине от коронавируса для новорожденных](https://riafan.ru/1422610-v-rospotrebnadzore-rasskazali-o-vakcine-ot-koronavirusa-dlya-novorozhdennyh)

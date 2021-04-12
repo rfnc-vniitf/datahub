@@ -1,40 +1,90 @@
 [
     {
-        "title": "В Японии впервые в мире пересадили легкие от живого донора человеку с коронавирусом",
+        "title": "Общественный транспорт Тюмени впервые за пандемию стал перевозить 400 тыс. человек в день",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "В Японии впервые в мире пересадили легкие от живого донора человеку с коронавирусом"
+            "value": "Общественный транспорт Тюмени впервые за пандемию стал перевозить 400 тыс. человек в день"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11094173"
+                "href": "https://tass.ru/ural-news/11100437"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11094173",
-        "id": "https://tass.ru/obschestvo/11094173",
+        "link": "https://tass.ru/ural-news/11100437",
+        "id": "https://tass.ru/ural-news/11100437",
         "guidislink": false,
-        "published": "Thu, 08 Apr 2021 07:43:51 +0300",
+        "published": "Thu, 08 Apr 2021 17:03:15 +0300",
         "published_parsed": [
             2021,
             4,
             8,
-            4,
-            43,
-            51,
+            14,
+            3,
+            15,
             3,
             98,
             0
         ],
-        "summary": "Женщине были пересажены части легких ее супруга и сына",
+        "summary": "В 2020 году объем перевозок сократился на 33%",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Женщине были пересажены части легких ее супруга и сына"
+            "value": "В 2020 году объем перевозок сократился на 33%"
+        },
+        "tags": [
+            {
+                "term": "Новости Урала",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Более 100 стран и территорий получили вакцины от коронавируса через механизм COVAX",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Более 100 стран и территорий получили вакцины от коронавируса через механизм COVAX"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11100133"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11100133",
+        "id": "https://tass.ru/obschestvo/11100133",
+        "guidislink": false,
+        "published": "Thu, 08 Apr 2021 16:29:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            8,
+            13,
+            29,
+            0,
+            3,
+            98,
+            0
+        ],
+        "summary": "Всего было поставлено более 38 млн доз вакцин, говорится в совместном заявлении ВОЗ, GAVI, CEPI и Детского фонда ООН",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Всего было поставлено более 38 млн доз вакцин, говорится в совместном заявлении ВОЗ, GAVI, CEPI и Детского фонда ООН"
         },
         "tags": [
             {
@@ -50,41 +100,41 @@
         ]
     },
     {
-        "title": "Золотов сообщил, что каждый третий сотрудник Росгвардии уже привит от коронавируса",
+        "title": "В Петербурге начали исследование о сроках вакцинации \"Эпиваккороной\" для перенесших ковид",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Золотов сообщил, что каждый третий сотрудник Росгвардии уже привит от коронавируса"
+            "value": "В Петербурге начали исследование о сроках вакцинации \"Эпиваккороной\" для перенесших ковид"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11094079"
+                "href": "https://tass.ru/obschestvo/11099999"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11094079",
-        "id": "https://tass.ru/obschestvo/11094079",
+        "link": "https://tass.ru/obschestvo/11099999",
+        "id": "https://tass.ru/obschestvo/11099999",
         "guidislink": false,
-        "published": "Thu, 08 Apr 2021 07:19:45 +0300",
+        "published": "Thu, 08 Apr 2021 16:25:02 +0300",
         "published_parsed": [
             2021,
             4,
             8,
-            4,
-            19,
-            45,
+            13,
+            25,
+            2,
             3,
             98,
             0
         ],
-        "summary": "По словам главы ведомства, ежедневно получают прививки порядка 2,5 тыс. человек",
+        "summary": "Массовая вакцинация взрослого населения старше 18 лет началась в регионах России с 18 января",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "По словам главы ведомства, ежедневно получают прививки порядка 2,5 тыс. человек"
+            "value": "Массовая вакцинация взрослого населения старше 18 лет началась в регионах России с 18 января"
         },
         "tags": [
             {
@@ -93,7 +143,7 @@
                 "label": null
             },
             {
-                "term": "Пандемия COVID-19",
+                "term": "Северо-Запад",
                 "scheme": null,
                 "label": null
             },
@@ -105,45 +155,45 @@
         ]
     },
     {
-        "title": "Токио запросит усиление мер против коронавируса из-за ухудшения ситуации",
+        "title": "Более 430 литров плазмы с антителами к коронавирусу использовали в Подмосковье",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Токио запросит усиление мер против коронавируса из-за ухудшения ситуации"
+            "value": "Более 430 литров плазмы с антителами к коронавирусу использовали в Подмосковье"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11093587"
+                "href": "https://tass.ru/moskovskaya-oblast/11099353"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11093587",
-        "id": "https://tass.ru/obschestvo/11093587",
+        "link": "https://tass.ru/moskovskaya-oblast/11099353",
+        "id": "https://tass.ru/moskovskaya-oblast/11099353",
         "guidislink": false,
-        "published": "Thu, 08 Apr 2021 06:56:19 +0300",
+        "published": "Thu, 08 Apr 2021 15:36:39 +0300",
         "published_parsed": [
             2021,
             4,
             8,
-            3,
-            56,
-            19,
+            12,
+            36,
+            39,
             3,
             98,
             0
         ],
-        "summary": "В начале недели аналогичные меры приняли в префектурах Осака, Мияги и Хёго",
+        "summary": "Больше всего заявок на плазму поступает из медорганизаций Сергиева Посада, Видного, Люберец, Коломны и Орехово-Зуева",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "В начале недели аналогичные меры приняли в префектурах Осака, Мияги и Хёго"
+            "value": "Больше всего заявок на плазму поступает из медорганизаций Сергиева Посада, Видного, Люберец, Коломны и Орехово-Зуева"
         },
         "tags": [
             {
-                "term": "Общество",
+                "term": "Московская область",
                 "scheme": null,
                 "label": null
             },

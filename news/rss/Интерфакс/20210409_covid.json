@@ -1,0 +1,47 @@
+[
+    {
+        "title": "От коронавируса в мире погибли более 2,9 млн человек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "От коронавируса в мире погибли более 2,9 млн человек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/760342"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/760342",
+        "summary": "Число выявленных случаев заражения коронавирусом в мире с начала пандемии на утро пятницы составило 133 810 743, свидетельствуют данные американского университета Джонса Хопкинса.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Число выявленных случаев заражения коронавирусом в мире с начала пандемии на утро пятницы составило 133 810 743, свидетельствуют данные американского университета Джонса Хопкинса."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Fri, 9 Apr 2021 09:41:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            9,
+            6,
+            41,
+            0,
+            4,
+            99,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/760342",
+        "guidislink": false
+    }
+]

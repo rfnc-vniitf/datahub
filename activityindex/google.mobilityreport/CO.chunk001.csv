@@ -1,4 +1,779 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-07,,,-24.0,-64.0,-12.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-08,,,-18.0,-60.0,-11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-09,,,-22.0,-54.0,-15.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-10,,,-15.0,-45.0,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-11,,,-30.0,,-14.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-12,,,-22.0,,-5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-13,,,-46.0,-69.0,-17.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-14,,,-44.0,-68.0,-22.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-15,,,-49.0,,-18.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-16,,,-41.0,-58.0,-19.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-17,,,-36.0,-67.0,-8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-18,,,-72.0,,-48.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-19,,,-76.0,,-42.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-20,,,-59.0,,-46.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-21,,,-42.0,-68.0,-19.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-22,,,-46.0,-70.0,-22.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-23,,,-43.0,-68.0,-27.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-24,,,-37.0,-67.0,-17.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-25,,,-76.0,,-48.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-26,,,-71.0,,-39.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-27,,,-39.0,-66.0,-21.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-28,,,-36.0,-68.0,-20.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-29,,,-35.0,,-20.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-30,,,-29.0,,-25.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-07-31,,,-32.0,-71.0,-13.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-01,,,-66.0,,-42.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-02,,,-66.0,,-37.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-03,,,-32.0,,-14.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-04,,,-26.0,-66.0,-16.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-05,,,-28.0,-71.0,-15.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-06,,,-31.0,-65.0,-20.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-07,,,-37.0,-64.0,-29.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-08,,,-65.0,,-42.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-09,,,-64.0,,-35.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-10,,,-23.0,-59.0,-12.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-11,,,-35.0,-64.0,-16.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-12,,,-33.0,-68.0,-14.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-13,,,-29.0,-64.0,-21.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-14,,,-30.0,,-8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-15,,,-66.0,,-41.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-08-16,,,-63.0,,-36.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-11,-11.0,,-16.0,-15.0,-6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-12,-17.0,,-13.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-13,,,-28.0,,-7.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-14,,,-18.0,-23.0,-5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-15,,,-19.0,,-6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-16,-11.0,,-20.0,-17.0,-6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-17,,,-19.0,,-10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-18,-12.0,,-9.0,-21.0,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-19,-9.0,,-23.0,,-2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-20,,,-8.0,,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-21,,,-16.0,-12.0,-7.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-22,,,-14.0,-15.0,-6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-23,,,-32.0,-35.0,-6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-24,,,-24.0,,-11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-25,-18.0,,-8.0,-13.0,4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-26,-20.0,,-11.0,,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-27,,,-24.0,,-2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-28,,,-16.0,-12.0,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-29,,,-35.0,-21.0,-10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-09-30,-19.0,,-16.0,-40.0,-6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-01,,,-8.0,-38.0,-7.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-02,-12.0,,5.0,-24.0,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-03,-12.0,,-9.0,,4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-04,,,1.0,,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-05,,,-10.0,-25.0,-6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-06,,,-6.0,-20.0,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-07,,,-19.0,-20.0,-2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-08,,,-5.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-09,,,0.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-10,-8.0,,-5.0,,6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-11,,,-6.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-12,,,-18.0,,-29.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-13,,,-11.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-14,-4.0,,-12.0,-11.0,2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-15,,,-9.0,,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-16,-7.0,,-10.0,-12.0,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-17,-7.0,,-25.0,,7.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-18,,,-22.0,,-8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-19,,,-20.0,-14.0,3.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-20,,,-15.0,-28.0,0.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-21,,,-28.0,-9.0,0.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-22,,,-6.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-23,-5.0,,-4.0,-34.0,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-24,-6.0,,1.0,-40.0,4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-25,,,-6.0,,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-26,,,-11.0,-33.0,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-27,,,-21.0,-28.0,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-28,-3.0,,-12.0,-33.0,2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-29,,,-19.0,-30.0,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-30,,,-17.0,-24.0,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-10-31,-12.0,,-36.0,,0.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-01,,,-26.0,,3.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-02,,,-23.0,-25.0,-33.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-03,,,-21.0,-36.0,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-04,-3.0,,-11.0,-23.0,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-05,,,-9.0,,0.0,7.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-06,2.0,,-8.0,-3.0,11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-07,11.0,,-7.0,,15.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-08,,,-18.0,,4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-09,,,-8.0,,0.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-10,,,-14.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-11,3.0,,-19.0,-20.0,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-12,,,-17.0,,-2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-13,6.0,,-4.0,-14.0,15.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-14,17.0,,-12.0,,11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-15,,,-12.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-16,,,-43.0,-22.0,-33.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-17,,,-14.0,,2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-18,-4.0,,-25.0,-16.0,0.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-19,,,-7.0,,-2.0,5.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-20,13.0,,-9.0,-8.0,10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-21,25.0,,-5.0,,18.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-22,,,-20.0,,13.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-23,,,-27.0,-24.0,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-24,,,-6.0,,3.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-25,3.0,,0.0,-20.0,4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-26,,,-6.0,,6.0,4.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-27,-1.0,,-20.0,-27.0,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-28,19.0,,-3.0,,17.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-29,,,4.0,,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-11-30,,,-9.0,,6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-01,,,-1.0,,1.0,5.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-02,7.0,,-16.0,-16.0,10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-03,,,1.0,,2.0,5.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-04,9.0,,-8.0,-6.0,13.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-05,13.0,,-19.0,,14.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-06,,,-13.0,,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-07,,,-6.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-08,,,-27.0,-19.0,-21.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-09,9.0,,2.0,-4.0,11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-10,,,2.0,,4.0,4.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-11,8.0,,-4.0,,20.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-12,17.0,,-1.0,,21.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-13,,,2.0,,18.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-14,,,6.0,,8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-15,,,-8.0,,5.0,6.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-16,,,-5.0,-7.0,11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-17,,,-18.0,,0.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-18,14.0,,-4.0,,18.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-19,22.0,,7.0,,23.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-20,,,12.0,,27.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-21,,,-10.0,,10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-22,,,-11.0,,6.0,4.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-23,,,4.0,,12.0,1.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-24,,,15.0,,1.0,0.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-25,-28.0,,-9.0,-47.0,-49.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-26,9.0,,-1.0,,16.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-27,,,-11.0,,19.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-28,,,-55.0,-27.0,-28.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-29,,,-1.0,,1.0,3.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-30,,,4.0,0.0,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2020-12-31,,,20.0,,-3.0,-1.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-01,-38.0,,-29.0,-32.0,-56.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-02,-9.0,,-16.0,,-7.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-03,,,7.0,,8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-04,,,-18.0,,-8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-05,,,-44.0,,-15.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-06,-16.0,,-46.0,-19.0,-9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-07,,,-33.0,,-11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-08,-6.0,,-25.0,-2.0,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-09,-9.0,,-35.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-10,,,-42.0,,6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-11,,,-39.0,-13.0,-28.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-12,,,-31.0,,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-13,-1.0,,-25.0,-11.0,2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-14,,,-33.0,,-6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-15,-10.0,,-25.0,-7.0,2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-16,-2.0,,-31.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-17,,,-26.0,,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-18,,,-32.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-19,,,-36.0,,-7.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-20,-3.0,,-37.0,0.0,-2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-21,,,-29.0,,-8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-22,-28.0,,-55.0,-32.0,-3.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-23,2.0,,-33.0,,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-24,,,-18.0,,-2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-25,,,-42.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-26,,,-39.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-27,3.0,,-27.0,-16.0,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-28,,,-18.0,,-7.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-29,10.0,,-23.0,-12.0,11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-30,9.0,,-11.0,,11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-01-31,,,-18.0,,-10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-01,,,-34.0,,-4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-02,,,-25.0,,-6.0,3.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-03,0.0,,-22.0,-13.0,2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-04,,,-35.0,,-6.0,6.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-05,3.0,,-16.0,-7.0,8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-06,-2.0,,-30.0,,7.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-07,,,-11.0,,14.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-08,,,-32.0,,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-09,,,-26.0,-14.0,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-10,-3.0,,-23.0,-19.0,6.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-11,,,-30.0,,-4.0,5.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-12,5.0,,-19.0,-11.0,14.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-13,0.0,,-16.0,,10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-14,,,-16.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-15,,,-32.0,,-1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-16,,,-19.0,,-4.0,-7.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-17,-6.0,,-20.0,-19.0,2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-18,,,-19.0,,-5.0,3.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-19,-6.0,,-20.0,-5.0,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-20,2.0,,-24.0,,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-21,,,-19.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-22,,,-27.0,,1.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-23,,,-23.0,,2.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-24,,,-44.0,-16.0,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-25,,,-25.0,,1.0,5.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-26,4.0,,-17.0,,16.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-27,14.0,,-25.0,,13.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-02-28,,,-23.0,,10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-01,,,-31.0,,8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-02,,,-25.0,,4.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-03,5.0,,-24.0,-4.0,12.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-04,,,-21.0,,4.0,2.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-05,5.0,,-19.0,1.0,14.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-06,9.0,,-22.0,,13.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-07,,,-16.0,,14.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-08,,,-26.0,,10.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-09,,,-30.0,-15.0,6.0,5.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-10,-6.0,,-36.0,-12.0,8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-11,,,-27.0,,3.0,6.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-12,2.0,,-31.0,1.0,21.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-13,14.0,,-23.0,,18.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-14,,,-7.0,,9.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-15,,,-34.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-16,,,-35.0,,7.0,4.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-17,5.0,,-26.0,-6.0,13.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-18,,,-21.0,,9.0,3.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-19,11.0,,-32.0,,21.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-20,6.0,,-36.0,,20.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-21,,,-27.0,,11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-22,,,-32.0,,-25.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-23,,,-23.0,,9.0,2.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-24,-7.0,,-44.0,-13.0,11.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-25,,,-20.0,,12.0,4.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-26,7.0,,-22.0,,23.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-27,16.0,,-27.0,,28.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-28,,,-26.0,,19.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-29,,,-40.0,,8.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-30,,,-29.0,,0.0,5.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-03-31,,,-15.0,-7.0,0.0,2.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-04-01,,,-39.0,-31.0,-42.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-04-02,,,-34.0,-26.0,-53.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-04-03,5.0,,-25.0,,5.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-04-04,,,-19.0,,15.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-04-05,,,-24.0,,12.0,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-04-06,,,-31.0,,9.0,4.0
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2021-04-07,0.0,,-30.0,-5.0,8.0,2.0
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-15,,,-29.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-16,,,-23.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-17,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-18,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-19,,,-11.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-20,,,10.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-21,,,7.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-22,,,27.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-23,,,20.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-25,,,-14.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-26,,,-1.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-27,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-28,,,3.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-02-29,,,-6.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-01,,,-11.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-02,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-03,,,-11.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-04,,,-4.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-05,,,-12.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-06,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-07,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-08,,,-2.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-09,,,-12.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-10,,,-12.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-11,,,-8.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-12,,,-11.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-13,,,-20.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-14,,,-5.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-15,,,-3.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-16,,,-16.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-17,,,-15.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-18,,,-12.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-19,,,-9.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-20,,,-24.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-21,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-23,,,-71.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-24,,,-62.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-25,,,-66.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-26,,,-68.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-27,,,-62.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-28,,,-68.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-30,,,-59.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-03-31,,,-66.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-01,,,-52.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-02,,,-57.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-03,,,-49.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-04,,,-58.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-06,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-07,,,-54.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-08,,,-39.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-09,,,-68.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-10,,,-73.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-11,,,-53.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-12,,,-79.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-13,,,-53.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-14,,,-58.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-15,,,-53.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-16,,,-56.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-17,,,-55.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-20,,,-57.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-21,,,-48.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-22,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-23,,,-56.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-24,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-27,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-28,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-29,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-04-30,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-04,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-05,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-06,,,-27.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-07,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-08,,,-31.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-11,,,-30.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-12,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-13,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-14,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-15,,,-29.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-18,,,-18.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-19,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-20,,,-26.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-21,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-22,,,-17.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-25,,,-30.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-26,,,-24.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-27,,,-8.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-28,,,-25.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-05-29,,,-23.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-01,,,-16.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-02,,,-24.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-03,,,-19.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-04,,,-23.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-05,,,-24.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-08,,,-23.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-09,,,-30.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-10,,,-16.0,,-15.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-11,,,-18.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-12,,,-27.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-13,,,-51.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-14,,,-62.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-15,,,-33.0,,-33.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-16,,,-16.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-17,,,-8.0,,-16.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-18,,,-18.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-19,,,-22.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-20,,,-40.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-21,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-22,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-23,,,-19.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-24,,,-16.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-25,,,-8.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-26,,,-10.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-27,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-28,,,-54.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-29,,,-23.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-06-30,,,-12.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-01,,,-4.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-02,,,-3.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-03,,,0.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-04,,,-43.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-05,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-06,,,-9.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-07,,,-7.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-08,,,-2.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-09,,,-24.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-10,,,-18.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-11,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-12,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-13,,,-14.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-14,,,-18.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-15,,,-16.0,,-15.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-16,,,-17.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-17,,,-15.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-20,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-21,,,-22.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-22,,,-16.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-23,,,-31.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-24,,,-26.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-27,,,-17.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-28,,,-18.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-29,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-30,,,-14.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-07-31,,,-12.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-02,,,-79.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-03,,,-13.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-04,,,-20.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-05,,,-35.0,,-20.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-06,,,-43.0,,-19.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-07,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-10,,,-39.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-11,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-12,,,-53.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-13,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-08-14,,,-48.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-11,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-12,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-13,,,-59.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-14,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-15,,,-40.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-16,,,-24.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-17,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-18,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-19,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-20,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-21,,,-23.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-22,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-23,,,-45.0,,-20.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-24,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-25,,,-38.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-26,,,-40.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-27,,,-43.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-28,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-29,,,-50.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-09-30,,,-47.0,,-15.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-01,,,-49.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-02,,,-30.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-03,,,-43.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-04,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-05,,,-38.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-06,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-07,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-08,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-09,,,-43.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-10,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-11,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-12,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-13,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-14,,,-26.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-15,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-16,,,-40.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-17,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-18,,,-38.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-19,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-20,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-21,,,-38.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-22,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-23,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-24,,,-26.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-25,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-26,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-27,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-28,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-29,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-30,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-10-31,,,-39.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-01,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-02,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-03,,,-25.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-04,,,-30.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-05,,,-24.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-06,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-07,,,-29.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-08,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-09,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-10,,,-31.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-11,,,-26.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-12,,,-29.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-13,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-14,,,-29.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-15,,,-28.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-16,,,-40.0,,-32.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-17,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-18,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-19,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-20,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-21,,,-31.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-22,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-23,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-24,,,-39.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-25,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-26,,,-29.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-27,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-28,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-29,,,-30.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-11-30,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-01,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-02,,,-24.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-03,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-04,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-05,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-06,,,-26.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-07,,,-28.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-08,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-09,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-10,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-11,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-12,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-13,,,-38.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-14,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-15,,,-33.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-16,,,-26.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-17,,,-31.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-18,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-19,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-20,,,-27.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-21,,,-32.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-22,,,-38.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-23,,,-7.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-24,,,-5.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-25,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-26,,,-23.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-27,,,-25.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-28,,,-49.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-29,,,-11.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-30,,,-10.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2020-12-31,,,12.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-01,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-02,,,-29.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-03,,,-28.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-04,,,-17.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-05,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-06,,,-30.0,,-22.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-07,,,-37.0,,-24.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-08,,,-35.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-09,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-10,,,-53.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-11,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-12,,,-57.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-13,,,-43.0,,-18.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-14,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-15,,,-51.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-16,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-17,,,-52.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-18,,,-43.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-19,,,-49.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-20,,,-46.0,,-16.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-21,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-22,,,-69.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-23,,,-56.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-25,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-26,,,-36.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-27,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-28,,,-40.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-29,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-01-30,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-01,,,-40.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-02,,,-39.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-03,,,-43.0,,-16.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-04,,,-40.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-05,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-06,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-07,,,-78.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-08,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-09,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-10,,,-34.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-11,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-12,,,-53.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-13,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-14,,,-72.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-15,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-16,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-17,,,-27.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-18,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-19,,,-55.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-20,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-21,,,-66.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-22,,,-52.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-23,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-24,,,-55.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-25,,,-43.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-26,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-27,,,-48.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-02-28,,,-37.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-01,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-02,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-03,,,-51.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-04,,,-49.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-05,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-06,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-07,,,-49.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-08,,,-49.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-09,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-10,,,-50.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-11,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-12,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-13,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-14,,,-48.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-15,,,-48.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-16,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-17,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-18,,,-44.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-19,,,-46.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-20,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-21,,,-42.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-22,,,-72.0,,-31.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-23,,,-52.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-24,,,-52.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-25,,,-56.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-26,,,-52.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-27,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-28,,,-47.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-29,,,-45.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-30,,,-52.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-03-31,,,-28.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-04-01,,,-32.0,,-29.0,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-04-02,,,-41.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-04-03,,,-39.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-04-04,,,-51.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-04-05,,,-53.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-04-06,,,-50.0,,,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2021-04-07,,,-49.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-02-16,,,-14.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-02-23,,,-17.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-03-01,,,-23.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-03-08,,,-13.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-03-15,,,-18.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-03-20,,,-49.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-03-21,,,-52.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-04-24,,,-55.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-04-27,,,-62.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-05-04,,,-55.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-05-08,,,-57.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-05-11,,,-52.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-05-15,,,-49.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-05-18,,,-53.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-05-22,,,-58.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-05-29,,,-55.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-01,,,-55.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-05,,,-42.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-08,,,-53.0,,-8.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-09,,,,,-5.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-10,,,,,9.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-11,,,,,-6.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-12,,,-47.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-13,,,-61.0,,-4.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-15,,,,,-15.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-16,,,,,1.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-17,,,,,-6.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-18,,,,,-2.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-19,,,-42.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-20,,,-50.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-21,,,-45.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-22,,,,,-15.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-23,,,,,-6.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-24,,,,,-3.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-25,,,,,-3.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-26,,,-46.0,,11.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-27,,,-47.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-28,,,-50.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-29,,,,,-23.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-06-30,,,,,1.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-01,,,,,-1.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-02,,,,,-4.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-03,,,-48.0,,13.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-04,,,-50.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-05,,,-56.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-06,,,,,-2.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-07,,,,,-11.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-08,,,,,-8.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-09,,,,,-13.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-10,,,-42.0,,9.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-11,,,-48.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-12,,,-57.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-13,,,-59.0,,-15.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-14,,,,,-14.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-15,,,,,-11.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-16,,,,,-13.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-17,,,,,2.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-18,,,,,-45.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-19,,,,,-46.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-20,,,-61.0,,-34.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-21,,,,,-11.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-22,,,,,-15.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-23,,,,,-14.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-24,,,-42.0,,8.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-25,,,,,-38.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-26,,,,,-47.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-27,,,,,-2.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-28,,,,,-9.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-29,,,,,-7.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-30,,,,,-13.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-07-31,,,-41.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-01,,,,,-45.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-02,,,,,-34.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-03,,,,,2.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-04,,,,,-2.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-05,,,,,-8.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-06,,,,,-1.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-07,,,-49.0,,-3.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-08,,,,,-41.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-09,,,,,-46.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-10,,,,,7.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-11,,,,,-1.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-12,,,,,3.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-13,,,,,0.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-15,,,,,-32.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-08-16,,,,,-34.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-11,,,,,8.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-12,,,-32.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-13,,,-35.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-14,,,,,5.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-15,,,,,9.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-16,,,,,11.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-17,,,,,6.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-19,,,-24.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-20,,,-27.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-21,,,,,6.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-22,,,,,8.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-23,,,,,8.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-24,,,,,0.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-26,,,-22.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-27,,,-28.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-28,,,,,2.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-29,,,,,3.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-09-30,,,,,0.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-01,,,,,7.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-04,,,-22.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-05,,,,,-1.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-06,,,,,5.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-07,,,,,11.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-08,,,,,9.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-12,,,,,-7.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-13,,,,,13.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-14,,,,,16.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-15,,,,,10.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-18,,,-23.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-19,,,,,12.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-20,,,,,12.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-21,,,,,13.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-22,,,,,16.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-25,,,-14.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-26,,,,,10.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-27,,,,,15.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-28,,,,,15.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-29,,,,,16.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-10-31,,,-26.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-01,,,-16.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-02,,,,,-6.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-03,,,,,21.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-04,,,,,22.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-05,,,,,20.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-08,,,-20.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-09,,,,,27.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-10,,,,,17.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-11,,,,,17.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-12,,,,,23.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-15,,,-16.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-16,,,,,-21.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-17,,,,,15.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-18,,,,,21.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-19,,,,,17.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-22,,,-17.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-23,,,,,20.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-24,,,,,21.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-25,,,,,27.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-26,,,,,25.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-28,,,-43.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-29,,,-19.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-11-30,,,,,28.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-01,,,,,21.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-02,,,,,22.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-03,,,,,25.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-06,,,-18.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-07,,,,,23.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-08,,,,,-5.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-09,,,,,33.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-10,,,,,30.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-12,,,-22.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-13,,,-20.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-14,,,,,25.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-15,,,,,18.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-16,,,,,36.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-17,,,,,29.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-21,,,,,29.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-22,,,,,30.0,
 CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-23,,,,,34.0,
 CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-24,,,,,27.0,
 CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2020-12-25,,,-43.0,,-12.0,
@@ -99,6 +874,9 @@ CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2021-04-01
 CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2021-04-02,,,-39.0,,-35.0,
 CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2021-04-03,,,-36.0,,,
 CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2021-04-04,,,-49.0,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2021-04-05,,,,,15.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2021-04-06,,,,,19.0,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2021-04-07,,,,,20.0,
 CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2020-02-15,,,-27.0,,,
 CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2020-02-16,,,-23.0,,,
 CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2020-02-17,,,-20.0,,,
@@ -415,6 +1193,9 @@ CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2021-04-01,,,-2
 CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2021-04-02,,,-16.0,,-23.0,
 CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2021-04-03,,,-4.0,,,
 CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2021-04-04,,,-8.0,,,
+CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2021-04-05,,,-25.0,,21.0,
+CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2021-04-06,,,-20.0,,12.0,
+CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2021-04-07,,,-24.0,,12.0,
 CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2020-02-15,-7.0,-2.0,-13.0,-8.0,5.0,1.0
 CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2020-02-16,-11.0,4.0,-9.0,-7.0,-4.0,2.0
 CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2020-02-17,-8.0,-2.0,-7.0,-2.0,18.0,-2.0
@@ -830,6 +1611,9 @@ CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2021-04-01,-14.0,21.0,
 CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2021-04-02,-28.0,-4.0,19.0,-14.0,-60.0,15.0
 CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2021-04-03,-15.0,24.0,12.0,-2.0,-16.0,4.0
 CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2021-04-04,-28.0,9.0,-15.0,17.0,-2.0,4.0
+CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2021-04-05,-28.0,20.0,-11.0,-37.0,-9.0,5.0
+CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2021-04-06,-34.0,12.0,-17.0,-11.0,-12.0,7.0
+CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2021-04-07,-31.0,10.0,-17.0,-34.0,-12.0,7.0
 CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2020-02-15,-2.0,-2.0,-2.0,,6.0,1.0
 CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2020-02-16,-7.0,3.0,-2.0,,0.0,1.0
 CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2020-02-17,-5.0,-2.0,5.0,,17.0,-2.0
@@ -1245,6 +2029,9 @@ CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2021-04-01,-35.0,13.0
 CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2021-04-02,-52.0,-17.0,-51.0,,-65.0,17.0
 CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2021-04-03,-26.0,18.0,-10.0,,-17.0,5.0
 CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2021-04-04,-31.0,4.0,-20.0,,2.0,4.0
+CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2021-04-05,-26.0,19.0,-16.0,,-11.0,6.0
+CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2021-04-06,-31.0,13.0,-28.0,,-14.0,8.0
+CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2021-04-07,-30.0,9.0,-27.0,,-14.0,8.0
 CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2020-02-15,-12.0,9.0,-10.0,,7.0,1.0
 CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2020-02-16,-11.0,,-5.0,,-6.0,
 CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2020-02-17,-13.0,1.0,-11.0,,21.0,-2.0
@@ -1656,6 +2443,9 @@ CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2021-04-01,2.0,,71.0,
 CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2021-04-02,-9.0,14.0,60.0,,-58.0,14.0
 CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2021-04-03,-10.0,,49.0,,-18.0,3.0
 CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2021-04-04,-14.0,,16.0,,-8.0,5.0
+CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2021-04-05,-20.0,,49.0,,-8.0,3.0
+CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2021-04-06,-24.0,,41.0,,-13.0,6.0
+CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2021-04-07,-28.0,21.0,22.0,,-10.0,7.0
 CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2020-02-15,,,-25.0,,4.0,
 CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2020-02-16,,,0.0,,,
 CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2020-02-17,,,-13.0,,9.0,
@@ -2046,6 +2836,9 @@ CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2021-04-01,,,62.0,,-
 CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2021-04-02,,,57.0,,-47.0,
 CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2021-04-03,,,-2.0,,-21.0,
 CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2021-04-04,,,-17.0,,-1.0,
+CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2021-04-05,,,-8.0,,-16.0,
+CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2021-04-06,,,-11.0,,-15.0,
+CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2021-04-07,,,-12.0,,-12.0,
 CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2020-02-15,,,-35.0,,,
 CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2020-02-16,,,-24.0,,,
 CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2020-02-17,,,-21.0,,,
@@ -2414,6 +3207,9 @@ CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2021-04-01,,,127.0,,
 CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2021-04-02,,,160.0,,,
 CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2021-04-03,,,35.0,,,
 CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2021-04-04,,,-37.0,,,
+CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2021-04-05,,,-33.0,,,
+CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2021-04-06,,,-26.0,,,
+CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2021-04-07,,,-31.0,,,
 CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2020-02-15,,,1.0,-3.0,,
 CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2020-02-16,,,-4.0,11.0,,
 CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2020-02-17,,,-3.0,2.0,17.0,
@@ -2802,6 +3598,9 @@ CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2021-04-01,,,36.0,
 CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2021-04-02,,,33.0,-67.0,-49.0,
 CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2021-04-03,,,13.0,-37.0,-13.0,
 CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2021-04-04,,,-8.0,19.0,4.0,
+CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2021-04-05,,,-2.0,-50.0,-5.0,
+CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2021-04-06,,,-2.0,-17.0,-11.0,
+CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2021-04-07,,,-7.0,-52.0,-7.0,
 CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2020-02-15,,,-25.0,,1.0,
 CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2020-02-16,,,-26.0,,,
 CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2020-02-17,,,-27.0,,10.0,
@@ -3192,6 +3991,9 @@ CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2021-04-01,,,0.0,,
 CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2021-04-02,,,-2.0,,-44.0,
 CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2021-04-03,,,-18.0,,-13.0,
 CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2021-04-04,,,-34.0,,-3.0,
+CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2021-04-05,,,-30.0,,-5.0,
+CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2021-04-06,,,-36.0,,-10.0,
+CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2021-04-07,-39.0,,-41.0,,-4.0,
 CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2020-02-15,,,-27.0,,4.0,
 CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2020-02-16,,,-16.0,,,
 CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2020-02-17,,,-20.0,,,
@@ -3581,6 +4383,9 @@ CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2021-04-01,,,105.0,,
 CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2021-04-02,,,94.0,,-36.0,
 CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2021-04-03,,,35.0,,-13.0,
 CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2021-04-04,,,3.0,,1.0,
+CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2021-04-05,,,-15.0,,-7.0,
+CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2021-04-06,,,-14.0,,-7.0,
+CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2021-04-07,,,-16.0,,-11.0,
 CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2020-02-15,,,-24.0,,,
 CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2020-02-16,,,-14.0,,,
 CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2020-02-17,,,-23.0,,,
@@ -3976,6 +4781,9 @@ CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2021-04-01,,,232.0,,-
 CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2021-04-02,,,202.0,,-40.0,
 CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2021-04-03,,,54.0,,,
 CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2021-04-04,,,-34.0,,,
+CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2021-04-05,,,-45.0,,-7.0,
+CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2021-04-06,,,-43.0,,-19.0,
+CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2021-04-07,,,-42.0,,-15.0,
 CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2020-02-15,-3.0,0.0,-4.0,-7.0,4.0,1.0
 CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2020-02-16,-2.0,2.0,-5.0,-6.0,-1.0,2.0
 CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2020-02-17,-7.0,2.0,-4.0,1.0,12.0,-2.0
@@ -4391,6 +5199,9 @@ CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2021-04-01,-30.0,18.
 CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2021-04-02,-43.0,-15.0,-38.0,-53.0,-66.0,18.0
 CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2021-04-03,-21.0,26.0,-25.0,-40.0,-22.0,6.0
 CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2021-04-04,-20.0,20.0,-23.0,-16.0,4.0,3.0
+CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2021-04-05,-18.0,33.0,-30.0,-36.0,-14.0,7.0
+CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2021-04-06,-18.0,32.0,-31.0,-40.0,-16.0,7.0
+CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2021-04-07,-19.0,23.0,-31.0,-40.0,-13.0,8.0
 CO,Colombia,Risaralda,Belén de Umbría,,,,ChIJO5ZgxjCYR44RJLtZogWL5mU,2020-02-15,,,-16.0,,,
 CO,Colombia,Risaralda,Belén de Umbría,,,,ChIJO5ZgxjCYR44RJLtZogWL5mU,2020-02-16,,,-20.0,,,
 CO,Colombia,Risaralda,Belén de Umbría,,,,ChIJO5ZgxjCYR44RJLtZogWL5mU,2020-02-17,,,-15.0,,,
@@ -5099,6 +5910,9 @@ CO,Colombia,Risaralda,Dosquebradas,,,,ChIJA4PXXMSAOI4R_pMlCM8lBus,2021-04-01,-17
 CO,Colombia,Risaralda,Dosquebradas,,,,ChIJA4PXXMSAOI4R_pMlCM8lBus,2021-04-02,-43.0,-18.0,-1.0,-45.0,-69.0,19.0
 CO,Colombia,Risaralda,Dosquebradas,,,,ChIJA4PXXMSAOI4R_pMlCM8lBus,2021-04-03,-15.0,22.0,-2.0,-23.0,-25.0,6.0
 CO,Colombia,Risaralda,Dosquebradas,,,,ChIJA4PXXMSAOI4R_pMlCM8lBus,2021-04-04,-20.0,31.0,-4.0,,10.0,3.0
+CO,Colombia,Risaralda,Dosquebradas,,,,ChIJA4PXXMSAOI4R_pMlCM8lBus,2021-04-05,-7.0,44.0,2.0,7.0,-7.0,8.0
+CO,Colombia,Risaralda,Dosquebradas,,,,ChIJA4PXXMSAOI4R_pMlCM8lBus,2021-04-06,-9.0,41.0,0.0,0.0,-7.0,7.0
+CO,Colombia,Risaralda,Dosquebradas,,,,ChIJA4PXXMSAOI4R_pMlCM8lBus,2021-04-07,-12.0,23.0,3.0,-4.0,-10.0,8.0
 CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2020-02-15,,,-9.0,,,
 CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2020-02-16,,,-5.0,,,
 CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2020-02-17,,,-5.0,,8.0,
@@ -5489,6 +6303,9 @@ CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2021-04-01,,,26
 CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2021-04-02,,,24.0,,-61.0,
 CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2021-04-03,,,2.0,,-9.0,
 CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2021-04-04,,,-7.0,,-5.0,
+CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2021-04-05,,,2.0,,-8.0,
+CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2021-04-06,,,6.0,,-9.0,
+CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2021-04-07,,,7.0,,1.0,
 CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2020-02-15,,,-23.0,,,
 CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2020-02-16,,,-17.0,,,
 CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2020-02-20,,,-15.0,,,
@@ -5805,6 +6622,7 @@ CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2021-03-27,,,-33.0
 CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2021-03-28,,,-37.0,,,
 CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2021-04-03,,,-4.0,,,
 CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2021-04-04,,,-28.0,,,
+CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2021-04-05,,,-34.0,,,
 CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2020-02-15,2.0,0.0,-1.0,-4.0,4.0,0.0
 CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2020-02-16,1.0,1.0,-3.0,-4.0,-1.0,2.0
 CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2020-02-17,-4.0,0.0,-3.0,1.0,13.0,-2.0
@@ -6220,6 +7038,9 @@ CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2021-04-01,-34.0,14
 CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2021-04-02,-46.0,-19.0,-61.0,-54.0,-69.0,19.0
 CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2021-04-03,-21.0,24.0,-39.0,-42.0,-25.0,6.0
 CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2021-04-04,-20.0,18.0,-36.0,-23.0,2.0,3.0
+CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2021-04-05,-20.0,28.0,-39.0,-41.0,-19.0,8.0
+CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2021-04-06,-20.0,27.0,-41.0,-46.0,-19.0,8.0
+CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2021-04-07,-21.0,23.0,-44.0,-45.0,-20.0,9.0
 CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2020-02-15,,,-13.0,,,
 CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2020-02-16,,,-16.0,,,
 CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2020-02-17,,,-6.0,,,
@@ -6602,6 +7423,9 @@ CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2021-03-31,,,-4.0
 CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2021-04-01,,,3.0,,,
 CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2021-04-03,,,2.0,,,
 CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2021-04-04,,,-16.0,,,
+CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2021-04-05,,,-31.0,,,
+CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2021-04-06,,,-37.0,,,
+CO,Colombia,Risaralda,Quinchía,,,,ChIJH4AF0-YJR44RFmm7xqMcGGA,2021-04-07,,,-34.0,,,
 CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2020-02-15,-20.0,-2.0,-7.0,,4.0,1.0
 CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2020-02-16,-17.0,,-13.0,,-3.0,
 CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2020-02-17,-18.0,,-4.0,,11.0,-2.0
@@ -7017,6 +7841,9 @@ CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2021-04
 CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2021-04-02,-1.0,,-1.0,,-55.0,16.0
 CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2021-04-03,0.0,,-9.0,,-9.0,5.0
 CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2021-04-04,-18.0,,-22.0,,8.0,3.0
+CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2021-04-05,-21.0,,-34.0,,-4.0,6.0
+CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2021-04-06,-6.0,,-26.0,,-7.0,5.0
+CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2021-04-07,-13.0,,-28.0,,-4.0,6.0
 CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2020-02-15,-6.0,-4.0,-9.0,-1.0,3.0,
 CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2020-02-16,-9.0,1.0,-8.0,-2.0,2.0,
 CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2020-02-17,-4.0,-5.0,-8.0,2.0,7.0,
@@ -7413,6 +8240,9 @@ CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,202
 CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2021-04-02,-37.0,-44.0,-33.0,-30.0,-61.0,
 CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2021-04-03,-27.0,-10.0,-30.0,16.0,-24.0,
 CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2021-04-04,-32.0,,-36.0,15.0,-11.0,
+CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2021-04-05,-26.0,,-39.0,6.0,-18.0,5.0
+CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2021-04-06,-27.0,-9.0,-40.0,-9.0,-15.0,7.0
+CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2021-04-07,-33.0,-11.0,-40.0,-23.0,-20.0,8.0
 CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2020-02-15,-6.0,-3.0,-10.0,-2.0,4.0,0.0
 CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2020-02-16,-8.0,,-8.0,-2.0,-1.0,
 CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2020-02-17,-4.0,-9.0,-9.0,0.0,13.0,0.0
@@ -7828,6 +8658,9 @@ CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjaj
 CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2021-04-02,-36.0,-45.0,-33.0,-29.0,-60.0,23.0
 CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2021-04-03,-26.0,-7.0,-33.0,15.0,-20.0,7.0
 CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2021-04-04,-29.0,,-39.0,17.0,-11.0,5.0
+CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2021-04-05,-24.0,-7.0,-43.0,5.0,-14.0,6.0
+CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2021-04-06,-27.0,-12.0,-43.0,-10.0,-12.0,7.0
+CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2021-04-07,-31.0,-11.0,-43.0,-26.0,-16.0,9.0
 CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2020-02-15,-2.0,0.0,-9.0,-20.0,8.0,1.0
 CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2020-02-16,-5.0,3.0,-11.0,-23.0,0.0,3.0
 CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2020-02-17,-5.0,0.0,-3.0,0.0,14.0,-1.0
@@ -8243,6 +9076,9 @@ CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2021-04-01,-35.0,9.0
 CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2021-04-02,-58.0,-39.0,-30.0,-53.0,-71.0,24.0
 CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2021-04-03,-26.0,9.0,-8.0,-4.0,-23.0,6.0
 CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2021-04-04,-30.0,-2.0,-18.0,15.0,-1.0,3.0
+CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2021-04-05,-23.0,17.0,-26.0,11.0,-12.0,8.0
+CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2021-04-06,-22.0,20.0,-22.0,7.0,-10.0,8.0
+CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2021-04-07,-24.0,15.0,-23.0,4.0,-14.0,9.0
 CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2020-02-15,,,-16.0,,,
 CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2020-02-16,,,-16.0,,,
 CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2020-02-17,,,-6.0,,20.0,
@@ -8633,6 +9469,9 @@ CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2021-04-01,,,42.0,,
 CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2021-04-02,-43.0,,-29.0,,-63.0,
 CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2021-04-03,,,44.0,,-2.0,
 CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2021-04-04,,,0.0,,8.0,
+CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2021-04-05,,,-8.0,,7.0,
+CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2021-04-06,,,-12.0,,4.0,
+CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2021-04-07,,,-20.0,,4.0,
 CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2020-02-15,,,-36.0,,,
 CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2020-02-16,,,-32.0,,,
 CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2020-02-17,,,-29.0,,,
@@ -8987,6 +9826,9 @@ CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2021-03-31,,,46.0
 CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2021-04-02,,,96.0,,,
 CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2021-04-03,,,51.0,,,
 CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2021-04-04,,,-19.0,,,
+CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2021-04-05,,,-60.0,,,
+CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2021-04-06,,,-55.0,,,
+CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2021-04-07,,,-52.0,,,
 CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2020-02-15,-4.0,3.0,-5.0,-41.0,7.0,3.0
 CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2020-02-16,-4.0,2.0,-4.0,-47.0,6.0,4.0
 CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2020-02-17,-5.0,-2.0,-1.0,4.0,17.0,-1.0
@@ -9402,6 +10244,9 @@ CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2021-04-01,
 CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2021-04-02,-62.0,-40.0,-48.0,-75.0,-66.0,21.0
 CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2021-04-03,-28.0,16.0,-24.0,-16.0,-19.0,5.0
 CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2021-04-04,-38.0,-4.0,-23.0,26.0,-1.0,2.0
+CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2021-04-05,-23.0,25.0,-22.0,-9.0,-13.0,6.0
+CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2021-04-06,-20.0,25.0,-22.0,-15.0,-13.0,6.0
+CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2021-04-07,-21.0,21.0,-25.0,-24.0,-16.0,5.0
 CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2020-02-15,3.0,1.0,5.0,-32.0,7.0,1.0
 CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2020-02-16,1.0,4.0,2.0,-35.0,-1.0,3.0
 CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2020-02-17,-4.0,0.0,2.0,-9.0,13.0,-1.0
@@ -9817,6 +10662,9 @@ CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2021-04-01,-58.
 CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2021-04-02,-75.0,-56.0,-61.0,-71.0,-77.0,26.0
 CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2021-04-03,-39.0,-12.0,-31.0,-11.0,-32.0,7.0
 CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2021-04-04,-41.0,-18.0,-35.0,24.0,-7.0,3.0
+CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2021-04-05,-28.0,9.0,-32.0,15.0,-22.0,9.0
+CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2021-04-06,-29.0,15.0,-31.0,9.0,-18.0,9.0
+CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2021-04-07,-28.0,13.0,-29.0,6.0,-21.0,9.0
 CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2020-02-15,,,-36.0,,,
 CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2020-02-16,,,-23.0,,,
 CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2020-02-17,,,-5.0,,,
@@ -10203,6 +11051,9 @@ CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2021-04-01,,,-12.
 CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2021-04-02,,,-51.0,,-56.0,
 CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2021-04-03,,,-6.0,,-15.0,
 CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2021-04-04,,,-15.0,,-11.0,
+CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2021-04-05,,,3.0,,-3.0,
+CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2021-04-06,,,-19.0,,0.0,
+CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2021-04-07,,,-27.0,,3.0,
 CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2020-02-15,1.0,5.0,-5.0,37.0,9.0,0.0
 CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2020-02-16,1.0,9.0,2.0,34.0,1.0,2.0
 CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2020-02-17,-6.0,0.0,-2.0,37.0,14.0,-2.0
@@ -10618,6 +11469,9 @@ CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2021-04-01,-3
 CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2021-04-02,-54.0,-36.0,-29.0,-23.0,-75.0,26.0
 CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2021-04-03,-25.0,1.0,-25.0,46.0,-31.0,8.0
 CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2021-04-04,-32.0,-4.0,-36.0,44.0,-8.0,3.0
+CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2021-04-05,-19.0,11.0,-21.0,53.0,-21.0,9.0
+CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2021-04-06,-17.0,14.0,-16.0,55.0,-19.0,10.0
+CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2021-04-07,-21.0,2.0,-22.0,66.0,-20.0,10.0
 CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2020-02-15,6.0,2.0,-6.0,-12.0,7.0,0.0
 CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2020-02-16,4.0,14.0,11.0,-9.0,0.0,2.0
 CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2020-02-17,2.0,16.0,69.0,-1.0,12.0,-1.0
@@ -11033,6 +11887,9 @@ CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2021-04-01,-14.0,17.
 CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2021-04-02,-30.0,-25.0,2.0,-48.0,-69.0,26.0
 CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2021-04-03,-13.0,15.0,6.0,-35.0,-16.0,6.0
 CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2021-04-04,-23.0,10.0,-8.0,-29.0,13.0,3.0
+CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2021-04-05,-16.0,23.0,10.0,-16.0,3.0,6.0
+CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2021-04-06,-12.0,19.0,15.0,-22.0,6.0,6.0
+CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2021-04-07,-16.0,25.0,12.0,-17.0,1.0,8.0
 CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2020-02-15,-8.0,,1.0,,,
 CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2020-02-16,-14.0,,-2.0,,,
 CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2020-02-17,-3.0,,,,10.0,
@@ -11423,6 +12280,9 @@ CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2021-04-01,-3.0,,,,
 CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2021-04-02,-40.0,,,,-57.0,
 CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2021-04-03,-11.0,,42.0,,-12.0,
 CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2021-04-04,-12.0,,21.0,,9.0,
+CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2021-04-05,-17.0,,,,-4.0,
+CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2021-04-06,-19.0,,,,-3.0,
+CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2021-04-07,-20.0,,,,-3.0,
 CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2020-02-15,,,,-30.0,,
 CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2020-02-16,,,,-31.0,,
 CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2020-02-17,,,,-26.0,,
@@ -11795,6 +12655,9 @@ CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2021-04-01,,,,-30.0,
 CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2021-04-02,,,,-66.0,-59.0,
 CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2021-04-03,,,,-16.0,1.0,
 CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2021-04-04,,,-70.0,12.0,,
+CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2021-04-05,,,,-32.0,-4.0,
+CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2021-04-06,,,,-26.0,5.0,
+CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2021-04-07,,,,-43.0,3.0,
 CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2020-02-15,,,-51.0,,,
 CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2020-02-16,,,-43.0,,,
 CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2020-02-17,,,-45.0,,,
@@ -12172,6 +13035,9 @@ CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2021-04-01,,,48.0,,,
 CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2021-04-02,,,-23.0,,,
 CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2021-04-03,,,14.0,,,
 CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2021-04-04,,,9.0,,,
+CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2021-04-05,,,-20.0,,,
+CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2021-04-06,,,-15.0,,,
+CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2021-04-07,,,-17.0,,,
 CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2020-02-15,1.0,6.0,-2.0,-16.0,10.0,0.0
 CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2020-02-16,-1.0,9.0,3.0,-13.0,-1.0,3.0
 CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2020-02-17,-5.0,1.0,-2.0,-6.0,14.0,-1.0
@@ -12587,6 +13453,9 @@ CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2021-04-01,-16.
 CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2021-04-02,-50.0,-3.0,-18.0,-34.0,-69.0,28.0
 CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2021-04-03,-16.0,65.0,24.0,-7.0,-17.0,7.0
 CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2021-04-04,-31.0,31.0,17.0,17.0,5.0,4.0
+CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2021-04-05,-16.0,63.0,13.0,22.0,-5.0,9.0
+CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2021-04-06,-16.0,58.0,22.0,21.0,-4.0,9.0
+CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2021-04-07,-23.0,50.0,14.0,10.0,-7.0,10.0
 CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2020-02-15,,,-24.0,,,
 CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2020-02-16,,,-21.0,,,
 CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2020-02-17,,,-18.0,,,
@@ -12965,6 +13834,9 @@ CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2021-03-30,
 CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2021-04-02,,,48.0,,,
 CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2021-04-03,,,43.0,,,
 CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2021-04-04,,,27.0,,,
+CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2021-04-05,,,-11.0,,,
+CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2021-04-06,,,-13.0,,,
+CO,Colombia,Santander,Puente Nacional,,,,ChIJo3FR2-HoQY4RCbQVaXCguAU,2021-04-07,,,-16.0,,,
 CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2020-02-15,,,-41.0,,,
 CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2020-02-16,,,-38.0,,,
 CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2020-02-22,,,-3.0,,,
@@ -13285,6 +14157,9 @@ CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2021-04-01,,
 CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2021-04-02,,,-24.0,,-56.0,
 CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2021-04-03,,,-19.0,,,
 CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2021-04-04,,,-12.0,,,
+CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2021-04-05,,,,,-1.0,
+CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2021-04-06,,,,,4.0,
+CO,Colombia,Santander,Puerto Wilches,,,,ChIJd3SpUObIQo4RtjJIYYECmg0,2021-04-07,,,,,-12.0,
 CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2020-02-15,,,-33.0,,,
 CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2020-02-16,,,-40.0,,,
 CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2020-02-17,,,-18.0,,,
@@ -13565,6 +14440,8 @@ CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2021-04-01,,,,,-47
 CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2021-04-02,,,-24.0,,-59.0,
 CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2021-04-03,,,16.0,,,
 CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2021-04-04,,,-9.0,,,
+CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2021-04-05,,,-18.0,,,
+CO,Colombia,Santander,Rionegro,,,,ChIJ-X2k1Q3-Z44RCwTyXGozPa0,2021-04-06,,,-50.0,,,
 CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2020-02-15,,,-28.0,,,
 CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2020-02-16,,,-31.0,,,
 CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2020-02-17,,,-10.0,,,
@@ -13949,6 +14826,9 @@ CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2021-04-01
 CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2021-04-02,,,-64.0,,-59.0,
 CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2021-04-03,,,-35.0,,-6.0,
 CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2021-04-04,,,-43.0,,,
+CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2021-04-05,,,-46.0,,5.0,
+CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2021-04-06,,,-43.0,,15.0,
+CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2021-04-07,,,-38.0,,10.0,
 CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2020-02-15,-17.0,-13.0,-29.0,-18.0,7.0,1.0
 CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2020-02-16,-14.0,-4.0,-27.0,,3.0,
 CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2020-02-17,-20.0,,-19.0,-14.0,15.0,-1.0
@@ -14356,6 +15236,9 @@ CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2021-04-01,29.0,,4.
 CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2021-04-02,-18.0,,-25.0,-56.0,-61.0,21.0
 CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2021-04-03,2.0,,-6.0,-2.0,-12.0,5.0
 CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2021-04-04,-15.0,12.0,-29.0,,-7.0,5.0
+CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2021-04-05,-16.0,,-43.0,-20.0,-7.0,9.0
+CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2021-04-06,-6.0,,-39.0,-30.0,-11.0,9.0
+CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2021-04-07,-10.0,,-47.0,-36.0,-11.0,10.0
 CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2020-02-15,,,-31.0,,,
 CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2020-02-16,,,-44.0,,,
 CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2020-02-17,,,-7.0,,,
@@ -14746,6 +15629,9 @@ CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,202
 CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2021-04-02,,,-16.0,,-55.0,
 CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2021-04-03,,,-3.0,,,
 CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2021-04-04,,,-23.0,,,
+CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2021-04-05,,,-23.0,,-2.0,
+CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2021-04-06,,,-26.0,,6.0,
+CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2021-04-07,,,-35.0,,3.0,
 CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2020-02-15,-14.0,,-17.0,,7.0,
 CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2020-02-16,-22.0,,-17.0,,,
 CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2020-02-17,-17.0,,-10.0,,11.0,
@@ -15136,6 +16022,9 @@ CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2021-04-01,-18.0,,-
 CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2021-04-02,-54.0,,-44.0,,-67.0,
 CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2021-04-03,-6.0,,-3.0,,-15.0,
 CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2021-04-04,-19.0,,-20.0,,-9.0,
+CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2021-04-05,-35.0,,-43.0,,-12.0,
+CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2021-04-06,-36.0,,-38.0,,-12.0,
+CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2021-04-07,-32.0,,-51.0,,-12.0,
 CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2020-02-15,,,-26.0,,,
 CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2020-02-18,,,-21.0,,,
 CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2020-02-20,,,-27.0,,,
@@ -15418,6 +16307,9 @@ CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2021-03-31,,,,,-18.0
 CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2021-04-01,,,,,-43.0,
 CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2021-04-02,,,-52.0,,-60.0,
 CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2021-04-03,,,6.0,,-24.0,
+CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2021-04-05,,,,,-8.0,
+CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2021-04-06,,,-23.0,,-12.0,
+CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2021-04-07,,,,,-17.0,
 CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2020-02-15,-18.0,-14.0,-17.0,-51.0,7.0,3.0
 CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2020-02-16,-18.0,-8.0,-17.0,-60.0,0.0,3.0
 CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2020-02-17,-10.0,-7.0,-14.0,-15.0,27.0,-2.0
@@ -15833,6 +16725,9 @@ CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2021-04-01,-18.0,19.0,-1
 CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2021-04-02,-50.0,-21.0,-34.0,-85.0,-58.0,13.0
 CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2021-04-03,-28.0,3.0,-15.0,-72.0,-25.0,5.0
 CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2021-04-04,-29.0,-1.0,-23.0,-68.0,-5.0,4.0
+CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2021-04-05,-16.0,13.0,-26.0,-73.0,-7.0,6.0
+CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2021-04-06,-22.0,7.0,-18.0,-74.0,-13.0,8.0
+CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2021-04-07,-21.0,6.0,-21.0,-77.0,-15.0,9.0
 CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2020-02-15,,-20.0,-17.0,,10.0,
 CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2020-02-16,,-5.0,10.0,,12.0,
 CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2020-02-17,,-12.0,1.0,,37.0,-2.0
@@ -16223,6 +17118,9 @@ CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2021-04-01,,6.0,7.0,,-4
 CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2021-04-02,,-40.0,-20.0,,-53.0,15.0
 CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2021-04-03,,-10.0,-8.0,,-17.0,
 CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2021-04-04,,-9.0,-17.0,,-5.0,
+CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2021-04-05,,-7.0,-26.0,,-11.0,8.0
+CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2021-04-06,,0.0,-27.0,,-14.0,10.0
+CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2021-04-07,,4.0,-24.0,,-16.0,10.0
 CO,Colombia,Sucre,Sampués,,,,ChIJUw22qEhqWY4RNXjcniINleY,2020-02-15,,,-20.0,,,
 CO,Colombia,Sucre,Sampués,,,,ChIJUw22qEhqWY4RNXjcniINleY,2020-02-16,,,-8.0,,,
 CO,Colombia,Sucre,Sampués,,,,ChIJUw22qEhqWY4RNXjcniINleY,2020-02-19,,,-19.0,,,
@@ -16553,6 +17451,7 @@ CO,Colombia,Sucre,Sampués,,,,ChIJUw22qEhqWY4RNXjcniINleY,2021-03-30,,,,,-16.0,
 CO,Colombia,Sucre,Sampués,,,,ChIJUw22qEhqWY4RNXjcniINleY,2021-03-31,,,,,-6.0,
 CO,Colombia,Sucre,Sampués,,,,ChIJUw22qEhqWY4RNXjcniINleY,2021-04-01,,,,,-43.0,
 CO,Colombia,Sucre,Sampués,,,,ChIJUw22qEhqWY4RNXjcniINleY,2021-04-02,,,-25.0,,-57.0,
+CO,Colombia,Sucre,Sampués,,,,ChIJUw22qEhqWY4RNXjcniINleY,2021-04-06,,,,,-16.0,
 CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2020-06-08,,,,,9.0,
 CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2020-06-09,,,,,-9.0,
 CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2020-06-10,,,,,-14.0,
@@ -16745,6 +17644,9 @@ CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2021-03-30,,,,,1.0,
 CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2021-03-31,,,,,-4.0,
 CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2021-04-01,,,,,-54.0,
 CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2021-04-02,,,,,-63.0,
+CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2021-04-05,,,,,1.0,
+CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2021-04-06,,,,,-1.0,
+CO,Colombia,Sucre,San Marcos,,,,ChIJ23nWDBXtW44RoiCgdenamM8,2021-04-07,,,,,-3.0,
 CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2020-02-15,-8.0,-10.0,2.0,-59.0,7.0,2.0
 CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2020-02-16,-9.0,-4.0,-1.0,-71.0,-2.0,2.0
 CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2020-02-17,-6.0,0.0,-4.0,-17.0,23.0,-2.0
@@ -17160,6 +18062,9 @@ CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2021-04-01,-44.0,-6.0
 CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2021-04-02,-70.0,-50.0,-56.0,-100.0,-68.0,16.0
 CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2021-04-03,-42.0,-16.0,-37.0,,-36.0,6.0
 CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2021-04-04,-39.0,-12.0,-27.0,-100.0,-13.0,3.0
+CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2021-04-05,-22.0,16.0,-24.0,,-13.0,6.0
+CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2021-04-06,-30.0,7.0,-20.0,,-18.0,9.0
+CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2021-04-07,-28.0,6.0,-28.0,,-19.0,9.0
 CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2020-02-15,,-41.0,-60.0,,-2.0,
 CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2020-02-16,,-48.0,-60.0,,,
 CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2020-02-17,,,-50.0,,16.0,
@@ -17550,6 +18455,9 @@ CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2021-04-01,,,77.0,,-20.0,
 CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2021-04-02,,,30.0,,-25.0,
 CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2021-04-03,13.0,,10.0,,-4.0,
 CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2021-04-04,-43.0,,-50.0,,1.0,
+CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2021-04-05,,,-52.0,,0.0,
+CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2021-04-06,,,-50.0,,0.0,
+CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2021-04-07,,,-49.0,,-5.0,
 CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2020-02-15,-10.0,-7.0,-15.0,-30.0,5.0,1.0
 CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2020-02-16,-9.0,-4.0,-17.0,-35.0,0.0,3.0
 CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2020-02-17,-8.0,-5.0,-8.0,-6.0,15.0,-1.0
@@ -17965,6 +18873,9 @@ CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2021-04-01,3.0,38.0,50.
 CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2021-04-02,-41.0,-21.0,0.0,-54.0,-63.0,20.0
 CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2021-04-03,-5.0,17.0,25.0,-4.0,-15.0,4.0
 CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2021-04-04,-5.0,11.0,3.0,29.0,4.0,3.0
+CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2021-04-05,-10.0,14.0,3.0,0.0,-10.0,6.0
+CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2021-04-06,-13.0,11.0,-4.0,-12.0,-11.0,7.0
+CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2021-04-07,-13.0,4.0,-8.0,-17.0,-13.0,7.0
 CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2020-02-15,,,-33.0,,,
 CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2020-02-16,,,-21.0,,,
 CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2020-02-17,,,-18.0,,,
@@ -18348,6 +19259,7 @@ CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2021-03-28,,,97.0,,,
 CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2021-04-02,,,63.0,,,
 CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2021-04-03,,,137.0,,,
 CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2021-04-04,,,173.0,,,
+CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2021-04-07,,,61.0,,,
 CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2020-02-15,,,-24.0,,,
 CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2020-02-16,,,-27.0,,,
 CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2020-02-17,,,-15.0,,8.0,
@@ -18738,6 +19650,9 @@ CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2021-04-01,,,75.0,,-
 CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2021-04-02,,,4.0,,-56.0,
 CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2021-04-03,,,62.0,,-6.0,
 CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2021-04-04,,,19.0,,3.0,
+CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2021-04-05,,,29.0,,-3.0,
+CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2021-04-06,,,14.0,,-5.0,
+CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2021-04-07,,,16.0,,-6.0,
 CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2020-02-15,,,,-26.0,2.0,
 CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2020-02-16,,,,-43.0,,
 CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2020-02-17,,,,,7.0,
@@ -19120,6 +20035,9 @@ CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2021-04-01,,,,,-39.0,
 CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2021-04-02,,,,,-51.0,
 CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2021-04-03,,,,,-12.0,
 CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2021-04-04,,,,,-1.0,
+CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2021-04-05,,,,,-6.0,
+CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2021-04-06,,,,,-9.0,
+CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2021-04-07,,,,,-11.0,
 CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2020-02-15,,,-15.0,,,
 CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2020-02-16,,,-8.0,,,
 CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2020-02-17,,,-8.0,,,
@@ -19507,6 +20425,9 @@ CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2021-04-01,,,123.0,,-38.
 CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2021-04-02,,,75.0,,-47.0,
 CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2021-04-03,,,79.0,,,
 CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2021-04-04,,,28.0,,,
+CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2021-04-05,,,17.0,,0.0,
+CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2021-04-06,,,-4.0,,-1.0,
+CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2021-04-07,,,-9.0,,2.0,
 CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2020-02-15,,,-49.0,,,
 CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2020-02-16,,,-45.0,,,
 CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2020-02-17,,,-34.0,,,
@@ -19884,6 +20805,9 @@ CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2021-04-01,,,,,-33.0,
 CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2021-04-02,,,12.0,,-49.0,
 CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2021-04-03,,,1.0,,-6.0,
 CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2021-04-04,,,-21.0,,3.0,
+CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2021-04-05,,,-25.0,,-8.0,
+CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2021-04-06,,,-35.0,,-8.0,
+CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2021-04-07,,,-29.0,,-3.0,
 CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2020-02-15,-1.0,-3.0,-2.0,-34.0,5.0,0.0
 CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2020-02-16,0.0,2.0,-1.0,-39.0,-1.0,3.0
 CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2020-02-17,-5.0,-4.0,-4.0,-8.0,16.0,-1.0
@@ -20299,6 +21223,9 @@ CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2021-04-01,-17.0,9.0,1.
 CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2021-04-02,-57.0,-41.0,-39.0,-67.0,-70.0,22.0
 CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2021-04-03,-12.0,2.0,-7.0,-10.0,-24.0,5.0
 CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2021-04-04,-16.0,-6.0,-8.0,32.0,0.0,2.0
+CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2021-04-05,-13.0,5.0,-5.0,-6.0,-15.0,7.0
+CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2021-04-06,-19.0,3.0,-11.0,-15.0,-17.0,8.0
+CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2021-04-07,-19.0,-2.0,-11.0,-18.0,-17.0,8.0
 CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2020-02-15,,,-28.0,,,
 CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2020-02-16,,,-11.0,,,
 CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2020-02-17,,,-12.0,,,
@@ -20689,6 +21616,9 @@ CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2021-04-01,,,111.0,,,
 CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2021-04-02,,,76.0,,,
 CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2021-04-03,,,33.0,,,
 CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2021-04-04,,,3.0,,,
+CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2021-04-05,,,-2.0,,,
+CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2021-04-06,,,-17.0,,,
+CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2021-04-07,,,-11.0,,,
 CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2020-02-15,,,-38.0,,,
 CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2020-02-16,,,-36.0,,,
 CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2020-02-17,,,-26.0,,,
@@ -21079,6 +22009,9 @@ CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2021-04-01,,,60.0,,-27
 CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2021-04-02,,,-7.0,,-51.0,
 CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2021-04-03,,,39.0,,6.0,
 CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2021-04-04,,,-5.0,,0.0,
+CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2021-04-05,,,-15.0,,5.0,
+CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2021-04-06,,,-20.0,,11.0,
+CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2021-04-07,,,-20.0,,2.0,
 CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2020-02-15,-39.0,-36.0,-34.0,,,
 CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2020-02-16,,-35.0,-33.0,,,
 CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2020-02-17,-13.0,,1.0,,8.0,
@@ -21469,6 +22402,9 @@ CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2021-04-01,,,23.0,,-
 CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2021-04-02,34.0,-15.0,-13.0,,-44.0,
 CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2021-04-03,40.0,21.0,3.0,,-1.0,
 CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2021-04-04,30.0,22.0,-18.0,,3.0,
+CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2021-04-05,,,-21.0,,-9.0,
+CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2021-04-06,,,-27.0,,-8.0,
+CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2021-04-07,,,-37.0,,-11.0,
 CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2020-02-15,-30.0,-23.0,-17.0,,5.0,
 CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2020-02-16,-35.0,-30.0,-18.0,,-6.0,
 CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2020-02-17,-26.0,-21.0,-11.0,,9.0,
@@ -21859,6 +22795,9 @@ CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2021-04-01,93.0,,185.0,
 CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2021-04-02,16.0,36.0,86.0,,-41.0,18.0
 CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2021-04-03,2.0,15.0,18.0,,-1.0,6.0
 CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2021-04-04,-17.0,-8.0,-17.0,,4.0,
+CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2021-04-05,-6.0,6.0,-3.0,,-3.0,7.0
+CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2021-04-06,-17.0,7.0,-11.0,,-10.0,7.0
+CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2021-04-07,-12.0,-2.0,-26.0,,-12.0,8.0
 CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2020-02-15,7.0,8.0,-4.0,7.0,6.0,1.0
 CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2020-02-16,3.0,10.0,-3.0,2.0,2.0,2.0
 CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2020-02-17,-1.0,6.0,1.0,10.0,13.0,-1.0
@@ -22274,6 +23213,9 @@ CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2021-04-01,-41
 CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2021-04-02,-51.0,-23.0,-26.0,-58.0,-68.0,19.0
 CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2021-04-03,-29.0,5.0,-22.0,-33.0,-25.0,6.0
 CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2021-04-04,-33.0,-4.0,-29.0,-29.0,0.0,3.0
+CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2021-04-05,-22.0,15.0,-27.0,-12.0,-13.0,7.0
+CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2021-04-06,-24.0,12.0,-29.0,-17.0,-11.0,8.0
+CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2021-04-07,-26.0,8.0,-28.0,-18.0,-14.0,8.0
 CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2020-02-15,,,-25.0,,,
 CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2020-02-16,,,-45.0,,,
 CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2020-02-21,,,-30.0,,,
@@ -22617,6 +23559,9 @@ CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2021-04-01
 CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2021-04-02,,,-12.0,,-53.0,
 CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2021-04-03,,,-7.0,,-6.0,
 CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2021-04-04,,,-49.0,,,
+CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2021-04-05,,,,,15.0,
+CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2021-04-06,,,,,8.0,
+CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2021-04-07,,,,,6.0,
 CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2020-02-15,-18.0,-12.0,-33.0,,3.0,5.0
 CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2020-02-16,-22.0,-2.0,-40.0,,9.0,6.0
 CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2020-02-17,-11.0,-1.0,-1.0,,22.0,-1.0
@@ -23032,6 +23977,9 @@ CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2021-04-
 CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2021-04-02,-54.0,-34.0,9.0,,-68.0,19.0
 CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2021-04-03,-31.0,-4.0,4.0,,-28.0,7.0
 CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2021-04-04,-39.0,-2.0,-27.0,,-7.0,4.0
+CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2021-04-05,-34.0,11.0,-16.0,,-14.0,6.0
+CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2021-04-06,-32.0,9.0,-12.0,,-18.0,8.0
+CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2021-04-07,-30.0,9.0,-17.0,,-18.0,8.0
 CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2020-03-22,-86.0,,,,,
 CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2020-03-23,,,,,-68.0,
 CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2020-03-25,,,,,-55.0,
@@ -23306,6 +24254,9 @@ CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2021-03-
 CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2021-04-01,,,,,-48.0,
 CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2021-04-02,,,,,-49.0,
 CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2021-04-03,,,,,-18.0,
+CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2021-04-05,,,,,-2.0,
+CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2021-04-06,,,,,-2.0,
+CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2021-04-07,,,,,-5.0,
 CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2020-02-15,,,-3.0,,,
 CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2020-02-16,,,-10.0,,,
 CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2020-02-17,,,-3.0,,,
@@ -23687,6 +24638,9 @@ CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2021-04-01
 CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2021-04-02,,,57.0,,-36.0,
 CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2021-04-03,,,37.0,,-5.0,
 CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2021-04-04,,,17.0,,,
+CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2021-04-05,,,26.0,,-1.0,
+CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2021-04-06,,,20.0,,5.0,
+CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2021-04-07,,,9.0,,-3.0,
 CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2020-02-15,10.0,10.0,2.0,8.0,6.0,0.0
 CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2020-02-16,6.0,11.0,5.0,5.0,2.0,2.0
 CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2020-02-17,1.0,5.0,3.0,11.0,13.0,-2.0
@@ -24102,6 +25056,9 @@ CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2021-04-01,-47.0
 CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2021-04-02,-59.0,-30.0,-49.0,-64.0,-72.0,22.0
 CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2021-04-03,-35.0,-3.0,-41.0,-40.0,-32.0,8.0
 CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2021-04-04,-36.0,-9.0,-41.0,-39.0,-1.0,3.0
+CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2021-04-05,-22.0,11.0,-35.0,-13.0,-17.0,8.0
+CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2021-04-06,-25.0,10.0,-36.0,-17.0,-14.0,10.0
+CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2021-04-07,-29.0,6.0,-29.0,-18.0,-17.0,10.0
 CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2020-02-15,,,-46.0,,,
 CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2020-02-16,,,-45.0,,,
 CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2020-02-17,,,-35.0,,,
@@ -24492,6 +25449,9 @@ CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2021-04-01,,,1
 CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2021-04-02,,,166.0,,-16.0,
 CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2021-04-03,,,-5.0,,2.0,
 CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2021-04-04,,,-39.0,,,
+CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2021-04-05,,,-61.0,,20.0,
+CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2021-04-06,,,-61.0,,13.0,
+CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2021-04-07,,,-57.0,,15.0,
 CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2020-02-15,-2.0,10.0,-2.0,,4.0,1.0
 CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2020-02-16,-3.0,9.0,2.0,,-1.0,3.0
 CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2020-02-17,-3.0,7.0,-12.0,,10.0,-2.0
@@ -24907,6 +25867,9 @@ CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2021-04-01
 CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2021-04-02,-19.0,-12.0,13.0,,-62.0,19.0
 CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2021-04-03,-4.0,38.0,15.0,,-15.0,6.0
 CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2021-04-04,-18.0,10.0,5.0,,10.0,4.0
+CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2021-04-05,,49.0,-7.0,,7.0,3.0
+CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2021-04-06,,49.0,1.0,,9.0,4.0
+CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2021-04-07,,26.0,-1.0,,6.0,5.0
 CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2020-02-15,-4.0,4.0,-2.0,-32.0,6.0,1.0
 CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2020-02-16,-4.0,2.0,-4.0,-29.0,2.0,2.0
 CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2020-02-17,-9.0,2.0,-1.0,,11.0,1.0
@@ -25322,6 +26285,9 @@ CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2021-04-01,-2
 CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2021-04-02,-39.0,2.0,-21.0,-60.0,-62.0,15.0
 CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2021-04-03,-22.0,33.0,-3.0,-15.0,-16.0,3.0
 CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2021-04-04,-30.0,28.0,-11.0,-7.0,5.0,1.0
+CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2021-04-05,-23.0,28.0,-7.0,,-12.0,5.0
+CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2021-04-06,-23.0,18.0,-14.0,,-13.0,5.0
+CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2021-04-07,-22.0,14.0,-15.0,-11.0,-13.0,5.0
 CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2020-02-15,-44.0,,-21.0,-61.0,,
 CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2020-02-16,-40.0,,-28.0,-62.0,,
 CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2020-02-17,,,,-17.0,21.0,
@@ -25712,6 +26678,9 @@ CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2021-04-01,,,,,
 CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2021-04-02,,,,-8.0,-36.0,
 CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2021-04-03,18.0,,,-3.0,-1.0,
 CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2021-04-04,-26.0,,72.0,,6.0,
+CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2021-04-05,,,,,2.0,
+CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2021-04-06,,,,5.0,17.0,
+CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2021-04-07,,,,,10.0,
 CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2020-02-15,-12.0,,-7.0,,10.0,
 CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2020-02-16,-13.0,,-3.0,,8.0,
 CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2020-02-17,-10.0,,-14.0,,17.0,-1.0
@@ -26102,6 +27071,9 @@ CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2021-04-01
 CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2021-04-02,32.0,,21.0,,-47.0,12.0
 CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2021-04-03,-4.0,,25.0,,-5.0,4.0
 CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2021-04-04,-34.0,,-1.0,,16.0,
+CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2021-04-05,,,0.0,,-9.0,4.0
+CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2021-04-06,-32.0,,-3.0,,-2.0,5.0
+CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2021-04-07,-24.0,,-4.0,,-9.0,4.0
 CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2020-02-15,,,-11.0,,0.0,
 CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2020-02-16,,,2.0,,-3.0,
 CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2020-02-17,,,-10.0,,19.0,
@@ -26492,6 +27464,9 @@ CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2021-04-01,,,
 CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2021-04-02,,,2.0,,-51.0,17.0
 CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2021-04-03,,,-6.0,,-9.0,8.0
 CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2021-04-04,,,-20.0,,7.0,
+CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2021-04-05,,,-15.0,,1.0,6.0
+CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2021-04-06,,,-6.0,,-2.0,7.0
+CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2021-04-07,,,-25.0,,-9.0,6.0
 CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2020-02-15,,,-14.0,,,
 CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2020-02-16,,,-19.0,,,
 CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2020-02-19,,,-16.0,,,
@@ -26859,6 +27834,9 @@ CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2021-04-01,,,
 CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2021-04-02,,,,,-41.0,
 CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2021-04-03,,,32.0,,-14.0,
 CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2021-04-04,,,-6.0,,,
+CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2021-04-05,,,,,-4.0,
+CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2021-04-06,,,,,-1.0,
+CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2021-04-07,,,,,-8.0,
 CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2020-02-15,,,-11.0,,,
 CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2020-02-16,,,-2.0,,,
 CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2020-02-17,,,-6.0,,13.0,
@@ -27249,6 +28227,9 @@ CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2021-04-01,,
 CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2021-04-02,,,-17.0,,-49.0,
 CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2021-04-03,,,-23.0,,-4.0,
 CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2021-04-04,,,-27.0,,8.0,
+CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2021-04-05,,,-26.0,,-6.0,
+CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2021-04-06,,,-25.0,,-6.0,
+CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2021-04-07,,,-22.0,,-8.0,
 CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2020-02-15,-3.0,2.0,-5.0,,5.0,2.0
 CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2020-02-16,-5.0,2.0,-6.0,,2.0,3.0
 CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2020-02-17,-5.0,3.0,-2.0,,10.0,0.0
@@ -27664,6 +28645,9 @@ CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2
 CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2021-04-02,-42.0,-14.0,-21.0,,-58.0,13.0
 CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2021-04-03,-24.0,13.0,-16.0,,-15.0,3.0
 CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2021-04-04,-32.0,0.0,-30.0,,2.0,3.0
+CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2021-04-05,-20.0,16.0,-19.0,,-9.0,3.0
+CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2021-04-06,-26.0,3.0,-26.0,,-11.0,6.0
+CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2021-04-07,-23.0,9.0,-26.0,,-11.0,4.0
 CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2020-02-15,-6.0,-1.0,-9.0,,7.0,2.0
 CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2020-02-16,-6.0,1.0,-7.0,,0.0,3.0
 CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2020-02-17,-3.0,7.0,7.0,,14.0,-2.0
@@ -28079,6 +29063,9 @@ CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2021-04-01,-
 CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2021-04-02,-35.0,-4.0,-4.0,,-68.0,20.0
 CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2021-04-03,-20.0,10.0,-15.0,,-24.0,7.0
 CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2021-04-04,-33.0,-2.0,-31.0,,3.0,1.0
+CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2021-04-05,-7.0,28.0,-8.0,,-11.0,5.0
+CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2021-04-06,-7.0,14.0,-18.0,,-11.0,8.0
+CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2021-04-07,-4.0,23.0,-13.0,,-13.0,9.0
 CO,Colombia,Valle del Cauca,La Cumbre,,,,ChIJr0YXkcZTN44RoGI_KRkmqyM,2020-02-15,,,-21.0,,,
 CO,Colombia,Valle del Cauca,La Cumbre,,,,ChIJr0YXkcZTN44RoGI_KRkmqyM,2020-02-16,,,-11.0,,,
 CO,Colombia,Valle del Cauca,La Cumbre,,,,ChIJr0YXkcZTN44RoGI_KRkmqyM,2020-02-20,,,-21.0,,,
@@ -28714,6 +29701,9 @@ CO,Colombia,Valle del Cauca,La Unión,,,,ChIJCTC9zG0_OI4RVKFT9JSWJwE,2021-04-01,
 CO,Colombia,Valle del Cauca,La Unión,,,,ChIJCTC9zG0_OI4RVKFT9JSWJwE,2021-04-02,,,42.0,,-39.0,
 CO,Colombia,Valle del Cauca,La Unión,,,,ChIJCTC9zG0_OI4RVKFT9JSWJwE,2021-04-03,,,27.0,,10.0,
 CO,Colombia,Valle del Cauca,La Unión,,,,ChIJCTC9zG0_OI4RVKFT9JSWJwE,2021-04-04,,,8.0,,7.0,
+CO,Colombia,Valle del Cauca,La Unión,,,,ChIJCTC9zG0_OI4RVKFT9JSWJwE,2021-04-05,,,-20.0,,7.0,
+CO,Colombia,Valle del Cauca,La Unión,,,,ChIJCTC9zG0_OI4RVKFT9JSWJwE,2021-04-06,,,-19.0,,6.0,
+CO,Colombia,Valle del Cauca,La Unión,,,,ChIJCTC9zG0_OI4RVKFT9JSWJwE,2021-04-07,,,-18.0,,10.0,
 CO,Colombia,Valle del Cauca,La Victoria,,,,ChIJHzh05t5AOI4RFN3y6GdiCxg,2020-02-15,,,-4.0,,,
 CO,Colombia,Valle del Cauca,La Victoria,,,,ChIJHzh05t5AOI4RFN3y6GdiCxg,2020-02-16,,,-9.0,,,
 CO,Colombia,Valle del Cauca,La Victoria,,,,ChIJHzh05t5AOI4RFN3y6GdiCxg,2020-02-21,,,-6.0,,,
@@ -29409,6 +30399,9 @@ CO,Colombia,Valle del Cauca,Palmira,,,,ChIJ50-bZo0EOo4RztMKkH4J1Qk,2021-04-01,-3
 CO,Colombia,Valle del Cauca,Palmira,,,,ChIJ50-bZo0EOo4RztMKkH4J1Qk,2021-04-02,-46.0,-31.0,-39.0,-30.0,-66.0,18.0
 CO,Colombia,Valle del Cauca,Palmira,,,,ChIJ50-bZo0EOo4RztMKkH4J1Qk,2021-04-03,-23.0,8.0,-7.0,4.0,-22.0,6.0
 CO,Colombia,Valle del Cauca,Palmira,,,,ChIJ50-bZo0EOo4RztMKkH4J1Qk,2021-04-04,-32.0,-7.0,-15.0,4.0,4.0,4.0
+CO,Colombia,Valle del Cauca,Palmira,,,,ChIJ50-bZo0EOo4RztMKkH4J1Qk,2021-04-05,-20.0,13.0,-9.0,14.0,-12.0,7.0
+CO,Colombia,Valle del Cauca,Palmira,,,,ChIJ50-bZo0EOo4RztMKkH4J1Qk,2021-04-06,-21.0,10.0,-11.0,-1.0,-9.0,7.0
+CO,Colombia,Valle del Cauca,Palmira,,,,ChIJ50-bZo0EOo4RztMKkH4J1Qk,2021-04-07,-21.0,15.0,-13.0,-18.0,-14.0,7.0
 CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2020-02-15,,,,,8.0,
 CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2020-02-17,,,,,14.0,
 CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2020-02-18,,,,,22.0,
@@ -29787,6 +30780,9 @@ CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2021-04-01,,,
 CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2021-04-02,,,,,-45.0,
 CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2021-04-03,,,,,-11.0,
 CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2021-04-04,,,,,9.0,
+CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2021-04-05,,,,,-11.0,
+CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2021-04-06,,,,,-7.0,
+CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2021-04-07,,,,,-3.0,
 CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2020-02-15,-15.0,,-25.0,,2.0,
 CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2020-02-16,,,-34.0,,,
 CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2020-02-17,,,-26.0,,7.0,
@@ -30177,6 +31173,9 @@ CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2021-04-01
 CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2021-04-02,-28.0,,-7.0,,-53.0,
 CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2021-04-03,-17.0,,-22.0,,-20.0,
 CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2021-04-04,,,-36.0,,-9.0,
+CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2021-04-05,,,-36.0,,-8.0,
+CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2021-04-06,,,-36.0,,-8.0,
+CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2021-04-07,,,-27.0,,-9.0,
 CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2020-02-16,,,-18.0,,,
 CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2020-02-23,,,-45.0,,,
 CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2020-02-29,,,-38.0,,,
@@ -30467,6 +31466,9 @@ CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2021-04-01,
 CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2021-04-02,,,,,-58.0,
 CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2021-04-03,,,,,-17.0,
 CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2021-04-04,,,-23.0,,,
+CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2021-04-05,,,,,-21.0,
+CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2021-04-06,,,,,-4.0,
+CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2021-04-07,,,,,-18.0,
 CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2020-02-15,,,-36.0,,,
 CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2020-02-16,,,-37.0,,,
 CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2020-02-17,,,-31.0,,,
@@ -30854,6 +31856,9 @@ CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2021-04-01,,,
 CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2021-04-02,,,91.0,,-28.0,
 CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2021-04-03,,,77.0,,3.0,
 CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2021-04-04,,,44.0,,2.0,
+CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2021-04-05,,,32.0,,8.0,
+CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2021-04-06,,,15.0,,0.0,
+CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2021-04-07,,,17.0,,-2.0,
 CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2020-02-15,7.0,-4.0,-3.0,-18.0,7.0,2.0
 CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2020-02-16,19.0,7.0,10.0,-19.0,3.0,2.0
 CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2020-02-17,0.0,-1.0,0.0,4.0,15.0,-1.0
@@ -31269,6 +32274,9 @@ CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2021-04-01,-35
 CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2021-04-02,-45.0,-22.0,-44.0,-72.0,-62.0,14.0
 CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2021-04-03,-17.0,10.0,-14.0,-72.0,-15.0,4.0
 CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2021-04-04,-20.0,-3.0,-15.0,,4.0,3.0
+CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2021-04-05,-17.0,9.0,-18.0,-61.0,-2.0,4.0
+CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2021-04-06,-21.0,2.0,-23.0,-57.0,-4.0,6.0
+CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2021-04-07,-24.0,4.0,-27.0,-59.0,-3.0,5.0
 CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2020-02-15,8.0,5.0,5.0,,6.0,0.0
 CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2020-02-16,6.0,14.0,4.0,,2.0,2.0
 CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2020-02-17,8.0,10.0,8.0,,10.0,-1.0
@@ -31684,6 +32692,9 @@ CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2021-04-01,-31.
 CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2021-04-02,-42.0,-34.0,-47.0,,-66.0,18.0
 CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2021-04-03,-20.0,-7.0,-50.0,,-20.0,7.0
 CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2021-04-04,-27.0,-21.0,-52.0,,5.0,3.0
+CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2021-04-05,-2.0,12.0,-49.0,,2.0,5.0
+CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2021-04-06,-4.0,11.0,-47.0,,9.0,3.0
+CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2021-04-07,-8.0,3.0,-52.0,,0.0,6.0
 CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2020-02-15,-3.0,,3.0,,8.0,
 CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2020-02-16,,,1.0,,,
 CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2020-02-17,,,-2.0,,24.0,
@@ -32074,6 +33085,9 @@ CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2021-04-01,,,-
 CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2021-04-02,,,-17.0,,-51.0,
 CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2021-04-03,,,-3.0,,-13.0,
 CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2021-04-04,,,-13.0,,1.0,
+CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2021-04-05,,,-20.0,,-7.0,
+CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2021-04-06,,,-19.0,,-4.0,
+CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2021-04-07,,,-22.0,,-6.0,
 CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2020-02-15,,,12.0,,,
 CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2020-02-16,,,12.0,,,
 CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2020-02-19,,,-2.0,,,
@@ -32435,6 +33449,8 @@ CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2021-04-01,,,-14.0,,-5
 CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2021-04-02,,,-23.0,,-56.0,
 CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2021-04-03,,,-14.0,,,
 CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2021-04-04,,,-21.0,,,
+CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2021-04-06,,,-11.0,,-1.0,
+CO,Colombia,Vichada,,,CO-VID,,ChIJL0wGYMm4DI4RShTsnujDtOo,2021-04-07,,,-12.0,,4.0,
 CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2020-03-25,,,,,-48.0,
 CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2020-03-26,,,,,-54.0,
 CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2020-04-09,,,,,-55.0,
@@ -32643,3 +33659,6 @@ CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2021-03-30,,,
 CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2021-03-31,,,,,-12.0,
 CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2021-04-01,,,,,-52.0,
 CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2021-04-02,,,,,-55.0,
+CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2021-04-05,,,,,5.0,
+CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2021-04-06,,,,,-3.0,
+CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2021-04-07,,,,,3.0,

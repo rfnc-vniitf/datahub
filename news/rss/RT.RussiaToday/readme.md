@@ -113,10 +113,12 @@
 05.04.2021 | 50 | 1 
 06.04.2021 | 50 | 3 
 07.04.2021 | 50 | 2 
-08.04.2021 | 50 | 4 
+08.04.2021 | 50 | 3 
+09.04.2021 | 50 | 1 
+10.04.2021 | 50 | 2 
+11.04.2021 | 50 | 3 
+12.04.2021 | 50 | 2 
 
 > ### Последние новости по теме covid-19:
-+ [В России за сутки проведено 323 тысячи тестов на коронавирус](https://russian.rt.com/russia/news/850639-rossiya-koronavirus-testy?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [На Украине за сутки выявили более 19 тысяч случаев коронавируса](https://russian.rt.com/ussr/news/850636-ukraina-sluchai-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Индии за сутки выявили более 126 тысяч случаев коронавируса](https://russian.rt.com/world/news/850626-indiya-sluchai-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Число случаев коронавируса в Казахстане превысило 261 тысячу](https://russian.rt.com/ussr/news/850616-koronavirus-kazakhstan?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Тюмени закрывают первый в России обсерватор для пациентов с коронавирусом](https://russian.rt.com/russia/news/851870-tyumenskaya-oblast-covid-19-observator?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [На Украине за сутки зафиксировано 7856 новых случаев коронавируса](https://russian.rt.com/ussr/news/851866-ukraina-koronavirus-dannye?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

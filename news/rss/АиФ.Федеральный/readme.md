@@ -113,11 +113,11 @@
 05.04.2021 | 126 | 3 
 06.04.2021 | 115 | 6 
 07.04.2021 | 120 | 6 
-08.04.2021 | 27 | 0 
+08.04.2021 | 115 | 6 
+09.04.2021 | 122 | 2 
+10.04.2021 | 60 | 2 
+11.04.2021 | 63 | 1 
+12.04.2021 | 33 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [В Узбекистане, Казахстане и Киргизии заметили необычную вспышку в небе](https://aif.ru/society/nature/chto_za_nlo_proletelo_nad_sibiryu)
-+ [В каких центрах госуслуг можно привиться от коронавирус?](https://aif.ru/health/coronavirus/v_kakih_centrah_gosuslug_mozhno_privitsya_ot_koronavirus)
-+ [Фургала с коронавирусом госпитализировали в больницу СИЗО](https://aif.ru/society/law/mosgorsud_otklonil_zhalobu_advokatov_furgala_po_delu_ob_ubiystve_zori)
-+ [«Вектор» заявил об эффективности своей вакцины против разных штаммов вируса](https://aif.ru/health/coronavirus/gincburg_obyasnil_pochemu_sputnik_v_ne_puskayut_na_evropeyskiy_rynok)
-+ [В России за сутки выявили 8 294 случая заражения коронавирусом](https://aif.ru/moscow/sobyanin_rasskazal_o_tehnologiyah_kotorye_pomogli_borotsya_s_covid-19)
++ [ФМБА получило патент на препарат для лечения коронавируса](https://aif.ru/society/healthcare/evrokomissar_schitaet_chto_sputnik_v_pridet_v_es_slishkom_pozdno)

@@ -95,7 +95,11 @@
 05.04.2021 | 11 | 0 
 06.04.2021 | 9 | 0 
 07.04.2021 | 9 | 1 
-08.04.2021 | 4 | 0 
+08.04.2021 | 10 | 0 
+09.04.2021 | 10 | 0 
+10.04.2021 | 7 | 0 
+11.04.2021 | 5 | 0 
+12.04.2021 | 4 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [«Россия — нерадивый родитель»: директор СПИД.ЦЕНТРа — о профилактике ВИЧ, коронавирусе и «иноагентстве»](http://www.forbes.ru/forbeslife/425501-rossiya-neradivyy-roditel-direktor-spidcentra-o-profilaktike-vich-koronaviruse-i)
++ [Золотая жила удаленки: на чем сэкономили и на что больше всего потратились работодатели в пандемию](http://www.forbes.ru/biznes/425939-zolotaya-zhila-udalenki-na-chem-sekonomili-i-na-chto-bolshe-vsego-potratilis)
