@@ -118,6 +118,7 @@
 10.04.2021 | 20 | 0 
 11.04.2021 | 20 | 1 
 12.04.2021 | 20 | 1 
+13.04.2021 | 20 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [В Роспотребнадзоре рассказали о вакцине от коронавируса для новорожденных](https://riafan.ru/1422610-v-rospotrebnadzore-rasskazali-o-vakcine-ot-koronavirusa-dlya-novorozhdennyh)
++ [Гериатр назвал причины развития осложнений у пожилых при коронавирусе](https://riafan.ru/1423400-geriatr-nazval-prichiny-razvitiya-oslozhnenii-u-pozhilyh-pri-koronaviruse)

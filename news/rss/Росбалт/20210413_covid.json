@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/moscow/2021/04/13/1896967.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/moscow/2021/04/13/1896967.html",
+        "title": "Еще у 1782 жителей Москвы выявили коронавирус",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Еще у 1782 жителей Москвы выявили коронавирус"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/moscow/2021/04/13/1896967.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/8/e/e/9/7mPfTBNM-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Менее 2 тыс. новых случаев заражения коронавирусом подтвердили в Москве. Как сообщили в пресс-службе столичного оперативного штаба, за сутки выявили еще...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Менее 2 тыс. новых случаев заражения коронавирусом подтвердили в Москве. Как сообщили в пресс-службе столичного оперативного штаба, за сутки выявили еще..."
+        },
+        "published": "Tue, 13 Apr 2021 10:04:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            7,
+            4,
+            0,
+            1,
+            103,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/13/1896946.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/13/1896946.html",
+        "title": "Lancet: Британский штамм коронавируса не влияет на тяжесть болезни и вероятность смерти",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Lancet: Британский штамм коронавируса не влияет на тяжесть болезни и вероятность смерти"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/13/1896946.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/95/35/59/8c/ZjYycKJvTH2P-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Подтверждена более высокая заразность этой разновидности вируса.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Подтверждена более высокая заразность этой разновидности вируса."
+        },
+        "published": "Tue, 13 Apr 2021 06:25:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            3,
+            25,
+            0,
+            1,
+            103,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

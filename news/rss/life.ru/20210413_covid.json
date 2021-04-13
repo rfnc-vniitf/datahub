@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Учёные доказали, что \"британский\" коронавирус-мутант не является более смертоносным",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Учёные доказали, что \"британский\" коронавирус-мутант не является более смертоносным"
+        },
+        "summary": "Против него эффективно действуют все существующие вакцины, а современные лекарства могут снизить скорость распространения инфекции.<a href=\"https://life.ru/p/1390840\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Против него эффективно действуют все существующие вакцины, а современные лекарства могут снизить скорость распространения инфекции.<a href=\"https://life.ru/p/1390840\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1390840"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2020/10/18/1460372646156.0823.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1390840",
+        "id": "https://life.ru/p/1390840",
+        "guidislink": false,
+        "published": "Tue, 13 Apr 2021 03:07:45 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            3,
+            7,
+            45,
+            1,
+            103,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "наука",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "здоровье",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "великобритания",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

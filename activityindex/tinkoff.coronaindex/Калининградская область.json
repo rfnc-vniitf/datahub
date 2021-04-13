@@ -459,7 +459,7 @@
             {
                 "date": "2020-04-01T00:00:00.000Z",
                 "activity_20": 0,
-                "activity_19": 83
+                "activity_19": 84
             },
             {
                 "date": "2020-04-02T00:00:00.000Z",
@@ -2330,6 +2330,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 74,
                 "activity_19": 22
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 30,
+                "activity_19": 0
             }
         ],
         "2": [
@@ -4662,6 +4667,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 60,
                 "activity_19": 21
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 61,
+                "activity_19": 9
             }
         ],
         "3": [
@@ -6994,6 +7004,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 148,
                 "activity_19": 101
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 63,
+                "activity_19": 79
             }
         ],
         "4": [
@@ -9059,7 +9074,7 @@
             },
             {
                 "date": "2021-02-16T00:00:00.000Z",
-                "activity_20": 147,
+                "activity_20": 146,
                 "activity_19": 98
             },
             {
@@ -9326,6 +9341,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 131,
                 "activity_19": 110
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 104,
+                "activity_19": 106
             }
         ],
         "5": [
@@ -11657,6 +11677,11 @@
             {
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 282,
+                "activity_19": 17
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 47,
                 "activity_19": 17
             }
         ],
@@ -13990,6 +14015,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 173,
                 "activity_19": 61
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 44,
+                "activity_19": 37
             }
         ],
         "7": [
@@ -15761,7 +15791,7 @@
             {
                 "date": "2020-12-19T00:00:00.000Z",
                 "activity_20": 236,
-                "activity_19": 107
+                "activity_19": 106
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
@@ -16070,7 +16100,7 @@
             },
             {
                 "date": "2021-02-19T00:00:00.000Z",
-                "activity_20": 190,
+                "activity_20": 191,
                 "activity_19": 95
             },
             {
@@ -16322,6 +16352,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 173,
                 "activity_19": 46
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 131,
+                "activity_19": 63
             }
         ],
         "8": [
@@ -18652,6 +18687,11 @@
             },
             {
                 "date": "2021-04-10T00:00:00.000Z",
+                "activity_20": 63,
+                "activity_19": 0
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
                 "activity_20": 63,
                 "activity_19": 0
             }
@@ -20986,6 +21026,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 197,
                 "activity_19": 80
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 191,
+                "activity_19": 115
             }
         ],
         "10": [
@@ -23316,6 +23361,11 @@
             },
             {
                 "date": "2021-04-10T00:00:00.000Z",
+                "activity_20": 0,
+                "activity_19": 0
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
                 "activity_20": 0,
                 "activity_19": 0
             }
@@ -25650,6 +25700,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 178,
                 "activity_19": 0
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 116,
+                "activity_19": 13
             }
         ],
         "12": [
@@ -27982,6 +28037,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 97,
                 "activity_19": 22
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 60,
+                "activity_19": 11
             }
         ],
         "13": [
@@ -30313,6 +30373,11 @@
             {
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 146,
+                "activity_19": 30
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 106,
                 "activity_19": 30
             }
         ],
@@ -32646,6 +32711,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 152,
                 "activity_19": 50
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 64,
+                "activity_19": 48
             }
         ],
         "15": [
@@ -34978,6 +35048,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 107,
                 "activity_19": 99
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 53,
+                "activity_19": 119
             }
         ],
         "16": [
@@ -37310,6 +37385,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 84,
                 "activity_19": 64
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 74,
+                "activity_19": 43
             }
         ],
         "17": [
@@ -39642,6 +39722,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 213,
                 "activity_19": 73
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 147,
+                "activity_19": 48
             }
         ],
         "18": [
@@ -41707,7 +41792,7 @@
             },
             {
                 "date": "2021-02-16T00:00:00.000Z",
-                "activity_20": 88,
+                "activity_20": 87,
                 "activity_19": 87
             },
             {
@@ -41942,7 +42027,7 @@
             },
             {
                 "date": "2021-04-04T00:00:00.000Z",
-                "activity_20": 149,
+                "activity_20": 147,
                 "activity_19": 21
             },
             {
@@ -41974,6 +42059,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 170,
                 "activity_19": 20
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 165,
+                "activity_19": 27
             }
         ],
         "19": [
@@ -44306,6 +44396,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 65,
                 "activity_19": 3
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 87,
+                "activity_19": 2
             }
         ],
         "20": [
@@ -46638,6 +46733,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 158,
                 "activity_19": 37
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 194,
+                "activity_19": 17
             }
         ],
         "21": [
@@ -48970,6 +49070,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 196,
                 "activity_19": 27
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 185,
+                "activity_19": 21
             }
         ],
         "22": [
@@ -50341,7 +50446,7 @@
             {
                 "date": "2020-09-30T00:00:00.000Z",
                 "activity_20": 124,
-                "activity_19": 152
+                "activity_19": 151
             },
             {
                 "date": "2020-10-01T00:00:00.000Z",
@@ -51301,6 +51406,11 @@
             {
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 184,
+                "activity_19": 58
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 105,
                 "activity_19": 58
             }
         ],
@@ -53634,6 +53744,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 80,
                 "activity_19": 93
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 67,
+                "activity_19": 81
             }
         ],
         "24": [
@@ -55966,6 +56081,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 106,
                 "activity_19": 47
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 138,
+                "activity_19": 51
             }
         ],
         "25": [
@@ -56172,7 +56292,7 @@
             {
                 "date": "2020-02-10T00:00:00.000Z",
                 "activity_20": 83,
-                "activity_19": 107
+                "activity_19": 108
             },
             {
                 "date": "2020-02-11T00:00:00.000Z",
@@ -58298,6 +58418,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 95,
                 "activity_19": 20
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 81,
+                "activity_19": 0
             }
         ],
         "26": [
@@ -60630,6 +60755,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 152,
                 "activity_19": 133
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 131,
+                "activity_19": 137
             }
         ],
         "27": [
@@ -62962,6 +63092,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 110,
                 "activity_19": 73
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 116,
+                "activity_19": 60
             }
         ],
         "28": [
@@ -65294,6 +65429,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 187,
                 "activity_19": 61
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 172,
+                "activity_19": 41
             }
         ],
         "29": [
@@ -67625,6 +67765,11 @@
             {
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 0,
+                "activity_19": 0
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 175,
                 "activity_19": 0
             }
         ],
@@ -69958,6 +70103,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 184,
                 "activity_19": 59
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 184,
+                "activity_19": 54
             }
         ],
         "31": [
@@ -72290,6 +72440,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 67,
                 "activity_19": 231
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 368,
+                "activity_19": 17
             }
         ],
         "32": [
@@ -74621,6 +74776,11 @@
             {
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 184,
+                "activity_19": 28
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 115,
                 "activity_19": 28
             }
         ],
@@ -76954,6 +77114,11 @@
                 "date": "2021-04-10T00:00:00.000Z",
                 "activity_20": 50,
                 "activity_19": 149
+            },
+            {
+                "date": "2021-04-11T00:00:00.000Z",
+                "activity_20": 80,
+                "activity_19": 45
             }
         ]
     },
@@ -77283,6 +77448,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 150.74,
                 "activity_19": 99.76
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 87.25,
+                "activity_19": 83.12
             }
         ],
         "2": [
@@ -77610,6 +77780,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 195.39,
                 "activity_19": 137.17
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 182.84,
+                "activity_19": 100.01
             }
         ],
         "3": [
@@ -77937,6 +78112,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 148.83,
                 "activity_19": 55.71
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 124.26,
+                "activity_19": 68.4
             }
         ],
         "4": [
@@ -78264,6 +78444,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 89,
                 "activity_19": 51.95
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 123.45,
+                "activity_19": 58.17
             }
         ],
         "5": [
@@ -78591,6 +78776,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 115.85,
                 "activity_19": 57.26
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 116.05,
+                "activity_19": 47.14
             }
         ],
         "6": [
@@ -78918,6 +79108,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 116.67,
                 "activity_19": 76.41
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 85.07,
+                "activity_19": 62.82
             }
         ],
         "7": [
@@ -79245,6 +79440,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 133.08,
                 "activity_19": 97.01
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 120.64,
+                "activity_19": 128.37
             }
         ],
         "8": [
@@ -79570,6 +79770,11 @@
             },
             {
                 "date": "2021-03-29T00:00:00.000Z",
+                "activity_20": 0,
+                "activity_19": 0
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
                 "activity_20": 0,
                 "activity_19": 0
             }
@@ -79899,6 +80104,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 109.24,
                 "activity_19": 63.33
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 164.35,
+                "activity_19": 86.14
             }
         ],
         "10": [
@@ -80226,6 +80436,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 152.07,
                 "activity_19": 202.32
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 105.71,
+                "activity_19": 41.44
             }
         ],
         "11": [
@@ -80553,6 +80768,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 516.59,
                 "activity_19": 38.82
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 261.83,
+                "activity_19": 83.26
             }
         ],
         "12": [
@@ -80880,6 +81100,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 166.31,
                 "activity_19": 40.76
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 155.16,
+                "activity_19": 59.97
             }
         ],
         "13": [
@@ -81207,6 +81432,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 193.51,
                 "activity_19": 71.59
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 198.85,
+                "activity_19": 68.1
             }
         ],
         "14": [
@@ -81534,6 +81764,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 149.01,
                 "activity_19": 11.73
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 170.9,
+                "activity_19": 49.41
             }
         ],
         "15": [
@@ -81861,6 +82096,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 119.6,
                 "activity_19": 3.07
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 197.62,
+                "activity_19": 43.49
             }
         ],
         "16": [
@@ -82188,6 +82428,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 108.91,
                 "activity_19": 69.55
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 70.73,
+                "activity_19": 46.73
             }
         ],
         "17": [
@@ -82515,6 +82760,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 338.33,
                 "activity_19": 69.59
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 271.88,
+                "activity_19": 140
             }
         ],
         "18": [
@@ -82842,6 +83092,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 319.44,
                 "activity_19": 156.46
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 376.79,
+                "activity_19": 113.54
             }
         ],
         "19": [
@@ -83169,6 +83424,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 149.97,
                 "activity_19": 69.35
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 160.97,
+                "activity_19": 69.3
             }
         ],
         "20": [
@@ -83496,6 +83756,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 52.35,
                 "activity_19": 6.23
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 3.74,
+                "activity_19": 31.16
             }
         ],
         "21": [
@@ -83823,6 +84088,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 9.22,
                 "activity_19": 45.5
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 103.95,
+                "activity_19": 4.86
             }
         ],
         "22": [
@@ -84150,6 +84420,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 108.09,
                 "activity_19": 35.99
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 55.66,
+                "activity_19": 193.35
             }
         ],
         "23": [
@@ -84477,6 +84752,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 153.18,
                 "activity_19": 33.85
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 176.66,
+                "activity_19": 106.77
             }
         ],
         "24": [
@@ -84803,6 +85083,11 @@
             {
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 3.11,
+                "activity_19": 0
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 30.65,
                 "activity_19": 0
             }
         ],
@@ -85131,6 +85416,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 215.92,
                 "activity_19": 62.15
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 217.66,
+                "activity_19": 65.87
             }
         ],
         "26": [
@@ -85458,6 +85748,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 112.69,
                 "activity_19": 96.99
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 55.49,
+                "activity_19": 0.77
             }
         ],
         "27": [
@@ -85785,6 +86080,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 180.11,
                 "activity_19": 161.44
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 179.96,
+                "activity_19": 136.15
             }
         ],
         "28": [
@@ -86112,6 +86412,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 101.88,
                 "activity_19": 50.57
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 111.18,
+                "activity_19": 176.19
             }
         ],
         "29": [
@@ -86439,6 +86744,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 322.66,
                 "activity_19": 111.18
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 149.14,
+                "activity_19": 114.66
             }
         ],
         "30": [
@@ -86766,6 +87076,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 167.49,
                 "activity_19": 53.77
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 153.55,
+                "activity_19": 43.87
             }
         ],
         "31": [
@@ -87091,6 +87406,11 @@
             },
             {
                 "date": "2021-03-29T00:00:00.000Z",
+                "activity_20": 0,
+                "activity_19": 0
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
                 "activity_20": 0,
                 "activity_19": 0
             }
@@ -87420,6 +87740,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 240.53,
                 "activity_19": 16.08
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 184.04,
+                "activity_19": 103.64
             }
         ],
         "33": [
@@ -87747,6 +88072,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 189.16,
                 "activity_19": 103.2
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 255.94,
+                "activity_19": 65.56
             }
         ],
         "34": [
@@ -88074,6 +88404,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 155.08,
                 "activity_19": 29.37
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 149.77,
+                "activity_19": 29.46
             }
         ],
         "35": [
@@ -88401,6 +88736,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 125.38,
                 "activity_19": 26.6
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 103.12,
+                "activity_19": 23.77
             }
         ],
         "36": [
@@ -88728,6 +89068,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 152.56,
                 "activity_19": 169.96
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 123.44,
+                "activity_19": 31.55
             }
         ],
         "37": [
@@ -89055,6 +89400,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 153.36,
                 "activity_19": 62.56
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 116.82,
+                "activity_19": 58.31
             }
         ],
         "38": [
@@ -89382,6 +89732,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 91.93,
                 "activity_19": 153.99
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 115.95,
+                "activity_19": 50.02
             }
         ],
         "39": [
@@ -89709,6 +90064,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 92.74,
                 "activity_19": 8.48
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 91.51,
+                "activity_19": 8.23
             }
         ],
         "40": [
@@ -90036,6 +90396,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 129.91,
                 "activity_19": 97.88
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 89.05,
+                "activity_19": 30.55
             }
         ],
         "41": [
@@ -90363,6 +90728,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 66.91,
                 "activity_19": 70.23
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 72.49,
+                "activity_19": 123.31
             }
         ],
         "42": [
@@ -90690,6 +91060,11 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 128.14,
                 "activity_19": 49.52
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 159.17,
+                "activity_19": 75.36
             }
         ],
         "43": [
@@ -91017,178 +91392,183 @@
                 "date": "2021-03-29T00:00:00.000Z",
                 "activity_20": 25.9,
                 "activity_19": 0
+            },
+            {
+                "date": "2021-04-05T00:00:00.000Z",
+                "activity_20": 0,
+                "activity_19": 3.74
             }
         ]
     },
     "changes": {
         "consumer": {
             "1": {
-                "weekChanges": "46.96",
-                "yearChanges": "476.14"
+                "weekChanges": "33.91",
+                "yearChanges": "425.00"
             },
             "2": {
-                "weekChanges": "-1.72",
-                "yearChanges": "429.63"
+                "weekChanges": "-1.22",
+                "yearChanges": "469.00"
             },
             "3": {
-                "weekChanges": "-40.43",
-                "yearChanges": "135.46"
+                "weekChanges": "-17.18",
+                "yearChanges": "104.28"
             },
             "4": {
-                "weekChanges": "1.91",
-                "yearChanges": "27.89"
+                "weekChanges": "2.37",
+                "yearChanges": "25.07"
             },
             "5": {
-                "weekChanges": "58.79",
-                "yearChanges": "292.75"
+                "weekChanges": "15.12",
+                "yearChanges": "223.67"
             },
             "6": {
-                "weekChanges": "25.00",
-                "yearChanges": "297.06"
+                "weekChanges": "25.58",
+                "yearChanges": "280.70"
             },
             "7": {
-                "weekChanges": "1.89",
-                "yearChanges": "199.24"
+                "weekChanges": "1.13",
+                "yearChanges": "185.09"
             },
             "8": {
-                "weekChanges": "-7.83",
-                "yearChanges": "1342.50"
+                "weekChanges": "-16.04",
+                "yearChanges": "1750.00"
             },
             "9": {
-                "weekChanges": "1.38",
-                "yearChanges": "117.91"
+                "weekChanges": "-0.56",
+                "yearChanges": "108.94"
             },
             "10": {
                 "weekChanges": null,
                 "yearChanges": null
             },
             "11": {
-                "weekChanges": "26.12",
-                "yearChanges": "984.62"
+                "weekChanges": "32.58",
+                "yearChanges": "983.08"
             },
             "12": {
-                "weekChanges": "-17.34",
-                "yearChanges": "356.64"
+                "weekChanges": "-22.74",
+                "yearChanges": "330.07"
             },
             "13": {
-                "weekChanges": "-9.97",
-                "yearChanges": "425.45"
+                "weekChanges": "-11.43",
+                "yearChanges": "380.45"
             },
             "14": {
-                "weekChanges": "-11.90",
-                "yearChanges": "411.06"
+                "weekChanges": "-14.64",
+                "yearChanges": "347.64"
             },
             "15": {
-                "weekChanges": "41.11",
-                "yearChanges": "28.18"
+                "weekChanges": "21.20",
+                "yearChanges": "18.72"
             },
             "16": {
-                "weekChanges": "-19.87",
-                "yearChanges": "39.51"
+                "weekChanges": "-20.82",
+                "yearChanges": "52.79"
             },
             "17": {
-                "weekChanges": "-21.15",
-                "yearChanges": "145.54"
+                "weekChanges": "-20.67",
+                "yearChanges": "148.13"
             },
             "18": {
-                "weekChanges": "-5.73",
-                "yearChanges": "583.85"
+                "weekChanges": "-1.63",
+                "yearChanges": "565.44"
             },
             "19": {
-                "weekChanges": "-7.06",
-                "yearChanges": "748.89"
+                "weekChanges": "-3.55",
+                "yearChanges": "825.00"
             },
             "20": {
-                "weekChanges": "-4.60",
-                "yearChanges": "228.68"
+                "weekChanges": "26.61",
+                "yearChanges": "280.31"
             },
             "21": {
-                "weekChanges": "7.99",
-                "yearChanges": "698.10"
+                "weekChanges": "2.42",
+                "yearChanges": "663.06"
             },
             "22": {
-                "weekChanges": "-8.82",
-                "yearChanges": "83.01"
+                "weekChanges": "-20.19",
+                "yearChanges": "71.92"
             },
             "23": {
-                "weekChanges": "-36.03",
-                "yearChanges": "45.93"
+                "weekChanges": "-43.69",
+                "yearChanges": "43.45"
             },
             "24": {
-                "weekChanges": "-30.50",
-                "yearChanges": "234.57"
+                "weekChanges": "-20.36",
+                "yearChanges": "191.34"
             },
             "25": {
-                "weekChanges": "-11.45",
-                "yearChanges": "5.22"
+                "weekChanges": "7.93",
+                "yearChanges": "11.11"
             },
             "26": {
-                "weekChanges": "-1.19",
-                "yearChanges": "15.24"
+                "weekChanges": "0.77",
+                "yearChanges": "12.75"
             },
             "27": {
-                "weekChanges": "-2.91",
-                "yearChanges": "79.90"
+                "weekChanges": "-0.93",
+                "yearChanges": "77.91"
             },
             "28": {
-                "weekChanges": "0.93",
-                "yearChanges": "273.52"
+                "weekChanges": "3.29",
+                "yearChanges": "274.01"
             },
             "29": {
-                "weekChanges": "-42.51",
+                "weekChanges": "-26.66",
                 "yearChanges": null
             },
             "30": {
-                "weekChanges": "-3.00",
-                "yearChanges": "211.18"
+                "weekChanges": "1.19",
+                "yearChanges": "214.15"
             },
             "31": {
-                "weekChanges": "15.48",
-                "yearChanges": "103.46"
+                "weekChanges": "6.82",
+                "yearChanges": "119.00"
             },
             "32": {
-                "weekChanges": "2.75",
-                "yearChanges": "433.33"
+                "weekChanges": "6.20",
+                "yearChanges": "418.69"
             },
             "33": {
-                "weekChanges": "17.99",
-                "yearChanges": "25.75"
+                "weekChanges": "9.17",
+                "yearChanges": "27.91"
             }
         },
         "business": {
             "1": {
-                "weekChanges": "48.04",
-                "yearChanges": "51.00",
+                "weekChanges": "-42.38",
+                "yearChanges": "4.82",
                 "isActualDate": true
             },
             "2": {
-                "weekChanges": "29.14",
-                "yearChanges": "42.34",
+                "weekChanges": "-6.15",
+                "yearChanges": "83.00",
                 "isActualDate": true
             },
             "3": {
-                "weekChanges": "-13.87",
-                "yearChanges": "166.07",
+                "weekChanges": "-16.78",
+                "yearChanges": "82.35",
                 "isActualDate": true
             },
             "4": {
-                "weekChanges": "-35.51",
-                "yearChanges": "71.15",
+                "weekChanges": "38.20",
+                "yearChanges": "112.07",
                 "isActualDate": true
             },
             "5": {
-                "weekChanges": "23.40",
-                "yearChanges": "103.51",
+                "weekChanges": "0.00",
+                "yearChanges": "146.81",
                 "isActualDate": true
             },
             "6": {
-                "weekChanges": "13.59",
-                "yearChanges": "53.95",
+                "weekChanges": "-27.35",
+                "yearChanges": "34.92",
                 "isActualDate": true
             },
             "7": {
-                "weekChanges": "4.72",
-                "yearChanges": "37.11",
+                "weekChanges": "-9.02",
+                "yearChanges": "-5.47",
                 "isActualDate": true
             },
             "8": {
@@ -91197,58 +91577,58 @@
                 "isActualDate": true
             },
             "9": {
-                "weekChanges": "-21.01",
-                "yearChanges": "73.02",
+                "weekChanges": "50.46",
+                "yearChanges": "90.70",
                 "isActualDate": true
             },
             "10": {
-                "weekChanges": "-43.91",
-                "yearChanges": "-24.75",
+                "weekChanges": "-30.26",
+                "yearChanges": "158.54",
                 "isActualDate": true
             },
             "11": {
-                "weekChanges": "159.80",
-                "yearChanges": "1225.64",
+                "weekChanges": "-49.32",
+                "yearChanges": "215.66",
                 "isActualDate": true
             },
             "12": {
-                "weekChanges": "-1.19",
-                "yearChanges": "304.88",
+                "weekChanges": "-6.63",
+                "yearChanges": "158.33",
                 "isActualDate": true
             },
             "13": {
-                "weekChanges": "19.02",
-                "yearChanges": "169.44",
+                "weekChanges": "2.58",
+                "yearChanges": "192.65",
                 "isActualDate": true
             },
             "14": {
-                "weekChanges": "-3.25",
-                "yearChanges": "1141.67",
+                "weekChanges": "14.77",
+                "yearChanges": "248.98",
                 "isActualDate": true
             },
             "15": {
-                "weekChanges": "-58.48",
-                "yearChanges": "3900.00",
+                "weekChanges": "65.00",
+                "yearChanges": "360.47",
                 "isActualDate": true
             },
             "16": {
-                "weekChanges": "3.81",
-                "yearChanges": "55.71",
+                "weekChanges": "-34.86",
+                "yearChanges": "51.06",
                 "isActualDate": true
             },
             "17": {
-                "weekChanges": "12.67",
-                "yearChanges": "382.86",
+                "weekChanges": "-19.53",
+                "yearChanges": "94.29",
                 "isActualDate": true
             },
             "18": {
-                "weekChanges": "-9.89",
-                "yearChanges": "104.49",
+                "weekChanges": "18.18",
+                "yearChanges": "230.70",
                 "isActualDate": true
             },
             "19": {
-                "weekChanges": "19.05",
-                "yearChanges": "117.39",
+                "weekChanges": "7.33",
+                "yearChanges": "133.33",
                 "isActualDate": true
             },
             "20": {
@@ -91257,18 +91637,18 @@
                 "isActualDate": true
             },
             "21": {
-                "weekChanges": "-75.00",
-                "yearChanges": "-80.43",
+                "weekChanges": "1055.56",
+                "yearChanges": "1980.00",
                 "isActualDate": true
             },
             "22": {
-                "weekChanges": "25.58",
-                "yearChanges": "200.00",
+                "weekChanges": "-48.15",
+                "yearChanges": "-70.98",
                 "isActualDate": true
             },
             "23": {
-                "weekChanges": "29.66",
-                "yearChanges": "350.00",
+                "weekChanges": "15.69",
+                "yearChanges": "65.42",
                 "isActualDate": true
             },
             "24": {
@@ -91277,33 +91657,33 @@
                 "isActualDate": true
             },
             "25": {
-                "weekChanges": "-0.46",
-                "yearChanges": "248.39",
+                "weekChanges": "0.93",
+                "yearChanges": "230.30",
                 "isActualDate": true
             },
             "26": {
-                "weekChanges": "213.89",
-                "yearChanges": "16.49",
+                "weekChanges": "-51.33",
+                "yearChanges": null,
                 "isActualDate": true
             },
             "27": {
-                "weekChanges": "9.09",
-                "yearChanges": "11.80",
+                "weekChanges": "0.00",
+                "yearChanges": "32.35",
                 "isActualDate": true
             },
             "28": {
-                "weekChanges": "8.51",
-                "yearChanges": "100.00",
+                "weekChanges": "8.82",
+                "yearChanges": "-36.93",
                 "isActualDate": true
             },
             "29": {
-                "weekChanges": "139.26",
-                "yearChanges": "190.99",
+                "weekChanges": "-53.87",
+                "yearChanges": "29.57",
                 "isActualDate": true
             },
             "30": {
-                "weekChanges": "-16.92",
-                "yearChanges": "209.26",
+                "weekChanges": "-7.78",
+                "yearChanges": "250.00",
                 "isActualDate": true
             },
             "31": {
@@ -91312,66 +91692,66 @@
                 "isActualDate": true
             },
             "32": {
-                "weekChanges": "301.67",
-                "yearChanges": "1406.25",
+                "weekChanges": "-23.65",
+                "yearChanges": "76.92",
                 "isActualDate": true
             },
             "33": {
-                "weekChanges": "12.50",
-                "yearChanges": "83.50",
+                "weekChanges": "35.45",
+                "yearChanges": "287.88",
                 "isActualDate": true
             },
             "34": {
-                "weekChanges": "-20.92",
-                "yearChanges": "434.48",
+                "weekChanges": "-3.23",
+                "yearChanges": "417.24",
                 "isActualDate": true
             },
             "35": {
-                "weekChanges": "-18.30",
-                "yearChanges": "362.96",
+                "weekChanges": "-17.60",
+                "yearChanges": "329.17",
                 "isActualDate": true
             },
             "36": {
-                "weekChanges": "-1.92",
-                "yearChanges": "-10.00",
+                "weekChanges": "-19.61",
+                "yearChanges": "284.38",
                 "isActualDate": true
             },
             "37": {
-                "weekChanges": "59.38",
-                "yearChanges": "142.86",
+                "weekChanges": "-23.53",
+                "yearChanges": "101.72",
                 "isActualDate": true
             },
             "38": {
-                "weekChanges": "-33.33",
-                "yearChanges": "-40.26",
+                "weekChanges": "26.09",
+                "yearChanges": "132.00",
                 "isActualDate": true
             },
             "39": {
-                "weekChanges": "13.41",
-                "yearChanges": "1062.50",
+                "weekChanges": "-1.08",
+                "yearChanges": "1050.00",
                 "isActualDate": true
             },
             "40": {
-                "weekChanges": "75.68",
-                "yearChanges": "32.65",
+                "weekChanges": "-31.54",
+                "yearChanges": "187.10",
                 "isActualDate": true
             },
             "41": {
-                "weekChanges": "55.81",
-                "yearChanges": "-4.29",
+                "weekChanges": "7.46",
+                "yearChanges": "-41.46",
                 "isActualDate": true
             },
             "42": {
-                "weekChanges": "33.33",
-                "yearChanges": "156.00",
+                "weekChanges": "24.22",
+                "yearChanges": "112.00",
                 "isActualDate": true
             },
             "43": {
-                "weekChanges": "1200.00",
-                "yearChanges": null,
+                "weekChanges": "-100.00",
+                "yearChanges": "-100.00",
                 "isActualDate": true
             }
         },
-        "date": "2021-04-10T00:00:00.000Z"
+        "date": "2021-04-11T00:00:00.000Z"
     }
 }

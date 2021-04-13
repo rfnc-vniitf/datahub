@@ -117,8 +117,12 @@
 09.04.2021 | 50 | 1 
 10.04.2021 | 50 | 2 
 11.04.2021 | 50 | 3 
-12.04.2021 | 50 | 2 
+12.04.2021 | 50 | 4 
+13.04.2021 | 49 | 6 
 
 > ### Последние новости по теме covid-19:
-+ [В Тюмени закрывают первый в России обсерватор для пациентов с коронавирусом](https://russian.rt.com/russia/news/851870-tyumenskaya-oblast-covid-19-observator?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [На Украине за сутки зафиксировано 7856 новых случаев коронавируса](https://russian.rt.com/ussr/news/851866-ukraina-koronavirus-dannye?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [ОНК: состояние заболевшего в СИЗО коронавирусом Фургала удовлетворительное](https://russian.rt.com/russia/news/852263-rossiya-furgal-arest-gubernator-habarovsk-sizo-coronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [На Украине за сутки выявили 11 680 случаев коронавируса](https://russian.rt.com/ussr/news/852251-ukraina-sluchai-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Германии за сутки выявили более 10 тысяч случаев коронавируса](https://russian.rt.com/world/news/852244-germaniya-sluchai-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [За сутки в Турции выявлено 54 562 случая коронавируса](https://russian.rt.com/world/news/852205-koronavirus-turciya-vyyavlenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Посол России в Аргентине сделал прививку от коронавируса](https://russian.rt.com/russia/news/852210-privivka-argentina-posol?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

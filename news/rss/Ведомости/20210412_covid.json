@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 8 320 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8 320 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/12/865521-8320-novih-sluchaev-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2u/ngqxs/normal-uet.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/12/865521-8320-novih-sluchaev-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/12/865521-8320-novih-sluchaev-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/12/865521-8320-novih-sluchaev-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Mon, 12 Apr 2021 11:07:44 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            12,
+            8,
+            7,
+            44,
+            0,
+            102,
+            0
+        ]
+    }
+]

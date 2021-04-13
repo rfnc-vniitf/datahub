@@ -1,5 +1,122 @@
 [
     {
+        "title": "Индия одобрила российскую вакцину от коронавируса \"Спутник V\"",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Индия одобрила российскую вакцину от коронавируса \"Спутник V\""
+        },
+        "summary": "В стране насчитывается 13 527 717 случаев заражения ковидом. Это второе место в мире после США.<a href=\"https://life.ru/p/1390705\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "В стране насчитывается 13 527 717 случаев заражения ковидом. Это второе место в мире после США.<a href=\"https://life.ru/p/1390705\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1390705"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/3/12/579703824943.7715.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1390705",
+        "id": "https://life.ru/p/1390705",
+        "guidislink": false,
+        "published": "Mon, 12 Apr 2021 10:18:25 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            12,
+            10,
+            18,
+            25,
+            0,
+            102,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "индия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "вакцины",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "спутникV",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В России за сутки умерло минимальное число ковидных больных с 9 ноября",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "В России за сутки умерло минимальное число ковидных больных с 9 ноября"
+        },
+        "summary": "Полностью выздоровело за последние 24 часа 6656 пациентов, а общее число победивших болезнь достигло 4 272 165 человек.<a href=\"https://life.ru/p/1390678\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Полностью выздоровело за последние 24 часа 6656 пациентов, а общее число победивших болезнь достигло 4 272 165 человек.<a href=\"https://life.ru/p/1390678\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1390678"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/3/12/288751509493.88007.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1390678",
+        "id": "https://life.ru/p/1390678",
+        "guidislink": false,
+        "published": "Mon, 12 Apr 2021 08:10:48 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            12,
+            8,
+            10,
+            48,
+            0,
+            102,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
         "title": "Первый в России обсерватор для коронавирусных пациентов закроют под Тюменью",
         "title_detail": {
             "type": "text/plain",
@@ -7,12 +124,12 @@
             "base": "https://life.ru/rss",
             "value": "Первый в России обсерватор для коронавирусных пациентов закроют под Тюменью"
         },
-        "summary": "Ранее там проходили реабилитацию люди после протезирования суставов, онкологических и других заболеваний.<a href=\"https://life.ru/p/1390667\">Читать далее...</a>",
+        "summary": "Он был перепрофилирован в феврале 2020 года, в учреждении находились на карантине россияне, прибывшие из Ухани.<a href=\"https://life.ru/p/1390667\">Читать далее...</a>",
         "summary_detail": {
             "type": "application/xhtml+xml",
             "language": null,
             "base": "https://life.ru/rss",
-            "value": "Ранее там проходили реабилитацию люди после протезирования суставов, онкологических и других заболеваний.<a href=\"https://life.ru/p/1390667\">Читать далее...</a>"
+            "value": "Он был перепрофилирован в феврале 2020 года, в учреждении находились на карантине россияне, прибывшие из Ухани.<a href=\"https://life.ru/p/1390667\">Читать далее...</a>"
         },
         "links": [
             {

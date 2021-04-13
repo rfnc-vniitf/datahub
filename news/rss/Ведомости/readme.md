@@ -117,9 +117,8 @@
 09.04.2021 | 47 | 3 
 10.04.2021 | 11 | 3 
 11.04.2021 | 11 | 3 
-12.04.2021 | 10 | 0 
+12.04.2021 | 46 | 1 
+13.04.2021 | 9 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [ФМБА получило патент на препарат для профилактики и лечения коронавируса](https://www.vedomosti.ru/society/news/2021/04/11/865462-fmba-poluchilo-patent-na-preparat-dlya-profilaktiki-i-lecheniya-koronavirusa)
-+ [Гинцбург усомнился в прогнозах о росте заболеваемости коронавирусом в апреле](https://www.vedomosti.ru/society/news/2021/04/11/865450-gintsburg-usomnilsya-v-prognozah-o-roste-zabolevaemosti-koronavirusom-v-aprele)
-+ [В России за сутки выявили 8702 новых случая коронавируса](https://www.vedomosti.ru/society/news/2021/04/11/865447-v-rossii-za-sutki-viyavili-8702-novih-sluchaya-koronavirusa)
++ [В России за сутки выявили 8 320 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/04/12/865521-8320-novih-sluchaev-koronavirusa)

@@ -116,7 +116,8 @@
 09.04.2021 | 25 | 0 
 10.04.2021 | 9 | 1 
 11.04.2021 | 6 | 3 
-12.04.2021 | 6 | 0 
+12.04.2021 | 25 | 0 
+13.04.2021 | 7 | 0 
 
 > ### Последние новости по теме covid-19:
 + [Китай заявил о низкой эффективности своих вакцин от коронавируса](http://expert.ru/2021/04/11/kitay-zayavil-o-nizkoy-effektivnosti-svoikh-vaktsin-ot-koronavirusa/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/11/kitay-zayavil-o-nizkoy-effektivnosti-svoikh-vaktsin-ot-koronavirusa/)

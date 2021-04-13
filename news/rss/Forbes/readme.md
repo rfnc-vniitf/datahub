@@ -99,7 +99,9 @@
 09.04.2021 | 10 | 0 
 10.04.2021 | 7 | 0 
 11.04.2021 | 5 | 0 
-12.04.2021 | 4 | 1 
+12.04.2021 | 10 | 2 
+13.04.2021 | 3 | 0 
 
 > ### Последние новости по теме covid-19:
++ [Вакцины от коронавируса, лечение ВИЧ, лекарство от СМА: как женщины-ученые спасают мир от болезней](http://www.forbes.ru/forbes-woman/425923-vakciny-ot-koronavirusa-lechenie-vich-lekarstvo-ot-sma-kak-zhenshchiny-uchenye)
 + [Золотая жила удаленки: на чем сэкономили и на что больше всего потратились работодатели в пандемию](http://www.forbes.ru/biznes/425939-zolotaya-zhila-udalenki-na-chem-sekonomili-i-na-chto-bolshe-vsego-potratilis)

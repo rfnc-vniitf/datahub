@@ -118,6 +118,7 @@
 10.04.2021 | 50 | 2 
 11.04.2021 | 50 | 1 
 12.04.2021 | 50 | 1 
+13.04.2021 | 50 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Трамп предложил назвать вакцину от коронавируса в свою честь](https://iz.ru/1150029/2021-04-12/tramp-predlozhili-nazvat-vaktcinu-ot-koronavirusa-v-svoiu-chest)
++ [Посвященная погибшим в пандемию медикам акция прошла в Екатеринбурге](https://iz.ru/1150579/2021-04-13/posviashchennaia-pogibshim-v-pandemiiu-medikam-aktciia-proshla-v-ekaterinburge)

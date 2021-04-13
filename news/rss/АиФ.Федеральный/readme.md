@@ -117,7 +117,8 @@
 09.04.2021 | 122 | 2 
 10.04.2021 | 60 | 2 
 11.04.2021 | 63 | 1 
-12.04.2021 | 33 | 0 
+12.04.2021 | 126 | 2 
+13.04.2021 | 31 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [ФМБА получило патент на препарат для лечения коронавируса](https://aif.ru/society/healthcare/evrokomissar_schitaet_chto_sputnik_v_pridet_v_es_slishkom_pozdno)
++ [Посол РФ в Аргентине сделал прививку от коронавируса](https://aif.ru/health/coronavirus/indiya_odobrila_vakcinu_sputnik_v_dlya_ekstrennogo_primeneniya)
