@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/17/1897835.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/17/1897835.html",
+        "title": "В России за сутки выявили более 9 тыс. зараженных коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России за сутки выявили более 9 тыс. зараженных коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/17/1897835.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/f2/70/3b/84/7QH2rm64cbP3-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "За прошедшие сутки в России зафиксировали 9 321 новых случаев заражения коронавирусом, показала статистика федерального оперативного штаба. Предыдущие...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "За прошедшие сутки в России зафиксировали 9 321 новых случаев заражения коронавирусом, показала статистика федерального оперативного штаба. Предыдущие..."
+        },
+        "published": "Sat, 17 Apr 2021 11:26:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            17,
+            8,
+            26,
+            0,
+            5,
+            107,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

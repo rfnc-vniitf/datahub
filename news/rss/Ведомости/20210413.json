@@ -1,11 +1,1757 @@
 [
     {
-        "title": "Ученые не нашли связи между британский штаммом COVID-19 и ухудшением течения болезни",
+        "title": "Умер заслуженный артист России Евгений Тиличеев",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.vedomosti.ru/rss/news",
-            "value": "Ученые не нашли связи между британский штаммом COVID-19 и ухудшением течения болезни"
+            "value": "Умер заслуженный артист России Евгений Тиличеев"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865787-umer-zasluzhennii-artist-rossii"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/10nybl/normal-1bio.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865787-umer-zasluzhennii-artist-rossii",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865787-umer-zasluzhennii-artist-rossii",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865787-umer-zasluzhennii-artist-rossii",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 17:06:45 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            14,
+            6,
+            45,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Johnson & Johnson приостановила поставку своей вакцины от COVID-19 в Европу",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Johnson & Johnson приостановила поставку своей вакцины от COVID-19 в Европу"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865786-johnson-johnson-priostanovila-postavku-svoei-vaktsini-ot-covid-19-v-evropu"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/102f29/normal-1aqr.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865786-johnson-johnson-priostanovila-postavku-svoei-vaktsini-ot-covid-19-v-evropu",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865786-johnson-johnson-priostanovila-postavku-svoei-vaktsini-ot-covid-19-v-evropu",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865786-johnson-johnson-priostanovila-postavku-svoei-vaktsini-ot-covid-19-v-evropu",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 16:55:37 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            13,
+            55,
+            37,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Белоруссия обвинила Польшу в нарушении госграницы",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Белоруссия обвинила Польшу в нарушении госграницы"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865782-belorussiya-obvinila-polshu-v-narushenii-gosgranitsi"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/zsvap/normal-1aee.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865782-belorussiya-obvinila-polshu-v-narushenii-gosgranitsi",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865782-belorussiya-obvinila-polshu-v-narushenii-gosgranitsi",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865782-belorussiya-obvinila-polshu-v-narushenii-gosgranitsi",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 16:47:25 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            13,
+            47,
+            25,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Белоруссия временно запретила ввоз продукции Nivea",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Белоруссия временно запретила ввоз продукции Nivea"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/business/news/2021/04/13/865780-belorussiya-vremenno-zapretila-vvoz"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/zqw1b/normal-1abu.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/business/news/2021/04/13/865780-belorussiya-vremenno-zapretila-vvoz",
+        "id": "https://www.vedomosti.ru/business/news/2021/04/13/865780-belorussiya-vremenno-zapretila-vvoz",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/business/news/2021/04/13/865780-belorussiya-vremenno-zapretila-vvoz",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 16:42:31 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            13,
+            42,
+            31,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В Москве началась подготовка к отключению отопления",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В Москве началась подготовка к отключению отопления"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865779-v-moskve-poobeschali-otklyuchit-otoplenie-v-blizhaishie-dni"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/z12xn/normal-19ed.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865779-v-moskve-poobeschali-otklyuchit-otoplenie-v-blizhaishie-dni",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865779-v-moskve-poobeschali-otklyuchit-otoplenie-v-blizhaishie-dni",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865779-v-moskve-poobeschali-otklyuchit-otoplenie-v-blizhaishie-dni",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 16:20:56 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            13,
+            20,
+            56,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В США рекомендовали приостановить использование вакцины Johnson & Johnson",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В США рекомендовали приостановить использование вакцины Johnson & Johnson"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865777-v-ssha-rekomendovali-priostanovit-ispolzovanie-vaktsini-johnson-johnson"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/y3v1y/normal-187c.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865777-v-ssha-rekomendovali-priostanovit-ispolzovanie-vaktsini-johnson-johnson",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865777-v-ssha-rekomendovali-priostanovit-ispolzovanie-vaktsini-johnson-johnson",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865777-v-ssha-rekomendovali-priostanovit-ispolzovanie-vaktsini-johnson-johnson",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 15:58:14 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            12,
+            58,
+            14,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Шойгу заявил о переброске войск НАТО к границам России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Шойгу заявил о переброске войск НАТО к границам России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865776-shoigu-zayavil-o-perebroske-voisk-nato-k-granitsam-rossii"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/xtlza/normal-17u0.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865776-shoigu-zayavil-o-perebroske-voisk-nato-k-granitsam-rossii",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865776-shoigu-zayavil-o-perebroske-voisk-nato-k-granitsam-rossii",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865776-shoigu-zayavil-o-perebroske-voisk-nato-k-granitsam-rossii",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 15:52:35 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            12,
+            52,
+            35,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В Минздраве Белоруссии заявили о начале третьей волны коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В Минздраве Белоруссии заявили о начале третьей волны коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865770-v-minzdrave-belorussii-zayavili-o-nachale-tretei-volni-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/x0y2m/normal-16sv.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865770-v-minzdrave-belorussii-zayavili-o-nachale-tretei-volni-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865770-v-minzdrave-belorussii-zayavili-o-nachale-tretei-volni-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865770-v-minzdrave-belorussii-zayavili-o-nachale-tretei-volni-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 15:35:33 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            12,
+            35,
+            33,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Израиль с конца мая откроет въезд для привитых от коронавируса туристов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Израиль с конца мая откроет въезд для привитых от коронавируса туристов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865765-izrail-otkroet-vezd-dlya-privitih-ot-koronavirusa-turistov-s-kontsa-maya"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/x1zkk/normal-16u8.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865765-izrail-otkroet-vezd-dlya-privitih-ot-koronavirusa-turistov-s-kontsa-maya",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865765-izrail-otkroet-vezd-dlya-privitih-ot-koronavirusa-turistov-s-kontsa-maya",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865765-izrail-otkroet-vezd-dlya-privitih-ot-koronavirusa-turistov-s-kontsa-maya",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 15:26:36 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            12,
+            26,
+            36,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В НАТО назвали необоснованным военное усиление России на границе с Украиной",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В НАТО назвали необоснованным военное усиление России на границе с Украиной"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865772-v-nato-nazvali-neobosnovannim-voennoe-usilenie-rossii-na-granitse-s-ukrainoi"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/x89p6/normal-172e.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865772-v-nato-nazvali-neobosnovannim-voennoe-usilenie-rossii-na-granitse-s-ukrainoi",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865772-v-nato-nazvali-neobosnovannim-voennoe-usilenie-rossii-na-granitse-s-ukrainoi",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865772-v-nato-nazvali-neobosnovannim-voennoe-usilenie-rossii-na-granitse-s-ukrainoi",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 15:24:47 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            12,
+            24,
+            47,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Путин обсудил с президентом Филиппин поставку «Спутника V»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Путин обсудил с президентом Филиппин поставку «Спутника V»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865760-putin-obsudil-duterte-nalazhivanie-postavok-sputnika"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865760-putin-obsudil-duterte-nalazhivanie-postavok-sputnika",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865760-putin-obsudil-duterte-nalazhivanie-postavok-sputnika",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865760-putin-obsudil-duterte-nalazhivanie-postavok-sputnika",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 14:47:44 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            47,
+            44,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В Москве побит абсолютный температурный рекорд дня",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В Москве побит абсолютный температурный рекорд дня"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865762-v-moskve-pobit-temperaturnii-rekord-dnya"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/vfwz3/normal-14qy.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865762-v-moskve-pobit-temperaturnii-rekord-dnya",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865762-v-moskve-pobit-temperaturnii-rekord-dnya",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865762-v-moskve-pobit-temperaturnii-rekord-dnya",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 14:43:08 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            43,
+            8,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Мишустин освободил от должности первого замминистра промышленности Цыба",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Мишустин освободил от должности первого замминистра промышленности Цыба"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865755-mishustin-osvobodil-ot-dolzhnosti-pervogo-zamministra-promishlennosti-tsiba"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/v1pes/normal-148k.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865755-mishustin-osvobodil-ot-dolzhnosti-pervogo-zamministra-promishlennosti-tsiba",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865755-mishustin-osvobodil-ot-dolzhnosti-pervogo-zamministra-promishlennosti-tsiba",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865755-mishustin-osvobodil-ot-dolzhnosti-pervogo-zamministra-promishlennosti-tsiba",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 14:34:59 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            34,
+            59,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Навальный заявил об иске к колонии за отказ отдать ему Коран",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Навальный заявил об иске к колонии за отказ отдать ему Коран"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865752-navalnii-zayavil-ob-iske-k-kolonii-za-otkaz-otdat-emu-koran"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/uylt5/normal-144k.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865752-navalnii-zayavil-ob-iske-k-kolonii-za-otkaz-otdat-emu-koran",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865752-navalnii-zayavil-ob-iske-k-kolonii-za-otkaz-otdat-emu-koran",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865752-navalnii-zayavil-ob-iske-k-kolonii-za-otkaz-otdat-emu-koran",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 14:33:12 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            33,
+            12,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Минпромторг допустил выделение допсредств на программы автокредитования",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Минпромторг допустил выделение допсредств на программы автокредитования"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/auto/news/2021/04/13/865751-minpromtorg-dopustil-videlenie-dopsredstv-na-programmi-avtokreditovaniya"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/uu6cy/normal-13ys.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/auto/news/2021/04/13/865751-minpromtorg-dopustil-videlenie-dopsredstv-na-programmi-avtokreditovaniya",
+        "id": "https://www.vedomosti.ru/auto/news/2021/04/13/865751-minpromtorg-dopustil-videlenie-dopsredstv-na-programmi-avtokreditovaniya",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/auto/news/2021/04/13/865751-minpromtorg-dopustil-videlenie-dopsredstv-na-programmi-avtokreditovaniya",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Авто",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 14:28:54 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            28,
+            54,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Немецкие экологи подали иск против строительства «Северного потока — 2»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Немецкие экологи подали иск против строительства «Северного потока — 2»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/business/news/2021/04/13/865724-nemetskie-ekologi-podali"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/rursa/normal-103l.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/business/news/2021/04/13/865724-nemetskie-ekologi-podali",
+        "id": "https://www.vedomosti.ru/business/news/2021/04/13/865724-nemetskie-ekologi-podali",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/business/news/2021/04/13/865724-nemetskie-ekologi-podali",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 14:21:43 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            21,
+            43,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Госдума приняла закон о запрете изымать домашних животных за долги",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Госдума приняла закон о запрете изымать домашних животных за долги"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865745-gosduma-prinyala-zakon-o-zaprete-izimat-domashnih-zhivotnih-za-dolgi"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/tw90d/normal-12qu.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865745-gosduma-prinyala-zakon-o-zaprete-izimat-domashnih-zhivotnih-za-dolgi",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865745-gosduma-prinyala-zakon-o-zaprete-izimat-domashnih-zhivotnih-za-dolgi",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865745-gosduma-prinyala-zakon-o-zaprete-izimat-domashnih-zhivotnih-za-dolgi",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:58:14 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            58,
+            14,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Песков исключил влияние политики на решение приостановить авиасообщение с Турцией",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Песков исключил влияние политики на решение приостановить авиасообщение с Турцией"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865742-peskov-isklyuchil-vliyanie-politiki-na-reshenie-priostanovit-aviasoobschenie-s-turtsiei"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865742-peskov-isklyuchil-vliyanie-politiki-na-reshenie-priostanovit-aviasoobschenie-s-turtsiei",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865742-peskov-isklyuchil-vliyanie-politiki-na-reshenie-priostanovit-aviasoobschenie-s-turtsiei",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865742-peskov-isklyuchil-vliyanie-politiki-na-reshenie-priostanovit-aviasoobschenie-s-turtsiei",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:42:41 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            42,
+            41,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Песков ответил на сообщения о подготовке к посланию Путина в бункере",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Песков ответил на сообщения о подготовке к посланию Путина в бункере"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865738-peskov-otvetil-soobscheniya"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/t2j5k/normal-11oc.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865738-peskov-otvetil-soobscheniya",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865738-peskov-otvetil-soobscheniya",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865738-peskov-otvetil-soobscheniya",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:41:47 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            41,
+            47,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Песков исключил завершение «эпохи масок»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Песков исключил завершение «эпохи масок»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865741-peskov-isklyuchil-zavershenie-epohi-masok-na-fone-pandemii"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/t0g5y/normal-11lm.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865741-peskov-isklyuchil-zavershenie-epohi-masok-na-fone-pandemii",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865741-peskov-isklyuchil-zavershenie-epohi-masok-na-fone-pandemii",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865741-peskov-isklyuchil-zavershenie-epohi-masok-na-fone-pandemii",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:33:27 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            33,
+            27,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Суд в Москве арестовал россиянина по обвинению в госизмене",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Суд в Москве арестовал россиянина по обвинению в госизмене"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865739-sud-v-moskve-arestoval-rossiyanina-po-obvineniyu-v-gosizmene"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/sxnog/normal-11hz.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865739-sud-v-moskve-arestoval-rossiyanina-po-obvineniyu-v-gosizmene",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865739-sud-v-moskve-arestoval-rossiyanina-po-obvineniyu-v-gosizmene",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865739-sud-v-moskve-arestoval-rossiyanina-po-obvineniyu-v-gosizmene",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:30:55 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            30,
+            55,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Песков допустил возможность отключения России от иностранных платежных систем",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Песков допустил возможность отключения России от иностранных платежных систем"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/finance/news/2021/04/13/865736-peskov-dopustil-vozmozhnost-otklyucheniya-rossii-ot-inostrannih-platezhnih-sistem"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/sf13r/normal-10tu.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/finance/news/2021/04/13/865736-peskov-dopustil-vozmozhnost-otklyucheniya-rossii-ot-inostrannih-platezhnih-sistem",
+        "id": "https://www.vedomosti.ru/finance/news/2021/04/13/865736-peskov-dopustil-vozmozhnost-otklyucheniya-rossii-ot-inostrannih-platezhnih-sistem",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/finance/news/2021/04/13/865736-peskov-dopustil-vozmozhnost-otklyucheniya-rossii-ot-inostrannih-platezhnih-sistem",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Финансы",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:16:35 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            16,
+            35,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В Совфеде призвали россиян отказаться от отдыха в Турции из чувства патриотизма",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В Совфеде призвали россиян отказаться от отдыха в Турции из чувства патриотизма"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865735-v-sovfede-prizvali-rossiyan-otkazatsya-ot-otdiha-v-turtsii"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/sc9my/normal-10q9.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865735-v-sovfede-prizvali-rossiyan-otkazatsya-ot-otdiha-v-turtsii",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865735-v-sovfede-prizvali-rossiyan-otkazatsya-ot-otdiha-v-turtsii",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865735-v-sovfede-prizvali-rossiyan-otkazatsya-ot-otdiha-v-turtsii",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:14:03 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            14,
+            3,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Главным редактором агентства Reuters впервые в истории станет женщина",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Главным редактором агентства Reuters впервые в истории станет женщина"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/media/news/2021/04/13/865731-glavnim-redaktorom-agentstva-reuters-vpervie-v-istorii-stanet-zhenschina"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/rywp5/normal-108y.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/media/news/2021/04/13/865731-glavnim-redaktorom-agentstva-reuters-vpervie-v-istorii-stanet-zhenschina",
+        "id": "https://www.vedomosti.ru/media/news/2021/04/13/865731-glavnim-redaktorom-agentstva-reuters-vpervie-v-istorii-stanet-zhenschina",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/media/news/2021/04/13/865731-glavnim-redaktorom-agentstva-reuters-vpervie-v-istorii-stanet-zhenschina",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Медиа",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:10:01 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            10,
+            1,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Bloomberg узнал о возможном плане кабмина России по восстановлению экономики",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Bloomberg узнал о возможном плане кабмина России по восстановлению экономики"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865726-bloomberg-uznal-vozmozhnie-istochniki-i-meri-kabmina-rossii-dlya-vosstanovleniya-ekonomiki"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/rf12o/normal-zj6.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865726-bloomberg-uznal-vozmozhnie-istochniki-i-meri-kabmina-rossii-dlya-vosstanovleniya-ekonomiki",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865726-bloomberg-uznal-vozmozhnie-istochniki-i-meri-kabmina-rossii-dlya-vosstanovleniya-ekonomiki",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865726-bloomberg-uznal-vozmozhnie-istochniki-i-meri-kabmina-rossii-dlya-vosstanovleniya-ekonomiki",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 13:02:44 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            2,
+            44,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "МИД заявил о превращении Украины в «пороховую бочку» усилиями НАТО",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "МИД заявил о превращении Украины в «пороховую бочку» усилиями НАТО"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865730-mid-zayavil-o-prevraschenii-ukraini-v-porohovuyu-bochku-usiliyami-nato"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/rqmir/normal-zy8.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865730-mid-zayavil-o-prevraschenii-ukraini-v-porohovuyu-bochku-usiliyami-nato",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865730-mid-zayavil-o-prevraschenii-ukraini-v-porohovuyu-bochku-usiliyami-nato",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865730-mid-zayavil-o-prevraschenii-ukraini-v-porohovuyu-bochku-usiliyami-nato",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 12:59:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            9,
+            59,
+            0,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Умер солист «Песняров» Леонид Борткевич",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Умер солист «Песняров» Леонид Борткевич"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865728-umer-solist-pesnyarov-leonid-bortkevich"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865728-umer-solist-pesnyarov-leonid-bortkevich",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865728-umer-solist-pesnyarov-leonid-bortkevich",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865728-umer-solist-pesnyarov-leonid-bortkevich",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 12:41:04 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            9,
+            41,
+            4,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Алиев заявил об обсуждении с Путиным «Искандеров» в Карабахе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Алиев заявил об обсуждении с Путиным «Искандеров» в Карабахе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865721-aliev-ob-obsuzhdenii-s-putinim-iskanderov"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/qpzch/normal-ymr.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865721-aliev-ob-obsuzhdenii-s-putinim-iskanderov",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865721-aliev-ob-obsuzhdenii-s-putinim-iskanderov",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865721-aliev-ob-obsuzhdenii-s-putinim-iskanderov",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 12:34:07 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            9,
+            34,
+            7,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Египет конфисковал блокировавшее Суэцкий канал судно до выплаты почти $1 млрд",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Египет конфисковал блокировавшее Суэцкий канал судно до выплаты почти $1 млрд"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865710-egipet-konfiskoval-blokirovavshee-suetskii-kanal-sudno-ever-given-do-viplati-pochti-1-mlrd"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/ody4j/normal-vlu.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865710-egipet-konfiskoval-blokirovavshee-suetskii-kanal-sudno-ever-given-do-viplati-pochti-1-mlrd",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865710-egipet-konfiskoval-blokirovavshee-suetskii-kanal-sudno-ever-given-do-viplati-pochti-1-mlrd",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865710-egipet-konfiskoval-blokirovavshee-suetskii-kanal-sudno-ever-given-do-viplati-pochti-1-mlrd",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 12:14:34 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            9,
+            14,
+            34,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Цена биткойна вновь обновила исторический максимум",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Цена биткойна вновь обновила исторический максимум"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/finance/news/2021/04/13/865715-tsena-bitkoina-vnov-obnovila-istoricheskii-maksimum"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/finance/news/2021/04/13/865715-tsena-bitkoina-vnov-obnovila-istoricheskii-maksimum",
+        "id": "https://www.vedomosti.ru/finance/news/2021/04/13/865715-tsena-bitkoina-vnov-obnovila-istoricheskii-maksimum",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/finance/news/2021/04/13/865715-tsena-bitkoina-vnov-obnovila-istoricheskii-maksimum",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Финансы",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 11:53:01 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            8,
+            53,
+            1,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В России за сутки выявили 8 173 новых случая коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8 173 новых случая коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865712-rossii-sutki-viyavili-173-novih-sluchaya-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/pig69/normal-x2c.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865712-rossii-sutki-viyavili-173-novih-sluchaya-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865712-rossii-sutki-viyavili-173-novih-sluchaya-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865712-rossii-sutki-viyavili-173-novih-sluchaya-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 11:45:39 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            8,
+            45,
+            39,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В Москве начали вакцинацию от коронавируса на дому",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В Москве начали вакцинацию от коронавируса на дому"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865703-v-moskve-nachali-vaktsinatsiyu-gorozhan-ot-koronavirusa-na-domu"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865703-v-moskve-nachali-vaktsinatsiyu-gorozhan-ot-koronavirusa-na-domu",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865703-v-moskve-nachali-vaktsinatsiyu-gorozhan-ot-koronavirusa-na-domu",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865703-v-moskve-nachali-vaktsinatsiyu-gorozhan-ot-koronavirusa-na-domu",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 11:33:11 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            8,
+            33,
+            11,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "В приложении «Яндекса» появилась умная камера",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В приложении «Яндекса» появилась умная камера"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/technology/news/2021/04/13/865700-prilozhenii-yandeks-poyavilas-umnaya-kamera"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/nwmqs/normal-uze.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/technology/news/2021/04/13/865700-prilozhenii-yandeks-poyavilas-umnaya-kamera",
+        "id": "https://www.vedomosti.ru/technology/news/2021/04/13/865700-prilozhenii-yandeks-poyavilas-umnaya-kamera",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/technology/news/2021/04/13/865700-prilozhenii-yandeks-poyavilas-umnaya-kamera",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Технологии",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 11:11:43 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            8,
+            11,
+            43,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Рогозин раскритиковал США за неупоминание Гагарина в День космонавтики",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Рогозин раскритиковал США за неупоминание Гагарина в День космонавтики"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865701-rogozin-raskritikoval-ssha-za-neupominanie-gagarina-v-den-kosmonavtiki"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/ngl6m/normal-uel.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865701-rogozin-raskritikoval-ssha-za-neupominanie-gagarina-v-den-kosmonavtiki",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865701-rogozin-raskritikoval-ssha-za-neupominanie-gagarina-v-den-kosmonavtiki",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865701-rogozin-raskritikoval-ssha-za-neupominanie-gagarina-v-den-kosmonavtiki",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 11:07:32 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            8,
+            7,
+            32,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "ВШЭ предупредила о рисках России «навсегда отстать» в технологиях",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "ВШЭ предупредила о рисках России «навсегда отстать» в технологиях"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/technology/news/2021/04/13/865704-vshe-predupredila-o-riskah-rossii-navsegda-otstat-v-tehnologiyah"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/niz24/normal-uho.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/technology/news/2021/04/13/865704-vshe-predupredila-o-riskah-rossii-navsegda-otstat-v-tehnologiyah",
+        "id": "https://www.vedomosti.ru/technology/news/2021/04/13/865704-vshe-predupredila-o-riskah-rossii-navsegda-otstat-v-tehnologiyah",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/technology/news/2021/04/13/865704-vshe-predupredila-o-riskah-rossii-navsegda-otstat-v-tehnologiyah",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Технологии",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 10:58:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            7,
+            58,
+            0,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "По делу о пожаре в Петербурге задержан гендиректор «Невской мануфактуры»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "По делу о пожаре в Петербурге задержан гендиректор «Невской мануфактуры»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/13/865698-po-delu-o-pozhare-v-peterburge-zaderzhani-gendirektor-nevskoi-manufakturi-i-ego-zamestitel"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/13/865698-po-delu-o-pozhare-v-peterburge-zaderzhani-gendirektor-nevskoi-manufakturi-i-ego-zamestitel",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/13/865698-po-delu-o-pozhare-v-peterburge-zaderzhani-gendirektor-nevskoi-manufakturi-i-ego-zamestitel",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/13/865698-po-delu-o-pozhare-v-peterburge-zaderzhani-gendirektor-nevskoi-manufakturi-i-ego-zamestitel",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 10:48:26 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            7,
+            48,
+            26,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "МИД России призвал корабли США «держаться подальше» от Крыма",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "МИД России призвал корабли США «держаться подальше» от Крыма"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/politics/news/2021/04/13/865697-mid-rossii-prizval-ssha-derzhatsya-podalshe-ot-krima-iz-za-riska-intsidentov"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2v/m8eny/normal-stb.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/politics/news/2021/04/13/865697-mid-rossii-prizval-ssha-derzhatsya-podalshe-ot-krima-iz-za-riska-intsidentov",
+        "id": "https://www.vedomosti.ru/politics/news/2021/04/13/865697-mid-rossii-prizval-ssha-derzhatsya-podalshe-ot-krima-iz-za-riska-intsidentov",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/politics/news/2021/04/13/865697-mid-rossii-prizval-ssha-derzhatsya-podalshe-ot-krima-iz-za-riska-intsidentov",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 13 Apr 2021 10:41:36 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            7,
+            41,
+            36,
+            1,
+            103,
+            0
+        ]
+    },
+    {
+        "title": "Ученые не нашли связи между британским штаммом COVID-19 и ухудшением течения болезни",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Ученые не нашли связи между британским штаммом COVID-19 и ухудшением течения болезни"
         },
         "links": [
             {

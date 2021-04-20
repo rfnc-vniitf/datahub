@@ -117,9 +117,13 @@
 10.04.2021 | 9 | 1 
 11.04.2021 | 6 | 3 
 12.04.2021 | 25 | 0 
-13.04.2021 | 7 | 0 
+13.04.2021 | 25 | 0 
+14.04.2021 | 25 | 0 
+15.04.2021 | 25 | 1 
+16.04.2021 | 25 | 1 
+17.04.2021 | 9 | 2 
+18.04.2021 | 6 | 2 
+19.04.2021 | 25 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Китай заявил о низкой эффективности своих вакцин от коронавируса](http://expert.ru/2021/04/11/kitay-zayavil-o-nizkoy-effektivnosti-svoikh-vaktsin-ot-koronavirusa/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/11/kitay-zayavil-o-nizkoy-effektivnosti-svoikh-vaktsin-ot-koronavirusa/)
-+ [Южноафриканский штамм коронавируса устойчив к вакцинам](http://expert.ru/2021/04/11/yuzhnoafrikanskiy-shtamm-koronavirusa-ustoychiv-k-vaktsinam/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/11/yuzhnoafrikanskiy-shtamm-koronavirusa-ustoychiv-k-vaktsinam/)
-+ [В России вновь выявили менее 9 тыс. новых заболевших коронавирусом](http://expert.ru/2021/04/11/v-rossii-vnov-vyyavili-meneye-9-tys-novykh-zabolevshikh-koronavirusom/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/11/v-rossii-vnov-vyyavili-meneye-9-tys-novykh-zabolevshikh-koronavirusom/)
++ [Bloomberg сообщает об использовании накопленного за пандемию избытка нефти](http://expert.ru/2021/04/19/bloomberg-soobschayet-ob-ispolzovanii-nakoplennogo-za-pandemiyu-izbytka-nefti/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/19/bloomberg-soobschayet-ob-ispolzovanii-nakoplennogo-za-pandemiyu-izbytka-nefti/)

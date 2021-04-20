@@ -1,0 +1,257 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/piter/2021/04/15/1897486.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/piter/2021/04/15/1897486.html",
+        "title": "В Смольном подтвердили, что несколько человек, привитых «Спутником V», скончались от ковида",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Смольном подтвердили, что несколько человек, привитых «Спутником V», скончались от ковида"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/piter/2021/04/15/1897486.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/3/7/2/3/qNBRJ97r-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В комздраве добавили, что заражение произошло до завершения полного цикла вакцинации.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В комздраве добавили, что заражение произошло до завершения полного цикла вакцинации."
+        },
+        "published": "Thu, 15 Apr 2021 13:57:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            15,
+            10,
+            57,
+            0,
+            3,
+            105,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/15/1897465.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/15/1897465.html",
+        "title": "Песков заверил, что после второй прививки от ковида Путин чувствует себя хорошо",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Песков заверил, что после второй прививки от ковида Путин чувствует себя хорошо"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/15/1897465.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/ca/7b/2d/5b/7dGDKCbYptMZ-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Президент РФ Владимир Путин, которому накануне сделали вторую прививку от ковида, чувствует себя хорошо. Никаких побочных эффектов у него не проявилось,...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Президент РФ Владимир Путин, которому накануне сделали вторую прививку от ковида, чувствует себя хорошо. Никаких побочных эффектов у него не проявилось,..."
+        },
+        "published": "Thu, 15 Apr 2021 12:53:38 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            15,
+            9,
+            53,
+            38,
+            3,
+            105,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/moscow/2021/04/15/1897458.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/moscow/2021/04/15/1897458.html",
+        "title": "Стало известно о хронической форме коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Стало известно о хронической форме коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/moscow/2021/04/15/1897458.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/8/1/9/1/9YT7nGkm-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Речь идет о людях, которые заражаются COVID-19 уже во второй или третий раз.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Речь идет о людях, которые заражаются COVID-19 уже во второй или третий раз."
+        },
+        "published": "Thu, 15 Apr 2021 12:45:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            15,
+            9,
+            45,
+            0,
+            3,
+            105,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/15/1897354.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/15/1897354.html",
+        "title": "Отчет губернатора: Ростовской области удалось выстоять в условиях пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Отчет губернатора: Ростовской области удалось выстоять в условиях пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/15/1897354.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/ce/ae/a5/2b/X6TNxyrPqQ8G-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Анализ итогов развития Ростовской области за 2020 год в тяжелых условиях пандемии новой коронавирусной инфекции показал, что региону в целом удалось сохранить...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Анализ итогов развития Ростовской области за 2020 год в тяжелых условиях пандемии новой коронавирусной инфекции показал, что региону в целом удалось сохранить..."
+        },
+        "published": "Thu, 15 Apr 2021 12:00:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            15,
+            9,
+            0,
+            0,
+            3,
+            105,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/15/1897435.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/15/1897435.html",
+        "title": "Всех возвращающихся из-за границы россиян обязали сдавать тест на коронавирус",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Всех возвращающихся из-за границы россиян обязали сдавать тест на коронавирус"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/15/1897435.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/c/a/b/1/r7B8FwxZ-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "До получения результатов предстоит соблюдать режим изоляции. Нововведение вступило в силу.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "До получения результатов предстоит соблюдать режим изоляции. Нововведение вступило в силу."
+        },
+        "published": "Thu, 15 Apr 2021 11:10:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            15,
+            8,
+            10,
+            0,
+            3,
+            105,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

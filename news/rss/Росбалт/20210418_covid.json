@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/piter/2021/04/18/1897897.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/piter/2021/04/18/1897897.html",
+        "title": "В Петербурге за сутки выявили почти в четыре раза меньше зараженных коронавирусом, чем в Москве",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Петербурге за сутки выявили почти в четыре раза меньше зараженных коронавирусом, чем в Москве"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/piter/2021/04/18/1897897.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/30/4c/72/f6/t8wCndTNWcgJ-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В столице от инфекции умерли еще 53 человека, в городе на Неве — 29.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В столице от инфекции умерли еще 53 человека, в городе на Неве — 29."
+        },
+        "published": "Sun, 18 Apr 2021 11:41:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            18,
+            8,
+            41,
+            0,
+            6,
+            108,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/18/1897896.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/18/1897896.html",
+        "title": "В России за сутки умерли 389 пациентов с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России за сутки умерли 389 пациентов с коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/18/1897896.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/45/38/88/df/ZPMbwhdTpR2q-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В 83 регионах страны выявили 8 632 новых случая заражения смертельной инфекцией.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В 83 регионах страны выявили 8 632 новых случая заражения смертельной инфекцией."
+        },
+        "published": "Sun, 18 Apr 2021 11:17:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            18,
+            8,
+            17,
+            0,
+            6,
+            108,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

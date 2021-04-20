@@ -118,7 +118,15 @@
 10.04.2021 | 60 | 2 
 11.04.2021 | 63 | 1 
 12.04.2021 | 126 | 2 
-13.04.2021 | 31 | 1 
+13.04.2021 | 121 | 2 
+14.04.2021 | 130 | 6 
+15.04.2021 | 129 | 3 
+16.04.2021 | 138 | 5 
+17.04.2021 | 72 | 2 
+18.04.2021 | 62 | 3 
+19.04.2021 | 137 | 3 
 
 > ### Последние новости по теме covid-19:
-+ [Посол РФ в Аргентине сделал прививку от коронавируса](https://aif.ru/health/coronavirus/indiya_odobrila_vakcinu_sputnik_v_dlya_ekstrennogo_primeneniya)
++ [В России разрабатывают кожный тест для оценки иммунитета к коронавирусу](https://aif.ru/health/coronavirus/v_rf_razrabotali_ekspress-test_dlya_vyyavleniya_antitel_k_covid_posle_privivki)
++ [Попова: Ситуация с коронавирусом в РФ стабилизируется](https://aif.ru/moscow/podstavili_plecho_kak_moskvichi_vnesli_vklad_v_kollektivnyy_immunitet)
++ [В России выявлено 8589 новых случаев заражения коронавирусом за сутки](https://aif.ru/society/healthcare/polovina_vzroslogo_naseleniya_ssha_poluchila_pervuyu_privivku_ot_covid-19)

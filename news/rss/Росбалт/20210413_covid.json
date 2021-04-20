@@ -1,42 +1,93 @@
 [
     {
-        "id": "https://www.rosbalt.ru/moscow/2021/04/13/1896967.html",
+        "id": "https://www.rosbalt.ru/russia/2021/04/13/1897073.html",
         "guidislink": true,
-        "link": "https://www.rosbalt.ru/moscow/2021/04/13/1896967.html",
-        "title": "Еще у 1782 жителей Москвы выявили коронавирус",
+        "link": "https://www.rosbalt.ru/russia/2021/04/13/1897073.html",
+        "title": "«Знак»: Депутатов Госдумы допустят на оглашение послания Путина только после трех отрицательных ПЦР-тестов на ковид",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.rosbalt.ru/feed/",
-            "value": "Еще у 1782 жителей Москвы выявили коронавирус"
+            "value": "«Знак»: Депутатов Госдумы допустят на оглашение послания Путина только после трех отрицательных ПЦР-тестов на ковид"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.rosbalt.ru/moscow/2021/04/13/1896967.html"
+                "href": "https://www.rosbalt.ru/russia/2021/04/13/1897073.html"
             },
             {
                 "length": "0",
                 "type": "image/jpeg",
-                "href": "https://img.rosbalt.ru/photobank/8/e/e/9/7mPfTBNM-580.jpg",
+                "href": "https://img.rosbalt.ru/photobank/f2/70/3b/84/7QH2rm64cbP3-580.jpg",
                 "rel": "enclosure"
             }
         ],
-        "summary": "Менее 2 тыс. новых случаев заражения коронавирусом подтвердили в Москве. Как сообщили в пресс-службе столичного оперативного штаба, за сутки выявили еще...",
+        "summary": "Депутаты Госдумы смогут попасть на послание президента РФ Владимира Путина, только если трижды сдадут тест ПЦР на коронавирус. Это обязательное условие...",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://www.rosbalt.ru/feed/",
-            "value": "Менее 2 тыс. новых случаев заражения коронавирусом подтвердили в Москве. Как сообщили в пресс-службе столичного оперативного штаба, за сутки выявили еще..."
+            "value": "Депутаты Госдумы смогут попасть на послание президента РФ Владимира Путина, только если трижды сдадут тест ПЦР на коронавирус. Это обязательное условие..."
         },
-        "published": "Tue, 13 Apr 2021 10:04:00 +0300",
+        "published": "Tue, 13 Apr 2021 16:04:11 +0300",
         "published_parsed": [
             2021,
             4,
             13,
-            7,
+            13,
             4,
+            11,
+            1,
+            103,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/13/1897068.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/13/1897068.html",
+        "title": "Delfi: Военный атташе РФ в Латвии на фоне продолжающейся пандемии устроил вечеринку, показав соседям средний палец",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Delfi: Военный атташе РФ в Латвии на фоне продолжающейся пандемии устроил вечеринку, показав соседям средний палец"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/13/1897068.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/45/5f/7a/d9/bKwyDR9QhTVn-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Военный атташе РФ в Латвии Руслан Ушаков стал фигурантом скандала после публикации фотографий, на которых он показывает средний палец.  Как пишет во вторник...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Военный атташе РФ в Латвии Руслан Ушаков стал фигурантом скандала после публикации фотографий, на которых он показывает средний палец.  Как пишет во вторник..."
+        },
+        "published": "Tue, 13 Apr 2021 15:54:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            12,
+            54,
             0,
             1,
             103,
@@ -44,50 +95,146 @@
         ],
         "tags": [
             {
-                "term": "Москва",
+                "term": "В мире",
                 "scheme": null,
                 "label": null
             }
         ]
     },
     {
-        "id": "https://www.rosbalt.ru/world/2021/04/13/1896946.html",
+        "id": "https://www.rosbalt.ru/piter/2021/04/13/1897034.html",
         "guidislink": true,
-        "link": "https://www.rosbalt.ru/world/2021/04/13/1896946.html",
-        "title": "Lancet: Британский штамм коронавируса не влияет на тяжесть болезни и вероятность смерти",
+        "link": "https://www.rosbalt.ru/piter/2021/04/13/1897034.html",
+        "title": "В пресс-центре «Росбалта» обсуждают, чем обернулась пандемия для петербургских предпринимателей",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.rosbalt.ru/feed/",
-            "value": "Lancet: Британский штамм коронавируса не влияет на тяжесть болезни и вероятность смерти"
+            "value": "В пресс-центре «Росбалта» обсуждают, чем обернулась пандемия для петербургских предпринимателей"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.rosbalt.ru/world/2021/04/13/1896946.html"
+                "href": "https://www.rosbalt.ru/piter/2021/04/13/1897034.html"
             },
             {
                 "length": "0",
                 "type": "image/jpeg",
-                "href": "https://img.rosbalt.ru/photobank/95/35/59/8c/ZjYycKJvTH2P-580.jpg",
+                "href": "https://img.rosbalt.ru/photobank/5/5/f/7/cL3CBdZt-580.jpg",
                 "rel": "enclosure"
             }
         ],
-        "summary": "Подтверждена более высокая заразность этой разновидности вируса.",
+        "summary": "В пресс-центре информационного агентства «Росбалт» началась пресс-конференция «Чем обернулась пандемия для петербургских предпринимателей». На встрече...",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://www.rosbalt.ru/feed/",
-            "value": "Подтверждена более высокая заразность этой разновидности вируса."
+            "value": "В пресс-центре информационного агентства «Росбалт» началась пресс-конференция «Чем обернулась пандемия для петербургских предпринимателей». На встрече..."
         },
-        "published": "Tue, 13 Apr 2021 06:25:00 +0300",
+        "published": "Tue, 13 Apr 2021 14:11:12 +0300",
         "published_parsed": [
             2021,
             4,
             13,
-            3,
-            25,
+            11,
+            11,
+            12,
+            1,
+            103,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/piter/2021/04/13/1896017.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/piter/2021/04/13/1896017.html",
+        "title": "Санкт-Петербург. Пресс-конференция «Чем обернулась пандемия для петербургских предпринимателей»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Санкт-Петербург. Пресс-конференция «Чем обернулась пандемия для петербургских предпринимателей»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/piter/2021/04/13/1896017.html"
+            }
+        ],
+        "summary": "Во вторник, 13 апреля, в 14:00 информационное агентство «Росбалт» совместно с депутатом Законодательного собрания Петербурга и членом президиума всероссийского...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Во вторник, 13 апреля, в 14:00 информационное агентство «Росбалт» совместно с депутатом Законодательного собрания Петербурга и членом президиума всероссийского..."
+        },
+        "published": "Tue, 13 Apr 2021 14:00:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            0,
+            0,
+            1,
+            103,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/13/1897023.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/13/1897023.html",
+        "title": "Первая ракетка России Даниил Медведев заразился коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Первая ракетка России Даниил Медведев заразился коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/13/1897023.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/59/3e/ab/e3/wj6rQxPpMmKG-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Тест первой ракетки России Даниила Медведева на коронавирус дал положительный результат, сообщается на странице Ассоциации теннисистов-профессионалов (ATP)...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Тест первой ракетки России Даниила Медведева на коронавирус дал положительный результат, сообщается на странице Ассоциации теннисистов-профессионалов (ATP)..."
+        },
+        "published": "Tue, 13 Apr 2021 13:57:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            10,
+            57,
             0,
             1,
             103,

@@ -1,46 +1,145 @@
 [
     {
-        "title": "Гериатр рассказала о влиянии коронавируса на пожилых",
+        "title": "В Турции рассказали, когда ожидается улучшение ситуации с коронавирусом",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://ria.ru/export/rss2/archive/index.xml",
-            "value": "Гериатр рассказала о влиянии коронавируса на пожилых"
+            "value": "В Турции рассказали, когда ожидается улучшение ситуации с коронавирусом"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://ria.ru/20210413/koronavirus-1728012436.html"
+                "href": "https://ria.ru/20210413/turtsiya-1728090573.html"
             },
             {
                 "type": "image/jpeg",
-                "href": "https://cdn21.img.ria.ru/images/153076/33/1530763305_0:255:5472:3333_600x0_80_0_0_9b066902621eb10290c9e1937fa8aefd.jpg",
+                "href": "https://cdn22.img.ria.ru/images/07e4/09/04/1576795234_0:0:3123:1757_600x0_80_0_0_03d0010ba2bb9ce7902d3e5c01732af6.jpg",
                 "rel": "enclosure"
             }
         ],
-        "link": "https://ria.ru/20210413/koronavirus-1728012436.html",
-        "id": "https://ria.ru/20210413/koronavirus-1728012436.html",
+        "link": "https://ria.ru/20210413/turtsiya-1728090573.html",
+        "id": "https://ria.ru/20210413/turtsiya-1728090573.html",
         "guidislink": false,
         "rian_priority": "3",
-        "published": "Tue, 13 Apr 2021 09:06:30 +0300",
+        "published": "Tue, 13 Apr 2021 15:21:28 +0300",
         "published_parsed": [
             2021,
             4,
             13,
-            6,
-            6,
-            30,
+            12,
+            21,
+            28,
             1,
             103,
             0
         ],
-        "summary": "Ослабленные пожилые пациенты, перенесшие коронавирус, как правило, не возвращаются к доковидному состоянию здоровья, в то время как вакцинация от COVID не ухудшает состояния, не вызывает обострения основных заболеваний и не влияет на прогрессирование старческой астении, заявила РИА Новости главный внештатный гериатр департамента здравоохранения Москвы Надежда Рунихина.",
+        "summary": "Турция была готова принять 700-800 тысяч российских туристов в течение мая, заявил РИА Новости глава Ассоциации туроператоров страны (TURSAB) Фируз Баглыкая.",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://ria.ru/export/rss2/archive/index.xml",
-            "value": "Ослабленные пожилые пациенты, перенесшие коронавирус, как правило, не возвращаются к доковидному состоянию здоровья, в то время как вакцинация от COVID не ухудшает состояния, не вызывает обострения основных заболеваний и не влияет на прогрессирование старческой астении, заявила РИА Новости главный внештатный гериатр департамента здравоохранения Москвы Надежда Рунихина."
+            "value": "Турция была готова принять 700-800 тысяч российских туристов в течение мая, заявил РИА Новости глава Ассоциации туроператоров страны (TURSAB) Фируз Баглыкая."
+        },
+        "rian_type": "article",
+        "tags": [
+            {
+                "term": "Лента новостей",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Белоруссии заявили о начале третьей волны коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://ria.ru/export/rss2/archive/index.xml",
+            "value": "В Белоруссии заявили о начале третьей волны коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://ria.ru/20210413/koronavirus-1728078784.html"
+            }
+        ],
+        "link": "https://ria.ru/20210413/koronavirus-1728078784.html",
+        "id": "https://ria.ru/20210413/koronavirus-1728078784.html",
+        "guidislink": false,
+        "rian_priority": "3",
+        "published": "Tue, 13 Apr 2021 14:29:50 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            29,
+            50,
+            1,
+            103,
+            0
+        ],
+        "summary": "Третья волна заболеваемости коронавирусом началась в Белоруссии, заявила во вторник пресс-служба минздрава республики.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://ria.ru/export/rss2/archive/index.xml",
+            "value": "Третья волна заболеваемости коронавирусом началась в Белоруссии, заявила во вторник пресс-служба минздрава республики."
+        },
+        "rian_type": "article",
+        "tags": [
+            {
+                "term": "Лента новостей",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Меркель заявила о \"свете в конце тоннеля\" в борьбе с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://ria.ru/export/rss2/archive/index.xml",
+            "value": "Меркель заявила о \"свете в конце тоннеля\" в борьбе с коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://ria.ru/20210413/germaniya-1728078454.html"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn22.img.ria.ru/images/07e4/03/17/1569029901_0:106:3264:1942_600x0_80_0_0_6b60a93c9675222240878e7b0f54941c.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://ria.ru/20210413/germaniya-1728078454.html",
+        "id": "https://ria.ru/20210413/germaniya-1728078454.html",
+        "guidislink": false,
+        "rian_priority": "3",
+        "published": "Tue, 13 Apr 2021 14:28:13 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            13,
+            11,
+            28,
+            13,
+            1,
+            103,
+            0
+        ],
+        "summary": "Канцлер ФРГ Ангела Меркель заявила, что вакцинация в Германии идет все успешнее, страна приближается к \"свету в конце тоннеля\".",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://ria.ru/export/rss2/archive/index.xml",
+            "value": "Канцлер ФРГ Ангела Меркель заявила, что вакцинация в Германии идет все успешнее, страна приближается к \"свету в конце тоннеля\"."
         },
         "rian_type": "article",
         "tags": [

@@ -118,7 +118,17 @@
 10.04.2021 | 11 | 3 
 11.04.2021 | 11 | 3 
 12.04.2021 | 46 | 1 
-13.04.2021 | 9 | 0 
+13.04.2021 | 46 | 4 
+14.04.2021 | 58 | 5 
+15.04.2021 | 47 | 3 
+16.04.2021 | 48 | 4 
+17.04.2021 | 12 | 2 
+18.04.2021 | 12 | 2 
+19.04.2021 | 44 | 6 
 
 > ### Последние новости по теме covid-19:
-+ [В России за сутки выявили 8 320 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/04/12/865521-8320-novih-sluchaev-koronavirusa)
++ [Британцам предложили повторно заразиться коронавирусом за деньги](https://www.vedomosti.ru/society/news/2021/04/19/866630-britantsam-predlozhili-povtorno-zarazitsya-koronavirusom-za-dengi)
++ [Матвиенко заявила о вступлении России в постковидный период](https://www.vedomosti.ru/society/news/2021/04/19/866620-matvienko-rossiya-vstupila)
++ [В России разработали «кожный» тест на иммунитет к коронавирусу](https://www.vedomosti.ru/society/news/2021/04/19/866588-kozhnii-test-koronavirus)
++ [Попова рассказала о формировании двух новых вариантов коронавируса в России](https://www.vedomosti.ru/society/news/2021/04/19/866574-dvuh-novih-variantov-koronavirusa)
++ [В России за сутки выявили 8589 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/04/19/866572-v-rossii-za-sutki-viyavili)

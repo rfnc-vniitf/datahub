@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Число жертв коронавируса в мире превысило 3 млн человек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Число жертв коронавируса в мире превысило 3 млн человек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/17/866460-chislo-zhertv-koronavirusa-v-mire-previsilo-3-mln-chelovek"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2z/ue85e/normal-13e4.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/17/866460-chislo-zhertv-koronavirusa-v-mire-previsilo-3-mln-chelovek",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/17/866460-chislo-zhertv-koronavirusa-v-mire-previsilo-3-mln-chelovek",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/17/866460-chislo-zhertv-koronavirusa-v-mire-previsilo-3-mln-chelovek",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 17 Apr 2021 14:55:16 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            17,
+            11,
+            55,
+            16,
+            5,
+            107,
+            0
+        ]
+    },
+    {
+        "title": "В России за сутки выявили 9321 новый случай коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 9321 новый случай коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/17/866449-v-rossii-za-sutki-viyavili-9321-novii-sluchai-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/2z/o2in0/normal-v71.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/17/866449-v-rossii-za-sutki-viyavili-9321-novii-sluchai-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/17/866449-v-rossii-za-sutki-viyavili-9321-novii-sluchai-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/17/866449-v-rossii-za-sutki-viyavili-9321-novii-sluchai-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 17 Apr 2021 11:13:54 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            17,
+            8,
+            13,
+            54,
+            5,
+            107,
+            0
+        ]
+    }
+]
