@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/world/2021/05/08/1900674.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/05/08/1900674.html",
+        "title": "В Японии впервые с января за сутки выявили более семи тысяч случаев ковида",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Японии впервые с января за сутки выявили более семи тысяч случаев ковида"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/05/08/1900674.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/89/49/10/82/CHcxvXW3ThQR-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Медицинские службы Японии зарегистрировали более 7 тыс. случаев заражения коронавирусом впервые с середины января. Как пишет газета NHK, заболели 7249...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Медицинские службы Японии зарегистрировали более 7 тыс. случаев заражения коронавирусом впервые с середины января. Как пишет газета NHK, заболели 7249..."
+        },
+        "published": "Sat, 08 May 2021 16:43:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            8,
+            13,
+            43,
+            0,
+            5,
+            128,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

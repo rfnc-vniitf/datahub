@@ -125,10 +125,27 @@
 17.04.2021 | 12 | 2 
 18.04.2021 | 12 | 2 
 19.04.2021 | 44 | 6 
+20.04.2021 | 43 | 4 
+21.04.2021 | 41 | 2 
+22.04.2021 | 49 | 4 
+23.04.2021 | 51 | 5 
+26.04.2021 | 52 | 3 
+27.04.2021 | 51 | 3 
+28.04.2021 | 46 | 3 
+29.04.2021 | 45 | 2 
+30.04.2021 | 49 | 2 
+01.05.2021 | 12 | 2 
+02.05.2021 | 12 | 3 
+03.05.2021 | 21 | 3 
+04.05.2021 | 19 | 2 
+05.05.2021 | 20 | 3 
+06.05.2021 | 22 | 5 
+07.05.2021 | 21 | 2 
+08.05.2021 | 25 | 2 
+09.05.2021 | 21 | 3 
+10.05.2021 | 18 | 3 
 
 > ### Последние новости по теме covid-19:
-+ [Британцам предложили повторно заразиться коронавирусом за деньги](https://www.vedomosti.ru/society/news/2021/04/19/866630-britantsam-predlozhili-povtorno-zarazitsya-koronavirusom-za-dengi)
-+ [Матвиенко заявила о вступлении России в постковидный период](https://www.vedomosti.ru/society/news/2021/04/19/866620-matvienko-rossiya-vstupila)
-+ [В России разработали «кожный» тест на иммунитет к коронавирусу](https://www.vedomosti.ru/society/news/2021/04/19/866588-kozhnii-test-koronavirus)
-+ [Попова рассказала о формировании двух новых вариантов коронавируса в России](https://www.vedomosti.ru/society/news/2021/04/19/866574-dvuh-novih-variantov-koronavirusa)
-+ [В России за сутки выявили 8589 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/04/19/866572-v-rossii-za-sutki-viyavili)
++ [Путин: прививку от коронавируса сделали 21,5 млн россиян](https://www.vedomosti.ru/society/news/2021/05/10/869051-putin-privivku-ot-koronavirusa-sdelali-215-mln-rossiyan)
++ [Путин сообщил о хорошем титре антител после прививки от коронавируса](https://www.vedomosti.ru/society/news/2021/05/10/869050-putin-soobschil-horoshem-titre-antitel)
++ [В России за сутки выявили 8465 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/05/10/869037-v-rossii-za-sutki-viyavili-8465-novih-sluchaev-koronavirusa)

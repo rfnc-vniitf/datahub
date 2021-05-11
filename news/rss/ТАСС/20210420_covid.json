@@ -1,41 +1,34 @@
 [
     {
-        "title": "В больнице \"Вороновское\" за год вылечили более 12,5 тыс. пациентов с коронавирусом",
+        "title": "Собянин: за последние недели ситуация с распространением коронавируса в Москве ухудшается",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "В больнице \"Вороновское\" за год вылечили более 12,5 тыс. пациентов с коронавирусом"
+            "value": "Собянин: за последние недели ситуация с распространением коронавируса в Москве ухудшается"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11192855"
+                "href": "https://tass.ru/obschestvo/11198437"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11192855",
-        "id": "https://tass.ru/obschestvo/11192855",
+        "link": "https://tass.ru/obschestvo/11198437",
+        "id": "https://tass.ru/obschestvo/11198437",
         "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:32:28 +0300",
+        "published": "Tue, 20 Apr 2021 17:07:45 +0300",
         "published_parsed": [
             2021,
             4,
             20,
-            6,
-            32,
-            28,
+            14,
+            7,
+            45,
             1,
             110,
             0
         ],
-        "summary": "В диагностическом блоке выполнили более 17 тыс. КТ-исследований, в лаборатории провели 3,2 млн исследований, в том числе 187 тыс. ПЦР-тестов",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "В диагностическом блоке выполнили более 17 тыс. КТ-исследований, в лаборатории провели 3,2 млн исследований, в том числе 187 тыс. ПЦР-тестов"
-        },
         "tags": [
             {
                 "term": "Москва",
@@ -55,200 +48,50 @@
         ]
     },
     {
-        "title": "Британия объявила о создании международной группы по противостоянию пандемиям",
+        "title": "Шойгу вручил госнаграды военным медикам, внесшим особый вклад в борьбу с коронавирусом",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Британия объявила о создании международной группы по противостоянию пандемиям"
+            "value": "Шойгу вручил госнаграды военным медикам, внесшим особый вклад в борьбу с коронавирусом"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/mezhdunarodnaya-panorama/11192833"
+                "href": "https://tass.ru/armiya-i-opk/11198037"
             }
         ],
-        "link": "https://tass.ru/mezhdunarodnaya-panorama/11192833",
-        "id": "https://tass.ru/mezhdunarodnaya-panorama/11192833",
+        "link": "https://tass.ru/armiya-i-opk/11198037",
+        "id": "https://tass.ru/armiya-i-opk/11198037",
         "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:22:11 +0300",
+        "published": "Tue, 20 Apr 2021 16:35:35 +0300",
         "published_parsed": [
             2021,
             4,
             20,
-            6,
-            22,
-            11,
-            1,
-            110,
-            0
-        ],
-        "summary": "Ее эксперты, в частности, на саммите лидеров G7 дадут рекомендации по поводу того, как достигнуть реализации цели разработки вакцины против новых вирусов в течение 100 дней",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Ее эксперты, в частности, на саммите лидеров G7 дадут рекомендации по поводу того, как достигнуть реализации цели разработки вакцины против новых вирусов в течение 100 дней"
-        },
-        "tags": [
-            {
-                "term": "Международная панорама",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "DPA: власти ФРГ выделят около €1,6 млрд на исследования коронавируса",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "DPA: власти ФРГ выделят около €1,6 млрд на исследования коронавируса"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/mezhdunarodnaya-panorama/11192777"
-            }
-        ],
-        "link": "https://tass.ru/mezhdunarodnaya-panorama/11192777",
-        "id": "https://tass.ru/mezhdunarodnaya-panorama/11192777",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:12:13 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            6,
-            12,
             13,
-            1,
-            110,
-            0
-        ],
-        "summary": "По данным агентства, около €627 млн из этой суммы предназначаются компаниям BioNTech и CureVac",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "По данным агентства, около €627 млн из этой суммы предназначаются компаниям BioNTech и CureVac"
-        },
-        "tags": [
-            {
-                "term": "Международная панорама",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Совет законодателей обсудит новое послание президента и борьбу с пандемией",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Совет законодателей обсудит новое послание президента и борьбу с пандемией"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/politika/11192785"
-            }
-        ],
-        "link": "https://tass.ru/politika/11192785",
-        "id": "https://tass.ru/politika/11192785",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:04:55 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            6,
-            4,
-            55,
-            1,
-            110,
-            0
-        ],
-        "summary": "Заседание Совета законодателей состоится 27 апреля в Санкт-Петербурге",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Заседание Совета законодателей состоится 27 апреля в Санкт-Петербурге"
-        },
-        "tags": [
-            {
-                "term": "Политика",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "В Таиланде планируют разрешить бессимптомным пациентам с коронавирусом изолироваться дома",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "В Таиланде планируют разрешить бессимптомным пациентам с коронавирусом изолироваться дома"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11192485"
-            }
-        ],
-        "link": "https://tass.ru/obschestvo/11192485",
-        "id": "https://tass.ru/obschestvo/11192485",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 07:34:35 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            4,
-            34,
+            35,
             35,
             1,
             110,
             0
         ],
-        "summary": "По данным газеты Bangkok Post, это решение рассматривают на фоне растущей обеспокоенности по поводу быстрого заполнения больничных коек инфицированными",
+        "summary": "В частности, орденом Пирогова наградили заместителя начальника Центрального военного клинического госпиталя им. П. В. Мандрыка по медицинской части полковника медицинской службы Алексея Демьяненко",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "По данным газеты Bangkok Post, это решение рассматривают на фоне растущей обеспокоенности по поводу быстрого заполнения больничных коек инфицированными"
+            "value": "В частности, орденом Пирогова наградили заместителя начальника Центрального военного клинического госпиталя им. П. В. Мандрыка по медицинской части полковника медицинской службы Алексея Демьяненко"
         },
         "tags": [
             {
                 "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Армия и ОПК",
                 "scheme": null,
                 "label": null
             },
@@ -260,45 +103,45 @@
         ]
     },
     {
-        "title": "Камчатский край получит 10 тыс. доз вакцины от коронавируса для нужд рыбаков",
+        "title": "В Вооруженных силах России привили от коронавируса более 650 тыс. человек",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Камчатский край получит 10 тыс. доз вакцины от коронавируса для нужд рыбаков"
+            "value": "В Вооруженных силах России привили от коронавируса более 650 тыс. человек"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11192515"
+                "href": "https://tass.ru/armiya-i-opk/11197819"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11192515",
-        "id": "https://tass.ru/obschestvo/11192515",
+        "link": "https://tass.ru/armiya-i-opk/11197819",
+        "id": "https://tass.ru/armiya-i-opk/11197819",
         "guidislink": false,
-        "published": "Tue, 20 Apr 2021 07:29:32 +0300",
+        "published": "Tue, 20 Apr 2021 16:13:50 +0300",
         "published_parsed": [
             2021,
             4,
             20,
-            4,
-            29,
-            32,
+            13,
+            13,
+            50,
             1,
             110,
             0
         ],
-        "summary": "Власти региона отметили, что партии вакцины будет достаточно для обеспечения необходимых профилактических мер на путине",
+        "summary": "Министр обороны Сергей Шойгу заверил, что в ВС \"вспышек этого инфекционного заболевания не допущено\"",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Власти региона отметили, что партии вакцины будет достаточно для обеспечения необходимых профилактических мер на путине"
+            "value": "Министр обороны Сергей Шойгу заверил, что в ВС \"вспышек этого инфекционного заболевания не допущено\""
         },
         "tags": [
             {
-                "term": "Общество",
+                "term": "Армия и ОПК",
                 "scheme": null,
                 "label": null
             },
@@ -315,171 +158,100 @@
         ]
     },
     {
-        "title": "В Москве выездная бригада вакцинации от коронавируса заработает в ЦУМе",
+        "title": "Эксперт: стать донором крови можно через месяц после второго укола вакцины от коронавируса",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "В Москве выездная бригада вакцинации от коронавируса заработает в ЦУМе"
+            "value": "Эксперт: стать донором крови можно через месяц после второго укола вакцины от коронавируса"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11192457"
+                "href": "https://tass.ru/obschestvo/11197323"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11192457",
-        "id": "https://tass.ru/obschestvo/11192457",
+        "link": "https://tass.ru/obschestvo/11197323",
+        "id": "https://tass.ru/obschestvo/11197323",
         "guidislink": false,
-        "published": "Tue, 20 Apr 2021 07:16:22 +0300",
+        "published": "Tue, 20 Apr 2021 15:57:03 +0300",
         "published_parsed": [
             2021,
             4,
             20,
-            4,
-            16,
-            22,
-            1,
-            110,
-            0
-        ],
-        "summary": "Вакцинацию также можно будет пройти в торговых центрах \"Шангал\" и \"XL Дмитровка\"",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Вакцинацию также можно будет пройти в торговых центрах \"Шангал\" и \"XL Дмитровка\""
-        },
-        "tags": [
-            {
-                "term": "Москва",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Общество",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Вакцинация от коронавируса в России",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Вопреки пандемии. Насколько удалось реализовать прошлогоднее послание Путина парламенту",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Вопреки пандемии. Насколько удалось реализовать прошлогоднее послание Путина парламенту"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/politika/11188373"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "4167256",
-                "href": "https://cdn3.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210419/6087363.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://tass.ru/politika/11188373",
-        "id": "https://tass.ru/politika/11188373",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 07:00:00 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            4,
-            0,
-            0,
-            1,
-            110,
-            0
-        ],
-        "summary": "Распространение новой коронавирусной инфекции сказалось на ходе реализации президентского послания, однако большинство положений удалось выполнить",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Распространение новой коронавирусной инфекции сказалось на ходе реализации президентского послания, однако большинство положений удалось выполнить"
-        },
-        "tags": [
-            {
-                "term": "Политика",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Экономика и бизнес",
-                "scheme": null,
-                "label": null
-            },
-            {
-                "term": "Пандемия COVID-19",
-                "scheme": null,
-                "label": null
-            }
-        ]
-    },
-    {
-        "title": "Си Цзиньпин: Китай будет открыт и объединит усилия с другими странами против пандемии",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://tass.ru/rss/v2.xml",
-            "value": "Си Цзиньпин: Китай будет открыт и объединит усилия с другими странами против пандемии"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://tass.ru/mezhdunarodnaya-panorama/11192165"
-            }
-        ],
-        "link": "https://tass.ru/mezhdunarodnaya-panorama/11192165",
-        "id": "https://tass.ru/mezhdunarodnaya-panorama/11192165",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 05:03:34 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            2,
+            12,
+            57,
             3,
-            34,
             1,
             110,
             0
         ],
-        "summary": "По словам председателя КНР, Пекин считает непродуктивной одностороннюю политику отдельных стран",
+        "summary": "Ольга Эйхлер отметила, что не стоит скрывать даже легкое недомогание в виде повышения температуры, так как это может отразиться на анализе крови",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "По словам председателя КНР, Пекин считает непродуктивной одностороннюю политику отдельных стран"
+            "value": "Ольга Эйхлер отметила, что не стоит скрывать даже легкое недомогание в виде повышения температуры, так как это может отразиться на анализе крови"
         },
         "tags": [
             {
-                "term": "Международная панорама",
+                "term": "Общество",
                 "scheme": null,
                 "label": null
             },
             {
                 "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Вакцинация от коронавируса в России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Число безработных в пандемию в некоторых регионах России увеличилось в пять раз",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Число безработных в пандемию в некоторых регионах России увеличилось в пять раз"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11196719"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11196719",
+        "id": "https://tass.ru/obschestvo/11196719",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 15:49:36 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            12,
+            49,
+            36,
+            1,
+            110,
+            0
+        ],
+        "summary": "Председатель комитета Совета Федерации по экономической политике Андрей Кутепов указал, что также сократилось количество субъектов малого и среднего бизнеса",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Председатель комитета Совета Федерации по экономической политике Андрей Кутепов указал, что также сократилось количество субъектов малого и среднего бизнеса"
+        },
+        "tags": [
+            {
+                "term": "Общество",
                 "scheme": null,
                 "label": null
             }

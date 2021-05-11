@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/04/22/1898646.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/04/22/1898646.html",
+        "title": "В России за сутки подтверждено почти 9 тыс. новых случаев заражения ковидом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России за сутки подтверждено почти 9 тыс. новых случаев заражения ковидом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/04/22/1898646.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/6/1/6/9/qDwcLxh6-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В России за сутки подтверждено 8 тыс. 996 новых случаев коронавируса, передает оперштаб. Пятерка регионов, где зафиксировано максимальное число заболевших,...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России за сутки подтверждено 8 тыс. 996 новых случаев коронавируса, передает оперштаб. Пятерка регионов, где зафиксировано максимальное число заболевших,..."
+        },
+        "published": "Thu, 22 Apr 2021 11:51:26 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            22,
+            8,
+            51,
+            26,
+            3,
+            112,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/22/1898603.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/22/1898603.html",
+        "title": "Главе Киргизии не удалось «отравить» коронавирус",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Главе Киргизии не удалось «отравить» коронавирус"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/22/1898603.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/d2/a6/32/d1/PC2wbBKTtYmh-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Садыр Жапаров решил превзойти Гурбангулы Бердымухамедова по части медицинских открытий, победив COVID-19 при помощи яда. Правда, и он сел в лужу.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Садыр Жапаров решил превзойти Гурбангулы Бердымухамедова по части медицинских открытий, победив COVID-19 при помощи яда. Правда, и он сел в лужу."
+        },
+        "published": "Thu, 22 Apr 2021 11:30:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            22,
+            8,
+            30,
+            0,
+            3,
+            112,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

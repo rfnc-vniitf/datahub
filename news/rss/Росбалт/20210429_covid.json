@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/world/2021/04/29/1899740.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/04/29/1899740.html",
+        "title": "В Индии обновился суточный рекорд по числу заболевших коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Индии обновился суточный рекорд по числу заболевших коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/04/29/1899740.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/9/5/7/1/k6yj7NbC-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Речь идет о 380 тыс. случаев инфицирования, подтвержденных за последние 24 часа.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Речь идет о 380 тыс. случаев инфицирования, подтвержденных за последние 24 часа."
+        },
+        "published": "Thu, 29 Apr 2021 09:30:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            29,
+            6,
+            30,
+            0,
+            3,
+            119,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

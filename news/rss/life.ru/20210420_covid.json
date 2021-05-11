@@ -1,5 +1,198 @@
 [
     {
+        "title": "В России выявили менее 8,5 тысячи новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "В России выявили менее 8,5 тысячи новых случаев коронавируса"
+        },
+        "summary": "За прошедшие сутки от болезни полностью выздоровело более 9,5 тысячи человек. <a href=\"https://life.ru/p/1392197\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "За прошедшие сутки от болезни полностью выздоровело более 9,5 тысячи человек. <a href=\"https://life.ru/p/1392197\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1392197"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/3/20/339844992534.2172.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1392197",
+        "id": "https://life.ru/p/1392197",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 08:26:04 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            8,
+            26,
+            4,
+            1,
+            110,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "статистика",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "болезни",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Путин оценил опыт российских врачей в борьбе с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Путин оценил опыт российских врачей в борьбе с коронавирусом"
+        },
+        "summary": "Ни одно государство не может обеспечить эпидбезопасность без помощи зарубежных партнёров, уверен он.<a href=\"https://life.ru/p/1392183\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Ни одно государство не может обеспечить эпидбезопасность без помощи зарубежных партнёров, уверен он.<a href=\"https://life.ru/p/1392183\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1392183"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/3/20/91629986184.7755.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1392183",
+        "id": "https://life.ru/p/1392183",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 08:10:56 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            8,
+            10,
+            56,
+            1,
+            110,
+            0
+        ],
+        "tags": [
+            {
+                "term": "путин",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "медицина",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "опыт",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "инфекции",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Попова назвала место России в мире по среднесуточной заболеваемости ковидом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Попова назвала место России в мире по среднесуточной заболеваемости ковидом"
+        },
+        "summary": "По количеству проведённых тестов страна идёт на пятой позиции среди всех государств.<a href=\"https://life.ru/p/1392184\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "По количеству проведённых тестов страна идёт на пятой позиции среди всех государств.<a href=\"https://life.ru/p/1392184\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1392184"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/3/20/997704990708.6921.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1392184",
+        "id": "https://life.ru/p/1392184",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 07:43:17 GMT",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            7,
+            43,
+            17,
+            1,
+            110,
+            0
+        ],
+        "tags": [
+            {
+                "term": "аннапопова",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "роспотребнадзор",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
         "title": "В ЦУМе с 21 апреля можно будет сделать прививку от коронавируса",
         "title_detail": {
             "type": "text/plain",

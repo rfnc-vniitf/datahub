@@ -1,0 +1,55 @@
+[
+    {
+        "title": "В Белоруссии за сутки выявили 1214 случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://russian.rt.com/rss",
+            "value": "В Белоруссии за сутки выявили 1214 случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://russian.rt.com/ussr/news/860352-belorussiya-koronavirus-sluchai?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "123",
+                "href": "https://cdni.rt.com/russian/images/2021.05/thumbnail/6097d40002e8bd057e0ecfaf.png",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://russian.rt.com/ussr/news/860352-belorussiya-koronavirus-sluchai?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "id": "https://russian.rt.com/ussr/news/860352-belorussiya-koronavirus-sluchai?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "guidislink": false,
+        "summary": "<img align=\"left\" alt=\"Preview\" src=\"https://cdni.rt.com/russian/images/2021.05/thumbnail/6097d40002e8bd057e0ecfaf.png\" style=\"margin-right: 10px;\" /> В Белоруссии за сутки коронавирусную инфекцию выявили ещё у 1214 жителей. Общее число зафиксированных в стране случаев COVID-19 возросло до 368 888, сообщает Минздрав республики. <br /><a href=\"https://russian.rt.com/ussr/news/860352-belorussiya-koronavirus-sluchai?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Читать далее</a>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://russian.rt.com/rss",
+            "value": "<img align=\"left\" alt=\"Preview\" src=\"https://cdni.rt.com/russian/images/2021.05/thumbnail/6097d40002e8bd057e0ecfaf.png\" style=\"margin-right: 10px;\" /> В Белоруссии за сутки коронавирусную инфекцию выявили ещё у 1214 жителей. Общее число зафиксированных в стране случаев COVID-19 возросло до 368 888, сообщает Минздрав республики. <br /><a href=\"https://russian.rt.com/ussr/news/860352-belorussiya-koronavirus-sluchai?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Читать далее</a>"
+        },
+        "published": "Sun, 09 May 2021 15:29:16 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            9,
+            12,
+            29,
+            16,
+            6,
+            129,
+            0
+        ],
+        "authors": [
+            {
+                "name": "RT на русском"
+            }
+        ],
+        "author": "RT на русском",
+        "author_detail": {
+            "name": "RT на русском"
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "title": "В пресс-службе Титова заявили, что из-за пандемии пострадали 83% компаний Петербурга",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В пресс-службе Титова заявили, что из-за пандемии пострадали 83% компаний Петербурга"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11287461"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11287461",
+        "id": "https://tass.ru/ekonomika/11287461",
+        "guidislink": false,
+        "published": "Fri, 30 Apr 2021 16:05:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            30,
+            13,
+            5,
+            0,
+            4,
+            120,
+            0
+        ],
+        "summary": "Менее трети из них воспользовались мерами государственной поддержки",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Менее трети из них воспользовались мерами государственной поддержки"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

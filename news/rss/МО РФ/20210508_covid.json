@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Командующий войсками ЦВО вручил государственные награды офицерам-медикам за борьбу с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Командующий войсками ЦВО вручил государственные награды офицерам-медикам за борьбу с коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12360271@egNews"
+            },
+            {
+                "length": "243897",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/6546516268 (3).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12360271@egNews",
+        "summary": "Торжественная церемония состоялась сегодня, 8 мая в штабе ЦВО.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Торжественная церемония состоялась сегодня, 8 мая в штабе ЦВО."
+        },
+        "published": "Sat, 8 May 2021 09:45:40 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            8,
+            6,
+            45,
+            40,
+            5,
+            128,
+            0
+        ],
+        "id": "12360271@egNews",
+        "guidislink": false
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "title": "В России за сутки выявили 8731 новый случай коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8731 новый случай коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/30/868375-v-rossii-za-sutki-viyavili-8-731-novii-sluchai-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/3c/nqo9f/normal-urn.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/30/868375-v-rossii-za-sutki-viyavili-8-731-novii-sluchai-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/30/868375-v-rossii-za-sutki-viyavili-8-731-novii-sluchai-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/30/868375-v-rossii-za-sutki-viyavili-8-731-novii-sluchai-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Fri, 30 Apr 2021 11:06:12 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            30,
+            8,
+            6,
+            12,
+            4,
+            120,
+            0
+        ]
+    },
+    {
+        "title": "В России начали выпускать вакцину от коронавируса для животных",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России начали выпускать вакцину от коронавируса для животных"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/30/868371-vaktsinu-koronavirusa-zhivotnih"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/30/868371-vaktsinu-koronavirusa-zhivotnih",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/30/868371-vaktsinu-koronavirusa-zhivotnih",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/30/868371-vaktsinu-koronavirusa-zhivotnih",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Fri, 30 Apr 2021 10:25:15 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            30,
+            7,
+            25,
+            15,
+            4,
+            120,
+            0
+        ]
+    }
+]

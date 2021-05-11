@@ -1,5 +1,2727 @@
 [
     {
+        "title": "Посольство Египта ответило на данные о планах России открыть чартеры",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Посольство Египта ответило на данные о планах России открыть чартеры"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ede0a9a79473bae26517d"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/756189274817579.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ede0a9a79473bae26517d",
+        "summary": "Посольство Египта в Москве подтвердило данные о планах возобновления чартерного авиасообщения между Россией и курортами Шарм-эш-Шейха и Хургады.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Посольство Египта в Москве подтвердило данные о планах возобновления чартерного авиасообщения между Россией и курортами Шарм-эш-Шейха и Хургады."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ede0a9a79473bae26517d",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 17:05:25 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            14,
+            5,
+            25,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Глава МИД Украины сообщил, что Лавров ему «не перезвонил»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Глава МИД Украины сообщил, что Лавров ему «не перезвонил»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ed4979a794736d5835da5"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/38/756189270348382.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ed4979a794736d5835da5",
+        "summary": "Глава МИД Украины Дмитрий Кулеба несколько месяцев назад запрашивал телефонный разговор с министром иностранных дел России Сергеем Лавровым, однако не получил ответа.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Глава МИД Украины Дмитрий Кулеба несколько месяцев назад запрашивал телефонный разговор с министром иностранных дел России Сергеем Лавровым, однако не получил ответа."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ed4979a794736d5835da5",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 16:48:38 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            48,
+            38,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Суд освободил экс-главу Коми от наказания по делу о превышении полномочий",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Суд освободил экс-главу Коми от наказания по делу о превышении полномочий"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607ed8829a7947388157372a"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/54/756189268653546.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/29/756163159512293.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/85/756164052899859.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/png",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/91/755942773842914.png",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/754920748009754.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/03/754921722148039.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/91/754913301299917.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/64/754912964951648.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/30/754920747917300.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/754912966806247.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/69/754912970999691.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/754920747954630.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/54/754920747984542.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/754920748039491.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/84/754920748063846.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/754912972441451.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/21/754920748088210.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/754920748110664.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607ed8829a7947388157372a",
+        "summary": "Суд освободил Гайзера от наказания по делу о превышении должностных полномочий. Бывший глава Коми, который ранее был приговорен к 11 годам лишения свободы за мошенничество, заявил о планах обжаловать оба приговора",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Суд освободил Гайзера от наказания по делу о превышении должностных полномочий. Бывший глава Коми, который ранее был приговорен к 11 годам лишения свободы за мошенничество, заявил о планах обжаловать оба приговора"
+        },
+        "authors": [
+            {
+                "name": "Виктория Полякова"
+            }
+        ],
+        "author": "Виктория Полякова",
+        "author_detail": {
+            "name": "Виктория Полякова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ed8829a7947388157372a",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 16:42:15 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            42,
+            15,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Лукашенко рассказал о передаче Порошенко предложений Путина по Донбассу",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Лукашенко рассказал о передаче Порошенко предложений Путина по Донбассу"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ecc899a7947341704cd16"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/57/756189239805571.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ecc899a7947341704cd16",
+        "summary": "Президент Белоруссии Александр Лукашенко рассказал, что передавал бывшему лидеру Украины Петру Порошенко предложения президента России Владимира Путина по восстановлению Донбасса, однако тот отказался принять их.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Президент Белоруссии Александр Лукашенко рассказал, что передавал бывшему лидеру Украины Петру Порошенко предложения президента России Владимира Путина по восстановлению Донбасса, однако тот отказался принять их."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ecc899a7947341704cd16",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 16:38:41 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            38,
+            41,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Минтранс обоснует компенсацию перевозчикам за ограничение рейсов в Турцию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Минтранс обоснует компенсацию перевозчикам за ограничение рейсов в Турцию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/04/2021/607ecc969a794733f1672fc1"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/23/756189271572239.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/04/2021/607ecc969a794733f1672fc1",
+        "summary": "Минтранс сообщил о подготовке проекта постановления правительства, который предусматривает компенсацию авиаперевозчикам в связи с почти полным запретом полетов в Турцию. Авиасообщение с республикой ограничили до начала июня",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Минтранс сообщил о подготовке проекта постановления правительства, который предусматривает компенсацию авиаперевозчикам в связи с почти полным запретом полетов в Турцию. Авиасообщение с республикой ограничили до начала июня"
+        },
+        "authors": [
+            {
+                "name": "Виктория Полякова, Артём Кореняко"
+            }
+        ],
+        "author": "Виктория Полякова, Артём Кореняко",
+        "author_detail": {
+            "name": "Виктория Полякова, Артём Кореняко"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ecc969a794733f1672fc1",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 16:29:10 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            29,
+            10,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Чехия заявила о планах попросить ЕС и НАТО выслать российских дипломатов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Чехия заявила о планах попросить ЕС и НАТО выслать российских дипломатов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607ed4c59a794736c32ffaf4"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/84/756189252339841.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/54/756188503543547.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/48/756188505934486.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/756188507587660.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/67/756188506566670.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/67/756188509257670.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/49/756188508660494.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/60/756188504868608.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/36/756188509835363.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/64/756188510477649.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607ed4c59a794736c32ffaf4",
+        "summary": "Власти Чехии попросят партнеров по Евросоюзу и НАТО в знак солидарности выслать «российских разведчиков из посольств в их странах».",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Власти Чехии попросят партнеров по Евросоюзу и НАТО в знак солидарности выслать «российских разведчиков из посольств в их странах»."
+        },
+        "authors": [
+            {
+                "name": "Виктория Полякова"
+            }
+        ],
+        "author": "Виктория Полякова",
+        "author_detail": {
+            "name": "Виктория Полякова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ed4c59a794736c32ffaf4",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 16:26:19 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            26,
+            19,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Синоптик пообещал москвичам «рекордный» дождь",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Синоптик пообещал москвичам «рекордный» дождь"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ec7609a794730f6d766a6"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/80/756189261724803.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ec7609a794730f6d766a6",
+        "summary": "Москвичей ждет «рекордный дождь», сообщил ведущий специалист центра погоды «Фобос» Евгений Тишковец в Facebook.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Москвичей ждет «рекордный дождь», сообщил ведущий специалист центра погоды «Фобос» Евгений Тишковец в Facebook."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ec7609a794730f6d766a6",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 16:20:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            20,
+            0,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Регионы начали отменять массовые мероприятия на майские праздники",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Регионы начали отменять массовые мероприятия на майские праздники"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/04/2021/607ecd5c9a7947348a463649"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/21/756189247539217.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/04/2021/607ecd5c9a7947348a463649",
+        "summary": "В связи с эпидемической ситуацией демонстрации и шествия Первого мая решили не проводить в Свердловской области и Воронеже",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В связи с эпидемической ситуацией демонстрации и шествия Первого мая решили не проводить в Свердловской области и Воронеже"
+        },
+        "authors": [
+            {
+                "name": "Владислав Гордеев, Любовь Порываева, Ольга Базелюк"
+            }
+        ],
+        "author": "Владислав Гордеев, Любовь Порываева, Ольга Базелюк",
+        "author_detail": {
+            "name": "Владислав Гордеев, Любовь Порываева, Ольга Базелюк"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ecd5c9a7947348a463649",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 16:16:41 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            16,
+            41,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Прокуратура объяснила требование ликвидировать штабы Навального",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Прокуратура объяснила требование ликвидировать штабы Навального"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607ec2c59a79472e890337d9"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/52/756189248467520.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607ec2c59a79472e890337d9",
+        "summary": "ФКБ и штабы Навального «по заказу зарубежных центров» занимаются «дестабилизацией общественно-политической обстановки», заявили в прокуратуре Москвы. В ФБК связывают претензии прокуратуры с выборами в Госдуму",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "ФКБ и штабы Навального «по заказу зарубежных центров» занимаются «дестабилизацией общественно-политической обстановки», заявили в прокуратуре Москвы. В ФБК связывают претензии прокуратуры с выборами в Госдуму"
+        },
+        "authors": [
+            {
+                "name": "Виктория Полякова"
+            }
+        ],
+        "author": "Виктория Полякова",
+        "author_detail": {
+            "name": "Виктория Полякова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ec2c59a79472e890337d9",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 16:08:32 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            8,
+            32,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "После гибели президента Чада военные закрыли границы страны",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "После гибели президента Чада военные закрыли границы страны"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ec6fb9a79473130a914e6"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/41/756189223357414.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ec6fb9a79473130a914e6",
+        "summary": "В Республике Чад в Центральной Африке военные, которые пришли к власти после гибели президента, закрыли границы, сообщает France 24.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Республике Чад в Центральной Африке военные, которые пришли к власти после гибели президента, закрыли границы, сообщает France 24."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ec6fb9a79473130a914e6",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 15:55:17 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            12,
+            55,
+            17,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Путин подписал упрощающий оформление вычета на покупку жилья закон",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Путин подписал упрощающий оформление вычета на покупку жилья закон"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ec6149a79472fedb526e9"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/756189221135366.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ec6149a79472fedb526e9",
+        "summary": "Президент России Владимир Путин подписал закон, упрощающий порядок получения имущественных и инвестиционных вычетов по налогу на доходы физических лиц (НДФЛ).",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Президент России Владимир Путин подписал закон, упрощающий порядок получения имущественных и инвестиционных вычетов по налогу на доходы физических лиц (НДФЛ)."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ec6149a79472fedb526e9",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 15:49:34 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            12,
+            49,
+            34,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Сотрудники СБУ перешли в режим повышенной готовности по всей Украине",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Сотрудники СБУ перешли в режим повышенной готовности по всей Украине"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ebe6d9a79472ca2feaafb"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/11/756189207421116.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ebe6d9a79472ca2feaafb",
+        "summary": "Сотрудники Службы безопасности Украины (СБУ) во всех регионах страны переведены в режим повышенной готовности, в большинстве областей проходят антитеррористические учения.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Сотрудники Службы безопасности Украины (СБУ) во всех регионах страны переведены в режим повышенной готовности, в большинстве областей проходят антитеррористические учения."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ebe6d9a79472ca2feaafb",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 15:32:22 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            12,
+            32,
+            22,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Москвичей предупредили о сильном дожде с мокрым снегом и ветре",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Москвичей предупредили о сильном дожде с мокрым снегом и ветре"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ec4eb9a79473007326d33"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/756189211603512.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ec4eb9a79473007326d33",
+        "summary": "В Москве с середины дня 20 апреля до полудня следующего дня ожидается ухудшение погоды, сообщается на сайте мэра Москвы.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Москве с середины дня 20 апреля до полудня следующего дня ожидается ухудшение погоды, сообщается на сайте мэра Москвы."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ec4eb9a79473007326d33",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 15:26:03 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            12,
+            26,
+            3,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Президент РАН заявил о двукратном сокращении числа аспирантов в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Президент РАН заявил о двукратном сокращении числа аспирантов в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/04/2021/607ebbb09a79472b4c17838e"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/22/756189194561228.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/04/2021/607ebbb09a79472b4c17838e",
+        "summary": "С 2010 по 2019 год число аспирантов упало со 157 тыс. человек до 84 тыс. Сокращается и число тех, кто заканчивает аспирантуру с защитой диссертации. Глава РАН связывает это с низким престижем науки",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "С 2010 по 2019 год число аспирантов упало со 157 тыс. человек до 84 тыс. Сокращается и число тех, кто заканчивает аспирантуру с защитой диссертации. Глава РАН связывает это с низким престижем науки"
+        },
+        "authors": [
+            {
+                "name": "Егор Губернаторов, Георгий Тадтаев"
+            }
+        ],
+        "author": "Егор Губернаторов, Георгий Тадтаев",
+        "author_detail": {
+            "name": "Егор Губернаторов, Георгий Тадтаев"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ebbb09a79472b4c17838e",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 15:18:21 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            12,
+            18,
+            21,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Минэкономразвития направило 3,3 млрд руб. на водоснабжение в Крыму",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Минэкономразвития направило 3,3 млрд руб. на водоснабжение в Крыму"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ebaa19a79472ae88b55a7"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/91/756189186467914.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ebaa19a79472ae88b55a7",
+        "summary": "Республика Крым и город федерального значения Севастополь получили почти 3,3 млрд руб.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Республика Крым и город федерального значения Севастополь получили почти 3,3 млрд руб."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ebaa19a79472ae88b55a7",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 15:13:59 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            12,
+            13,
+            59,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Туроператоры оценили сроки возобновления полетов в Египет",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Туроператоры оценили сроки возобновления полетов в Египет"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/business/20/04/2021/607eba4f9a79472b0a386abd"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/62/756189188584620.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/04/20/914631.9___mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/99/756189146247998.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/business/20/04/2021/607eba4f9a79472b0a386abd",
+        "summary": "Предложить путевки в Египет смогут как минимум семь федеральных туроператоров, которые ранее работали на этом направлении. На возобновление полетных программ им потребуются одна или две недели",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Предложить путевки в Египет смогут как минимум семь федеральных туроператоров, которые ранее работали на этом направлении. На возобновление полетных программ им потребуются одна или две недели"
+        },
+        "authors": [
+            {
+                "name": "Елена Сухорукова, Мария Лисицына"
+            }
+        ],
+        "author": "Елена Сухорукова, Мария Лисицына",
+        "author_detail": {
+            "name": "Елена Сухорукова, Мария Лисицына"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eba4f9a79472b0a386abd",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 15:01:17 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            12,
+            1,
+            17,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Суды изъяли у российских чиновников незаконного имущества на ₽74 млрд",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Суды изъяли у российских чиновников незаконного имущества на ₽74 млрд"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/04/2021/607ebcc49a79472c90410f20"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/55/756189224497555.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/756186017905711.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/71/756186017905719.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/756186017905731.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/70/756186017905700.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/53/756186029188536.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/11/756186014745117.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/15/756186012946157.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/36/756186010062361.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/756186010062342.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/35/756186010062354.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/04/2021/607ebcc49a79472c90410f20",
+        "summary": "В 2020 году прокуроры по результатам проверок подали 53 иска против чиновников, которых заподозрили в наличии незаконно нажитого имущества. Суды удовлетворили более половины этих заявлений",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В 2020 году прокуроры по результатам проверок подали 53 иска против чиновников, которых заподозрили в наличии незаконно нажитого имущества. Суды удовлетворили более половины этих заявлений"
+        },
+        "authors": [
+            {
+                "name": "Виктория Полякова"
+            }
+        ],
+        "author": "Виктория Полякова",
+        "author_detail": {
+            "name": "Виктория Полякова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ebcc49a79472c90410f20",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 14:58:37 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            58,
+            37,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "«Ростех» решил претендовать на угольное месторождение Богатырь",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "«Ростех» решил претендовать на угольное месторождение Богатырь"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/business/20/04/2021/607e7c189a79470cd9d5aaef"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/756189207304375.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/business/20/04/2021/607e7c189a79470cd9d5aaef",
+        "summary": "Структура «Ростеха» создала компанию «РТ-Богатырь» в Новосибирске. Неделю назад Роснедра выставили на аукцион угольный разрез Богатырь. Также интересуется активом «Коулстар» Эдуарда Худайнатова",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Структура «Ростеха» создала компанию «РТ-Богатырь» в Новосибирске. Неделю назад Роснедра выставили на аукцион угольный разрез Богатырь. Также интересуется активом «Коулстар» Эдуарда Худайнатова"
+        },
+        "authors": [
+            {
+                "name": "Тимофей Дзядко, Светлана Бурмистрова"
+            }
+        ],
+        "author": "Тимофей Дзядко, Светлана Бурмистрова",
+        "author_detail": {
+            "name": "Тимофей Дзядко, Светлана Бурмистрова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e7c189a79470cd9d5aaef",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 14:49:41 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            49,
+            41,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "АСВ подало новый иск к экс-владельцу банка «Югра» Хотину и 27 компаниям",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "АСВ подало новый иск к экс-владельцу банка «Югра» Хотину и 27 компаниям"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e91aa9a79471665a36ced"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/756189196502530.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e91aa9a79471665a36ced",
+        "summary": "Арбитражный суд Москвы зарегистрировал иск Агентства по страхованию вкладов (АСВ) к экс-владельцу обанкротившегося банка «Югра» Алексею Хотину и еще 27 компаниям, следует из материалов  на сайте картотеки арбитражных дел.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Арбитражный суд Москвы зарегистрировал иск Агентства по страхованию вкладов (АСВ) к экс-владельцу обанкротившегося банка «Югра» Алексею Хотину и еще 27 компаниям, следует из материалов  на сайте картотеки арбитражных дел."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e91aa9a79471665a36ced",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 14:34:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            34,
+            0,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Столичные власти объяснили отказ в проведении акции 21 апреля",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Столичные власти объяснили отказ в проведении акции 21 апреля"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607eb43d9a794727205c7e35"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/756189193512498.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607eb43d9a794727205c7e35",
+        "summary": "Власти Москвы отказали организаторам в проведении двухчасовой акции на 100 тыс.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Власти Москвы отказали организаторам в проведении двухчасовой акции на 100 тыс."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eb43d9a794727205c7e35",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 14:32:05 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            32,
+            5,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В школе Армавира на учеников второго класса обрушился потолок",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В школе Армавира на учеников второго класса обрушился потолок"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607eacbc9a794723b0ec41f5"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/756189179940346.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/69/756189179907692.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/46/756189179971464.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607eacbc9a794723b0ec41f5",
+        "summary": "В Армавире в здании школы № 2 на парты учеников обрушился потолок, трое школьников получили травмы.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Армавире в здании школы № 2 на парты учеников обрушился потолок, трое школьников получили травмы."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eacbc9a794723b0ec41f5",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 14:21:55 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            21,
+            55,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Лукашенко заявил, что «не парится» о месте переговоров по Донбассу",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Лукашенко заявил, что «не парится» о месте переговоров по Донбассу"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607eb68e9a79472998ea863e"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/56/756189184029561.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/04/12/235071.3___mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/756182350647734.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607eb68e9a79472998ea863e",
+        "summary": "Президент Белоруссии отметил, что перенос переговоров может обернуться затягиванием мирного процесса на Украине",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Президент Белоруссии отметил, что перенос переговоров может обернуться затягиванием мирного процесса на Украине"
+        },
+        "authors": [
+            {
+                "name": "Максим Ярыгин"
+            }
+        ],
+        "author": "Максим Ярыгин",
+        "author_detail": {
+            "name": "Максим Ярыгин"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eb68e9a79472998ea863e",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 14:11:34 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            11,
+            34,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В Африке от полученных в бою ран умер избранный на шестой срок президент",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Африке от полученных в бою ран умер избранный на шестой срок президент"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607eb3b59a79472722af31f0"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/55/756189186734557.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607eb3b59a79472722af31f0",
+        "summary": "Президент Чада Идрис Деби погиб через несколько дней после того, как был избран на шестой срок. Руководство страной принял на себя созданный военными Национальный совет переходного периода",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Президент Чада Идрис Деби погиб через несколько дней после того, как был избран на шестой срок. Руководство страной принял на себя созданный военными Национальный совет переходного периода"
+        },
+        "authors": [
+            {
+                "name": "Евгений Калюков"
+            }
+        ],
+        "author": "Евгений Калюков",
+        "author_detail": {
+            "name": "Евгений Калюков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eb3b59a79472722af31f0",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 14:01:46 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            1,
+            46,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В оперштабе сообщили об отсутствии решения по перелетам в Египет",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В оперштабе сообщили об отсутствии решения по перелетам в Египет"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607eb3c49a79472722af31f2"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/756189174546828.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607eb3c49a79472722af31f2",
+        "summary": "Решение о возобновлении авиасообщения с египетскими курортами пока отсутствует, сообщили в оперативном штабе по недопущению завоза и распространения коронавирусной инфекции на встрече с журналистами, передает «Интерфакс».",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Решение о возобновлении авиасообщения с египетскими курортами пока отсутствует, сообщили в оперативном штабе по недопущению завоза и распространения коронавирусной инфекции на встрече с журналистами, передает «Интерфакс»."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eb3c49a79472722af31f2",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 14:01:02 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            1,
+            2,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Госдума приняла законы о запрете двойного гражданства для госслужащих",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Госдума приняла законы о запрете двойного гражданства для госслужащих"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607eab729a79472394a44dac"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/756189153927728.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607eab729a79472394a44dac",
+        "summary": "Государственная дума России в третьем чтении одобрила законы о запрете на иностранное гражданство и вид на жительство для государственных и муниципальных служащих.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Государственная дума России в третьем чтении одобрила законы о запрете на иностранное гражданство и вид на жительство для государственных и муниципальных служащих."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eab729a79472394a44dac",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:59:12 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            59,
+            12,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Дело о признании ФБК экстремистским отметили грифом «секретно»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Дело о признании ФБК экстремистским отметили грифом «секретно»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607eacc99a7947239bf4c573"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/12/756189164403120.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607eacc99a7947239bf4c573",
+        "summary": "Дело о признании Фонда борьбы с коррупцией (ФБК; признан Минюстом иноагентом), экстремистской организацией маркировано грифом «секретно» и будет рассмотрено в закрытом режиме.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Дело о признании Фонда борьбы с коррупцией (ФБК; признан Минюстом иноагентом), экстремистской организацией маркировано грифом «секретно» и будет рассмотрено в закрытом режиме."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eacc99a7947239bf4c573",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:54:30 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            54,
+            30,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Кремль переадресовал обращение ПАСЕ по Навальному во ФСИН и прокуратуру",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Кремль переадресовал обращение ПАСЕ по Навальному во ФСИН и прокуратуру"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ea6369a7947204d9ec373"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/55/756189159418552.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ea6369a7947204d9ec373",
+        "summary": "Все вопросы представителей Парламентской ассамблеи Совета Европы (ПАСЕ) по российскому оппозиционеру Алексею Навальному следует направить во ФСИН и прокуратуру.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Все вопросы представителей Парламентской ассамблеи Совета Европы (ПАСЕ) по российскому оппозиционеру Алексею Навальному следует направить во ФСИН и прокуратуру."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ea6369a7947204d9ec373",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:50:27 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            50,
+            27,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Суд постановил распределить активы Босова между его наследниками",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Суд постановил распределить активы Босова между его наследниками"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/business/20/04/2021/607e96639a7947185cafffd4"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/75/756189165923750.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2020/05/06/779771.4___mp4/576p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/88/755887797601886.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/business/20/04/2021/607e96639a7947185cafffd4",
+        "summary": "Родители и сыновья Дмитрия Босова добились через суд, чтобы нотариус распределила имущество бизнесмена, включая угольную компанию «Сибантрацит», между восемью его наследниками. На покупку «Сибантрацита» претендует Альберт Авдолян",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Родители и сыновья Дмитрия Босова добились через суд, чтобы нотариус распределила имущество бизнесмена, включая угольную компанию «Сибантрацит», между восемью его наследниками. На покупку «Сибантрацита» претендует Альберт Авдолян"
+        },
+        "authors": [
+            {
+                "name": "Тимофей Дзядко, Евгения Лебедева"
+            }
+        ],
+        "author": "Тимофей Дзядко, Евгения Лебедева",
+        "author_detail": {
+            "name": "Тимофей Дзядко, Евгения Лебедева"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e96639a7947185cafffd4",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:47:33 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            47,
+            33,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В Москве по обвинению в педофилии арестовали преподавателя ВШЭ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Москве по обвинению в педофилии арестовали преподавателя ВШЭ"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e9c969a79471b1530f313"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/29/756189115031291.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e9c969a79471b1530f313",
+        "summary": "Чертановский районный суд Москвы заключил под стражу Ракова А.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Чертановский районный суд Москвы заключил под стражу Ракова А."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e9c969a79471b1530f313",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:36:46 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            36,
+            46,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Россия ввела ограничения на полеты над Крымом и прилегающей акваторией",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Россия ввела ограничения на полеты над Крымом и прилегающей акваторией"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607ea9ca9a79472271ed7336"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/26/756189156693269.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607ea9ca9a79472271ed7336",
+        "summary": "Район является временно опасным для полетов воздушных судов. Ранее Минобороны России уже приняло решение приостановить проход иностранных военных кораблей и других государственных судов в трех районах Черного моря",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Район является временно опасным для полетов воздушных судов. Ранее Минобороны России уже приняло решение приостановить проход иностранных военных кораблей и других государственных судов в трех районах Черного моря"
+        },
+        "authors": [
+            {
+                "name": "Георгий Тадтаев"
+            }
+        ],
+        "author": "Георгий Тадтаев",
+        "author_detail": {
+            "name": "Георгий Тадтаев"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ea9ca9a79472271ed7336",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:27:13 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            27,
+            13,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "МВД предупредило об ответственности за участие в несогласованных акциях",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "МВД предупредило об ответственности за участие в несогласованных акциях"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e9f4a9a79471c854897ca"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/67/756189138946678.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e9f4a9a79471c854897ca",
+        "summary": "Главное управление МВД по Москве призвало граждан не приходить на несанкционированные протестные акции в центре столицы и предупредило об ответственности за участие в них.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Главное управление МВД по Москве призвало граждан не приходить на несанкционированные протестные акции в центре столицы и предупредило об ответственности за участие в них."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e9f4a9a79471c854897ca",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:26:04 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            26,
+            4,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Посол оценил сроки возобновления Италией приема туристов из России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Посол оценил сроки возобновления Италией приема туристов из России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e9afe9a79471aad437e20"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/41/756189151374411.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e9afe9a79471aad437e20",
+        "summary": "Италия летом 2021 года намерена возобновить прием российских туристов, приостановленный в 2020 году из-за пандемии коронавируса.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Италия летом 2021 года намерена возобновить прием российских туристов, приостановленный в 2020 году из-за пандемии коронавируса."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e9afe9a79471aad437e20",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:24:20 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            24,
+            20,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Россия выслала двух болгарских дипломатов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Россия выслала двух болгарских дипломатов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607eaa789a794722dd2f46fb"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/756189162414077.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607eaa789a794722dd2f46fb",
+        "summary": "В марте Болгария выслала двух российских дипломатов на фоне шпионского скандала, в ходе которого София заявила о действовавших в стране агентах российской разведки. Теперь МИД России принял ответные меры",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В марте Болгария выслала двух российских дипломатов на фоне шпионского скандала, в ходе которого София заявила о действовавших в стране агентах российской разведки. Теперь МИД России принял ответные меры"
+        },
+        "authors": [
+            {
+                "name": "Мария Лисицына"
+            }
+        ],
+        "author": "Мария Лисицына",
+        "author_detail": {
+            "name": "Мария Лисицына"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607eaa789a794722dd2f46fb",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:18:41 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            18,
+            41,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Проект об ограничении доли иностранцев в ivi и Okko отзовут для доработки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Проект об ограничении доли иностранцев в ivi и Okko отзовут для доработки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e97b39a7947192a206b6d"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/756189144136875.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e97b39a7947192a206b6d",
+        "summary": "Законопроект, запрещающий иностранцам владеть больше 20% в онлайн-видеосервисах, будет отозван и внесен в уже новой редакции.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Законопроект, запрещающий иностранцам владеть больше 20% в онлайн-видеосервисах, будет отозван и внесен в уже новой редакции."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e97b39a7947192a206b6d",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:13:27 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            13,
+            27,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Меркель сравнила газ из «Северного потока-2» с остальным российским газом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Меркель сравнила газ из «Северного потока-2» с остальным российским газом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607ea58f9a79471fbf3ae67a"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/53/756189141755538.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607ea58f9a79471fbf3ae67a",
+        "summary": "Канцлер Германии подчеркнула, что газ, который будет поступать по новому газопроводу, окажется не хуже, чем остальной российский газ, поступающий в Европу другими путями",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Канцлер Германии подчеркнула, что газ, который будет поступать по новому газопроводу, окажется не хуже, чем остальной российский газ, поступающий в Европу другими путями"
+        },
+        "authors": [
+            {
+                "name": "Мария Лисицына"
+            }
+        ],
+        "author": "Мария Лисицына",
+        "author_detail": {
+            "name": "Мария Лисицына"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ea58f9a79471fbf3ae67a",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:03:30 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            3,
+            30,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "НАК назвал число предотвращенных в 2020 году терактов в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "НАК назвал число предотвращенных в 2020 году терактов в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e92ef9a79471743450daa"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/71/756189104875716.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e92ef9a79471743450daa",
+        "summary": "В России в 2020 году предотвратили 44 теракта. Об этом сообщил первый заместитель руководителя аппарата Национального антитеррористического комитета (НАК) Игорь Кулягин, передает ТАСС.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В России в 2020 году предотвратили 44 теракта. Об этом сообщил первый заместитель руководителя аппарата Национального антитеррористического комитета (НАК) Игорь Кулягин, передает ТАСС."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e92ef9a79471743450daa",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:01:06 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            1,
+            6,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В Кремле оценили шансы на возвращение посла США в Россию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Кремле оценили шансы на возвращение посла США в Россию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/20/04/2021/607ea35a9a79471f7db7d320"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/35/756189129571353.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/04/20/909880.7___mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/756189098718579.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/20/04/2021/607ea35a9a79471f7db7d320",
+        "summary": "По словам пресс-секретаря президента России Дмитрия Пескова, возвращение послов России и США в Вашингтон и Москву может стать целесообразным после консультаций",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "По словам пресс-секретаря президента России Дмитрия Пескова, возвращение послов России и США в Вашингтон и Москву может стать целесообразным после консультаций"
+        },
+        "authors": [
+            {
+                "name": "Полина Химшиашвили, Евгений Калюков"
+            }
+        ],
+        "author": "Полина Химшиашвили, Евгений Калюков",
+        "author_detail": {
+            "name": "Полина Химшиашвили, Евгений Калюков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ea35a9a79471f7db7d320",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 13:00:12 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            10,
+            0,
+            12,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В Кремле объяснили участие Путина в созываемом США саммите по климату",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Кремле объяснили участие Путина в созываемом США саммите по климату"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607ea2ac9a79471e74bc559e"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/98/756189134376983.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607ea2ac9a79471e74bc559e",
+        "summary": "Президент России Владимир Путин принял решение участвовать в саммите по климату 22 апреля, исходя из приоритетов для страны.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Президент России Владимир Путин принял решение участвовать в саммите по климату 22 апреля, исходя из приоритетов для страны."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ea2ac9a79471e74bc559e",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 12:59:14 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            9,
+            59,
+            14,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "МИД сообщил об открытии чартеров в Египет в «ближайшее время»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "МИД сообщил об открытии чартеров в Египет в «ближайшее время»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/04/2021/607ea3c49a79471f90d86592"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/25/756189127517252.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/04/20/914631.9___mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/99/756189146247998.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/04/2021/607ea3c49a79471f90d86592",
+        "summary": "Полеты на курорты Египта, прерванные в 2015 году, могут возобновиться в ближайшее время, принципиальная договоренность об этом уже достигнута",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Полеты на курорты Египта, прерванные в 2015 году, могут возобновиться в ближайшее время, принципиальная договоренность об этом уже достигнута"
+        },
+        "authors": [
+            {
+                "name": "Георгий Тадтаев"
+            }
+        ],
+        "author": "Георгий Тадтаев",
+        "author_detail": {
+            "name": "Георгий Тадтаев"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607ea3c49a79471f90d86592",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 12:50:33 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            9,
+            50,
+            33,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Власти назвали сроки прокладки подводного кабеля вокруг России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Власти назвали сроки прокладки подводного кабеля вокруг России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e99609a79471a137e6026"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/81/756189125098813.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e99609a79471a137e6026",
+        "summary": "В конце мая — начале июня начнется прокладка глубоководного морского кабеля связи в Арктике в рамках проекта «Полярный экспресс», сообщил замминистра транспорта Александр Пошивай на пресс-конференции, передает корреспондент РБК.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В конце мая — начале июня начнется прокладка глубоководного морского кабеля связи в Арктике в рамках проекта «Полярный экспресс», сообщил замминистра транспорта Александр Пошивай на пресс-конференции, передает корреспондент РБК."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e99609a79471a137e6026",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 12:34:07 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            9,
+            34,
+            7,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "ГИБДД объяснила сложность изменения ПДД",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "ГИБДД объяснила сложность изменения ПДД"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/04/2021/607e94329a79471737036763"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/39/756189110317395.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/04/2021/607e94329a79471737036763",
+        "summary": "Изменения правил дорожного движения попадает под механизм регуляторной гильотины, поэтому внесение правок возможно только через переутверждение всего документа, пояснили в инспекции",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Изменения правил дорожного движения попадает под механизм регуляторной гильотины, поэтому внесение правок возможно только через переутверждение всего документа, пояснили в инспекции"
+        },
+        "authors": [
+            {
+                "name": "Мария Лисицына"
+            }
+        ],
+        "author": "Мария Лисицына",
+        "author_detail": {
+            "name": "Мария Лисицына"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e94329a79471737036763",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 12:24:40 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            9,
+            24,
+            40,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "«Роскосмос» начал разработку модуля российской орбитальной станции. Видео",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "«Роскосмос» начал разработку модуля российской орбитальной станции. Видео"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e8ac49a79471303440dba"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/04/20/________________mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/756189049444027.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e8ac49a79471303440dba",
+        "summary": "«Роскосмос» разрабатывает первый базовый модуль для российской орбитальной станции. На табличке, которая попала на видео, указано, что это герметичный отсек научно-энергетического модуля (НЭМ), также на ней видно слово «макет»",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "«Роскосмос» разрабатывает первый базовый модуль для российской орбитальной станции. На табличке, которая попала на видео, указано, что это герметичный отсек научно-энергетического модуля (НЭМ), также на ней видно слово «макет»"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e8ac49a79471303440dba",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 12:10:31 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            9,
+            10,
+            31,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Эксперты предупредили о кибератаке на пользователей Facebook Messenger",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Эксперты предупредили о кибератаке на пользователей Facebook Messenger"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/technology_and_media/20/04/2021/607e80fe9a79470e582fba6d"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/55/756189097993550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/technology_and_media/20/04/2021/607e80fe9a79470e582fba6d",
+        "summary": "Злоумышленники распространяют замаскированные под официальные посты Facebook предложения установить «последнее обновление» мессенджера. Жертвы рискуют потерять доступ к аккаунту и «слить» свои персональные данные",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Злоумышленники распространяют замаскированные под официальные посты Facebook предложения установить «последнее обновление» мессенджера. Жертвы рискуют потерять доступ к аккаунту и «слить» свои персональные данные"
+        },
+        "authors": [
+            {
+                "name": "Мария Бондаренко, Владислав Скобелев"
+            }
+        ],
+        "author": "Мария Бондаренко, Владислав Скобелев",
+        "author_detail": {
+            "name": "Мария Бондаренко, Владислав Скобелев"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e80fe9a79470e582fba6d",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 12:00:39 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            9,
+            0,
+            39,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В «Московском комсомольце» объяснили иск Роскомнадзора к изданию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В «Московском комсомольце» объяснили иск Роскомнадзора к изданию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e91db9a794716893e1a22"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/21/756189094300212.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e91db9a794716893e1a22",
+        "summary": "Иск Роскомнадзора к «Московскому комсомольцу» связан с признанием недействительным свидетельства о регистрации «МК-Красноярск».",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Иск Роскомнадзора к «Московскому комсомольцу» связан с признанием недействительным свидетельства о регистрации «МК-Красноярск»."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e91db9a794716893e1a22",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 11:53:27 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            8,
+            53,
+            27,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В Фонде Андрея Первозванного назвали дату доставки Благодатного огня",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Фонде Андрея Первозванного назвали дату доставки Благодатного огня"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/607e8d809a79471346c4ac2d"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/756189089473332.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/607e8d809a79471346c4ac2d",
+        "summary": "Благодатный огонь из Иерусалима будет доставлен в Москву в храм Христа Спасителя к Патриаршему Пасхальному ночному богослужению 1 мая.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Благодатный огонь из Иерусалима будет доставлен в Москву в храм Христа Спасителя к Патриаршему Пасхальному ночному богослужению 1 мая."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e8d809a79471346c4ac2d",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 11:44:10 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            8,
+            44,
+            10,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Число заражений COVID-19 в России упало до минимума с конца сентября",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Число заражений COVID-19 в России упало до минимума с конца сентября"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/04/2021/607e8fb59a7947150b9679d1"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/57/756189078697573.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/04/20/20_apr_2_mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/71/756189164514714.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/04/2021/607e8fb59a7947150b9679d1",
+        "summary": "За сутки в России выявили 8164 случая заражения COVID-19, что стало минимальным показателем с 28 сентября 2020 года",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "За сутки в России выявили 8164 случая заражения COVID-19, что стало минимальным показателем с 28 сентября 2020 года"
+        },
+        "authors": [
+            {
+                "name": "Евгений Калюков"
+            }
+        ],
+        "author": "Евгений Калюков",
+        "author_detail": {
+            "name": "Евгений Калюков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e8fb59a7947150b9679d1",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 11:32:51 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            8,
+            32,
+            51,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 20 апреля",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 20 апреля"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/04/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/04/2021/5e2fe9459a79479d102bada6",
+        "summary": "Новые штаммы коронавируса в России, из Турции и Тназании вывезли более 40 тыс. россиян, «Спутник V» одобрят в Европе не раньше конца 2021 года. Основные события — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Новые штаммы коронавируса в России, из Турции и Тназании вывезли более 40 тыс. россиян, «Спутник V» одобрят в Европе не раньше конца 2021 года. Основные события — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 11:22:42 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            8,
+            22,
+            42,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "«Роскосмос» начал строительство российской орбитальной станции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "«Роскосмос» начал строительство российской орбитальной станции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/technology_and_media/20/04/2021/607e83219a79470f2ef1084d"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/04/20/________________mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/756189049444027.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/technology_and_media/20/04/2021/607e83219a79470f2ef1084d",
+        "summary": "Глава госкорпорации Дмитрий Рогозин сообщил, что в работе находится первый базовый модуль для новой орбитальной станции. Он должен быть готов к запуску на орбиту к 2025 году",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Глава госкорпорации Дмитрий Рогозин сообщил, что в работе находится первый базовый модуль для новой орбитальной станции. Он должен быть готов к запуску на орбиту к 2025 году"
+        },
+        "authors": [
+            {
+                "name": "Анастасия Батманова, Мария Лисицына"
+            }
+        ],
+        "author": "Анастасия Батманова, Мария Лисицына",
+        "author_detail": {
+            "name": "Анастасия Батманова, Мария Лисицына"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e83219a79470f2ef1084d",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 10:36:56 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            7,
+            36,
+            56,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Находившаяся на грани банкротства группа FESCO снизила долг на 30%",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Находившаяся на грани банкротства группа FESCO снизила долг на 30%"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/business/20/04/2021/607de5059a7947e81c8693d4"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/756189047576910.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/business/20/04/2021/607de5059a7947e81c8693d4",
+        "summary": "Группа FESCO, которая в 2020 году оказалась на грани банкротства из-за долговых обязательств, с конца 2019 года снизила долг на 30%, до $376 млн. Ее крупнейший кредитор ВТБ согласился перевести большую часть долга в рубли",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Группа FESCO, которая в 2020 году оказалась на грани банкротства из-за долговых обязательств, с конца 2019 года снизила долг на 30%, до $376 млн. Ее крупнейший кредитор ВТБ согласился перевести большую часть долга в рубли"
+        },
+        "authors": [
+            {
+                "name": "Тимофей Дзядко"
+            }
+        ],
+        "author": "Тимофей Дзядко",
+        "author_detail": {
+            "name": "Тимофей Дзядко"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607de5059a7947e81c8693d4",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 10:33:05 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            7,
+            33,
+            5,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "Аналитики нашли данные сотен российских компаний в открытом доступе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Аналитики нашли данные сотен российских компаний в открытом доступе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/business/20/04/2021/607e79239a79470bc247a524"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/756189038370416.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/business/20/04/2021/607e79239a79470bc247a524",
+        "summary": "В Сеть утекли данные компаний, которые используют облачную программу для управления проектами Trello, выявили аналитики. По их данным, в открытом доступе оказался почти миллион досок сервиса",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Сеть утекли данные компаний, которые используют облачную программу для управления проектами Trello, выявили аналитики. По их данным, в открытом доступе оказался почти миллион досок сервиса"
+        },
+        "authors": [
+            {
+                "name": "Анастасия Батманова"
+            }
+        ],
+        "author": "Анастасия Батманова",
+        "author_detail": {
+            "name": "Анастасия Батманова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e79239a79470bc247a524",
+        "guidislink": false,
+        "published": "Tue, 20 Apr 2021 10:23:27 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            7,
+            23,
+            27,
+            1,
+            110,
+            0
+        ]
+    },
+    {
         "title": "Российский бизнес установил 10-летний рекорд по размещениям в I квартале",
         "title_detail": {
             "type": "text/plain",
@@ -47,229 +2769,6 @@
             7,
             0,
             35,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Трамп оценил свои взаимоотношения с Путиным",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Трамп оценил свои взаимоотношения с Путиным"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e73eb9a79470a3453bc09"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/21/756189017551211.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e73eb9a79470a3453bc09",
-        "summary": "Экс-президент США Дональд Трамп полагает, что он нравился российскому лидеру Владимиру Путину, и это было взаимно.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Экс-президент США Дональд Трамп полагает, что он нравился российскому лидеру Владимиру Путину, и это было взаимно."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e73eb9a79470a3453bc09",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:59:35 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            6,
-            59,
-            35,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Трамп заявил о серьезном отношении к идее участия в президентских выборах",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Трамп заявил о серьезном отношении к идее участия в президентских выборах"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e6e289a794707ef29d525"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/25/756188994270251.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e6e289a794707ef29d525",
-        "summary": "Бывший президент США Дональд Трамп не исключает возможность баллотироваться на новый президентский срок в 2024 году.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Бывший президент США Дональд Трамп не исключает возможность баллотироваться на новый президентский срок в 2024 году."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e6e289a794707ef29d525",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:53:38 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            6,
-            53,
-            38,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Пандемия коронавируса. Самое актуальное на 20 апреля",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Пандемия коронавируса. Самое актуальное на 20 апреля"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/society/20/04/2021/5e2fe9459a79479d102bada6"
-            }
-        ],
-        "link": "https://www.rbc.ru/society/20/04/2021/5e2fe9459a79479d102bada6",
-        "summary": "Новые штаммы коронавируса в России, из Турции и Тназании вывезли более 40 тыс. россиян, «Спутник V» одобрят в Европе не раньше конца 2021 года. Основные события — в обзоре РБК",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Новые штаммы коронавируса в России, из Турции и Тназании вывезли более 40 тыс. россиян, «Спутник V» одобрят в Европе не раньше конца 2021 года. Основные события — в обзоре РБК"
-        },
-        "authors": [
-            {
-                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
-            }
-        ],
-        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл",
-        "author_detail": {
-            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:46:24 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            6,
-            46,
-            24,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Москвичи смогут сделать прививку от коронавируса в ЦУМе",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Москвичи смогут сделать прививку от коронавируса в ЦУМе"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e6b359a794707795e3456"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/86/756188980281864.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e6b359a794707795e3456",
-        "summary": "Прививку от коронавируса в Москве можно будет сделать в ЦУМе, также вакцинация начнется еще в двух торговых центрах.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Прививку от коронавируса в Москве можно будет сделать в ЦУМе, также вакцинация начнется еще в двух торговых центрах."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e6b359a794707795e3456",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:18:21 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            6,
-            18,
-            21,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Колумбия выразила протест России в связи с нарушением воздушных границ",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Колумбия выразила протест России в связи с нарушением воздушных границ"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e6a4f9a79470665aebeb7"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/05/756188989777052.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e6a4f9a79470665aebeb7",
-        "summary": "Посол России в Боготе Николай Тавдумадзе получил ноту протеста из-за нарушения воздушного пространства Колумбии российским самолетом.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Посол России в Боготе Николай Тавдумадзе получил ноту протеста из-за нарушения воздушного пространства Колумбии российским самолетом."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e6a4f9a79470665aebeb7",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 09:00:40 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            6,
-            0,
-            40,
             1,
             110,
             0
@@ -329,156 +2828,6 @@
         ]
     },
     {
-        "title": "После взрыва в Нижегородской области задержали сотрудников газовой службы",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "После взрыва в Нижегородской области задержали сотрудников газовой службы"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/society/20/04/2021/607e6be79a7947067d72d9e9"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/50/756188981377501.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/society/20/04/2021/607e6be79a7947067d72d9e9",
-        "summary": "В результате происшествия погиб трехмесячный ребенок, еще пятеро жильцов дома пострадали, сообщили в СК. Задержанные сотрудники в день взрыва выполняли работы по обслуживанию дома",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "В результате происшествия погиб трехмесячный ребенок, еще пятеро жильцов дома пострадали, сообщили в СК. Задержанные сотрудники в день взрыва выполняли работы по обслуживанию дома"
-        },
-        "authors": [
-            {
-                "name": "Анастасия Батманова"
-            }
-        ],
-        "author": "Анастасия Батманова",
-        "author_detail": {
-            "name": "Анастасия Батманова"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e6be79a7947067d72d9e9",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 08:55:06 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            5,
-            55,
-            6,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Посол США уедет в Вашингтон, QIWI опасается санкций. Главное за ночь",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Посол США уедет в Вашингтон, QIWI опасается санкций. Главное за ночь"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/ins/society/20/04/2021/607e55f99a7947ff4599e534"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/50/756188971624508.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/ins/society/20/04/2021/607e55f99a7947ff4599e534",
-        "summary": "Посол США в России на время уедет в Вашингтон, МИД ответил на претензию по поводу земли посольства России в Праге, QIWI предупреждает инвесторов о риске санкций со стороны ЦБ, как каршеринги пережили пандемию — в обзоре РБК",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Посол США в России на время уедет в Вашингтон, МИД ответил на претензию по поводу земли посольства России в Праге, QIWI предупреждает инвесторов о риске санкций со стороны ЦБ, как каршеринги пережили пандемию — в обзоре РБК"
-        },
-        "authors": [
-            {
-                "name": "Наталья Демченко"
-            }
-        ],
-        "author": "Наталья Демченко",
-        "author_detail": {
-            "name": "Наталья Демченко"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e55f99a7947ff4599e534",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 08:49:12 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            5,
-            49,
-            12,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Присяжные не смогли вынести вердикт по делу об убийстве Флойда",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Присяжные не смогли вынести вердикт по делу об убийстве Флойда"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e65c49a79470498227a22"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/49/756188977946495.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e65c49a79470498227a22",
-        "summary": "Коллегия присяжных заседателей в Миннеаполисе (штат Миннесота) не смогла вынести вердикт на судебном разбирательстве по делу экс-полицейского Дерека Шовина, обвиняемого в убийстве афроамериканца Джорджа Флойда.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Коллегия присяжных заседателей в Миннеаполисе (штат Миннесота) не смогла вынести вердикт на судебном разбирательстве по делу экс-полицейского Дерека Шовина, обвиняемого в убийстве афроамериканца Джорджа Флойда."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e65c49a79470498227a22",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 08:45:28 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            5,
-            45,
-            28,
-            1,
-            110,
-            0
-        ]
-    },
-    {
         "title": "Серийное производство Aurus начнется в мае на заводе в Татарстане",
         "title_detail": {
             "type": "text/plain",
@@ -517,50 +2866,6 @@
             5,
             38,
             39,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Аналитики подсчитали, в каких городах можно быстрее накопить на квартиру",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Аналитики подсчитали, в каких городах можно быстрее накопить на квартиру"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607dd9389a7947e465d1283e"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/756188624647712.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607dd9389a7947e465d1283e",
-        "summary": "Среди работающих россиян теоретически быстрее всего накопить на квартиру или первоначальный взнос по ипотеке могут жители Челябинска, Оренбурга и Саратова.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Среди работающих россиян теоретически быстрее всего накопить на квартиру или первоначальный взнос по ипотеке могут жители Челябинска, Оренбурга и Саратова."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607dd9389a7947e465d1283e",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 08:30:18 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            5,
-            30,
-            18,
             1,
             110,
             0
@@ -813,156 +3118,6 @@
         ]
     },
     {
-        "title": "Умер бывший вице-президент США Уолтер Мондейл",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Умер бывший вице-президент США Уолтер Мондейл"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e541a9a7947ff01f0a1c8"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/87/756188947929871.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e541a9a7947ff01f0a1c8",
-        "summary": "Умер бывший вице-президент США Уолтер Мондейл, сообщает газета The New York Times со ссылкой на представителя семьи Кэти Танхейм.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Умер бывший вице-президент США Уолтер Мондейл, сообщает газета The New York Times со ссылкой на представителя семьи Кэти Танхейм."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e541a9a7947ff01f0a1c8",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 07:42:11 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            4,
-            42,
-            11,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "МИД ответил на идею экс-президента Эстонии запретить россиянам въезд в ЕС",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "МИД ответил на идею экс-президента Эстонии запретить россиянам въезд в ЕС"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/politics/20/04/2021/607e563a9a7947fff653ccea"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/73/756188974358730.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/politics/20/04/2021/607e563a9a7947fff653ccea",
-        "summary": "Экс-президенту Эстонии следовало бы обсудить с властями Турции и Греции вопрос важности туризма и, в частности, российских туристов, считают в МИДе",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Экс-президенту Эстонии следовало бы обсудить с властями Турции и Греции вопрос важности туризма и, в частности, российских туристов, считают в МИДе"
-        },
-        "authors": [
-            {
-                "name": "Анастасия Батманова"
-            }
-        ],
-        "author": "Анастасия Батманова",
-        "author_detail": {
-            "name": "Анастасия Батманова"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e563a9a7947fff653ccea",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 07:23:48 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            4,
-            23,
-            48,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Посол США уедет из России на несколько недель",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Посол США уедет из России на несколько недель"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/politics/20/04/2021/607e52189a7947fe05918866"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/25/756188951359257.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/politics/20/04/2021/607e52189a7947fe05918866",
-        "summary": "Посол Джон Салливан отправится в Вашингтон для встречи с семьей и членами новой президентской администрации, но вернется в Москву «в ближайшие недели», пишет Axios",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Посол Джон Салливан отправится в Вашингтон для встречи с семьей и членами новой президентской администрации, но вернется в Москву «в ближайшие недели», пишет Axios"
-        },
-        "authors": [
-            {
-                "name": "Михаил Юшков, Анастасия Батманова"
-            }
-        ],
-        "author": "Михаил Юшков, Анастасия Батманова",
-        "author_detail": {
-            "name": "Михаил Юшков, Анастасия Батманова"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e52189a7947fe05918866",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 07:05:41 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            4,
-            5,
-            41,
-            1,
-            110,
-            0
-        ]
-    },
-    {
         "title": "Каршеринги увеличили выручку и убытки в 2020 году",
         "title_detail": {
             "type": "text/plain",
@@ -1009,147 +3164,6 @@
             20,
             4,
             0,
-            9,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Тиньков рассказал о попытках отказаться от лечения лейкемии",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Тиньков рассказал о попытках отказаться от лечения лейкемии"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/society/20/04/2021/607e4e6f9a79470002b369c4"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/42/756188970191424.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/society/20/04/2021/607e4e6f9a79470002b369c4",
-        "summary": "По словам Тинькова, он не хотел начинать курс химиотерапии. Поменять решение его заставила супруга, уточнил бизнесмен",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "По словам Тинькова, он не хотел начинать курс химиотерапии. Поменять решение его заставила супруга, уточнил бизнесмен"
-        },
-        "authors": [
-            {
-                "name": "Михаил Юшков, Анастасия Батманова"
-            }
-        ],
-        "author": "Михаил Юшков, Анастасия Батманова",
-        "author_detail": {
-            "name": "Михаил Юшков, Анастасия Батманова"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e4e6f9a79470002b369c4",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 06:58:07 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            3,
-            58,
-            7,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Трамп призвал ладить с Россией и не толкать ее к Китаю",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Трамп призвал ладить с Россией и не толкать ее к Китаю"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e4ad09a7947fd050439f7"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/756188953613265.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e4ad09a7947fd050439f7",
-        "summary": "США нужно наладить отношения с Россией и Китаем, а не подталкивать их друг к другу, заявил бывший американский президент Дональд Трамп в интервью телеканалу Fox News.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "США нужно наладить отношения с Россией и Китаем, а не подталкивать их друг к другу, заявил бывший американский президент Дональд Трамп в интервью телеканалу Fox News."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e4ad09a7947fd050439f7",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 06:55:36 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            3,
-            55,
-            36,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Власти решили через суд добиться восстановления «Невской мануфактуры»",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Власти решили через суд добиться восстановления «Невской мануфактуры»"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e3e049a7947fa8f29b90a"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/756188955762475.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e3e049a7947fa8f29b90a",
-        "summary": "Комитет по государственному контролю, использованию и охране памятников истории и культуры Санкт-Петербурга обратился в Арбитражный суд с просьбой обязать АО «Невская мануфактура», на территории которого произошел сильный пожар, отреставрировать сгоревшую фабрику, сообщается на сайте комитета.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Комитет по государственному контролю, использованию и охране памятников истории и культуры Санкт-Петербурга обратился в Арбитражный суд с просьбой обязать АО «Невская мануфактура», на территории которого произошел сильный пожар, отреставрировать сгоревшую фабрику, сообщается на сайте комитета."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e3e049a7947fa8f29b90a",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 06:06:09 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            3,
-            6,
             9,
             1,
             110,
@@ -1204,297 +3218,6 @@
             3,
             0,
             49,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Россияне назвали главными страхами протесты и «нашествие волков»",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Россияне назвали главными страхами протесты и «нашествие волков»"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/society/20/04/2021/607e3c859a7947fad1abcc97"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/4/11/756188951477114.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/society/20/04/2021/607e3c859a7947fad1abcc97",
-        "summary": "Среди других страхов жители России назвали ухудшение эпидемиологической обстановки из-за COVID-19, рост цен на продукты, а также обострение российско-американских отношений и вооруженного конфликта в Донбассе",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Среди других страхов жители России назвали ухудшение эпидемиологической обстановки из-за COVID-19, рост цен на продукты, а также обострение российско-американских отношений и вооруженного конфликта в Донбассе"
-        },
-        "authors": [
-            {
-                "name": "Михаил Юшков"
-            }
-        ],
-        "author": "Михаил Юшков",
-        "author_detail": {
-            "name": "Михаил Юшков"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e3c859a7947fad1abcc97",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 05:50:37 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            2,
-            50,
-            37,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Тиньков сравнил стоимость лечения лейкемии в Германии и Великобритании",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Тиньков сравнил стоимость лечения лейкемии в Германии и Великобритании"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e330a9a7947f8d631ab14"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/2/20/756188960927202.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e330a9a7947f8d631ab14",
-        "summary": "Предприниматель Олег Тиньков, основатель Тинькофф Банка, рассказал, что лечение лейкемии в Германии обошлось ему в 120 тыс.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Предприниматель Олег Тиньков, основатель Тинькофф Банка, рассказал, что лечение лейкемии в Германии обошлось ему в 120 тыс."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e330a9a7947f8d631ab14",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 05:19:56 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            2,
-            19,
-            56,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "СМИ узнали об отказе посла США уехать из России по совету Кремля",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "СМИ узнали об отказе посла США уехать из России по совету Кремля"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/politics/20/04/2021/607e2f059a7947f7ae94ee81"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/93/756188895417935.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/politics/20/04/2021/607e2f059a7947f7ae94ee81",
-        "summary": "Дипломат считает, что если Путин хочет, чтобы он уехал, ему «придется его заставить», пишет Axios. Кремль посоветовал Джону Салливану уехать в Вашингтон после того, как США ввели новые санкции против России",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Дипломат считает, что если Путин хочет, чтобы он уехал, ему «придется его заставить», пишет Axios. Кремль посоветовал Джону Салливану уехать в Вашингтон после того, как США ввели новые санкции против России"
-        },
-        "authors": [
-            {
-                "name": "Михаил Юшков"
-            }
-        ],
-        "author": "Михаил Юшков",
-        "author_detail": {
-            "name": "Михаил Юшков"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e2f059a7947f7ae94ee81",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 04:43:18 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            1,
-            43,
-            18,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "ХДС поддержал своего лидера Лашета в качестве кандидата на пост канцлера",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "ХДС поддержал своего лидера Лашета в качестве кандидата на пост канцлера"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e2be39a7947f8cf53a278"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/23/756188963201233.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e2be39a7947f8cf53a278",
-        "summary": "Члены федерального правления Христианско-демократического союза (ХДС) Германии снова поддержали лидера партии Армина Лашета в качестве кандидата в канцлеры ФРГ большинством голосов, сообщается в Twitter партии.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Члены федерального правления Христианско-демократического союза (ХДС) Германии снова поддержали лидера партии Армина Лашета в качестве кандидата в канцлеры ФРГ большинством голосов, сообщается в Twitter партии."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e2be39a7947f8cf53a278",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 04:43:15 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            1,
-            43,
-            15,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Пентагон объяснил учениями переброску истребителей США в Польшу",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Пентагон объяснил учениями переброску истребителей США в Польшу"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/rbcfreenews/607e21bb9a7947f459c3bac9"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/36/756188966292367.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/rbcfreenews/607e21bb9a7947f459c3bac9",
-        "summary": "Переброска американских истребителей в Польшу связана с учениями, заявил пресс-секретарь Пентагона Джон Кирби в ходе брифинга, его слова приводятся на сайте Министерства обороны США.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Переброска американских истребителей в Польшу связана с учениями, заявил пресс-секретарь Пентагона Джон Кирби в ходе брифинга, его слова приводятся на сайте Министерства обороны США."
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e21bb9a7947f459c3bac9",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 03:51:33 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            0,
-            51,
-            33,
-            1,
-            110,
-            0
-        ]
-    },
-    {
-        "title": "Госдеп назвал запрет России на проход судов в Черном море эскалацией",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Госдеп назвал запрет России на проход судов в Черном море эскалацией"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.rbc.ru/politics/20/04/2021/607e24359a7947f8942496a8"
-            },
-            {
-                "type": "image/jpeg",
-                "length": "",
-                "href": "https://s0.rbk.ru/v6_top_pics/media/img/9/65/756188933697659.jpg",
-                "rel": "enclosure"
-            }
-        ],
-        "link": "https://www.rbc.ru/politics/20/04/2021/607e24359a7947f8942496a8",
-        "summary": "Минобороны России решило запретить проход иностранных военных кораблей и других судов в трех районах Черного моря на полгода. В Вашингтоне назвали эти действия эскалацией против Украины",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
-            "value": "Минобороны России решило запретить проход иностранных военных кораблей и других судов в трех районах Черного моря на полгода. В Вашингтоне назвали эти действия эскалацией против Украины"
-        },
-        "authors": [
-            {
-                "name": "Михаил Юшков"
-            }
-        ],
-        "author": "Михаил Юшков",
-        "author_detail": {
-            "name": "Михаил Юшков"
-        },
-        "id": "http://static.feed.rbc.ru/rbc/logical/footer/607e24359a7947f8942496a8",
-        "guidislink": false,
-        "published": "Tue, 20 Apr 2021 03:26:25 +0300",
-        "published_parsed": [
-            2021,
-            4,
-            20,
-            0,
-            26,
-            25,
             1,
             110,
             0

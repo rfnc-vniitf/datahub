@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Путин сообщил результаты своего теста на антитела к коронавирусу",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Путин сообщил результаты своего теста на антитела к коронавирусу"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/10/05/2021/6099251a9a7947d010d35938"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/99/756206502819997.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/10/05/2021/6099251a9a7947d010d35938",
+        "summary": "Титр антител у президента составил 15, этого достаточно для формирования иммунитета, считают врачи",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Титр антител у президента составил 15, этого достаточно для формирования иммунитета, считают врачи"
+        },
+        "authors": [
+            {
+                "name": "Георгий Тадтаев"
+            }
+        ],
+        "author": "Георгий Тадтаев",
+        "author_detail": {
+            "name": "Георгий Тадтаев"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6099251a9a7947d010d35938",
+        "guidislink": false,
+        "published": "Mon, 10 May 2021 15:23:16 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            10,
+            12,
+            23,
+            16,
+            0,
+            130,
+            0
+        ]
+    },
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 10 мая",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 10 мая"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/10/05/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/10/05/2021/5e2fe9459a79479d102bada6",
+        "summary": "России передали «индийский штамм» коронавируса, вспышка «черного грибка» в Индии, что происходит со сделкой о продаже «Спутника V» в Германию. Главные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "России передали «индийский штамм» коронавируса, вспышка «черного грибка» в Индии, что происходит со сделкой о продаже «Спутника V» в Германию. Главные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Mon, 10 May 2021 11:07:05 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            10,
+            8,
+            7,
+            5,
+            0,
+            130,
+            0
+        ]
+    }
+]

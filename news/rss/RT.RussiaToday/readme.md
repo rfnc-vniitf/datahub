@@ -125,7 +125,30 @@
 17.04.2021 | 50 | 5 
 18.04.2021 | 50 | 2 
 19.04.2021 | 50 | 1 
-20.04.2021 | 1 | 0 
+20.04.2021 | 50 | 1 
+21.04.2021 | 50 | 1 
+22.04.2021 | 50 | 4 
+23.04.2021 | 50 | 2 
+26.04.2021 | 50 | 2 
+27.04.2021 | 50 | 3 
+28.04.2021 | 50 | 3 
+29.04.2021 | 50 | 4 
+30.04.2021 | 50 | 2 
+01.05.2021 | 50 | 4 
+02.05.2021 | 50 | 2 
+03.05.2021 | 50 | 4 
+04.05.2021 | 50 | 5 
+05.05.2021 | 50 | 2 
+06.05.2021 | 50 | 4 
+07.05.2021 | 50 | 3 
+08.05.2021 | 50 | 3 
+09.05.2021 | 50 | 1 
+10.05.2021 | 50 | 7 
+11.05.2021 | 1 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Власти Москвы оценили влияние пандемии на рынок труда](https://russian.rt.com/russia/news/854435-moskva-rabota-pandemiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [«Прививки получили 21,5 млн граждан»: Путин рассказал о ситуации с коронавирусом в России](https://russian.rt.com/russia/article/860564-koronavirus-rossiya-mir-vakcina?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Великобритании снизили уровень коронавирусной угрозы](https://russian.rt.com/world/news/860626-velikobritaniya-ugroza-covid?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Китае сделали уже более 320 млн прививок от коронавируса](https://russian.rt.com/world/news/860575-kitai-privivka-324-mln?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Греции рассказали о ходе вакцинации от коронавируса](https://russian.rt.com/world/news/860597-greciya-vakcinaciya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [За сутки в Румынии выявили более 600 случаев коронавируса](https://russian.rt.com/world/news/860588-rumyniya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

@@ -1,5 +1,149 @@
 [
     {
+        "title": "Сенатор рассказал о росте безработицы в ряде регионов в период пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Сенатор рассказал о росте безработицы в ряде регионов в период пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/20/866810-senator-rasskazal-o-roste-bezrabotitsi-v-ryade-regionov-v-period-pandemii"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/32/zmo7y/normal-1a6c.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/20/866810-senator-rasskazal-o-roste-bezrabotitsi-v-ryade-regionov-v-period-pandemii",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/20/866810-senator-rasskazal-o-roste-bezrabotitsi-v-ryade-regionov-v-period-pandemii",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/20/866810-senator-rasskazal-o-roste-bezrabotitsi-v-ryade-regionov-v-period-pandemii",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 20 Apr 2021 16:42:41 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            13,
+            42,
+            41,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В Москве не согласовали акции 21 апреля и 1 мая из-за коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В Москве не согласовали акции 21 апреля и 1 мая из-за коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/20/866780-v-moskve-ne-soglasovali"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/32/u6z08/normal-134p.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/20/866780-v-moskve-ne-soglasovali",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/20/866780-v-moskve-ne-soglasovali",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/20/866780-v-moskve-ne-soglasovali",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 20 Apr 2021 14:06:21 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            11,
+            6,
+            21,
+            1,
+            110,
+            0
+        ]
+    },
+    {
+        "title": "В России за сутки выявили 8164 случая заражения коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8164 случая заражения коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/04/20/866741-8164-sluchaya-zarazheniya-koronavirusom"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/32/oiyv6/normal-vsc.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/04/20/866741-8164-sluchaya-zarazheniya-koronavirusom",
+        "id": "https://www.vedomosti.ru/society/news/2021/04/20/866741-8164-sluchaya-zarazheniya-koronavirusom",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/04/20/866741-8164-sluchaya-zarazheniya-koronavirusom",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Tue, 20 Apr 2021 12:27:04 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            20,
+            9,
+            27,
+            4,
+            1,
+            110,
+            0
+        ]
+    },
+    {
         "title": "В Москве можно будет сделать прививку от коронавируса в ЦУМе",
         "title_detail": {
             "type": "text/plain",

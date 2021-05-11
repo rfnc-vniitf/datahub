@@ -124,6 +124,26 @@
 17.04.2021 | 9 | 2 
 18.04.2021 | 6 | 2 
 19.04.2021 | 25 | 1 
+20.04.2021 | 25 | 1 
+21.04.2021 | 25 | 1 
+22.04.2021 | 23 | 0 
+23.04.2021 | 25 | 0 
+26.04.2021 | 21 | 2 
+27.04.2021 | 24 | 1 
+28.04.2021 | 25 | 1 
+29.04.2021 | 25 | 1 
+30.04.2021 | 25 | 1 
+01.05.2021 | 9 | 2 
+02.05.2021 | 7 | 2 
+03.05.2021 | 7 | 1 
+04.05.2021 | 13 | 0 
+05.05.2021 | 12 | 0 
+06.05.2021 | 12 | 1 
+07.05.2021 | 9 | 3 
+08.05.2021 | 6 | 1 
+09.05.2021 | 7 | 1 
+10.05.2021 | 10 | 2 
 
 > ### Последние новости по теме covid-19:
-+ [Bloomberg сообщает об использовании накопленного за пандемию избытка нефти](http://expert.ru/2021/04/19/bloomberg-soobschayet-ob-ispolzovanii-nakoplennogo-za-pandemiyu-izbytka-nefti/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/04/19/bloomberg-soobschayet-ob-ispolzovanii-nakoplennogo-za-pandemiyu-izbytka-nefti/)
++ [Путин рассказал о последствиях своей вакцинации против коронавируса](http://expert.ru/2021/05/10/putin-rasskazal-o-posledstviyakh-svoyey-vaktsinatsii-protiv-koronavirusa/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/10/putin-rasskazal-o-posledstviyakh-svoyey-vaktsinatsii-protiv-koronavirusa/)
++ [За сутки в России ещё почти 8,5 тыс. человек заболели коронавирусом](http://expert.ru/2021/05/10/koronavirus/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/10/koronavirus/)

@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 5 мая",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 5 мая"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/05/05/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/05/05/2021/5e2fe9459a79479d102bada6",
+        "summary": "Эксперт объяснил, почему одной дозы не хватит для получения иммунитета, министры стран G20 поддержали идею ковид-паспортов. Актуальные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Эксперт объяснил, почему одной дозы не хватит для получения иммунитета, министры стран G20 поддержали идею ковид-паспортов. Актуальные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Wed, 05 May 2021 13:37:27 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            5,
+            10,
+            37,
+            27,
+            2,
+            125,
+            0
+        ]
+    },
+    {
+        "title": "Индия установила новый рекорд по ежедневной смертности от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Индия установила новый рекорд по ежедневной смертности от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/60923b249a7947b3b305026b"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/60923b249a7947b3b305026b",
+        "summary": "В Индии за последние сутки от коронавирусной инфекции умерли 3780 человек, это новый мировой рекорд.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Индии за последние сутки от коронавирусной инфекции умерли 3780 человек, это новый мировой рекорд."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/60923b249a7947b3b305026b",
+        "guidislink": false,
+        "published": "Wed, 05 May 2021 09:40:34 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            5,
+            6,
+            40,
+            34,
+            2,
+            125,
+            0
+        ]
+    }
+]

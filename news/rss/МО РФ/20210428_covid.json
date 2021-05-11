@@ -1,0 +1,90 @@
+[
+    {
+        "title": "В Санкт-Петербурге врачи Военно-медицинской академии в рамках акции «Мы — армия страны! Мы — армия народа!» расскажут о борьбе с коронавирусной инфекцией",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Санкт-Петербурге врачи Военно-медицинской академии в рамках акции «Мы — армия страны! Мы — армия народа!» расскажут о борьбе с коронавирусной инфекцией"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12358668@egNews"
+            },
+            {
+                "length": "58229",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/53845659_2305895779653165_8163536578224848896_n(5)(6).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12358668@egNews",
+        "summary": "Теме борьбы с COVID-19 посвящен один из вагонов передвижной военно-патриотической акции.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Теме борьбы с COVID-19 посвящен один из вагонов передвижной военно-патриотической акции."
+        },
+        "published": "Wed, 28 Apr 2021 16:42:21 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            28,
+            13,
+            42,
+            21,
+            2,
+            118,
+            0
+        ],
+        "id": "12358668@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Более 4 тыс. человек ежедневно вакцинируют от коронавируса препаратом «Спутник V» в медицинских учреждениях ЮВО",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Более 4 тыс. человек ежедневно вакцинируют от коронавируса препаратом «Спутник V» в медицинских учреждениях ЮВО"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12358585@egNews"
+            },
+            {
+                "length": "539905",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/1jhjhjhjhj-1200.JPG",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12358585@egNews",
+        "summary": "Препарат был доставлен для соединений и воинских частей, дислоцированных в Крыму, для новобранцев и гражданского персонала российских военных баз в Абхазии и Южной Осетии.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Препарат был доставлен для соединений и воинских частей, дислоцированных в Крыму, для новобранцев и гражданского персонала российских военных баз в Абхазии и Южной Осетии."
+        },
+        "published": "Wed, 28 Apr 2021 08:30:59 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            28,
+            5,
+            30,
+            59,
+            2,
+            118,
+            0
+        ],
+        "id": "12358585@egNews",
+        "guidislink": false
+    }
+]

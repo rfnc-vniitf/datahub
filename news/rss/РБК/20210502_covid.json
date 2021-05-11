@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 2 мая",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 2 мая"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/02/05/2021/5e2fe9459a79479d102bada6"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/66/756198537384663.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/02/05/2021/5e2fe9459a79479d102bada6",
+        "summary": "Актуальные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Актуальные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Sun, 02 May 2021 15:08:28 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            2,
+            12,
+            8,
+            28,
+            6,
+            122,
+            0
+        ]
+    },
+    {
+        "title": "Мурашко назвал напряженной ситуацию с коронавирусом в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Мурашко назвал напряженной ситуацию с коронавирусом в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/608e62c29a79475aabebfd90"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/756199448474927.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/608e62c29a79475aabebfd90",
+        "summary": "Ситуация с COVID-19 в стране все еще остается напряженной, заявил министр здравоохранения России Михаил Мурашко в эфире телеканала «Россия 1», передает «РИА Новости».",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Ситуация с COVID-19 в стране все еще остается напряженной, заявил министр здравоохранения России Михаил Мурашко в эфире телеканала «Россия 1», передает «РИА Новости»."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/608e62c29a79475aabebfd90",
+        "guidislink": false,
+        "published": "Sun, 02 May 2021 11:39:49 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            2,
+            8,
+            39,
+            49,
+            6,
+            122,
+            0
+        ]
+    }
+]

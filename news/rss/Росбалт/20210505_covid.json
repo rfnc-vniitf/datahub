@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/moscow/2021/05/05/1900358.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/moscow/2021/05/05/1900358.html",
+        "title": "В Роспотребнадзоре пояснили, зачем нужна вторая доза вакцины от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Роспотребнадзоре пояснили, зачем нужна вторая доза вакцины от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/moscow/2021/05/05/1900358.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/07/76/d3/7d/fNnywjCKJG3x-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Эпидемиолог Александр Горелов сообщил, как работают препараты от COVID-19.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Эпидемиолог Александр Горелов сообщил, как работают препараты от COVID-19."
+        },
+        "published": "Wed, 05 May 2021 08:22:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            5,
+            5,
+            22,
+            0,
+            2,
+            125,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

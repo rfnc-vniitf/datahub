@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Более 50 студентов из Индии заболели коронавирусом в Ульяновске и Уфе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Более 50 студентов из Индии заболели коронавирусом в Ульяновске и Уфе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/765014"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/765014",
+        "summary": "Вспышка коронавирусной инфекции зарегистрирована среди студентов Ульяновского государственного университета (УлГУ), 32 человека госпитализированы, сообщили \"Интерфаксу\" в пресс-службе регионального Минздрава в пятницу.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Вспышка коронавирусной инфекции зарегистрирована среди студентов Ульяновского государственного университета (УлГУ), 32 человека госпитализированы, сообщили \"Интерфаксу\" в пресс-службе регионального Минздрава в пятницу."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Fri, 7 May 2021 15:18:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            7,
+            12,
+            18,
+            0,
+            4,
+            127,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/765014",
+        "guidislink": false
+    },
+    {
+        "title": "Минздрав ФРГ заявил об ослаблении третьей волны коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Минздрав ФРГ заявил об ослаблении третьей волны коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/765005"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/765005",
+        "summary": "В ФРГ, видимо, удалось взять под контроль распространение третьей волны коронавируса COVID-19, заявил министр здравоохранения страны Йенс Шпан.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В ФРГ, видимо, удалось взять под контроль распространение третьей волны коронавируса COVID-19, заявил министр здравоохранения страны Йенс Шпан."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Fri, 7 May 2021 14:14:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            7,
+            11,
+            14,
+            0,
+            4,
+            127,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/765005",
+        "guidislink": false
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "title": "В КНДР предупредили об угрозе коронавируса от «странных объектов»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В КНДР предупредили об угрозе коронавируса от «странных объектов»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/politics/06/05/2021/6093d41a9a794725a5cc0f81"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/756203026797311.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/politics/06/05/2021/6093d41a9a794725a5cc0f81",
+        "summary": "В Пхеньяне призвали граждан быть бдительными в условиях продолжающегося распространения в мире коронавирусной инфекции, которую могут перенести перелетные птицы и другие «объекты»",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Пхеньяне призвали граждан быть бдительными в условиях продолжающегося распространения в мире коронавирусной инфекции, которую могут перенести перелетные птицы и другие «объекты»"
+        },
+        "authors": [
+            {
+                "name": "Артем Филипенок"
+            }
+        ],
+        "author": "Артем Филипенок",
+        "author_detail": {
+            "name": "Артем Филипенок"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/6093d41a9a794725a5cc0f81",
+        "guidislink": false,
+        "published": "Thu, 06 May 2021 14:50:14 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            6,
+            11,
+            50,
+            14,
+            3,
+            126,
+            0
+        ]
+    },
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 6 мая",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 6 мая"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/06/05/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/06/05/2021/5e2fe9459a79479d102bada6",
+        "summary": "Спор о звании лучшей вакцины в мире, в Сербии заплатят привившимся, Индия продолжает бить рекорды — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Спор о звании лучшей вакцины в мире, в Сербии заплатят привившимся, Индия продолжает бить рекорды — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл, Евгений Калюков"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Thu, 06 May 2021 11:30:42 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            6,
+            8,
+            30,
+            42,
+            3,
+            126,
+            0
+        ]
+    }
+]

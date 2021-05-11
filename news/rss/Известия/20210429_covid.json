@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Вся актуальная информация по коронавирусу ежедневно обновляется на сайтах https://стопкоронавирус.рф и доступвсем.рф",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Вся актуальная информация по коронавирусу ежедневно обновляется на сайтах https://стопкоронавирус.рф и доступвсем.рф"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/990966/2020-03-24/vsia-aktualnaia-informatciia-po-koronavirusu-ezhednevno-obnovliaetsia-na-saitakh"
+            }
+        ],
+        "link": "https://iz.ru/990966/2020-03-24/vsia-aktualnaia-informatciia-po-koronavirusu-ezhednevno-obnovliaetsia-na-saitakh",
+        "summary": "<p>Актуальная информация по коронавирусу ежедневно обновляется на сайтах <a href=\"https://xn--80aesfpebagmfblc0a.xn--p1ai/\" target=\"_blank\">https://стопкоронавирус.рф</a> и <a href=\"https://xn--b1ade2ahgncgk.xn--p1ai/\" target=\"_blank\">доступвсем.рф</a>.</p><p>Телефон горячей линии по вопросам коронавируса: 8 800 2000 112.</p><p>Кроме того, информация доступна по хештегу #МыВместе.</p><p>Вспышка пневмонии COVID-19, вызываемой вирусом SARS-CoV-2, произошла в китайском Ухане в конце декабря. Позднее инфекция распространилась на другие страны мира.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Актуальная информация по коронавирусу ежедневно обновляется на сайтах <a href=\"https://xn--80aesfpebagmfblc0a.xn--p1ai/\" target=\"_blank\">https://стопкоронавирус.рф</a> и <a href=\"https://xn--b1ade2ahgncgk.xn--p1ai/\" target=\"_blank\">доступвсем.рф</a>.</p><p>Телефон горячей линии по вопросам коронавируса: 8 800 2000 112.</p><p>Кроме того, информация доступна по хештегу #МыВместе.</p><p>Вспышка пневмонии COVID-19, вызываемой вирусом SARS-CoV-2, произошла в китайском Ухане в конце декабря. Позднее инфекция распространилась на другие страны мира.</p>"
+        },
+        "published": "Thu, 29 Apr 2021 07:52:00 +0300",
+        "published_parsed": [
+            2021,
+            4,
+            29,
+            4,
+            52,
+            0,
+            3,
+            119,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/990966/2020-03-24/vsia-aktualnaia-informatciia-po-koronavirusu-ezhednevno-obnovliaetsia-na-saitakh",
+        "guidislink": false
+    }
+]

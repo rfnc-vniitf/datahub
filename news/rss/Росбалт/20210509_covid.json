@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/05/09/1900721.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/05/09/1900721.html",
+        "title": "В России за сутки от коронавируса и его последствий умерли 334 человека",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России за сутки от коронавируса и его последствий умерли 334 человека"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/05/09/1900721.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/78/7e/3e/50/cgj3nZ9rYBhD-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "По летальным случаям, как и по заболеваемости в целом, лидируют две столицы.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "По летальным случаям, как и по заболеваемости в целом, лидируют две столицы."
+        },
+        "published": "Sun, 09 May 2021 11:28:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            9,
+            8,
+            28,
+            0,
+            6,
+            129,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

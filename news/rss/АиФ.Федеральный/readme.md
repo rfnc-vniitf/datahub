@@ -125,8 +125,28 @@
 17.04.2021 | 72 | 2 
 18.04.2021 | 62 | 3 
 19.04.2021 | 137 | 3 
+20.04.2021 | 116 | 2 
+21.04.2021 | 146 | 10 
+22.04.2021 | 139 | 2 
+23.04.2021 | 139 | 2 
+26.04.2021 | 140 | 2 
+27.04.2021 | 135 | 5 
+28.04.2021 | 134 | 4 
+29.04.2021 | 126 | 5 
+30.04.2021 | 136 | 2 
+01.05.2021 | 59 | 0 
+02.05.2021 | 52 | 3 
+03.05.2021 | 87 | 0 
+04.05.2021 | 120 | 0 
+05.05.2021 | 127 | 4 
+06.05.2021 | 130 | 2 
+07.05.2021 | 129 | 9 
+08.05.2021 | 61 | 1 
+09.05.2021 | 64 | 2 
+10.05.2021 | 94 | 3 
+11.05.2021 | 1 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [В России разрабатывают кожный тест для оценки иммунитета к коронавирусу](https://aif.ru/health/coronavirus/v_rf_razrabotali_ekspress-test_dlya_vyyavleniya_antitel_k_covid_posle_privivki)
-+ [Попова: Ситуация с коронавирусом в РФ стабилизируется](https://aif.ru/moscow/podstavili_plecho_kak_moskvichi_vnesli_vklad_v_kollektivnyy_immunitet)
-+ [В России выявлено 8589 новых случаев заражения коронавирусом за сутки](https://aif.ru/society/healthcare/polovina_vzroslogo_naseleniya_ssha_poluchila_pervuyu_privivku_ot_covid-19)
++ [Путин призвал россиян поставить прививки от коронавируса](https://aif.ru/travel/kipr_budet_puskat_vakcinirovannyh_turistov_bez_testa_na_koronavirus)
++ [В России за сутки выявили 8 465 заразившихся коронавирусом](https://aif.ru/travel/kipr_budet_puskat_vakcinirovannyh_turistov_bez_testa_na_koronavirus)
++ [Кипр будет пускать вакцинированных туристов без теста на коронавирус](https://aif.ru/travel/minzdrav_kipra_oficialno_razreshil_vezd_rossiyskim_turistam_s_1_aprelya)
