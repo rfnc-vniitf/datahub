@@ -1,0 +1,55 @@
+[
+    {
+        "title": "В России выявили более 9 тыс. случаев коронавируса за сутки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В России выявили более 9 тыс. случаев коронавируса за сутки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/20/05/2021/60a629229a79470b04e39f4a"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/756215042528030.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/20/05/2021/60a629229a79470b04e39f4a",
+        "summary": "Умерли за сутки от коронавируса 396 человек, полностью выздоровели 9,9 тыс. человек",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Умерли за сутки от коронавируса 396 человек, полностью выздоровели 9,9 тыс. человек"
+        },
+        "authors": [
+            {
+                "name": "Анастасия Батманова"
+            }
+        ],
+        "author": "Анастасия Батманова",
+        "author_detail": {
+            "name": "Анастасия Батманова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/60a629229a79470b04e39f4a",
+        "guidislink": false,
+        "published": "Thu, 20 May 2021 12:23:35 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            20,
+            9,
+            23,
+            35,
+            3,
+            140,
+            0
+        ]
+    }
+]

@@ -15,6 +15,7 @@ This Readme includes:
 - Contents
 
 ***
+
 ## How to use this repository
 This repository contains CSV (comma separated values) files of data, and Readme files with important documentation of the data. If you are unfamiliar with Github, you may find these instructions helpful:
 
@@ -31,6 +32,8 @@ Alternatively, you can download a single file. Click on a file you would like to
 ## Important: Update on March 24, 2021
 
 As indicated in commit notes from 3/19 and 3/20, there were technical issues in the data transmission from New York State to New York City. This resulted in counts that were lower than expected for several days. While this transmission error was being fixed, data updates were paused for 3/21, 3/22, and 3/23. Data updated on 3/24 include backfill for days with low counts and days with no updates. Differences in counts in cumulative files from 3/20 to 3/24 reflect events that have happened over a broad recent time period and should not be interpreted as events that have happened since the previous update. As always, data are preliminary and subject to change, and dates are backfilled as additional data come in.
+
+***
 
 ## Important: Changes on March 3, 2021
 
@@ -188,6 +191,7 @@ There are three main types of COVID-19 tests that are reported to the Health Dep
 |-------|------------| 
 | Daily values | The numerator includes all people with positive results on each specimen collection date, and the denominator includes all people who received a test on each specimen collection date | 
 | 7-day average | The numerator includes all people with positive results in the last 7 days, and the denominator includes all people who received a test in the last 7 days. If a person is tested more than one time, they are only counted once. If a person tests both positive and negative in the same 7-day period, the positive result is counted. | 
+| 28-day average | The numerator includes all people with positive results in the last 28 days, and the denominator includes all people who received a test in the last 28 days. If a person is tested more than one time, they are only counted once. If a person tests both positive and negative in the same 28-day period, the positive result is counted. |
 
 These values are inclusive of people who previously tested positive. These values are inclusive of persons who reside in long term care facilities and correctional facilities.
 
@@ -203,7 +207,7 @@ These values exclude people who previously tested positive. These values exclude
 ## Counting COVID-19 cases, hospitalizations, and deaths
 ### Case definitions for COVID-19
 
-Surveillance case definitions for all notifiable conditions are developed at the national level by the [Council of State and Territorial Epidemiologists (CSTE)](https://wwwn.cdc.gov/nndss/conditions/). These standard definitions support public health officials in classifying and counting infections consistently across different states and local jurisdictions. The [criteria](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/) for reporting a person with COVID-19 infection (“case”) are based on laboratory test results and epidemiologic links, and include two classifications:
+Surveillance case definitions for all notifiable conditions are developed at the national level by the [Council of State and Territorial Epidemiologists (CSTE)](https://ndc.services.cdc.gov/). These standard definitions support public health officials in classifying and counting infections consistently across different states and local jurisdictions. The [criteria](https://ndc.services.cdc.gov/case-definitions/coronavirus-disease-2019-2020-08-05/) for reporting a person with COVID-19 infection (“case”) are based on laboratory test results and epidemiologic links, and include two classifications:
 
 - *Confirmed COVID-19 case*: A person is classified as a confirmed COVID-19 case if they test positive with a molecular test
 

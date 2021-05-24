@@ -1,0 +1,109 @@
+[
+    {
+        "title": "Мурашко рассказал об \"эпидемиологическом щите\" России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мурашко рассказал об \"эпидемиологическом щите\" России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11355387"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "935690",
+                "href": "https://cdn3.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210512/6122699.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11355387",
+        "id": "https://tass.ru/obschestvo/11355387",
+        "guidislink": false,
+        "published": "Wed, 12 May 2021 15:45:49 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            12,
+            12,
+            45,
+            49,
+            2,
+            132,
+            0
+        ],
+        "summary": "Он будет представлять собой комплекс мер по диагностике и профилактике инфекционных заболеваний, отметил премьер",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Он будет представлять собой комплекс мер по диагностике и профилактике инфекционных заболеваний, отметил премьер"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Вице-премьер Сербии Зорана Михайлович поблагодарила Россию за помощь во время пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Вице-премьер Сербии Зорана Михайлович поблагодарила Россию за помощь во время пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11355407"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "1785676",
+                "href": "https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210512/6122703.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11355407",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11355407",
+        "guidislink": false,
+        "published": "Wed, 12 May 2021 15:31:27 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            12,
+            12,
+            31,
+            27,
+            2,
+            132,
+            0
+        ],
+        "summary": "Михайлович посетила дочернее предприятие \"Газпром нефти\", компанию NIS, вместе с послом РФ Александром Боцан-Харченко и мэром Нови-Сада Милошем Вучевичем",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Михайлович посетила дочернее предприятие \"Газпром нефти\", компанию NIS, вместе с послом РФ Александром Боцан-Харченко и мэром Нови-Сада Милошем Вучевичем"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

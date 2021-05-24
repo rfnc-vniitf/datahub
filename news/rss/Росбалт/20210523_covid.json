@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/05/23/1902873.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/05/23/1902873.html",
+        "title": "Число заболевших коронавирусом в России превысило 5 млн",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Число заболевших коронавирусом в России превысило 5 млн"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/05/23/1902873.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/dd/13/ca/63/PTvHXFmqhBY8-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Больше всего новых случаев в Москве — 2924. В Петербурге суточный прирост составил 842 человек.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Больше всего новых случаев в Москве — 2924. В Петербурге суточный прирост составил 842 человек."
+        },
+        "published": "Sun, 23 May 2021 11:36:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            23,
+            8,
+            36,
+            0,
+            6,
+            143,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

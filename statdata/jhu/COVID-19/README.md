@@ -74,7 +74,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Delaware Emergency Management Agency: https://coronavirus.delaware.gov/
   - Utah Department of Health: https://coronavirus-dashboard.utah.gov/#overview
   - Arizona Emergency Support Function (ESF)/Recovery Support Function (RSF) Operations Dashboard: https://www.arcgis.com/apps/MapSeries/index.html?appid=62e6bfa682a34e6aae9d9255ac865467
-  - Departamento de Salud, Puerto Rico: https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/d7308c1abb4747e584329adf1215125e
+  - Departamento de Salud, Puerto Rico: https://covid19datos.salud.gov.pr/
   - Arkansas Department of Health: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
   - Maine Department of Health and Human Services: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
   - Pennsylvania Department of Health: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
@@ -158,6 +158,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Kansas: Douglas County Coronavirus Response and Recovery Hub: https://coronavirus-response-dgco.hub.arcgis.com/
   - Kansas: Finney County COVID-19 Resource Hub: https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/
   - Kansas: Riley County Corona Virus Response: https://coronavirus-response-rcitgis.hub.arcgis.com/
+  - West Virginia Department of Health & Human Resources: https://dhhr.wv.gov/COVID-19/Pages/default.aspx
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
@@ -202,6 +203,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
   - Israel: https://datadashboard.health.gov.il/COVID-19/general
+  - Indonesia: https://covid19.go.id/peta-sebaran
   - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
@@ -231,6 +233,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Kazakhstan: https://www.coronavirus2020.kz/
   - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
   - Slovakia Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - Switzerland Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
+  - Switzerland Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
   - Thailand Ministry of Public Health: https://ddc.moph.go.th/viralpneumonia/eng/index.php and https://covid19.ddc.moph.go.th/en
     
 

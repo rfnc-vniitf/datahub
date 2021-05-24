@@ -615,7 +615,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 16037,Custer,Idaho,US,2020-04-16 23:30:51,44.24186819,-114.2855494,2,0,0,2,"Custer, Idaho, US"
 31041,Custer,Nebraska,US,2020-04-16 23:30:51,41.39374521,-99.72805369,19,0,0,19,"Custer, Nebraska, US"
 40039,Custer,Oklahoma,US,2020-04-16 23:30:51,35.63853802,-99.00170785,7,0,0,7,"Custer, Oklahoma, US"
-39035,Cuyahoga,Ohio,US,2020-04-16 23:30:51,41.424119,-81.65918339,1331,66,0,1289,"Cuyahoga, Ohio, US"
+39035,Cuyahoga,Ohio,US,2020-04-16 23:30:51,41.424119,-81.65918339,1331,67,0,1289,"Cuyahoga, Ohio, US"
 13083,Dade,Georgia,US,2020-04-16 23:30:51,34.854916700000004,-85.50490424,7,1,0,6,"Dade, Georgia, US"
 27037,Dakota,Minnesota,US,2020-04-16 23:30:51,44.67172617,-93.06299363,103,5,0,98,"Dakota, Minnesota, US"
 31043,Dakota,Nebraska,US,2020-04-16 23:30:51,42.39040144,-96.56656425,3,0,0,3,"Dakota, Nebraska, US"
@@ -2168,7 +2168,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-04-16 23:30:51,34.98820368,-78.36914061,17,0,0,17,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,2020-04-16 23:30:51,31.39457611,-94.17000399,11,1,0,10,"San Augustine, Texas, US"
 6069,San Benito,California,US,2020-04-16 23:30:51,36.60308176,-121.069975,41,2,0,39,"San Benito, California, US"
-6071,San Bernardino,California,US,2020-04-16 23:30:51,34.84060306,-116.1774685,996,39,0,957,"San Bernardino, California, US"
+6071,San Bernardino,California,US,2020-04-16 23:30:51,34.84060306,-116.1774685,996,45,0,957,"San Bernardino, California, US"
 6073,San Diego,California,US,2020-04-16 23:30:51,33.03484597,-116.73653259999999,2012,60,0,1952,"San Diego, California, US"
 6075,San Francisco,California,US,2020-04-16 23:30:51,37.75215114,-122.43856720000001,1019,17,0,1002,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-04-16 23:30:51,30.57933681,-95.16260304,10,0,0,10,"San Jacinto, Texas, US"
@@ -3042,3 +3042,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2020-04-16 23:30:31,15.552726999999999,48.516388,1,0,0,1,Yemen
 ,,,Zambia,2020-04-16 23:30:31,-13.133897,27.849332,48,2,30,16,Zambia
 ,,,Zimbabwe,2020-04-16 23:30:31,-19.015438,29.154857,23,3,1,19,Zimbabwe
+,,Unknown,China,2020-04-16 23:30:51,,,0,0,0,0,"Unknown, China"

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/05/15/1901627.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/05/15/1901627.html",
+        "title": "Число жертв коронавируса в России за сутки превысило 360",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Число жертв коронавируса в России за сутки превысило 360"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/05/15/1901627.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/f/0/1/4/ZwLgPYXz-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В стране насчитали еще 8 тыс. заразившихся COVID.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В стране насчитали еще 8 тыс. заразившихся COVID."
+        },
+        "published": "Sat, 15 May 2021 11:19:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            15,
+            8,
+            19,
+            0,
+            5,
+            135,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 16 мая",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 16 мая"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/16/05/2021/5e2fe9459a79479d102bada6"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/16/05/2021/5e2fe9459a79479d102bada6",
+        "summary": "Черногория назвала сроки открытия границ для туристов, участники рынка оценили влияние выборочного возобновления рейсов на турпоток, сербский певец Джордже Марьянович умер от COVID-19. Главные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Черногория назвала сроки открытия границ для туристов, участники рынка оценили влияние выборочного возобновления рейсов на турпоток, сербский певец Джордже Марьянович умер от COVID-19. Главные новости о коронавирусе — в обзоре РБК"
+        },
+        "id": "rssexport.rbc.ru:society:5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Sun, 16 May 2021 11:25:30 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            16,
+            8,
+            25,
+            30,
+            6,
+            136,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Мурашко призвал вакцинироваться, а не ждать третьей волны пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Мурашко призвал вакцинироваться, а не ждать третьей волны пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/16/05/2021/60a0d9639a79478121b660f8"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/756211544596238.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/16/05/2021/60a0d9639a79478121b660f8",
+        "summary": "Михаил Мурашко посоветовал не задавать вопросы о возможности третьей волны пандемии в России, а пройти вакцинацию",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Михаил Мурашко посоветовал не задавать вопросы о возможности третьей волны пандемии в России, а пройти вакцинацию"
+        },
+        "id": "rssexport.rbc.ru:society:60a0d9639a79478121b660f8",
+        "guidislink": false,
+        "published": "Sun, 16 May 2021 11:54:48 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            16,
+            8,
+            54,
+            48,
+            6,
+            136,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Евгений Науменко"
+            }
+        ],
+        "author": "Евгений Науменко",
+        "author_detail": {
+            "name": "Евгений Науменко"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

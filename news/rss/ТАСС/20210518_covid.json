@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Минздрав Чехии ликвидировал комиссию по эпидемическим ситуациям",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Минздрав Чехии ликвидировал комиссию по эпидемическим ситуациям"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11404147"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11404147",
+        "id": "https://tass.ru/obschestvo/11404147",
+        "guidislink": false,
+        "published": "Tue, 18 May 2021 16:48:33 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            18,
+            13,
+            48,
+            33,
+            1,
+            138,
+            0
+        ],
+        "summary": "Группа из 12 экспертов ранее рекомендовала Минздраву прекратить работу комиссии в связи с улучшением эпидемической ситуации в Чехии, поскольку у правительства теперь \"имеется стандартный механизм борьбы с эпидемиями\"",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Группа из 12 экспертов ранее рекомендовала Минздраву прекратить работу комиссии в связи с улучшением эпидемической ситуации в Чехии, поскольку у правительства теперь \"имеется стандартный механизм борьбы с эпидемиями\""
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Белоруссию доставили 300 тыс. доз китайской вакцины от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Белоруссию доставили 300 тыс. доз китайской вакцины от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11404069"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11404069",
+        "id": "https://tass.ru/obschestvo/11404069",
+        "guidislink": false,
+        "published": "Tue, 18 May 2021 16:30:38 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            18,
+            13,
+            30,
+            38,
+            1,
+            138,
+            0
+        ],
+        "summary": "В феврале Китай передал республике 100 тыс. доз вакцины",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В феврале Китай передал республике 100 тыс. доз вакцины"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

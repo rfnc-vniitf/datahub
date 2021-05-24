@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/business/2021/05/11/1900887.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/business/2021/05/11/1900887.html",
+        "title": "Аналитик ВШУФ: Фондовых инвесторов беспокоят коронавирус в Азии и инфляция",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Аналитик ВШУФ: Фондовых инвесторов беспокоят коронавирус в Азии и инфляция"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/business/2021/05/11/1900887.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/5/3/0/8/6tYbw32K-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "У инвесторов на мировых фондовых рынках сейчас две главные причины для беспокойства — ситуация с коронавирусом в Азии и перспективы разгона инфляции. Такое...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "У инвесторов на мировых фондовых рынках сейчас две главные причины для беспокойства — ситуация с коронавирусом в Азии и перспективы разгона инфляции. Такое..."
+        },
+        "published": "Tue, 11 May 2021 12:34:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            11,
+            9,
+            34,
+            0,
+            1,
+            131,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/05/11/1900861.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/05/11/1900861.html",
+        "title": "В России почти 114 тысяч человек скончались от ковида",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России почти 114 тысяч человек скончались от ковида"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/05/11/1900861.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/f2/70/3b/84/7QH2rm64cbP3-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В России за сутки выявлено 8 тыс. 115 новых случаев заболевания коронавирусом. По данным оперштаба, в Москве зафиксировано 2 тыс. 628 заболевших, в Санкт-Петербурге —...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России за сутки выявлено 8 тыс. 115 новых случаев заболевания коронавирусом. По данным оперштаба, в Москве зафиксировано 2 тыс. 628 заболевших, в Санкт-Петербурге —..."
+        },
+        "published": "Tue, 11 May 2021 11:22:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            11,
+            8,
+            22,
+            0,
+            1,
+            131,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

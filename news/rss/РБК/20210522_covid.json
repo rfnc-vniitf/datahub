@@ -1,0 +1,46 @@
+[
+    {
+        "title": "В «Векторе» сообщили о десятке тысяч штаммов коронавируса в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В «Векторе» сообщили о десятке тысяч штаммов коронавируса в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/60a8fbe49a7947e2b0d6e432"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/74/756216894962746.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/60a8fbe49a7947e2b0d6e432",
+        "summary": "Согласно данным образцов вируса, которые регулярно получает из всех регионов Государственный научный центр вирусологии и биотехнологии «Вектор», в России циркулируют десятки тысяч штаммов коронавирусной инфекции.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Согласно данным образцов вируса, которые регулярно получает из всех регионов Государственный научный центр вирусологии и биотехнологии «Вектор», в России циркулируют десятки тысяч штаммов коронавирусной инфекции."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/60a8fbe49a7947e2b0d6e432",
+        "guidislink": false,
+        "published": "Sat, 22 May 2021 16:13:35 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            22,
+            13,
+            13,
+            35,
+            5,
+            142,
+            0
+        ]
+    }
+]

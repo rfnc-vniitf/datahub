@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 8937 случаев заражения коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8937 случаев заражения коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/05/21/870740-8937-sluchaev-zarazheniya-koronavirusom"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/3x/pnewg/normal-x8q.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/05/21/870740-8937-sluchaev-zarazheniya-koronavirusom",
+        "id": "https://www.vedomosti.ru/society/news/2021/05/21/870740-8937-sluchaev-zarazheniya-koronavirusom",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/05/21/870740-8937-sluchaev-zarazheniya-koronavirusom",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Fri, 21 May 2021 13:03:08 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            21,
+            10,
+            3,
+            8,
+            4,
+            141,
+            0
+        ]
+    }
+]

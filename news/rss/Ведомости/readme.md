@@ -144,8 +144,21 @@
 08.05.2021 | 25 | 2 
 09.05.2021 | 21 | 3 
 10.05.2021 | 18 | 3 
+11.05.2021 | 38 | 1 
+12.05.2021 | 48 | 4 
+13.05.2021 | 49 | 4 
+14.05.2021 | 50 | 7 
+15.05.2021 | 11 | 2 
+16.05.2021 | 9 | 2 
+17.05.2021 | 43 | 3 
+18.05.2021 | 52 | 4 
+19.05.2021 | 56 | 3 
+20.05.2021 | 54 | 5 
+21.05.2021 | 46 | 1 
+22.05.2021 | 11 | 1 
+23.05.2021 | 12 | 3 
 
 > ### Последние новости по теме covid-19:
-+ [Путин: прививку от коронавируса сделали 21,5 млн россиян](https://www.vedomosti.ru/society/news/2021/05/10/869051-putin-privivku-ot-koronavirusa-sdelali-215-mln-rossiyan)
-+ [Путин сообщил о хорошем титре антител после прививки от коронавируса](https://www.vedomosti.ru/society/news/2021/05/10/869050-putin-soobschil-horoshem-titre-antitel)
-+ [В России за сутки выявили 8465 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/05/10/869037-v-rossii-za-sutki-viyavili-8465-novih-sluchaev-koronavirusa)
++ [Собянин заявил, что Москва лучше мировых городов справилась с пандемией](https://www.vedomosti.ru/society/news/2021/05/23/870907-sobyanin-zayavil-chto-moskva-luchshe-mirovih-gorodov-spravilas-s-pandemiei)
++ [В России за сутки выявили 8951 новый случай коронавируса](https://www.vedomosti.ru/society/news/2021/05/23/870909-v-rossii-za-sutki-viyavili-8951-novii-sluchai-koronavirusa)
++ [Гинцубург рассказал о последствиях постковидного синдрома для привитых](https://www.vedomosti.ru/society/news/2021/05/23/870906-gintsuburg-rasskazal-o-posledstviyah-postkovidnogo-sindroma-dlya-privitih)

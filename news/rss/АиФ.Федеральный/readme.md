@@ -144,9 +144,20 @@
 08.05.2021 | 61 | 1 
 09.05.2021 | 64 | 2 
 10.05.2021 | 94 | 3 
-11.05.2021 | 1 | 0 
+11.05.2021 | 121 | 1 
+12.05.2021 | 130 | 4 
+13.05.2021 | 128 | 1 
+14.05.2021 | 128 | 0 
+15.05.2021 | 57 | 4 
+16.05.2021 | 53 | 5 
+17.05.2021 | 133 | 4 
+18.05.2021 | 117 | 6 
+19.05.2021 | 118 | 2 
+20.05.2021 | 127 | 2 
+21.05.2021 | 128 | 5 
+22.05.2021 | 54 | 3 
+23.05.2021 | 55 | 1 
+24.05.2021 | 1 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Путин призвал россиян поставить прививки от коронавируса](https://aif.ru/travel/kipr_budet_puskat_vakcinirovannyh_turistov_bez_testa_na_koronavirus)
-+ [В России за сутки выявили 8 465 заразившихся коронавирусом](https://aif.ru/travel/kipr_budet_puskat_vakcinirovannyh_turistov_bez_testa_na_koronavirus)
-+ [Кипр будет пускать вакцинированных туристов без теста на коронавирус](https://aif.ru/travel/minzdrav_kipra_oficialno_razreshil_vezd_rossiyskim_turistam_s_1_aprelya)
++ [Трое ученых института вирусологии в Ухане тяжело болели в ноябре 2019 — WSJ](https://aif.ru/politics/world/ssha_trebuyut_ot_knr_predostavit_voz_svedeniya_o_rannih_sluchayah_covid-19)

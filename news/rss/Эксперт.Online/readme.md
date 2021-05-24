@@ -143,7 +143,20 @@
 08.05.2021 | 6 | 1 
 09.05.2021 | 7 | 1 
 10.05.2021 | 10 | 2 
+11.05.2021 | 25 | 1 
+12.05.2021 | 25 | 2 
+13.05.2021 | 25 | 1 
+14.05.2021 | 25 | 0 
+15.05.2021 | 8 | 1 
+16.05.2021 | 8 | 1 
+17.05.2021 | 25 | 1 
+18.05.2021 | 25 | 0 
+19.05.2021 | 25 | 2 
+20.05.2021 | 25 | 0 
+21.05.2021 | 25 | 0 
+22.05.2021 | 8 | 1 
+23.05.2021 | 8 | 2 
 
 > ### Последние новости по теме covid-19:
-+ [Путин рассказал о последствиях своей вакцинации против коронавируса](http://expert.ru/2021/05/10/putin-rasskazal-o-posledstviyakh-svoyey-vaktsinatsii-protiv-koronavirusa/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/10/putin-rasskazal-o-posledstviyakh-svoyey-vaktsinatsii-protiv-koronavirusa/)
-+ [За сутки в России ещё почти 8,5 тыс. человек заболели коронавирусом](http://expert.ru/2021/05/10/koronavirus/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/10/koronavirus/)
++ [В России число заболевших коронавирусом превысило 5 млн человек](http://expert.ru/2021/05/23/koronavirus-covid-19-v-rossii/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/23/koronavirus-covid-19-v-rossii/)
++ [Гинцбург оценил последствия постковидного синдрома у привитых от COVID-19](http://expert.ru/2021/05/23/gintsburg-otsenil-posledstviya-postkovidnogo-sindroma-u-privitykh-ot-covid-19/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/23/gintsburg-otsenil-posledstviya-postkovidnogo-sindroma-u-privitykh-ot-covid-19/)

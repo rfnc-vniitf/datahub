@@ -144,11 +144,22 @@
 08.05.2021 | 50 | 3 
 09.05.2021 | 50 | 1 
 10.05.2021 | 50 | 7 
-11.05.2021 | 1 | 0 
+11.05.2021 | 50 | 1 
+12.05.2021 | 50 | 3 
+13.05.2021 | 50 | 3 
+14.05.2021 | 50 | 8 
+15.05.2021 | 50 | 3 
+16.05.2021 | 50 | 1 
+17.05.2021 | 50 | 2 
+18.05.2021 | 50 | 4 
+19.05.2021 | 50 | 2 
+20.05.2021 | 50 | 3 
+21.05.2021 | 50 | 4 
+22.05.2021 | 50 | 3 
+23.05.2021 | 50 | 3 
+24.05.2021 | 1 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [«Прививки получили 21,5 млн граждан»: Путин рассказал о ситуации с коронавирусом в России](https://russian.rt.com/russia/article/860564-koronavirus-rossiya-mir-vakcina?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Великобритании снизили уровень коронавирусной угрозы](https://russian.rt.com/world/news/860626-velikobritaniya-ugroza-covid?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Китае сделали уже более 320 млн прививок от коронавируса](https://russian.rt.com/world/news/860575-kitai-privivka-324-mln?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Греции рассказали о ходе вакцинации от коронавируса](https://russian.rt.com/world/news/860597-greciya-vakcinaciya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [За сутки в Румынии выявили более 600 случаев коронавируса](https://russian.rt.com/world/news/860588-rumyniya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [За сутки в Румынии выявили более 300 случаев коронавируса](https://russian.rt.com/world/news/864986-rumyniya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [«Справились лучше, чем другие мировые города»: Собянин оценил успехи Москвы в борьбе с коронавирусом](https://russian.rt.com/russia/article/864938-koronavirus-rossiya-vakcinaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Число случаев коронавируса в Белоруссии превысило 386 тысяч](https://russian.rt.com/ussr/news/864975-belorussiya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

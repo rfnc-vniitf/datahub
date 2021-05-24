@@ -1,0 +1,46 @@
+[
+    {
+        "title": "За рубежом на военных базах ЦВО завершилась вакцинация российских военнослужащих от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "За рубежом на военных базах ЦВО завершилась вакцинация российских военнослужащих от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12360992@egNews"
+            },
+            {
+                "length": "172489",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/1b65gf4b654f6465f4g6bfg65b-1200.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12360992@egNews",
+        "summary": "Всего было привито около 5,5 тыс. человек (около 3,5 тыс. в Таджикистане и более 2 тыс. в Киргизии и Казахстане).",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Всего было привито около 5,5 тыс. человек (около 3,5 тыс. в Таджикистане и более 2 тыс. в Киргизии и Казахстане)."
+        },
+        "published": "Wed, 12 May 2021 13:42:57 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            12,
+            10,
+            42,
+            57,
+            2,
+            132,
+            0
+        ],
+        "id": "12360992@egNews",
+        "guidislink": false
+    }
+]

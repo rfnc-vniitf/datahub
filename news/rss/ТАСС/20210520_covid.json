@@ -1,0 +1,108 @@
+[
+    {
+        "title": "В Петербурге предложили переоформлять \"сгоревшие\" из-за пандемии визы в РФ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Петербурге предложили переоформлять \"сгоревшие\" из-за пандемии визы в РФ"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11427917"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11427917",
+        "id": "https://tass.ru/obschestvo/11427917",
+        "guidislink": false,
+        "published": "Thu, 20 May 2021 16:47:42 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            20,
+            13,
+            47,
+            42,
+            3,
+            140,
+            0
+        ],
+        "summary": "Председатель городского комитета по развитию туризма Сергей Корнеев считает, что такое решение позволило бы стране развернуть отложенный мировой спрос на турпоездки в свою сторону",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Председатель городского комитета по развитию туризма Сергей Корнеев считает, что такое решение позволило бы стране развернуть отложенный мировой спрос на турпоездки в свою сторону"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Северо-Запад",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В МИД России считают, что Чехия \"подхватила вирус войны\" с историческими памятниками",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В МИД России считают, что Чехия \"подхватила вирус войны\" с историческими памятниками"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/politika/11426863"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "6860632",
+                "href": "https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210520/6135399.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/politika/11426863",
+        "id": "https://tass.ru/politika/11426863",
+        "guidislink": false,
+        "published": "Thu, 20 May 2021 15:42:14 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            20,
+            12,
+            42,
+            14,
+            3,
+            140,
+            0
+        ],
+        "summary": "Прага последовательно вытравливает память об освобождении Чехословакии силами советских воинов, отметили в ведомстве",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Прага последовательно вытравливает память об освобождении Чехословакии силами советских воинов, отметили в ведомстве"
+        },
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Внешняя политика",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

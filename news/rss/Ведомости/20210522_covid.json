@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 8709 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8709 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/05/22/870879-v-rossii-za-sutki-viyavili-8709-novih-sluchaev-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/3y/nwtai/normal-uzm.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/05/22/870879-v-rossii-za-sutki-viyavili-8709-novih-sluchaev-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/05/22/870879-v-rossii-za-sutki-viyavili-8709-novih-sluchaev-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/05/22/870879-v-rossii-za-sutki-viyavili-8709-novih-sluchaev-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 22 May 2021 11:10:26 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            22,
+            8,
+            10,
+            26,
+            5,
+            142,
+            0
+        ]
+    }
+]
