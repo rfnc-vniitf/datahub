@@ -157,7 +157,11 @@
 21.05.2021 | 128 | 5 
 22.05.2021 | 54 | 3 
 23.05.2021 | 55 | 1 
-24.05.2021 | 1 | 1 
+24.05.2021 | 128 | 4 
+25.05.2021 | 111 | 4 
+26.05.2021 | 107 | 0 
+27.05.2021 | 34 | 2 
 
 > ### Последние новости по теме covid-19:
-+ [Трое ученых института вирусологии в Ухане тяжело болели в ноябре 2019 — WSJ](https://aif.ru/politics/world/ssha_trebuyut_ot_knr_predostavit_voz_svedeniya_o_rannih_sluchayah_covid-19)
++ [Вакцинация против коронавируса может потребоваться ежегодно - эпидемиолог](https://aif.ru/health/coronavirus/murashko_tolko_vakcinaciya_mozhet_kardinalno_izmenit_situaciyu_s_covid_v_rf)
++ [Китай назвал клеветой заявление США о «лабораторной утечке» коронавируса](https://aif.ru/society/krasnyy_krest_i_krasnyy_polumesyac_prosyat_rf_predostavit_im_sputnik_v)

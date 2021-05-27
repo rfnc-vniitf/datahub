@@ -157,8 +157,10 @@
 21.05.2021 | 46 | 1 
 22.05.2021 | 11 | 1 
 23.05.2021 | 12 | 3 
+24.05.2021 | 52 | 9 
+25.05.2021 | 51 | 4 
+26.05.2021 | 52 | 1 
+27.05.2021 | 10 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Собянин заявил, что Москва лучше мировых городов справилась с пандемией](https://www.vedomosti.ru/society/news/2021/05/23/870907-sobyanin-zayavil-chto-moskva-luchshe-mirovih-gorodov-spravilas-s-pandemiei)
-+ [В России за сутки выявили 8951 новый случай коронавируса](https://www.vedomosti.ru/society/news/2021/05/23/870909-v-rossii-za-sutki-viyavili-8951-novii-sluchai-koronavirusa)
-+ [Гинцубург рассказал о последствиях постковидного синдрома для привитых](https://www.vedomosti.ru/society/news/2021/05/23/870906-gintsuburg-rasskazal-o-posledstviyah-postkovidnogo-sindroma-dlya-privitih)
++ [Эпидемиолог заявил о сезонности вакцинации от коронавируса](https://www.vedomosti.ru/society/news/2021/05/27/871538-ezhegodnoi-vaktsinatsii-koronavirusa)

@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 8373 случая коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8373 случая коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/05/26/871375-8373-sluchaya-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/42/ns27i/normal-utg.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/05/26/871375-8373-sluchaya-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/05/26/871375-8373-sluchaya-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/05/26/871375-8373-sluchaya-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Wed, 26 May 2021 11:17:29 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            26,
+            8,
+            17,
+            29,
+            2,
+            146,
+            0
+        ]
+    }
+]

@@ -157,8 +157,10 @@
 21.05.2021 | 20 | 1 
 22.05.2021 | 20 | 1 
 23.05.2021 | 20 | 2 
-24.05.2021 | 2 | 0 
+24.05.2021 | 20 | 1 
+25.05.2021 | 20 | 1 
+26.05.2021 | 20 | 1 
+27.05.2021 | 20 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Российские ученые выявили два новых опасных вируса, которые переносят клещи](https://riafan.ru/1450845-rossiiskie-uchenye-vyyavili-dva-novyh-opasnyh-virusa-kotorye-perenosyat-kleshchi)
-+ [Телеведущая Юлия Барановская восстановила ликвидированное в пандемию ИП](https://riafan.ru/1450832-televedushchaya-yuliya-baranovskaya-vosstanovila-likvidirovannoe-v-pandemiyu-ip)
++ [Юлию Галямину оштрафовали за нарушение коронавирусных ограничений на «Земском съезде»](https://riafan.ru/1452948-yuliyu-galyaminu-oshtrafovali-za-narushenie-koronavirusnyh-ogranichenii-na-zemskom-sezde)

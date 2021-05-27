@@ -1,4 +1,628 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-08,-22.0,-19.0,,,-21.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-09,-30.0,-21.0,,,-23.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-10,-30.0,-15.0,,,-22.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-11,-29.0,-11.0,,,-22.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-12,-34.0,-13.0,,,-25.0,13.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-13,-27.0,-6.0,,,-14.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-14,-21.0,2.0,,,-14.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-15,-31.0,-19.0,,,-22.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-16,-47.0,-30.0,,,-35.0,14.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-17,-30.0,-12.0,,,-20.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-18,-33.0,-15.0,,,-20.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-19,-32.0,-11.0,,,-20.0,12.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-20,-31.0,-10.0,,,-14.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-21,-22.0,3.0,,,-5.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-22,-32.0,-19.0,,,-18.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-23,-32.0,-12.0,,,-20.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-24,-30.0,-11.0,,,-18.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-25,-33.0,-14.0,,,-18.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-26,-30.0,-3.0,,,-14.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-27,-39.0,-16.0,,,-11.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-02-28,-14.0,9.0,,,-11.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-01,-22.0,-9.0,,,-28.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-02,-29.0,-12.0,,,-30.0,11.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-03,-28.0,-8.0,,,-30.0,11.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-04,-29.0,-3.0,,,-30.0,11.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-05,-32.0,-7.0,,,-31.0,12.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-06,-32.0,-8.0,,,-13.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-07,-24.0,5.0,,,-11.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-08,-25.0,-10.0,,,-18.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-09,-28.0,-10.0,,,-20.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-10,-28.0,-11.0,,,-19.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-11,-27.0,-10.0,,,-19.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-12,-27.0,-8.0,,,-16.0,11.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-13,-26.0,-8.0,,,-10.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-14,-23.0,0.0,,,-13.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-15,-29.0,-14.0,,,-17.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-16,-25.0,-6.0,,,-17.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-17,-23.0,-6.0,,,-17.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-18,-21.0,-6.0,,,-17.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-19,-21.0,2.0,,,-15.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-20,-20.0,3.0,,,-11.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-21,0.0,19.0,,,-5.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-22,-14.0,-4.0,,,-15.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-23,-16.0,-5.0,,,-17.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-24,-20.0,-5.0,,,-17.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-25,-18.0,1.0,,,-15.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-26,-31.0,-11.0,,,-20.0,12.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-27,-19.0,-1.0,,,-9.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-28,-21.0,3.0,,,-9.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-29,-18.0,-2.0,,,-15.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-30,-17.0,2.0,,,-16.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-03-31,-16.0,4.0,,,-17.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-01,-11.0,11.0,,,-16.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-02,-16.0,13.0,,,-42.0,14.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-03,-9.0,19.0,,,-8.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-04,-48.0,-37.0,,,-21.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-05,-2.0,12.0,,,-57.0,13.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-06,-13.0,4.0,,,-14.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-07,-13.0,1.0,,,-15.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-08,-18.0,2.0,,,-14.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-09,-14.0,1.0,,,-12.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-10,-10.0,8.0,,,-2.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-11,6.0,22.0,,,-6.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-12,-16.0,-3.0,,,-13.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-13,-12.0,0.0,,,-14.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-14,-13.0,0.0,,,-16.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-15,-22.0,-11.0,,,-15.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-16,-24.0,-3.0,,,-12.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-17,-18.0,0.0,,,-4.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-18,0.0,15.0,,,-6.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-19,-13.0,-4.0,,,-13.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-20,-12.0,0.0,,,-15.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-21,-25.0,-9.0,,,-15.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-22,-21.0,-4.0,,,-14.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-23,-16.0,4.0,,,-16.0,8.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-24,-7.0,7.0,,,-5.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-25,3.0,15.0,,,-8.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-26,-11.0,-4.0,,,-17.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-27,-13.0,-2.0,,,-15.0,5.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-28,-14.0,1.0,,,-14.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-29,-10.0,5.0,,,-15.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-04-30,-21.0,7.0,,,-13.0,10.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-01,-6.0,14.0,,,-8.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-02,5.0,28.0,,,-8.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-03,-9.0,1.0,,,-13.0,5.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-04,-15.0,5.0,,,-14.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-05,-21.0,3.0,,,-15.0,9.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-06,-6.0,9.0,,,-11.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-07,-12.0,15.0,,,-13.0,7.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-08,-8.0,20.0,,,-3.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-09,14.0,40.0,,,-1.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-10,-7.0,2.0,,,-12.0,4.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-11,-10.0,4.0,,,-14.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-12,-9.0,8.0,,,-13.0,5.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-13,-7.0,11.0,,,-14.0,5.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-14,-10.0,10.0,,,-10.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-15,-2.0,21.0,,,-9.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-16,13.0,36.0,,,-9.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-17,4.0,11.0,,,-10.0,3.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-18,-2.0,13.0,,,-13.0,4.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-19,3.0,15.0,,,-18.0,5.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-20,5.0,17.0,,,-14.0,5.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-21,-8.0,14.0,,,-16.0,6.0
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-22,-5.0,19.0,,,-10.0,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2021-05-23,14.0,31.0,,,-8.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-03-24,,,,,-46.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-03-25,,,,,-52.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-03-26,,,,,-50.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-03-31,,,,,-49.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-01,,,,,-54.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-02,,,,,-53.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-07,,,,,-54.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-08,,,,,-55.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-09,,,,,-55.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-10,,,,,-72.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-13,,,,,-71.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-14,,,,,-56.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-15,,,,,-49.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-16,,,,,-51.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-21,,,,,-49.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-22,,,,,-48.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-23,,,,,-47.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-28,,,,,-49.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-29,,,,,-44.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-04-30,,,,,-47.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-05-05,,,,,-44.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-05-06,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-05-07,,,,,-46.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-05-12,,,,,-46.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-05-13,,,,,-39.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-05-14,,,,,-40.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-05-18,,,,,-68.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-08,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-09,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-10,,,,,-27.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-11,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-12,,,,,-15.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-15,,,,,-15.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-16,,,,,-23.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-17,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-18,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-19,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-22,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-23,,,,,-25.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-24,,,,,-42.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-25,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-26,,,,,-17.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-29,,,,,-23.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-06-30,,,,,-28.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-01,,,,,-60.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-02,,,,,-28.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-03,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-06,,,,,-27.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-07,,,,,-30.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-08,,,,,-28.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-09,,,,,-23.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-10,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-13,,,,,-26.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-14,,,,,-29.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-15,,,,,-27.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-16,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-17,,,,,-19.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-20,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-21,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-22,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-23,,,,,-23.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-24,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-27,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-28,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-29,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-30,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-07-31,,,,,-34.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-03,,,,,-50.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-04,,,,,-37.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-05,,,,,-34.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-06,,,,,-31.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-07,,,,,-28.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-10,,,,,-27.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-11,,,,,-29.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-12,,,,,-31.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-13,,,,,-30.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-08-14,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-11,,,,,-12.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-14,,,,,-5.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-15,,,,,-11.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-16,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-17,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-18,,,,,-8.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-21,,,,,-13.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-22,,,,,-12.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-23,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-24,,,,,-8.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-25,,,,,-8.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-28,,,,,-4.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-29,,,,,-11.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-09-30,,,,,-13.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-01,,,,,-11.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-02,,,,,-9.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-05,,,,,-6.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-06,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-07,,,,,-14.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-08,,,,,-11.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-09,,,,,-17.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-12,,,,,-67.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-13,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-14,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-15,,,,,-13.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-16,,,,,-13.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-19,,,,,-12.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-20,,,,,-9.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-21,,,,,-15.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-22,,,,,-7.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-23,,,,,-3.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-26,,,,,-6.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-27,,,,,-8.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-28,,,,,-8.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-29,,,,,-8.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-10-30,,,,,-2.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-02,,,,,-10.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-03,,,,,-10.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-04,,,,,-10.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-05,,,,,-4.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-06,,,,,-2.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-09,,,,,-10.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-10,,,,,-10.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-11,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-12,,,,,-10.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-13,,,,,-15.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-16,,,,,-10.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-17,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-18,,,,,-11.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-19,,,,,-13.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-20,,,,,-13.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-23,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-24,,,,,-12.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-25,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-26,,,,,-12.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-27,,,,,-9.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-11-30,,,,,-12.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-01,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-02,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-03,,,,,-9.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-04,,,,,-5.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-07,,,,,-3.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-08,,,,,-7.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-09,,,,,-14.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-10,,,,,-6.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-11,,,,,-5.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-14,,,,,-8.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-15,,,,,-11.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-16,,,,,-9.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-17,,,,,-30.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-18,,,,,-26.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-21,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-22,,,,,-39.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-23,,,,,-43.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-24,,,,,-58.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-25,,,,,-78.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-28,,,,,-63.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-29,,,,,-60.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-30,,,,,-57.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2020-12-31,,,,,-61.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-04,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-05,,,,,-40.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-06,,,,,-35.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-07,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-08,,,,,-33.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-11,,,,,-31.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-12,,,,,-34.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-13,,,,,-34.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-14,,,,,-28.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-15,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-18,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-19,,,,,-28.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-20,,,,,-27.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-21,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-22,,,,,-23.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-25,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-26,,,,,-28.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-27,,,,,-29.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-28,,,,,-23.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-01-29,,,,,-31.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-01,,,,,-24.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-02,,,,,-20.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-03,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-04,,,,,-19.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-05,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-08,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-09,,,,,-27.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-10,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-11,,,,,-19.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-12,,,,,-26.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-15,,,,,-38.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-16,,,,,-35.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-17,,,,,-17.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-18,,,,,-17.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-19,,,,,-26.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-22,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-23,,,,,-20.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-24,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-25,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-02-26,,,,,-17.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-01,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-02,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-03,,,,,-33.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-04,,,,,-39.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-05,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-08,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-09,,,,,-17.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-10,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-11,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-12,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-15,,,,,-15.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-16,,,,,-20.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-17,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-18,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-19,,,,,-23.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-22,,,,,-16.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-23,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-24,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-25,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-26,,,,,-29.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-29,,,,,-18.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-30,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-03-31,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-01,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-02,,,,,-62.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-05,,,,,-55.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-06,,,,,-25.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-07,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-08,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-09,,,,,-21.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-12,,,,,-20.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-13,,,,,-29.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-14,,,,,-31.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-15,,,,,-39.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-16,,,,,-35.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-19,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-20,,,,,-41.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-21,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-22,,,,,-37.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-23,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-26,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-27,,,,,-35.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-28,,,,,-40.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-29,,,,,-41.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-04-30,,,,,-37.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-03,,,,,-34.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-04,,,,,-39.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-05,,,,,-39.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-06,,,,,-37.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-07,,,,,-36.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-10,,,,,-25.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-11,,,,,-38.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-12,,,,,-31.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-13,,,,,-33.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-14,,,,,-32.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-17,,,,,-22.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-18,,,,,-27.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-19,,,,,-35.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-20,,,,,-23.0,
+CA,Canada,Quebec,Pontiac Regional County Municipality,,,,ChIJxQu3hIe80EwR1lETOEjueaQ,2021-05-21,,,,,-32.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-15,-6.0,4.0,-29.0,,2.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-16,1.0,4.0,,,0.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-17,2.0,5.0,,,1.0,1.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-18,-12.0,-9.0,,,0.0,2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-19,-3.0,-3.0,,,1.0,0.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-20,-2.0,9.0,,,2.0,0.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-21,2.0,0.0,,,2.0,0.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-22,0.0,4.0,14.0,,2.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-23,12.0,14.0,,,-12.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-24,3.0,4.0,,,5.0,0.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-25,5.0,4.0,,,4.0,0.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-26,6.0,6.0,,,1.0,0.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-27,-44.0,-27.0,,,-33.0,17.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-28,5.0,6.0,,,3.0,0.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-02-29,6.0,11.0,-13.0,,9.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-01,15.0,8.0,,,-4.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-02,11.0,9.0,,,-14.0,2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-03,14.0,8.0,,,-14.0,1.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-04,7.0,7.0,,,-15.0,2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-05,11.0,7.0,,,-15.0,2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-06,3.0,-7.0,,,-15.0,3.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-07,6.0,3.0,23.0,,1.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-08,15.0,9.0,,,1.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-09,-5.0,-7.0,,,1.0,2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-10,-21.0,-18.0,,,-23.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-11,12.0,4.0,,,-4.0,-2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-12,11.0,23.0,,,3.0,-2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-13,-19.0,22.0,,,-14.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-14,-19.0,16.0,-46.0,,3.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-15,-12.0,8.0,,,-2.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-16,-13.0,16.0,,,-21.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-17,-36.0,-7.0,,,-29.0,14.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-18,-30.0,7.0,,,-32.0,13.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-19,-36.0,0.0,,,-33.0,15.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-20,-50.0,-15.0,,,-37.0,20.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-21,-52.0,-16.0,-21.0,,-28.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-22,-53.0,-24.0,,,-29.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-23,-33.0,-8.0,,,-41.0,16.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-24,-45.0,-20.0,,,-48.0,18.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-25,-53.0,-26.0,,,-59.0,22.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-26,-55.0,-15.0,,,-59.0,25.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-27,-57.0,-28.0,,,-58.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-28,-59.0,-32.0,-11.0,,-30.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-29,-67.0,-38.0,,,-33.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-30,-57.0,-35.0,,,-61.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-03-31,-47.0,-24.0,,,-61.0,22.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-01,-50.0,-25.0,,,-60.0,24.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-02,-55.0,-24.0,,,-60.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-03,-56.0,-33.0,,,-59.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-04,-57.0,-26.0,-32.0,,-33.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-05,-77.0,-85.0,,,-45.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-06,-39.0,-18.0,,,-59.0,21.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-07,-47.0,-25.0,,,-60.0,23.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-08,-43.0,-24.0,,,-60.0,23.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-09,-55.0,-20.0,,,-61.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-10,-57.0,-27.0,,,-70.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-11,-57.0,-22.0,-61.0,,-37.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-12,-68.0,-83.0,,,-49.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-13,-60.0,-44.0,,,-80.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-14,-42.0,-22.0,,,-59.0,22.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-15,-43.0,-26.0,,,-59.0,23.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-16,-45.0,-25.0,,,-57.0,25.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-17,-48.0,-30.0,,,-55.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-18,-47.0,-23.0,-24.0,,-24.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-19,-74.0,-83.0,,,-42.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-20,-28.0,-13.0,,,-52.0,20.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-21,-42.0,-26.0,,,-52.0,21.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-22,-36.0,-24.0,,,-54.0,22.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-23,-38.0,-22.0,,,-52.0,23.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-24,-36.0,-26.0,,,-52.0,23.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-25,-30.0,-17.0,-4.0,,-22.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-26,-48.0,-76.0,,,-29.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-27,-21.0,-10.0,,,-48.0,18.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-28,-27.0,-17.0,,,-50.0,19.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-29,-23.0,-17.0,,,-51.0,18.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-04-30,-41.0,-18.0,,,-47.0,22.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-01,-37.0,-22.0,,,-47.0,23.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-02,-19.0,-10.0,15.0,,-18.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-03,-54.0,-73.0,,,-36.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-04,-16.0,-4.0,,,-44.0,16.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-05,-20.0,-18.0,,,-42.0,16.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-06,-4.0,-11.0,,,-41.0,15.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-07,-21.0,-8.0,,,-40.0,17.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-08,-21.0,-11.0,,,-39.0,18.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-09,-21.0,5.0,-25.0,,-11.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-10,-38.0,-68.0,,,-22.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-11,-8.0,0.0,,,-34.0,13.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-12,-19.0,-10.0,,,-36.0,14.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-13,-11.0,-7.0,,,-37.0,13.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-14,-11.0,-7.0,,,-35.0,14.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-15,-20.0,-10.0,,,-35.0,17.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-16,-5.0,8.0,,,-6.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-17,-19.0,-52.0,,,-24.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-18,15.0,7.0,,,-73.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-19,-1.0,3.0,,,-33.0,12.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-20,5.0,2.0,,,-34.0,12.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-21,-5.0,7.0,,,-32.0,12.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-22,-7.0,0.0,,,-29.0,12.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-23,0.0,6.0,,,1.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-24,3.0,-11.0,,,-5.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-25,5.0,7.0,,,-33.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-26,7.0,2.0,,,-30.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-27,4.0,8.0,,,-29.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-28,-2.0,10.0,,,-28.0,12.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-29,-5.0,-2.0,,,-28.0,13.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-30,-4.0,8.0,,,10.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-05-31,-18.0,-13.0,,,-5.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-01,9.0,9.0,,,-26.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-02,10.0,5.0,,,-26.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-03,4.0,-1.0,,,-28.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-04,7.0,5.0,,,-25.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-05,9.0,1.0,,,-26.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-06,-7.0,-5.0,,,9.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-07,21.0,1.0,,,0.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-08,14.0,3.0,,,-24.0,8.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-09,12.0,5.0,,,-25.0,8.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-10,4.0,6.0,,,-26.0,8.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-11,-2.0,5.0,,,-24.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-12,5.0,4.0,,,-25.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-13,3.0,11.0,,,11.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-14,26.0,15.0,,,0.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-15,24.0,15.0,,,-23.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-16,19.0,13.0,,,-24.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-17,22.0,16.0,,,-24.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-18,14.0,17.0,,,-24.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-19,21.0,22.0,,,-23.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-20,19.0,28.0,,,13.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-21,36.0,25.0,,,14.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-22,31.0,25.0,,,-30.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-23,42.0,45.0,,,-30.0,3.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-24,-16.0,-54.0,,,-75.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-25,17.0,24.0,,,-29.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-26,13.0,9.0,,,-30.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-27,5.0,13.0,,,5.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-28,15.0,6.0,,,-1.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-29,26.0,20.0,,,-31.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-06-30,36.0,30.0,,,-26.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-01,11.0,9.0,,,-52.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-02,31.0,26.0,,,-32.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-03,32.0,21.0,,,-43.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-04,20.0,27.0,,,6.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-05,41.0,14.0,,,1.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-06,34.0,24.0,,,-29.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-07,27.0,19.0,,,-28.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-08,17.0,15.0,,,-29.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-09,16.0,16.0,,,-28.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-10,15.0,11.0,,,-29.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-11,1.0,8.0,,,5.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-12,32.0,11.0,,,-2.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-13,30.0,18.0,,,-30.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-14,27.0,22.0,,,-30.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-15,32.0,17.0,,,-29.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-16,27.0,25.0,,,-28.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-17,16.0,17.0,,,-31.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-18,19.0,19.0,,,9.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-19,27.0,8.0,,,-3.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-20,,33.0,,,-40.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-21,45.0,25.0,,,-40.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-22,42.0,27.0,,,-41.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-23,26.0,25.0,,,-40.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-24,27.0,23.0,,,-40.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-25,28.0,25.0,,,4.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-26,22.0,8.0,,,-8.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-27,,29.0,,,-47.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-28,29.0,18.0,,,-46.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-29,43.0,19.0,,,-43.0,8.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-30,31.0,16.0,,,-44.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-07-31,28.0,20.0,,,-42.0,8.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-01,30.0,22.0,,,-2.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-02,39.0,11.0,,,-1.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-03,39.0,28.0,,,-38.0,8.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-04,18.0,8.0,,,-37.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-05,35.0,15.0,,,-36.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-06,31.0,18.0,,,-34.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-07,28.0,10.0,,,-35.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-08,33.0,22.0,,,11.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-09,61.0,19.0,,,6.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-10,36.0,20.0,,,-31.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-11,27.0,8.0,,,-33.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-12,37.0,14.0,,,-33.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-13,31.0,14.0,,,-31.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-14,33.0,14.0,,,-31.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-15,26.0,21.0,,,7.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-16,60.0,11.0,,,11.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-17,,,,,-31.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-18,,,,,-30.0,8.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-19,,,,,-28.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-20,,,,,-28.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-21,,,,,,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-24,,,,,-27.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-25,,,,,-26.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-26,,,,,-24.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-27,,,,,-24.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-28,,,,,,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-08-31,,,,,-28.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-01,,,,,-26.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-02,,,,,-26.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-03,,,,,-25.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-04,,,,,,2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-07,,,,,-76.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-08,,,,,-24.0,3.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-09,,,,,-25.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-10,,,,,-22.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-11,20.0,-2.0,,,-21.0,2.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-12,31.0,14.0,,,6.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-13,8.0,0.0,,,-3.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-14,17.0,4.0,,,-20.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-15,19.0,-1.0,,,-18.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-16,8.0,-7.0,,,-20.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-17,9.0,-8.0,,,-18.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-18,17.0,-5.0,,,-17.0,4.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-19,24.0,14.0,,,8.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-20,35.0,4.0,,,4.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-21,18.0,3.0,,,-21.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-22,9.0,-3.0,,,-17.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-23,19.0,-4.0,,,-18.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-24,12.0,-1.0,,,-17.0,5.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-25,11.0,-3.0,,,-21.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-26,28.0,12.0,,,12.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-27,31.0,9.0,,,7.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-28,10.0,2.0,,,-19.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-29,5.0,-1.0,,,-17.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-09-30,0.0,-7.0,,,-20.0,8.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-01,3.0,-1.0,,,-16.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-02,-2.0,-9.0,,,-17.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-03,5.0,2.0,,,1.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-04,14.0,-2.0,,,-3.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-05,9.0,2.0,,,-19.0,6.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-06,5.0,-2.0,,,-19.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-07,-2.0,-8.0,,,-20.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-08,0.0,4.0,,,-18.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-09,2.0,-4.0,,,-25.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-10,-12.0,-6.0,,,3.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-11,-8.0,-1.0,,,-11.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-12,-4.0,-12.0,,,-77.0,20.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-13,-17.0,-1.0,,,-23.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-14,-13.0,3.0,,,-22.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-15,-13.0,2.0,,,-22.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-16,-18.0,-5.0,,,-21.0,13.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-17,-24.0,-2.0,-3.0,,-10.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-18,-16.0,-9.0,,,-11.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-19,-16.0,-5.0,,,-22.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-20,-13.0,1.0,,,-22.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-21,-17.0,-13.0,,,-22.0,12.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-22,-12.0,1.0,,,-19.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-23,-13.0,-8.0,,,-20.0,12.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-24,-18.0,1.0,18.0,,0.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-25,-13.0,-8.0,,,-7.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-26,-15.0,-10.0,,,-22.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-27,-12.0,-4.0,,,-22.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-28,-10.0,-7.0,,,-21.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-29,-11.0,-1.0,,,-18.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-30,-12.0,-3.0,,,-19.0,12.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-10-31,-18.0,5.0,32.0,,-6.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-01,-20.0,-5.0,,,-16.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-02,-11.0,-5.0,,,-21.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-03,-13.0,-8.0,,,-21.0,10.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-04,-16.0,-9.0,,,-21.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-05,-10.0,-1.0,,,-19.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-06,-13.0,-6.0,,,-21.0,11.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-07,-9.0,-2.0,,,-7.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-08,-9.0,-4.0,,,-15.0,
 CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-09,-1.0,-2.0,,,-24.0,10.0
 CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-10,-3.0,1.0,,,-22.0,8.0
 CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2020-11-11,-9.0,-8.0,,,-22.0,10.0
@@ -192,6 +816,9 @@ CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5
 CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2021-05-18,26.0,15.0,,,-19.0,7.0
 CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2021-05-19,29.0,17.0,,,-25.0,8.0
 CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2021-05-20,35.0,28.0,,,-18.0,7.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2021-05-21,34.0,20.0,,,-28.0,9.0
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2021-05-22,36.0,27.0,,,-1.0,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2021-05-23,53.0,31.0,,,-13.0,
 CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2020-02-15,4.0,1.0,87.0,7.0,2.0,1.0
 CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2020-02-16,10.0,9.0,111.0,5.0,3.0,-1.0
 CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2020-02-17,2.0,1.0,31.0,0.0,3.0,0.0
@@ -653,6 +1280,9 @@ CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2021-05-17,-12.0,2.0,133.
 CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2021-05-18,-13.0,5.0,110.0,-55.0,-39.0,13.0
 CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2021-05-19,-13.0,3.0,117.0,-58.0,-41.0,14.0
 CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2021-05-20,-15.0,6.0,135.0,-57.0,-39.0,13.0
+CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2021-05-21,-21.0,-1.0,91.0,-56.0,-40.0,13.0
+CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2021-05-22,-24.0,-2.0,112.0,-48.0,-10.0,5.0
+CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2021-05-23,-1.0,10.0,165.0,-47.0,-9.0,2.0
 CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2020-02-15,2.0,0.0,,,2.0,
 CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2020-02-16,12.0,8.0,,,15.0,
 CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2020-02-17,-3.0,-6.0,,,8.0,0.0
@@ -1108,6 +1738,9 @@ CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2021-05-17,14.
 CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2021-05-18,6.0,0.0,,,-27.0,6.0
 CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2021-05-19,3.0,3.0,,,-34.0,8.0
 CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2021-05-20,2.0,7.0,,,-31.0,7.0
+CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2021-05-21,-3.0,-1.0,,,-26.0,7.0
+CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2021-05-22,6.0,8.0,,,-18.0,4.0
+CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2021-05-23,16.0,10.0,,,-18.0,
 CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2020-02-15,4.0,2.0,,,-1.0,
 CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2020-02-16,8.0,,,,,
 CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2020-02-17,-3.0,-3.0,,,5.0,2.0
@@ -1557,6 +2190,9 @@ CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvk
 CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2021-05-18,-27.0,-2.0,,,-24.0,9.0
 CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2021-05-19,-22.0,8.0,,,-25.0,10.0
 CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2021-05-20,-29.0,6.0,,,-23.0,9.0
+CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2021-05-21,-33.0,3.0,,,-26.0,11.0
+CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2021-05-22,-24.0,7.0,,,-24.0,
+CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2021-05-23,-13.0,,,,-11.0,
 CA,Canada,Quebec,Robert-Cliche Regional County Municipality,,,,ChIJFX1CpuOwuUwRcRsPEljAohQ,2020-02-17,,,,,4.0,
 CA,Canada,Quebec,Robert-Cliche Regional County Municipality,,,,ChIJFX1CpuOwuUwRcRsPEljAohQ,2020-02-18,,,,,6.0,
 CA,Canada,Quebec,Robert-Cliche Regional County Municipality,,,,ChIJFX1CpuOwuUwRcRsPEljAohQ,2020-02-19,,,,,3.0,
@@ -1867,6 +2503,7 @@ CA,Canada,Quebec,Robert-Cliche Regional County Municipality,,,,ChIJFX1CpuOwuUwRc
 CA,Canada,Quebec,Robert-Cliche Regional County Municipality,,,,ChIJFX1CpuOwuUwRcRsPEljAohQ,2021-05-18,,,,,-20.0,
 CA,Canada,Quebec,Robert-Cliche Regional County Municipality,,,,ChIJFX1CpuOwuUwRcRsPEljAohQ,2021-05-19,,,,,-23.0,
 CA,Canada,Quebec,Robert-Cliche Regional County Municipality,,,,ChIJFX1CpuOwuUwRcRsPEljAohQ,2021-05-20,,,,,-18.0,
+CA,Canada,Quebec,Robert-Cliche Regional County Municipality,,,,ChIJFX1CpuOwuUwRcRsPEljAohQ,2021-05-21,,,,,-27.0,
 CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2020-02-15,-1.0,-5.0,37.0,-4.0,2.0,1.0
 CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2020-02-16,6.0,6.0,46.0,-10.0,1.0,-1.0
 CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2020-02-17,-3.0,-1.0,16.0,-9.0,1.0,0.0
@@ -2328,6 +2965,9 @@ CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZN
 CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2021-05-18,6.0,10.0,,-51.0,-35.0,12.0
 CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2021-05-19,5.0,11.0,183.0,-51.0,-40.0,14.0
 CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2021-05-20,8.0,16.0,,-56.0,-32.0,12.0
+CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2021-05-21,0.0,15.0,,-53.0,-41.0,13.0
+CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2021-05-22,-8.0,4.0,223.0,-28.0,-15.0,7.0
+CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2021-05-23,9.0,12.0,196.0,-30.0,-15.0,3.0
 CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2020-02-15,5.0,-3.0,,,,
 CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2020-02-16,11.0,6.0,,,,
 CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2020-02-17,,-2.0,,,3.0,0.0
@@ -2783,6 +3423,9 @@ CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpk
 CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2021-05-18,,8.0,,,-17.0,6.0
 CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2021-05-19,,2.0,,,-25.0,9.0
 CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2021-05-20,27.0,16.0,,,-17.0,6.0
+CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2021-05-21,16.0,9.0,,,-23.0,8.0
+CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2021-05-22,16.0,15.0,,,-12.0,
+CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2021-05-23,16.0,7.0,,,-17.0,
 CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2020-02-15,8.0,1.0,,,,
 CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2020-02-16,-4.0,-1.0,,,,
 CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2020-02-17,-4.0,3.0,,,3.0,2.0
@@ -3238,6 +3881,9 @@ CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2021-05-17,-3.0,-1
 CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2021-05-18,7.0,8.0,,,-13.0,4.0
 CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2021-05-19,12.0,5.0,,,-27.0,5.0
 CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2021-05-20,8.0,9.0,,,-16.0,4.0
+CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2021-05-21,-1.0,5.0,,,-24.0,4.0
+CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2021-05-22,-1.0,9.0,,,-10.0,
+CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2021-05-23,-2.0,8.0,,,-13.0,
 CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2020-02-15,-1.0,-2.0,,,,
 CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2020-02-16,-2.0,-11.0,,,,
 CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2020-02-17,-6.0,-9.0,,,2.0,0.0
@@ -3672,6 +4318,9 @@ CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,202
 CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2021-05-18,11.0,10.0,,,-16.0,5.0
 CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2021-05-19,19.0,14.0,,,-21.0,5.0
 CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2021-05-20,24.0,18.0,,,-20.0,4.0
+CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2021-05-21,14.0,8.0,,,-25.0,4.0
+CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2021-05-22,12.0,13.0,,,-14.0,
+CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2021-05-23,,10.0,,,-22.0,
 CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2020-02-15,-2.0,-3.0,3.0,,9.0,
 CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2020-02-16,16.0,11.0,,,6.0,
 CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2020-02-17,0.0,-3.0,,,5.0,0.0
@@ -4127,6 +4776,9 @@ CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2021-05-17,25.0,5.0,,
 CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2021-05-18,20.0,5.0,,,-15.0,5.0
 CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2021-05-19,18.0,10.0,,,-23.0,7.0
 CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2021-05-20,17.0,10.0,,,-15.0,5.0
+CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2021-05-21,14.0,6.0,,,-20.0,6.0
+CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2021-05-22,21.0,17.0,,,-2.0,5.0
+CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2021-05-23,52.0,25.0,,,-7.0,2.0
 CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2020-02-15,2.0,-4.0,-9.0,7.0,2.0,1.0
 CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2020-02-16,6.0,-4.0,48.0,14.0,6.0,-1.0
 CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2020-02-17,5.0,-4.0,14.0,2.0,-3.0,1.0
@@ -4588,6 +5240,9 @@ CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2021-05-17,-6.0,6.0,9
 CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2021-05-18,-9.0,8.0,70.0,-30.0,-28.0,8.0
 CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2021-05-19,-12.0,10.0,123.0,-37.0,-34.0,9.0
 CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2021-05-20,-12.0,14.0,85.0,-40.0,-29.0,7.0
+CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2021-05-21,-17.0,2.0,71.0,-42.0,-33.0,8.0
+CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2021-05-22,-21.0,0.0,75.0,-45.0,-19.0,5.0
+CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2021-05-23,-8.0,4.0,59.0,-50.0,-21.0,4.0
 CA,Canada,Quebec,Témiscamingue Regional County Municipality,,,,ChIJn0_hZ0oD4EwRb2gSGKc79DE,2020-03-24,,,,,-41.0,
 CA,Canada,Quebec,Témiscamingue Regional County Municipality,,,,ChIJn0_hZ0oD4EwRb2gSGKc79DE,2020-03-25,,,,,-52.0,
 CA,Canada,Quebec,Témiscamingue Regional County Municipality,,,,ChIJn0_hZ0oD4EwRb2gSGKc79DE,2020-03-26,,,,,-53.0,
@@ -4842,6 +5497,7 @@ CA,Canada,Quebec,Témiscamingue Regional County Municipality,,,,ChIJn0_hZ0oD4EwR
 CA,Canada,Quebec,Témiscamingue Regional County Municipality,,,,ChIJn0_hZ0oD4EwRb2gSGKc79DE,2021-05-18,,,,,5.0,
 CA,Canada,Quebec,Témiscamingue Regional County Municipality,,,,ChIJn0_hZ0oD4EwRb2gSGKc79DE,2021-05-19,,,,,-16.0,
 CA,Canada,Quebec,Témiscamingue Regional County Municipality,,,,ChIJn0_hZ0oD4EwRb2gSGKc79DE,2021-05-20,,,,,-11.0,
+CA,Canada,Quebec,Témiscamingue Regional County Municipality,,,,ChIJn0_hZ0oD4EwRb2gSGKc79DE,2021-05-21,,,,,-10.0,
 CA,Canada,Quebec,Témiscouata Regional County Municipality,,,,ChIJT7IJPznZvUwR8sM2t_jQkoI,2020-02-19,,,,,2.0,
 CA,Canada,Quebec,Témiscouata Regional County Municipality,,,,ChIJT7IJPznZvUwR8sM2t_jQkoI,2020-02-27,,,,,-17.0,
 CA,Canada,Quebec,Témiscouata Regional County Municipality,,,,ChIJT7IJPznZvUwR8sM2t_jQkoI,2020-03-02,,,,,-14.0,
@@ -5142,6 +5798,7 @@ CA,Canada,Quebec,Témiscouata Regional County Municipality,,,,ChIJT7IJPznZvUwR8s
 CA,Canada,Quebec,Témiscouata Regional County Municipality,,,,ChIJT7IJPznZvUwR8sM2t_jQkoI,2021-05-18,,,,,-20.0,
 CA,Canada,Quebec,Témiscouata Regional County Municipality,,,,ChIJT7IJPznZvUwR8sM2t_jQkoI,2021-05-19,,,,,-23.0,
 CA,Canada,Quebec,Témiscouata Regional County Municipality,,,,ChIJT7IJPznZvUwR8sM2t_jQkoI,2021-05-20,,,,,-16.0,
+CA,Canada,Quebec,Témiscouata Regional County Municipality,,,,ChIJT7IJPznZvUwR8sM2t_jQkoI,2021-05-21,,,,,-30.0,
 CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2020-02-15,-1.0,-5.0,38.0,0.0,5.0,0.0
 CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2020-02-16,5.0,3.0,16.0,-11.0,5.0,0.0
 CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2020-02-17,-1.0,-2.0,6.0,2.0,2.0,0.0
@@ -5603,6 +6260,9 @@ CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0a
 CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2021-05-18,-4.0,0.0,,-53.0,-33.0,10.0
 CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2021-05-19,-5.0,0.0,,-53.0,-34.0,11.0
 CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2021-05-20,-5.0,7.0,,-51.0,-31.0,10.0
+CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2021-05-21,-16.0,0.0,,-49.0,-36.0,10.0
+CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2021-05-22,-15.0,-6.0,,-35.0,-19.0,6.0
+CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2021-05-23,6.0,3.0,,-26.0,-20.0,3.0
 CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2020-02-15,7.0,-3.0,86.0,13.0,2.0,0.0
 CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2020-02-16,11.0,6.0,44.0,-1.0,8.0,-1.0
 CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2020-02-17,12.0,3.0,21.0,7.0,0.0,0.0
@@ -6064,6 +6724,9 @@ CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPl
 CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2021-05-18,7.0,18.0,,-39.0,-26.0,11.0
 CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2021-05-19,9.0,21.0,,-39.0,-34.0,13.0
 CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2021-05-20,5.0,20.0,,-29.0,-25.0,10.0
+CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2021-05-21,-13.0,15.0,,1.0,-35.0,13.0
+CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2021-05-22,-7.0,15.0,,44.0,-7.0,7.0
+CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2021-05-23,6.0,23.0,,26.0,-12.0,4.0
 CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2020-02-15,2.0,-1.0,-6.0,3.0,-2.0,0.0
 CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2020-02-16,5.0,-2.0,40.0,0.0,-3.0,-1.0
 CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2020-02-17,-11.0,-13.0,9.0,-29.0,-68.0,14.0
@@ -6525,6 +7188,9 @@ CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2021-05-17,-2.0,13.0
 CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2021-05-18,-8.0,12.0,109.0,-38.0,-21.0,6.0
 CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2021-05-19,-9.0,10.0,82.0,-44.0,-20.0,6.0
 CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2021-05-20,-2.0,20.0,35.0,-48.0,-22.0,7.0
+CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2021-05-21,-9.0,12.0,55.0,-47.0,-26.0,7.0
+CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2021-05-22,-11.0,8.0,113.0,-42.0,-9.0,3.0
+CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2021-05-23,-8.0,2.0,189.0,-51.0,-11.0,2.0
 CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2020-02-15,4.0,6.0,,,,
 CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2020-02-16,,-7.0,,,,
 CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2020-02-17,,-16.0,,,-66.0,
@@ -6945,6 +7611,9 @@ CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2
 CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2021-05-18,,,,,-11.0,
 CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2021-05-19,,,,,-11.0,
 CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2021-05-20,,-18.0,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2021-05-21,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2021-05-22,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2021-05-23,,,,,-14.0,
 CA,Canada,Saskatchewan,Division No. 10 - Wynyard,,,,ChIJURvwCDI4HVMRTzSy58soZio,2020-02-17,,,,,-60.0,
 CA,Canada,Saskatchewan,Division No. 10 - Wynyard,,,,ChIJURvwCDI4HVMRTzSy58soZio,2020-03-24,,,,,-34.0,
 CA,Canada,Saskatchewan,Division No. 10 - Wynyard,,,,ChIJURvwCDI4HVMRTzSy58soZio,2020-03-31,,,,,-36.0,
@@ -7185,6 +7854,7 @@ CA,Canada,Saskatchewan,Division No. 10 - Wynyard,,,,ChIJURvwCDI4HVMRTzSy58soZio,
 CA,Canada,Saskatchewan,Division No. 10 - Wynyard,,,,ChIJURvwCDI4HVMRTzSy58soZio,2021-05-18,,,,,-11.0,
 CA,Canada,Saskatchewan,Division No. 10 - Wynyard,,,,ChIJURvwCDI4HVMRTzSy58soZio,2021-05-19,,,,,-7.0,
 CA,Canada,Saskatchewan,Division No. 10 - Wynyard,,,,ChIJURvwCDI4HVMRTzSy58soZio,2021-05-20,,,,,-10.0,
+CA,Canada,Saskatchewan,Division No. 10 - Wynyard,,,,ChIJURvwCDI4HVMRTzSy58soZio,2021-05-21,,,,,-36.0,
 CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2020-02-15,2.0,-2.0,-28.0,1.0,-4.0,0.0
 CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2020-02-16,7.0,-4.0,19.0,-3.0,-4.0,-2.0
 CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2020-02-17,-9.0,2.0,-18.0,-39.0,-71.0,15.0
@@ -7646,6 +8316,9 @@ CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTk
 CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2021-05-18,-2.0,18.0,161.0,-39.0,-23.0,8.0
 CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2021-05-19,-6.0,15.0,74.0,-49.0,-20.0,8.0
 CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2021-05-20,1.0,30.0,42.0,-52.0,-22.0,9.0
+CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2021-05-21,-6.0,17.0,34.0,-51.0,-25.0,9.0
+CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2021-05-22,-13.0,10.0,76.0,-42.0,-5.0,3.0
+CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2021-05-23,-3.0,3.0,167.0,-51.0,-9.0,1.0
 CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2020-02-17,,,,,-69.0,
 CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2020-02-18,,,,,-17.0,
 CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2020-02-19,,,,,-17.0,
@@ -8010,6 +8683,9 @@ CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8r
 CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2021-05-18,,,,,-19.0,
 CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2021-05-19,,,,,-18.0,
 CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2021-05-20,,,,,-21.0,
+CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2021-05-21,,,,,-24.0,
+CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2021-05-22,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2021-05-23,,,,,-27.0,
 CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2020-02-15,4.0,,,,,
 CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2020-02-17,,,,,-59.0,
 CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2020-02-18,,,,,-11.0,
@@ -8377,6 +9053,9 @@ CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9ed
 CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2021-05-18,,,,,-14.0,
 CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2021-05-19,,,,,-17.0,
 CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2021-05-20,,,,,-17.0,
+CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2021-05-21,,,,,-15.0,
+CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2021-05-22,,,,,-35.0,
+CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2021-05-23,,,,,-39.0,
 CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2020-02-15,0.0,,,,,
 CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2020-02-17,,,,,-61.0,
 CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2020-02-18,,7.0,,,-17.0,
@@ -8783,6 +9462,9 @@ CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,
 CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2021-05-18,,,,,-4.0,
 CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2021-05-19,,,,,-6.0,
 CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2021-05-20,,,,,-5.0,
+CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2021-05-21,,24.0,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2021-05-22,,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2021-05-23,,,,,-13.0,
 CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2020-02-15,-4.0,5.0,,,-4.0,0.0
 CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2020-02-16,2.0,7.0,,,-6.0,
 CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2020-02-17,-16.0,-11.0,,,-66.0,13.0
@@ -9239,6 +9921,9 @@ CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHB
 CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2021-05-18,8.0,22.0,,,-15.0,2.0
 CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2021-05-19,6.0,15.0,,,-14.0,4.0
 CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2021-05-20,26.0,32.0,,,-14.0,3.0
+CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2021-05-21,8.0,16.0,,,-22.0,6.0
+CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2021-05-22,6.0,19.0,,,-10.0,0.0
+CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2021-05-23,18.0,16.0,,,-8.0,-1.0
 CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2020-02-15,3.0,-2.0,,,,
 CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2020-02-16,1.0,-1.0,,,,
 CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2020-02-17,-22.0,-29.0,,,-60.0,
@@ -9675,6 +10360,9 @@ CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQ
 CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2021-05-18,16.0,15.0,,,-10.0,1.0
 CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2021-05-19,,14.0,,,-8.0,2.0
 CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2021-05-20,34.0,19.0,,,-15.0,0.0
+CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2021-05-21,27.0,19.0,,,-13.0,3.0
+CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2021-05-22,27.0,22.0,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2021-05-23,19.0,,,,-17.0,
 CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2020-02-15,-3.0,-3.0,,,-2.0,
 CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2020-02-16,2.0,,,,-7.0,
 CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2020-02-17,-28.0,,,,-67.0,
@@ -10126,6 +10814,9 @@ CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRAp
 CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2021-05-18,9.0,,,,-10.0,2.0
 CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2021-05-19,13.0,,,,-10.0,5.0
 CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2021-05-20,40.0,18.0,,,-13.0,1.0
+CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2021-05-21,16.0,12.0,,,-16.0,0.0
+CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2021-05-22,12.0,,,,-19.0,
+CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2021-05-23,10.0,,,,-16.0,
 CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2020-02-17,,,,,-53.0,
 CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2020-02-18,,,,,-29.0,
 CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2020-02-19,,,,,-24.0,
@@ -10477,6 +11168,8 @@ CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM
 CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2021-05-18,,,,,-27.0,
 CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2021-05-19,,,,,-26.0,
 CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2021-05-20,,,,,-23.0,
+CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2021-05-21,,,,,-14.0,
+CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2021-05-22,,,,,6.0,
 CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2020-02-17,,,,,-62.0,
 CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2020-02-18,,,,,-13.0,
 CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2020-02-19,,,,,-10.0,
@@ -10812,6 +11505,8 @@ CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2
 CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2021-05-18,,,,,-11.0,
 CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2021-05-19,,,,,-10.0,
 CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2021-05-20,,,,,-12.0,
+CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2021-05-21,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2021-05-22,,,,,-12.0,
 CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-06-08,,,,,-14.0,
 CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-06-09,,,,,-16.0,
 CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2020-06-10,,,,,-15.0,
@@ -11041,6 +11736,7 @@ CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwX
 CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-05-18,,,,,-12.0,
 CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-05-19,,,,,-15.0,
 CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-05-20,,,,,-13.0,
+CA,Canada,Saskatchewan,Division No. 3 - Assiniboia,,,,ChIJs8SzldRnF1MRcUPMfhOvwXI,2021-05-21,,,,,-18.0,
 CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-08,,,,,-24.0,
 CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-09,,,,,-19.0,
 CA,Canada,Saskatchewan,Division No. 4 - Maple Creek,,,,ChIJgWeqDRlQEVMRTrk6kEe0fPE,2020-06-10,,,,,-26.0,
@@ -11647,6 +12343,9 @@ CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,
 CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-05-18,,,,,-11.0,-2.0
 CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-05-19,,,,,-4.0,-3.0
 CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-05-20,,,,,-7.0,-1.0
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-05-21,,,,,-18.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-05-22,,,,,-11.0,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2021-05-23,,,,,-13.0,
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-15,2.0,5.0,-6.0,-5.0,2.0,0.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-16,5.0,5.0,40.0,-5.0,-2.0,-2.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2020-02-17,-2.0,4.0,9.0,-32.0,-70.0,16.0
@@ -12108,6 +12807,9 @@ CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,20
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-05-18,-19.0,-3.0,61.0,-44.0,-30.0,11.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-05-19,-14.0,3.0,74.0,-44.0,-29.0,10.0
 CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-05-20,-16.0,10.0,-21.0,-52.0,-29.0,12.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-05-21,-20.0,7.0,-11.0,-52.0,-33.0,12.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-05-22,-23.0,0.0,31.0,-53.0,-6.0,5.0
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2021-05-23,-19.0,-9.0,71.0,-60.0,-9.0,4.0
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2020-02-15,3.0,8.0,,,6.0,
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2020-02-16,24.0,21.0,,,5.0,
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2020-02-17,-2.0,-7.0,,,-60.0,
@@ -12562,6 +13264,9 @@ CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-05-18,-1.0,26.0,,,-21.0,5.0
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-05-19,0.0,21.0,,,-18.0,3.0
 CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-05-20,-2.0,20.0,,,-21.0,7.0
+CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-05-21,-6.0,17.0,,,-20.0,9.0
+CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-05-22,-10.0,18.0,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2021-05-23,-3.0,12.0,,,-10.0,
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2020-02-15,7.0,,,,,
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2020-02-16,3.0,,,,,
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2020-02-17,-16.0,-34.0,,,-66.0,
@@ -12993,6 +13698,9 @@ CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcn
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-05-18,0.0,,,,-12.0,0.0
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-05-19,-6.0,,,,-13.0,1.0
 CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-05-20,-2.0,,,,-13.0,6.0
+CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-05-21,-6.0,,,,-13.0,6.0
+CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-05-22,0.0,,,,-8.0,
+CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2021-05-23,-8.0,,,,-18.0,
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2020-02-15,-2.0,,,,,
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2020-02-16,9.0,,,,,
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2020-02-17,-25.0,,,,-61.0,
@@ -13424,6 +14132,9 @@ CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-05-18,5.0,13.0,,,-9.0,2.0
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-05-19,5.0,12.0,,,-6.0,2.0
 CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-05-20,14.0,,,,-10.0,4.0
+CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-05-21,-24.0,-9.0,,,-23.0,4.0
+CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-05-22,14.0,,,,-9.0,
+CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2021-05-23,14.0,,,,-11.0,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2020-02-15,12.0,7.0,,,,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2020-02-16,13.0,-2.0,,,,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2020-02-17,10.0,-2.0,,,2.0,
@@ -13831,3 +14542,6 @@ CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-05-17,-21.0,,,,-4.0,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-05-18,-19.0,,,,-6.0,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-05-19,-13.0,,,,-5.0,
 CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-05-20,-4.0,,,,-5.0,
+CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-05-21,-15.0,,,,-13.0,
+CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-05-22,-28.0,,,,-15.0,
+CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2021-05-23,-30.0,,,,,

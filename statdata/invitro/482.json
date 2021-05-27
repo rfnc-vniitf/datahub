@@ -1185,6 +1185,14 @@
             "2021-05-23": [
                 4,
                 11
+            ],
+            "2021-05-25": [
+                7,
+                16
+            ],
+            "2021-05-26": [
+                12,
+                14
             ]
         }
     },
@@ -2373,17 +2381,25 @@
             "2021-05-23": [
                 2013,
                 3238
+            ],
+            "2021-05-25": [
+                2020,
+                3254
+            ],
+            "2021-05-26": [
+                2032,
+                3268
             ]
         }
     },
-    "ORDERS_BY_CITY": "5 251",
+    "ORDERS_BY_CITY": "5 300",
     "POSITIVE_PERCENTS_BY_CITY": 38.3,
-    "TODAY_ORDERS_BY_CITY": "15",
-    "TODAY_POSITIVE_PERCENTS_BY_CITY": 26.7,
+    "TODAY_ORDERS_BY_CITY": "26",
+    "TODAY_POSITIVE_PERCENTS_BY_CITY": 46.2,
     "MAP_RESULTS": {
         "100": {
-            "positive": 173,
-            "total": 392,
+            "positive": 175,
+            "total": 397,
             "NAME": "Невинномысск",
             "positive_percent": 44.1,
             "coords": [
@@ -2392,40 +2408,40 @@
             ]
         },
         "103": {
-            "positive": 720,
-            "total": 1462,
+            "positive": 729,
+            "total": 1479,
             "NAME": "Новомосковск",
-            "positive_percent": 49.2,
+            "positive_percent": 49.3,
             "coords": [
                 "54.009828154167",
                 "38.29972110644"
             ]
         },
         "108": {
-            "positive": 762,
-            "total": 1757,
+            "positive": 769,
+            "total": 1768,
             "NAME": "Анжеро-Судженск",
-            "positive_percent": 43.4,
+            "positive_percent": 43.5,
             "coords": [
                 "56.079654999361",
                 "86.012863373016"
             ]
         },
         "109": {
-            "positive": 920,
-            "total": 2386,
+            "positive": 935,
+            "total": 2405,
             "NAME": "Геленджик",
-            "positive_percent": 38.6,
+            "positive_percent": 38.9,
             "coords": [
                 "44.560900870766",
                 "38.088795608817"
             ]
         },
         "111": {
-            "positive": 950,
-            "total": 1952,
+            "positive": 973,
+            "total": 1989,
             "NAME": "Сафоново",
-            "positive_percent": 48.7,
+            "positive_percent": 48.9,
             "coords": [
                 "55.109278451701",
                 "33.229203"
@@ -2433,117 +2449,117 @@
         },
         "112": {
             "positive": 180,
-            "total": 422,
+            "total": 423,
             "NAME": "Тайга",
-            "positive_percent": 42.7,
+            "positive_percent": 42.6,
             "coords": [
                 "56.065278014501",
                 "85.62696075215"
             ]
         },
         "117": {
-            "positive": 7913,
-            "total": 24176,
+            "positive": 8011,
+            "total": 24355,
             "NAME": "Белгород",
-            "positive_percent": 32.7,
+            "positive_percent": 32.9,
             "coords": [
                 "50.580131893381",
                 "36.591061945969"
             ]
         },
         "120": {
-            "positive": 499,
-            "total": 1032,
+            "positive": 513,
+            "total": 1053,
             "NAME": "Белорецк",
-            "positive_percent": 48.4,
+            "positive_percent": 48.7,
             "coords": [
                 "53.970534393378",
                 "58.411476804893"
             ]
         },
         "121": {
-            "positive": 1407,
-            "total": 3751,
+            "positive": 1429,
+            "total": 3785,
             "NAME": "Тобольск",
-            "positive_percent": 37.5,
+            "positive_percent": 37.8,
             "coords": [
                 "58.216301341181",
                 "68.270748733135"
             ]
         },
         "123": {
-            "positive": 473,
-            "total": 1384,
+            "positive": 481,
+            "total": 1395,
             "NAME": "Людиново",
-            "positive_percent": 34.2,
+            "positive_percent": 34.5,
             "coords": [
                 "53.863970344767",
                 "34.441727739881"
             ]
         },
         "124": {
-            "positive": 311,
-            "total": 685,
+            "positive": 313,
+            "total": 687,
             "NAME": "Георгиевск",
-            "positive_percent": 45.4,
+            "positive_percent": 45.6,
             "coords": [
                 "44.134166729994",
                 "43.454554807033"
             ]
         },
         "130": {
-            "positive": 1184,
-            "total": 2872,
+            "positive": 1198,
+            "total": 2895,
             "NAME": "Комсомольск-на-Амуре",
-            "positive_percent": 41.2,
+            "positive_percent": 41.4,
             "coords": [
                 "50.55916854526",
                 "137.02248129847"
             ]
         },
         "135": {
-            "positive": 2678,
-            "total": 7470,
+            "positive": 2708,
+            "total": 7521,
             "NAME": "Краснодар",
-            "positive_percent": 35.9,
+            "positive_percent": 36,
             "coords": [
                 "45.052341380566",
                 "38.997527901396"
             ]
         },
         "142": {
-            "positive": 273,
-            "total": 857,
+            "positive": 279,
+            "total": 868,
             "NAME": "Запрудня",
-            "positive_percent": 31.9,
+            "positive_percent": 32.1,
             "coords": [
                 "56.561688902923",
                 "37.434656788299"
             ]
         },
         "147": {
-            "positive": 3931,
-            "total": 9972,
+            "positive": 3981,
+            "total": 10048,
             "NAME": "Волгоград",
-            "positive_percent": 39.4,
+            "positive_percent": 39.6,
             "coords": [
                 "48.695448928646",
                 "44.524953473514"
             ]
         },
         "148": {
-            "positive": 554,
-            "total": 1538,
+            "positive": 562,
+            "total": 1553,
             "NAME": "Фрязино",
-            "positive_percent": 36,
+            "positive_percent": 36.2,
             "coords": [
                 "55.958420558306",
                 "38.053982780861"
             ]
         },
         "151": {
-            "positive": 284,
-            "total": 587,
+            "positive": 287,
+            "total": 593,
             "NAME": "Орск",
             "positive_percent": 48.4,
             "coords": [
@@ -2552,28 +2568,28 @@
             ]
         },
         "157": {
-            "positive": 733,
-            "total": 1606,
+            "positive": 749,
+            "total": 1635,
             "NAME": "Канск",
-            "positive_percent": 45.6,
+            "positive_percent": 45.8,
             "coords": [
                 "56.202492672145",
                 "95.704627603533"
             ]
         },
         "164": {
-            "positive": 3463,
-            "total": 10470,
+            "positive": 3516,
+            "total": 10559,
             "NAME": "Нижневартовск",
-            "positive_percent": 33.1,
+            "positive_percent": 33.3,
             "coords": [
                 "60.936137701139",
                 "76.585719251741"
             ]
         },
         "167": {
-            "positive": 278,
-            "total": 689,
+            "positive": 281,
+            "total": 698,
             "NAME": "Усть-Катав",
             "positive_percent": 40.3,
             "coords": [
@@ -2582,168 +2598,168 @@
             ]
         },
         "168": {
-            "positive": 161,
-            "total": 304,
+            "positive": 163,
+            "total": 308,
             "NAME": "Черногорск",
-            "positive_percent": 53,
+            "positive_percent": 52.9,
             "coords": [
                 "53.831940212914",
                 "91.321695542328"
             ]
         },
         "181": {
-            "positive": 53,
-            "total": 124,
+            "positive": 54,
+            "total": 125,
             "NAME": "Карачаевск",
-            "positive_percent": 42.7,
+            "positive_percent": 43.2,
             "coords": [
                 "43.767484775205",
                 "41.905038898147"
             ]
         },
         "183": {
-            "positive": 3372,
-            "total": 8089,
+            "positive": 3419,
+            "total": 8182,
             "NAME": "Ульяновск",
-            "positive_percent": 41.7,
+            "positive_percent": 41.8,
             "coords": [
                 "54.334096460808",
                 "48.446516436003"
             ]
         },
         "187": {
-            "positive": 439,
-            "total": 1049,
+            "positive": 448,
+            "total": 1062,
             "NAME": "Искитим",
-            "positive_percent": 41.8,
+            "positive_percent": 42.2,
             "coords": [
                 "54.643867777637",
                 "83.303007635582"
             ]
         },
         "192": {
-            "positive": 65589,
-            "total": 188525,
+            "positive": 67034,
+            "total": 190807,
             "NAME": "Санкт-Петербург",
-            "positive_percent": 34.8,
+            "positive_percent": 35.1,
             "coords": [
                 "59.94095070379",
                 "30.331005761584"
             ]
         },
         "193": {
-            "positive": 354,
-            "total": 826,
+            "positive": 363,
+            "total": 836,
             "NAME": "Бор",
-            "positive_percent": 42.9,
+            "positive_percent": 43.4,
             "coords": [
                 "56.359042499005",
                 "44.054251626984"
             ]
         },
         "200": {
-            "positive": 1014,
-            "total": 2221,
+            "positive": 1027,
+            "total": 2238,
             "NAME": "Ессентуки",
-            "positive_percent": 45.7,
+            "positive_percent": 45.9,
             "coords": [
                 "44.046504018454",
                 "42.879822842433"
             ]
         },
         "204": {
-            "positive": 973,
-            "total": 2290,
+            "positive": 979,
+            "total": 2308,
             "NAME": "Белово",
-            "positive_percent": 42.5,
+            "positive_percent": 42.4,
             "coords": [
                 "54.413993118237",
                 "86.306476887731"
             ]
         },
         "206": {
-            "positive": 2131,
-            "total": 5514,
+            "positive": 2148,
+            "total": 5541,
             "NAME": "Новокуйбышевск",
-            "positive_percent": 38.6,
+            "positive_percent": 38.8,
             "coords": [
                 "53.096497481068",
                 "49.949492"
             ]
         },
         "209": {
-            "positive": 1259,
-            "total": 3043,
+            "positive": 1283,
+            "total": 3084,
             "NAME": "Псков",
-            "positive_percent": 41.4,
+            "positive_percent": 41.6,
             "coords": [
                 "57.818975115581",
                 "28.307951327543"
             ]
         },
         "212": {
-            "positive": 1383,
-            "total": 3290,
+            "positive": 1409,
+            "total": 3323,
             "NAME": "Бердск",
-            "positive_percent": 42,
+            "positive_percent": 42.4,
             "coords": [
                 "54.75786270584",
                 "83.083460233135"
             ]
         },
         "217": {
-            "positive": 133735,
-            "total": 478078,
+            "positive": 136756,
+            "total": 482884,
             "NAME": "Москва",
-            "positive_percent": 28,
+            "positive_percent": 28.3,
             "coords": [
                 "55.729307866108",
                 "37.589588238357"
             ]
         },
         "221": {
-            "positive": 240,
-            "total": 570,
+            "positive": 245,
+            "total": 578,
             "NAME": "Балахна",
-            "positive_percent": 42.1,
+            "positive_percent": 42.4,
             "coords": [
                 "56.519838306859",
                 "43.552089347221"
             ]
         },
         "227": {
-            "positive": 809,
-            "total": 2300,
+            "positive": 821,
+            "total": 2320,
             "NAME": "Солнечногорск",
-            "positive_percent": 35.2,
+            "positive_percent": 35.4,
             "coords": [
                 "56.185236762222",
                 "36.982822780292"
             ]
         },
         "241": {
-            "positive": 367,
-            "total": 886,
+            "positive": 377,
+            "total": 898,
             "NAME": "Углич",
-            "positive_percent": 41.4,
+            "positive_percent": 42,
             "coords": [
                 "57.522661412221",
                 "38.310797009904"
             ]
         },
         "246": {
-            "positive": 234,
-            "total": 683,
+            "positive": 236,
+            "total": 686,
             "NAME": "Новозыбков",
-            "positive_percent": 34.3,
+            "positive_percent": 34.4,
             "coords": [
                 "52.528588271614",
                 "31.9425195"
             ]
         },
         "249": {
-            "positive": 664,
-            "total": 1387,
+            "positive": 672,
+            "total": 1403,
             "NAME": "Мичуринск",
             "positive_percent": 47.9,
             "coords": [
@@ -2752,8 +2768,8 @@
             ]
         },
         "251": {
-            "positive": 4804,
-            "total": 13134,
+            "positive": 4836,
+            "total": 13199,
             "NAME": "Мурманск",
             "positive_percent": 36.6,
             "coords": [
@@ -2762,98 +2778,98 @@
             ]
         },
         "256": {
-            "positive": 3468,
-            "total": 9973,
+            "positive": 3522,
+            "total": 10055,
             "NAME": "Сочи",
-            "positive_percent": 34.8,
+            "positive_percent": 35,
             "coords": [
                 "43.599686490243",
                 "39.723548323154"
             ]
         },
         "257": {
-            "positive": 924,
-            "total": 2251,
+            "positive": 935,
+            "total": 2269,
             "NAME": "Дзержинск",
-            "positive_percent": 41,
+            "positive_percent": 41.2,
             "coords": [
                 "56.230630061333",
                 "43.424814127522"
             ]
         },
         "260": {
-            "positive": 1845,
-            "total": 3923,
+            "positive": 1854,
+            "total": 3935,
             "NAME": "Махачкала",
-            "positive_percent": 47,
+            "positive_percent": 47.1,
             "coords": [
                 "42.973001807203",
                 "47.488288657695"
             ]
         },
         "263": {
-            "positive": 3930,
-            "total": 10794,
+            "positive": 3992,
+            "total": 10883,
             "NAME": "Хабаровск",
-            "positive_percent": 36.4,
+            "positive_percent": 36.7,
             "coords": [
                 "48.470478415442",
                 "135.08454195747"
             ]
         },
         "275": {
-            "positive": 52,
-            "total": 94,
+            "positive": 60,
+            "total": 107,
             "NAME": "Нягань",
-            "positive_percent": 55.3,
+            "positive_percent": 56.1,
             "coords": [
                 "62.144360804592",
                 "65.435978237435"
             ]
         },
         "277": {
-            "positive": 266,
-            "total": 508,
+            "positive": 271,
+            "total": 514,
             "NAME": "Артемовский",
-            "positive_percent": 52.4,
+            "positive_percent": 52.7,
             "coords": [
                 "57.34284791831",
                 "61.890351877041"
             ]
         },
         "279": {
-            "positive": 3176,
-            "total": 8842,
+            "positive": 3210,
+            "total": 8896,
             "NAME": "Тверь",
-            "positive_percent": 35.9,
+            "positive_percent": 36.1,
             "coords": [
                 "56.848596986355",
                 "35.89875207284"
             ]
         },
         "280": {
-            "positive": 1981,
-            "total": 4601,
+            "positive": 2025,
+            "total": 4661,
             "NAME": "Благовещенск",
-            "positive_percent": 43.1,
+            "positive_percent": 43.4,
             "coords": [
-                "50.273122989116",
-                "127.52166562941"
+                "50.274745241837",
+                "127.52225422205"
             ]
         },
         "281": {
-            "positive": 1789,
-            "total": 6305,
+            "positive": 1834,
+            "total": 6389,
             "NAME": "Видное",
-            "positive_percent": 28.4,
+            "positive_percent": 28.7,
             "coords": [
                 "55.544296964325",
                 "37.714789060573"
             ]
         },
         "284": {
-            "positive": 990,
-            "total": 2808,
+            "positive": 994,
+            "total": 2815,
             "NAME": "Павловский Посад",
             "positive_percent": 35.3,
             "coords": [
@@ -2862,58 +2878,58 @@
             ]
         },
         "285": {
-            "positive": 1926,
-            "total": 5852,
+            "positive": 1945,
+            "total": 5881,
             "NAME": "Щёлково",
-            "positive_percent": 32.9,
+            "positive_percent": 33.1,
             "coords": [
                 "55.923457614165",
                 "37.987739557103"
             ]
         },
         "287": {
-            "positive": 1557,
-            "total": 3352,
+            "positive": 1576,
+            "total": 3382,
             "NAME": "Копейск",
-            "positive_percent": 46.4,
+            "positive_percent": 46.6,
             "coords": [
                 "55.103044124439",
                 "61.592581052456"
             ]
         },
         "288": {
-            "positive": 1680,
-            "total": 4691,
+            "positive": 1706,
+            "total": 4726,
             "NAME": "Железнодорожный",
-            "positive_percent": 35.8,
+            "positive_percent": 36.1,
             "coords": [
                 "55.747345636762",
                 "38.015507978733"
             ]
         },
         "289": {
-            "positive": 2762,
-            "total": 5497,
+            "positive": 2803,
+            "total": 5550,
             "NAME": "Сызрань",
-            "positive_percent": 50.2,
+            "positive_percent": 50.5,
             "coords": [
                 "53.151155347902",
                 "48.452112724316"
             ]
         },
         "290": {
-            "positive": 306,
-            "total": 741,
+            "positive": 312,
+            "total": 748,
             "NAME": "Рославль",
-            "positive_percent": 41.3,
+            "positive_percent": 41.7,
             "coords": [
                 "53.94414",
                 "32.828456"
             ]
         },
         "295": {
-            "positive": 917,
-            "total": 2343,
+            "positive": 920,
+            "total": 2351,
             "NAME": "Первоуральск",
             "positive_percent": 39.1,
             "coords": [
@@ -2922,348 +2938,348 @@
             ]
         },
         "298": {
-            "positive": 249,
-            "total": 491,
+            "positive": 254,
+            "total": 498,
             "NAME": "Гусев",
-            "positive_percent": 50.7,
+            "positive_percent": 51,
             "coords": [
                 "54.585543591423",
                 "22.201035796953"
             ]
         },
         "299": {
-            "positive": 1253,
-            "total": 4018,
+            "positive": 1275,
+            "total": 4050,
             "NAME": "Дмитров",
-            "positive_percent": 31.2,
+            "positive_percent": 31.5,
             "coords": [
                 "56.345973380012",
                 "37.52526347765"
             ]
         },
         "302": {
-            "positive": 203,
-            "total": 585,
+            "positive": 206,
+            "total": 589,
             "NAME": "Барабинск",
-            "positive_percent": 34.7,
+            "positive_percent": 35,
             "coords": [
                 "55.348070955427",
                 "78.365744559525"
             ]
         },
         "303": {
-            "positive": 287,
-            "total": 770,
+            "positive": 289,
+            "total": 777,
             "NAME": "Черемхово",
-            "positive_percent": 37.3,
+            "positive_percent": 37.2,
             "coords": [
                 "53.143887979876",
                 "103.07127227546"
             ]
         },
         "307": {
-            "positive": 365,
-            "total": 642,
+            "positive": 369,
+            "total": 650,
             "NAME": "Кимовск",
-            "positive_percent": 56.9,
+            "positive_percent": 56.8,
             "coords": [
                 "53.969050628258",
                 "38.52937117791"
             ]
         },
         "310": {
-            "positive": 309,
-            "total": 849,
+            "positive": 311,
+            "total": 856,
             "NAME": "Новошахтинск",
-            "positive_percent": 36.4,
+            "positive_percent": 36.3,
             "coords": [
                 "47.758969820148",
                 "39.937453705809"
             ]
         },
         "314": {
-            "positive": 2350,
-            "total": 6886,
+            "positive": 2369,
+            "total": 6929,
             "NAME": "Нальчик",
-            "positive_percent": 34.1,
+            "positive_percent": 34.2,
             "coords": [
                 "43.486072189719",
                 "43.620275382956"
             ]
         },
         "315": {
-            "positive": 526,
-            "total": 1197,
+            "positive": 535,
+            "total": 1209,
             "NAME": "Дятьково",
-            "positive_percent": 43.9,
+            "positive_percent": 44.3,
             "coords": [
                 "53.601971751551",
                 "34.33213169577"
             ]
         },
         "317": {
-            "positive": 582,
-            "total": 1633,
+            "positive": 589,
+            "total": 1645,
             "NAME": "Малаховка",
-            "positive_percent": 35.6,
+            "positive_percent": 35.8,
             "coords": [
                 "55.644399",
                 "38.002644"
             ]
         },
         "319": {
-            "positive": 604,
-            "total": 1274,
+            "positive": 608,
+            "total": 1281,
             "NAME": "Обь",
-            "positive_percent": 47.4,
+            "positive_percent": 47.5,
             "coords": [
                 "54.998087085682",
                 "82.69488655908"
             ]
         },
         "328": {
-            "positive": 746,
-            "total": 1896,
+            "positive": 764,
+            "total": 1916,
             "NAME": "Саров",
-            "positive_percent": 39.3,
+            "positive_percent": 39.9,
             "coords": [
                 "54.920762302066",
                 "43.344104182458"
             ]
         },
         "329": {
-            "positive": 2133,
-            "total": 5706,
+            "positive": 2151,
+            "total": 5738,
             "NAME": "Новокузнецк",
-            "positive_percent": 37.4,
+            "positive_percent": 37.5,
             "coords": [
                 "53.802608683292",
                 "87.162151298322"
             ]
         },
         "331": {
-            "positive": 1641,
-            "total": 3975,
+            "positive": 1661,
+            "total": 4015,
             "NAME": "Череповец",
-            "positive_percent": 41.3,
+            "positive_percent": 41.4,
             "coords": [
                 "59.113757484237",
                 "37.939396131027"
             ]
         },
         "332": {
-            "positive": 521,
-            "total": 1062,
+            "positive": 525,
+            "total": 1071,
             "NAME": "Советск",
-            "positive_percent": 49.1,
+            "positive_percent": 49,
             "coords": [
                 "55.077754689105",
                 "21.880231682209"
             ]
         },
         "336": {
-            "positive": 619,
-            "total": 1927,
+            "positive": 626,
+            "total": 1940,
             "NAME": "Ивантеевка",
-            "positive_percent": 32.1,
+            "positive_percent": 32.3,
             "coords": [
                 "55.967108328483",
                 "37.903290519318"
             ]
         },
         "338": {
-            "positive": 2835,
-            "total": 9559,
+            "positive": 2869,
+            "total": 9611,
             "NAME": "Зеленоград",
-            "positive_percent": 29.7,
+            "positive_percent": 29.9,
             "coords": [
                 "55.988711382744",
                 "37.189902606428"
             ]
         },
         "339": {
-            "positive": 718,
-            "total": 1581,
+            "positive": 721,
+            "total": 1584,
             "NAME": "Ярцево",
-            "positive_percent": 45.4,
+            "positive_percent": 45.5,
             "coords": [
                 "55.06819414356",
                 "32.692777279762"
             ]
         },
         "340": {
-            "positive": 1734,
-            "total": 3961,
+            "positive": 1755,
+            "total": 3992,
             "NAME": "Кострома",
-            "positive_percent": 43.8,
+            "positive_percent": 44,
             "coords": [
                 "57.749818054795",
                 "40.978114464851"
             ]
         },
         "343": {
-            "positive": 163,
-            "total": 322,
+            "positive": 166,
+            "total": 330,
             "NAME": "Кыштым",
-            "positive_percent": 50.6,
+            "positive_percent": 50.3,
             "coords": [
                 "55.706934057833",
                 "60.551981139881"
             ]
         },
         "351": {
-            "positive": 63,
-            "total": 226,
+            "positive": 66,
+            "total": 229,
             "NAME": "Тихорецк",
-            "positive_percent": 27.9,
+            "positive_percent": 28.8,
             "coords": [
                 "45.853327870708",
                 "40.128639851521"
             ]
         },
         "352": {
-            "positive": 996,
-            "total": 2460,
+            "positive": 1007,
+            "total": 2481,
             "NAME": "Выборг",
-            "positive_percent": 40.5,
+            "positive_percent": 40.6,
             "coords": [
                 "60.703987891087",
                 "28.776667518138"
             ]
         },
         "365": {
-            "positive": 718,
-            "total": 2213,
+            "positive": 727,
+            "total": 2224,
             "NAME": "Салехард",
-            "positive_percent": 32.4,
+            "positive_percent": 32.7,
             "coords": [
                 "66.530012635561",
                 "66.608646753967"
             ]
         },
         "367": {
-            "positive": 3419,
-            "total": 8349,
+            "positive": 3456,
+            "total": 8414,
             "NAME": "Иваново",
-            "positive_percent": 41,
+            "positive_percent": 41.1,
             "coords": [
                 "56.989239198005",
                 "40.975334386148"
             ]
         },
         "368": {
-            "positive": 173,
-            "total": 323,
+            "positive": 175,
+            "total": 328,
             "NAME": "Павлово",
-            "positive_percent": 53.6,
+            "positive_percent": 53.4,
             "coords": [
                 "55.965443140325",
                 "43.064594394544"
             ]
         },
         "370": {
-            "positive": 1250,
-            "total": 4224,
+            "positive": 1273,
+            "total": 4250,
             "NAME": "Нижний Тагил",
-            "positive_percent": 29.6,
+            "positive_percent": 30,
             "coords": [
                 "57.91123623127",
                 "59.997647874482"
             ]
         },
         "375": {
-            "positive": 2512,
-            "total": 5557,
+            "positive": 2545,
+            "total": 5614,
             "NAME": "Курган",
-            "positive_percent": 45.2,
+            "positive_percent": 45.3,
             "coords": [
                 "55.45308036339",
                 "65.319287204282"
             ]
         },
         "376": {
-            "positive": 700,
-            "total": 2140,
+            "positive": 709,
+            "total": 2154,
             "NAME": "Дзержинский",
-            "positive_percent": 32.7,
+            "positive_percent": 32.9,
             "coords": [
                 "55.633929449238",
                 "37.849757249709"
             ]
         },
         "377": {
-            "positive": 708,
-            "total": 1654,
+            "positive": 711,
+            "total": 1666,
             "NAME": "Шадринск",
-            "positive_percent": 42.8,
+            "positive_percent": 42.7,
             "coords": [
                 "56.087904003209",
                 "63.634863542328"
             ]
         },
         "380": {
-            "positive": 499,
-            "total": 1092,
+            "positive": 500,
+            "total": 1096,
             "NAME": "Гусь-Хрустальный",
-            "positive_percent": 45.7,
+            "positive_percent": 45.6,
             "coords": [
                 "55.614660144391",
                 "40.672927186508"
             ]
         },
         "381": {
-            "positive": 3343,
-            "total": 10987,
+            "positive": 3375,
+            "total": 11031,
             "NAME": "Владивосток",
-            "positive_percent": 30.4,
+            "positive_percent": 30.6,
             "coords": [
                 "43.117915592067",
                 "131.91216100633"
             ]
         },
         "384": {
-            "positive": 702,
-            "total": 1673,
+            "positive": 718,
+            "total": 1694,
             "NAME": "Пугачёв",
-            "positive_percent": 42,
+            "positive_percent": 42.4,
             "coords": [
                 "52.009594102914",
                 "48.801966625952"
             ]
         },
         "388": {
-            "positive": 2274,
-            "total": 5374,
+            "positive": 2319,
+            "total": 5438,
             "NAME": "Обнинск",
-            "positive_percent": 42.3,
+            "positive_percent": 42.6,
             "coords": [
                 "55.111395749602",
                 "36.604750531356"
             ]
         },
         "398": {
-            "positive": 60,
-            "total": 95,
+            "positive": 61,
+            "total": 96,
             "NAME": "Коркино",
-            "positive_percent": 63.2,
+            "positive_percent": 63.5,
             "coords": [
                 "54.895548937239",
                 "61.397628915344"
             ]
         },
         "399": {
-            "positive": 790,
-            "total": 2114,
+            "positive": 804,
+            "total": 2134,
             "NAME": "Киров",
-            "positive_percent": 37.4,
+            "positive_percent": 37.7,
             "coords": [
                 "58.598576531353",
                 "49.664400402699"
             ]
         },
         "400": {
-            "positive": 232,
-            "total": 831,
+            "positive": 233,
+            "total": 835,
             "NAME": "Камышин",
             "positive_percent": 27.9,
             "coords": [
@@ -3272,8 +3288,8 @@
             ]
         },
         "401": {
-            "positive": 694,
-            "total": 1739,
+            "positive": 695,
+            "total": 1742,
             "NAME": "Грозный",
             "positive_percent": 39.9,
             "coords": [
@@ -3282,8 +3298,8 @@
             ]
         },
         "402": {
-            "positive": 588,
-            "total": 1912,
+            "positive": 591,
+            "total": 1917,
             "NAME": "Голицыно",
             "positive_percent": 30.8,
             "coords": [
@@ -3292,28 +3308,28 @@
             ]
         },
         "403": {
-            "positive": 216,
-            "total": 583,
+            "positive": 218,
+            "total": 586,
             "NAME": "Сухой Лог",
-            "positive_percent": 37,
+            "positive_percent": 37.2,
             "coords": [
                 "56.900556741448",
                 "62.028649495701"
             ]
         },
         "404": {
-            "positive": 533,
-            "total": 1645,
+            "positive": 540,
+            "total": 1652,
             "NAME": "Кондопога",
-            "positive_percent": 32.4,
+            "positive_percent": 32.7,
             "coords": [
                 "62.201599136116",
                 "34.256453859295"
             ]
         },
         "406": {
-            "positive": 227,
-            "total": 546,
+            "positive": 229,
+            "total": 550,
             "NAME": "Саракташ",
             "positive_percent": 41.6,
             "coords": [
@@ -3322,8 +3338,8 @@
             ]
         },
         "408": {
-            "positive": 821,
-            "total": 1656,
+            "positive": 830,
+            "total": 1672,
             "NAME": "Новоуральск",
             "positive_percent": 49.6,
             "coords": [
@@ -3332,178 +3348,178 @@
             ]
         },
         "412": {
-            "positive": 610,
-            "total": 1265,
+            "positive": 612,
+            "total": 1272,
             "NAME": "Чебаркуль",
-            "positive_percent": 48.2,
+            "positive_percent": 48.1,
             "coords": [
                 "54.976598342126",
                 "60.354386542328"
             ]
         },
         "415": {
-            "positive": 499,
-            "total": 1819,
+            "positive": 516,
+            "total": 1844,
             "NAME": "Ханты-Мансийск",
-            "positive_percent": 27.4,
+            "positive_percent": 28,
             "coords": [
                 "60.992008210989",
                 "69.024413898148"
             ]
         },
         "417": {
-            "positive": 1800,
-            "total": 5288,
+            "positive": 1826,
+            "total": 5329,
             "NAME": "Сургут",
-            "positive_percent": 34,
+            "positive_percent": 34.3,
             "coords": [
                 "61.257561100545",
                 "73.408292045477"
             ]
         },
         "418": {
-            "positive": 362,
-            "total": 1244,
+            "positive": 366,
+            "total": 1253,
             "NAME": "Путилково",
-            "positive_percent": 29.1,
+            "positive_percent": 29.2,
             "coords": [
                 "55.863887634375",
                 "37.390807186508"
             ]
         },
         "419": {
-            "positive": 455,
-            "total": 1118,
+            "positive": 461,
+            "total": 1126,
             "NAME": "Киселевск",
-            "positive_percent": 40.7,
+            "positive_percent": 40.9,
             "coords": [
                 "54.004261070966",
                 "86.641487425567"
             ]
         },
         "424": {
-            "positive": 410,
-            "total": 798,
+            "positive": 420,
+            "total": 813,
             "NAME": "Черняховск",
-            "positive_percent": 51.4,
+            "positive_percent": 51.7,
             "coords": [
                 "54.632415764042",
                 "21.817034528803"
             ]
         },
         "425": {
-            "positive": 599,
-            "total": 1185,
+            "positive": 608,
+            "total": 1197,
             "NAME": "Узловая",
-            "positive_percent": 50.5,
+            "positive_percent": 50.8,
             "coords": [
                 "53.982728707454",
                 "38.152567635582"
             ]
         },
         "426": {
-            "positive": 339,
-            "total": 775,
+            "positive": 340,
+            "total": 777,
             "NAME": "Донецк",
-            "positive_percent": 43.7,
+            "positive_percent": 43.8,
             "coords": [
                 "48.346947748595",
                 "39.96359719129"
             ]
         },
         "430": {
-            "positive": 3948,
-            "total": 9571,
+            "positive": 4018,
+            "total": 9677,
             "NAME": "Петрозаводск",
-            "positive_percent": 41.2,
+            "positive_percent": 41.5,
             "coords": [
                 "61.795351302982",
                 "34.353885135011"
             ]
         },
         "434": {
-            "positive": 7143,
-            "total": 19565,
+            "positive": 7230,
+            "total": 19715,
             "NAME": "Тюмень",
-            "positive_percent": 36.5,
+            "positive_percent": 36.7,
             "coords": [
                 "57.139990680107",
                 "65.565868669865"
             ]
         },
         "435": {
-            "positive": 608,
-            "total": 1198,
+            "positive": 618,
+            "total": 1223,
             "NAME": "Трехгорный",
-            "positive_percent": 50.8,
+            "positive_percent": 50.5,
             "coords": [
                 "54.816245829513",
                 "58.443540194558"
             ]
         },
         "439": {
-            "positive": 5277,
-            "total": 13689,
+            "positive": 5364,
+            "total": 13858,
             "NAME": "Саратов",
-            "positive_percent": 38.5,
+            "positive_percent": 38.7,
             "coords": [
                 "51.537630283757",
                 "45.994768676916"
             ]
         },
         "446": {
-            "positive": 212,
-            "total": 574,
+            "positive": 216,
+            "total": 580,
             "NAME": "Клинцы",
-            "positive_percent": 36.9,
+            "positive_percent": 37.2,
             "coords": [
                 "52.753372275285",
                 "32.241868779762"
             ]
         },
         "455": {
-            "positive": 2231,
-            "total": 4890,
+            "positive": 2256,
+            "total": 4927,
             "NAME": "Миасс",
-            "positive_percent": 45.6,
+            "positive_percent": 45.8,
             "coords": [
                 "55.083006964855",
                 "60.123608531748"
             ]
         },
         "456": {
-            "positive": 127,
-            "total": 287,
+            "positive": 129,
+            "total": 290,
             "NAME": "Бородино",
-            "positive_percent": 44.3,
+            "positive_percent": 44.5,
             "coords": [
                 "55.902469441985",
                 "94.903015765884"
             ]
         },
         "459": {
-            "positive": 574,
-            "total": 1410,
+            "positive": 582,
+            "total": 1423,
             "NAME": "Верхняя Салда",
-            "positive_percent": 40.7,
+            "positive_percent": 40.9,
             "coords": [
                 "58.049980258371",
                 "60.57316617791"
             ]
         },
         "461": {
-            "positive": 276,
-            "total": 573,
+            "positive": 279,
+            "total": 577,
             "NAME": "Медногорск",
-            "positive_percent": 48.2,
+            "positive_percent": 48.4,
             "coords": [
                 "51.402507446562",
                 "57.592040364418"
             ]
         },
         "463": {
-            "positive": 1035,
-            "total": 1975,
+            "positive": 1041,
+            "total": 1988,
             "NAME": "Снежинск",
             "positive_percent": 52.4,
             "coords": [
@@ -3512,18 +3528,18 @@
             ]
         },
         "467": {
-            "positive": 591,
-            "total": 1431,
+            "positive": 598,
+            "total": 1441,
             "NAME": "Кимры",
-            "positive_percent": 41.3,
+            "positive_percent": 41.5,
             "coords": [
                 "56.873673249821",
                 "37.358481906746"
             ]
         },
         "468": {
-            "positive": 1067,
-            "total": 2489,
+            "positive": 1070,
+            "total": 2496,
             "NAME": "Черкесск",
             "positive_percent": 42.9,
             "coords": [
@@ -3532,10 +3548,10 @@
             ]
         },
         "469": {
-            "positive": 121,
-            "total": 222,
+            "positive": 125,
+            "total": 229,
             "NAME": "Еманжелинск",
-            "positive_percent": 54.5,
+            "positive_percent": 54.6,
             "coords": [
                 "54.759179374041",
                 "61.310426410771"
@@ -3552,8 +3568,8 @@
             ]
         },
         "473": {
-            "positive": 385,
-            "total": 1101,
+            "positive": 387,
+            "total": 1105,
             "NAME": "Баксан",
             "positive_percent": 35,
             "coords": [
@@ -3562,78 +3578,78 @@
             ]
         },
         "474": {
-            "positive": 432,
-            "total": 830,
+            "positive": 441,
+            "total": 842,
             "NAME": "Гай",
-            "positive_percent": 52,
+            "positive_percent": 52.4,
             "coords": [
                 "51.463632754181",
                 "58.447135457672"
             ]
         },
         "476": {
-            "positive": 550,
-            "total": 1290,
+            "positive": 551,
+            "total": 1296,
             "NAME": "Иноземцево",
-            "positive_percent": 42.6,
+            "positive_percent": 42.5,
             "coords": [
                 "44.090126465499",
                 "43.086636635582"
             ]
         },
         "478": {
-            "positive": 708,
-            "total": 1788,
+            "positive": 713,
+            "total": 1796,
             "NAME": "Сертолово",
-            "positive_percent": 39.6,
+            "positive_percent": 39.7,
             "coords": [
                 "60.154763277147",
                 "30.205322736194"
             ]
         },
         "479": {
-            "positive": 3740,
-            "total": 9126,
+            "positive": 3787,
+            "total": 9213,
             "NAME": "Старый Оскол",
-            "positive_percent": 41,
+            "positive_percent": 41.1,
             "coords": [
                 "51.306746555183",
                 "37.884816054586"
             ]
         },
         "480": {
-            "positive": 5967,
-            "total": 13726,
+            "positive": 6052,
+            "total": 13867,
             "NAME": "Рязань",
-            "positive_percent": 43.5,
+            "positive_percent": 43.6,
             "coords": [
                 "54.625750616414",
                 "39.738551603464"
             ]
         },
         "481": {
-            "positive": 370,
-            "total": 919,
+            "positive": 375,
+            "total": 932,
             "NAME": "Минусинск",
-            "positive_percent": 40.3,
+            "positive_percent": 40.2,
             "coords": [
                 "53.711431473271",
                 "91.677310169312"
             ]
         },
         "482": {
-            "positive": 2013,
-            "total": 5251,
+            "positive": 2032,
+            "total": 5300,
             "NAME": "Уссурийск",
             "positive_percent": 38.3,
             "coords": [
-                "43.79945516119",
-                "131.95235120072"
+                "43.796662580595",
+                "131.96268860036"
             ]
         },
         "484": {
-            "positive": 411,
-            "total": 1210,
+            "positive": 415,
+            "total": 1221,
             "NAME": "Гуково",
             "positive_percent": 34,
             "coords": [
@@ -3642,128 +3658,128 @@
             ]
         },
         "486": {
-            "positive": 2014,
-            "total": 7148,
+            "positive": 2051,
+            "total": 7193,
             "NAME": "Королёв",
-            "positive_percent": 28.2,
+            "positive_percent": 28.5,
             "coords": [
                 "55.922370915594",
                 "37.844433635923"
             ]
         },
         "487": {
-            "positive": 288,
-            "total": 886,
+            "positive": 290,
+            "total": 888,
             "NAME": "Луховицы",
-            "positive_percent": 32.5,
+            "positive_percent": 32.7,
             "coords": [
                 "54.94616280757",
                 "39.02961006994"
             ]
         },
         "488": {
-            "positive": 331,
-            "total": 930,
+            "positive": 341,
+            "total": 943,
             "NAME": "Селятино",
-            "positive_percent": 35.6,
+            "positive_percent": 36.2,
             "coords": [
                 "55.514646878685",
                 "36.982491135808"
             ]
         },
         "489": {
-            "positive": 3889,
-            "total": 9208,
+            "positive": 3932,
+            "total": 9265,
             "NAME": "Архангельск",
-            "positive_percent": 42.2,
+            "positive_percent": 42.4,
             "coords": [
                 "64.546593626611",
                 "40.554745480535"
             ]
         },
         "491": {
-            "positive": 2318,
-            "total": 5192,
+            "positive": 2330,
+            "total": 5212,
             "NAME": "Горно-Алтайск",
-            "positive_percent": 44.6,
+            "positive_percent": 44.7,
             "coords": [
                 "51.959026525899",
                 "85.954756430381"
             ]
         },
         "497": {
-            "positive": 1361,
-            "total": 2724,
+            "positive": 1368,
+            "total": 2740,
             "NAME": "Златоуст",
-            "positive_percent": 50,
+            "positive_percent": 49.9,
             "coords": [
                 "55.146166308316",
                 "59.684287543913"
             ]
         },
         "499": {
-            "positive": 324,
-            "total": 1068,
+            "positive": 327,
+            "total": 1072,
             "NAME": "Ревда",
-            "positive_percent": 30.3,
+            "positive_percent": 30.5,
             "coords": [
                 "56.797893378017",
                 "59.914604084656"
             ]
         },
         "504": {
-            "positive": 653,
-            "total": 1596,
+            "positive": 664,
+            "total": 1616,
             "NAME": "Аша",
-            "positive_percent": 40.9,
+            "positive_percent": 41.1,
             "coords": [
                 "54.990111422445",
                 "57.281627186508"
             ]
         },
         "506": {
-            "positive": 1316,
-            "total": 3618,
+            "positive": 1335,
+            "total": 3653,
             "NAME": "Таганрог",
-            "positive_percent": 36.4,
+            "positive_percent": 36.5,
             "coords": [
                 "47.233381292695",
                 "38.917692993264"
             ]
         },
         "507": {
-            "positive": 5063,
-            "total": 12235,
+            "positive": 5129,
+            "total": 12329,
             "NAME": "Магнитогорск",
-            "positive_percent": 41.4,
+            "positive_percent": 41.6,
             "coords": [
                 "53.394116354382",
                 "58.991926737866"
             ]
         },
         "511": {
-            "positive": 3088,
-            "total": 8297,
+            "positive": 3133,
+            "total": 8358,
             "NAME": "Южно-Сахалинск",
-            "positive_percent": 37.2,
+            "positive_percent": 37.5,
             "coords": [
                 "46.947062790356",
                 "142.74010655522"
             ]
         },
         "512": {
-            "positive": 438,
-            "total": 1028,
+            "positive": 445,
+            "total": 1043,
             "NAME": "Малоярославец",
-            "positive_percent": 42.6,
+            "positive_percent": 42.7,
             "coords": [
                 "55.008851499298",
                 "36.461997544865"
             ]
         },
         "520": {
-            "positive": 548,
-            "total": 1312,
+            "positive": 553,
+            "total": 1324,
             "NAME": "Будённовск",
             "positive_percent": 41.8,
             "coords": [
@@ -3772,10 +3788,10 @@
             ]
         },
         "522": {
-            "positive": 1080,
-            "total": 2566,
+            "positive": 1092,
+            "total": 2579,
             "NAME": "Вязьма",
-            "positive_percent": 42.1,
+            "positive_percent": 42.3,
             "coords": [
                 "55.206575499361",
                 "34.294084286547"
@@ -3792,18 +3808,18 @@
             ]
         },
         "528": {
-            "positive": 952,
-            "total": 2248,
+            "positive": 965,
+            "total": 2273,
             "NAME": "Нижнекамск",
-            "positive_percent": 42.3,
+            "positive_percent": 42.5,
             "coords": [
                 "55.627609701875",
                 "51.80095564418"
             ]
         },
         "530": {
-            "positive": 387,
-            "total": 789,
+            "positive": 394,
+            "total": 804,
             "NAME": "Ряжск",
             "positive_percent": 49,
             "coords": [
@@ -3812,48 +3828,48 @@
             ]
         },
         "531": {
-            "positive": 887,
-            "total": 2628,
+            "positive": 922,
+            "total": 2668,
             "NAME": "Кызыл",
-            "positive_percent": 33.8,
+            "positive_percent": 34.6,
             "coords": [
                 "51.715218166165",
                 "94.451550588955"
             ]
         },
         "535": {
-            "positive": 578,
-            "total": 1118,
+            "positive": 585,
+            "total": 1134,
             "NAME": "Тейково",
-            "positive_percent": 51.7,
+            "positive_percent": 51.6,
             "coords": [
                 "56.861168892501",
                 "40.512230093254"
             ]
         },
         "539": {
-            "positive": 6597,
-            "total": 14019,
+            "positive": 6703,
+            "total": 14163,
             "NAME": "Тольятти",
-            "positive_percent": 47.1,
+            "positive_percent": 47.3,
             "coords": [
                 "53.512575889025",
                 "49.375675766736"
             ]
         },
         "540": {
-            "positive": 985,
-            "total": 4100,
+            "positive": 995,
+            "total": 4118,
             "NAME": "Электросталь",
-            "positive_percent": 24,
+            "positive_percent": 24.2,
             "coords": [
                 "55.790478742248",
                 "38.440403340014"
             ]
         },
         "541": {
-            "positive": 247,
-            "total": 790,
+            "positive": 248,
+            "total": 793,
             "NAME": "Майкоп",
             "positive_percent": 31.3,
             "coords": [
@@ -3862,58 +3878,58 @@
             ]
         },
         "542": {
-            "positive": 971,
-            "total": 3473,
+            "positive": 994,
+            "total": 3501,
             "NAME": "Ногинск",
-            "positive_percent": 28,
+            "positive_percent": 28.4,
             "coords": [
                 "55.857562674167",
                 "38.438972335213"
             ]
         },
         "545": {
-            "positive": 1644,
-            "total": 3261,
+            "positive": 1670,
+            "total": 3302,
             "NAME": "Северск",
-            "positive_percent": 50.4,
+            "positive_percent": 50.6,
             "coords": [
                 "56.597114167411",
                 "84.893314993719"
             ]
         },
         "549": {
-            "positive": 642,
-            "total": 1392,
+            "positive": 652,
+            "total": 1406,
             "NAME": "Куйбышев",
-            "positive_percent": 46.1,
+            "positive_percent": 46.4,
             "coords": [
                 "55.445068782887",
                 "78.313867512897"
             ]
         },
         "550": {
-            "positive": 1114,
-            "total": 2457,
+            "positive": 1131,
+            "total": 2483,
             "NAME": "Энгельс",
-            "positive_percent": 45.3,
+            "positive_percent": 45.5,
             "coords": [
                 "51.493245738752",
                 "46.119124673704"
             ]
         },
         "551": {
-            "positive": 612,
-            "total": 1180,
+            "positive": 621,
+            "total": 1190,
             "NAME": "Шуя",
-            "positive_percent": 51.9,
+            "positive_percent": 52.2,
             "coords": [
                 "56.847283416791",
                 "41.386623276255"
             ]
         },
         "559": {
-            "positive": 1733,
-            "total": 4090,
+            "positive": 1750,
+            "total": 4123,
             "NAME": "Великий Новгород",
             "positive_percent": 42.4,
             "coords": [
@@ -3932,8 +3948,8 @@
             ]
         },
         "564": {
-            "positive": 304,
-            "total": 766,
+            "positive": 305,
+            "total": 768,
             "NAME": "Кропоткин",
             "positive_percent": 39.7,
             "coords": [
@@ -3942,38 +3958,38 @@
             ]
         },
         "565": {
-            "positive": 5781,
-            "total": 16479,
+            "positive": 5894,
+            "total": 16658,
             "NAME": "Воронеж",
-            "positive_percent": 35.1,
+            "positive_percent": 35.4,
             "coords": [
                 "51.669723924116",
                 "39.19088566654"
             ]
         },
         "570": {
-            "positive": 4845,
-            "total": 12957,
+            "positive": 4908,
+            "total": 13050,
             "NAME": "Курск",
-            "positive_percent": 37.4,
+            "positive_percent": 37.6,
             "coords": [
                 "51.744498963776",
                 "36.180062834091"
             ]
         },
         "571": {
-            "positive": 361,
-            "total": 738,
+            "positive": 368,
+            "total": 748,
             "NAME": "Вязники",
-            "positive_percent": 48.9,
+            "positive_percent": 49.2,
             "coords": [
                 "56.243556060117",
                 "42.12669291031"
             ]
         },
         "572": {
-            "positive": 190,
-            "total": 540,
+            "positive": 191,
+            "total": 542,
             "NAME": "Кубинка",
             "positive_percent": 35.2,
             "coords": [
@@ -3982,58 +3998,58 @@
             ]
         },
         "573": {
-            "positive": 1083,
-            "total": 3097,
+            "positive": 1130,
+            "total": 3156,
             "NAME": "Тамбов",
-            "positive_percent": 35,
+            "positive_percent": 35.8,
             "coords": [
                 "52.754029713495",
                 "41.424170375021"
             ]
         },
         "576": {
-            "positive": 467,
-            "total": 1039,
+            "positive": 472,
+            "total": 1046,
             "NAME": "Ленинск-Кузнецкий",
-            "positive_percent": 44.9,
+            "positive_percent": 45.1,
             "coords": [
                 "54.69337167206",
                 "86.202143253967"
             ]
         },
         "580": {
-            "positive": 3765,
-            "total": 9519,
+            "positive": 3824,
+            "total": 9614,
             "NAME": "Липецк",
-            "positive_percent": 39.6,
+            "positive_percent": 39.8,
             "coords": [
                 "52.597551006769",
                 "39.541968195994"
             ]
         },
         "582": {
-            "positive": 287,
-            "total": 648,
+            "positive": 291,
+            "total": 654,
             "NAME": "Асбест",
-            "positive_percent": 44.3,
+            "positive_percent": 44.5,
             "coords": [
                 "57.015314083936",
                 "61.46099764418"
             ]
         },
         "583": {
-            "positive": 315,
-            "total": 722,
+            "positive": 317,
+            "total": 724,
             "NAME": "Комсомольский",
-            "positive_percent": 43.6,
+            "positive_percent": 43.8,
             "coords": [
                 "54.430902107402",
                 "45.819176635582"
             ]
         },
         "585": {
-            "positive": 834,
-            "total": 1607,
+            "positive": 838,
+            "total": 1616,
             "NAME": "Кинешма",
             "positive_percent": 51.9,
             "coords": [
@@ -4042,28 +4058,28 @@
             ]
         },
         "592": {
-            "positive": 1056,
-            "total": 2987,
+            "positive": 1076,
+            "total": 3008,
             "NAME": "Йошкар-Ола",
-            "positive_percent": 35.4,
+            "positive_percent": 35.8,
             "coords": [
                 "56.645139151834",
                 "47.882715830688"
             ]
         },
         "593": {
-            "positive": 607,
-            "total": 1205,
+            "positive": 612,
+            "total": 1216,
             "NAME": "Зеленогорск",
-            "positive_percent": 50.4,
+            "positive_percent": 50.3,
             "coords": [
                 "56.112912895313",
                 "94.604833093254"
             ]
         },
         "594": {
-            "positive": 629,
-            "total": 1342,
+            "positive": 636,
+            "total": 1355,
             "NAME": "Строитель",
             "positive_percent": 46.9,
             "coords": [
@@ -4072,200 +4088,200 @@
             ]
         },
         "595": {
-            "positive": 278,
-            "total": 693,
+            "positive": 288,
+            "total": 706,
             "NAME": "Ирбит",
-            "positive_percent": 40.1,
+            "positive_percent": 40.8,
             "coords": [
                 "57.674263007569",
                 "63.058158779098"
             ]
         },
         "598": {
-            "positive": 695,
-            "total": 1818,
+            "positive": 708,
+            "total": 1843,
             "NAME": "Мегион",
-            "positive_percent": 38.2,
+            "positive_percent": 38.4,
             "coords": [
                 "61.040047999991",
                 "76.109929542328"
             ]
         },
         "599": {
-            "positive": 853,
-            "total": 2058,
+            "positive": 866,
+            "total": 2080,
             "NAME": "Аксай",
-            "positive_percent": 41.4,
+            "positive_percent": 41.6,
             "coords": [
                 "47.269542559367",
                 "39.860661958336"
             ]
         },
         "600": {
-            "positive": 2963,
-            "total": 9468,
+            "positive": 2993,
+            "total": 9516,
             "NAME": "Балашиха",
-            "positive_percent": 31.3,
+            "positive_percent": 31.5,
             "coords": [
                 "55.811269588188",
                 "37.955906760885"
             ]
         },
         "609": {
-            "positive": 237,
-            "total": 578,
+            "positive": 239,
+            "total": 580,
             "NAME": "Полевской",
-            "positive_percent": 41,
+            "positive_percent": 41.2,
             "coords": [
                 "56.49285205646",
                 "60.23798646627"
             ]
         },
         "610": {
-            "positive": 394,
-            "total": 822,
+            "positive": 398,
+            "total": 826,
             "NAME": "Михайловка",
-            "positive_percent": 47.9,
+            "positive_percent": 48.2,
             "coords": [
                 "50.074138118114",
                 "43.235277241459"
             ]
         },
         "611": {
-            "positive": 625,
-            "total": 1757,
+            "positive": 631,
+            "total": 1766,
             "NAME": "Элиста",
-            "positive_percent": 35.6,
+            "positive_percent": 35.7,
             "coords": [
                 "46.308872469049",
                 "44.271460224537"
             ]
         },
         "615": {
-            "positive": 188,
-            "total": 468,
+            "positive": 189,
+            "total": 472,
             "NAME": "Назарово",
-            "positive_percent": 40.2,
+            "positive_percent": 40,
             "coords": [
                 "56.006954679471",
                 "90.415073821542"
             ]
         },
         "618": {
-            "positive": 337,
-            "total": 806,
+            "positive": 340,
+            "total": 812,
             "NAME": "Сосновоборск",
-            "positive_percent": 41.8,
+            "positive_percent": 41.9,
             "coords": [
                 "56.116665951179",
                 "93.320108288361"
             ]
         },
         "623": {
-            "positive": 140,
-            "total": 344,
+            "positive": 143,
+            "total": 347,
             "NAME": "Гороховец",
-            "positive_percent": 40.7,
+            "positive_percent": 41.2,
             "coords": [
                 "56.203736970395",
                 "42.695770457672"
             ]
         },
         "626": {
-            "positive": 422,
-            "total": 1675,
+            "positive": 428,
+            "total": 1683,
             "NAME": "Краснотурьинск",
-            "positive_percent": 25.2,
+            "positive_percent": 25.4,
             "coords": [
                 "59.76407123559",
                 "60.188859728836"
             ]
         },
         "631": {
-            "positive": 446,
-            "total": 1113,
+            "positive": 447,
+            "total": 1118,
             "NAME": "Батайск",
-            "positive_percent": 40.1,
+            "positive_percent": 40,
             "coords": [
                 "47.138531697823",
                 "39.750622305557"
             ]
         },
         "632": {
-            "positive": 3885,
-            "total": 9579,
+            "positive": 4024,
+            "total": 9766,
             "NAME": "Пушкин",
-            "positive_percent": 40.6,
+            "positive_percent": 41.2,
             "coords": [
                 "59.707579994646",
                 "30.417712292443"
             ]
         },
         "633": {
-            "positive": 3430,
-            "total": 7852,
+            "positive": 3501,
+            "total": 7950,
             "NAME": "Набережные Челны",
-            "positive_percent": 43.7,
+            "positive_percent": 44,
             "coords": [
                 "55.72106141989",
                 "52.371011231536"
             ]
         },
         "634": {
-            "positive": 2241,
-            "total": 6656,
+            "positive": 2273,
+            "total": 6706,
             "NAME": "Брянск",
-            "positive_percent": 33.7,
+            "positive_percent": 33.9,
             "coords": [
                 "53.263801705265",
                 "34.33872610607"
             ]
         },
         "635": {
-            "positive": 281,
-            "total": 570,
+            "positive": 286,
+            "total": 576,
             "NAME": "Салават",
-            "positive_percent": 49.3,
+            "positive_percent": 49.7,
             "coords": [
                 "53.347930419988",
                 "55.935422559524"
             ]
         },
         "636": {
-            "positive": 1028,
-            "total": 3321,
+            "positive": 1052,
+            "total": 3361,
             "NAME": "Лобня",
-            "positive_percent": 31,
+            "positive_percent": 31.3,
             "coords": [
                 "56.008203951286",
                 "37.45635182209"
             ]
         },
         "639": {
-            "positive": 4426,
-            "total": 14732,
+            "positive": 4437,
+            "total": 14750,
             "NAME": "Альметьевск",
-            "positive_percent": 30,
+            "positive_percent": 30.1,
             "coords": [
                 "54.903524185226",
                 "52.301771542328"
             ]
         },
         "641": {
-            "positive": 131,
-            "total": 299,
+            "positive": 133,
+            "total": 301,
             "NAME": "Арзамас",
-            "positive_percent": 43.8,
+            "positive_percent": 44.2,
             "coords": [
                 "55.400700336345",
                 "43.834148241459"
             ]
         },
         "645": {
-            "positive": 725,
-            "total": 1762,
+            "positive": 733,
+            "total": 1776,
             "NAME": "Александров",
-            "positive_percent": 41.1,
+            "positive_percent": 41.3,
             "coords": [
                 "56.396544900082",
                 "38.709099618385"
@@ -4273,99 +4289,99 @@
         },
         "646": {
             "positive": 179,
-            "total": 364,
+            "total": 365,
             "NAME": "Кизляр",
-            "positive_percent": 49.2,
+            "positive_percent": 49,
             "coords": [
                 "43.841639765401",
                 "46.730830116568"
             ]
         },
         "649": {
-            "positive": 717,
-            "total": 1361,
+            "positive": 745,
+            "total": 1399,
             "NAME": "Шебекино",
-            "positive_percent": 52.7,
+            "positive_percent": 53.3,
             "coords": [
                 "50.411903425836",
                 "36.886962457672"
             ]
         },
         "656": {
-            "positive": 471,
-            "total": 1208,
+            "positive": 479,
+            "total": 1218,
             "NAME": "Кашира",
-            "positive_percent": 39,
+            "positive_percent": 39.3,
             "coords": [
                 "54.833269745953",
                 "38.151081844764"
             ]
         },
         "659": {
-            "positive": 2142,
-            "total": 5439,
+            "positive": 2159,
+            "total": 5465,
             "NAME": "Саранск",
-            "positive_percent": 39.4,
+            "positive_percent": 39.5,
             "coords": [
                 "54.19391078431",
                 "45.186123999929"
             ]
         },
         "661": {
-            "positive": 1503,
-            "total": 5032,
+            "positive": 1523,
+            "total": 5063,
             "NAME": "Клин",
-            "positive_percent": 29.9,
+            "positive_percent": 30.1,
             "coords": [
                 "56.332960184092",
                 "36.722854895281"
             ]
         },
         "662": {
-            "positive": 1609,
-            "total": 4171,
+            "positive": 1627,
+            "total": 4221,
             "NAME": "Отрадный",
-            "positive_percent": 38.6,
+            "positive_percent": 38.5,
             "coords": [
                 "53.377214773751",
                 "51.340346033085"
             ]
         },
         "663": {
-            "positive": 6468,
-            "total": 16779,
+            "positive": 6574,
+            "total": 16935,
             "NAME": "Калининград",
-            "positive_percent": 38.5,
+            "positive_percent": 38.8,
             "coords": [
                 "54.699571414106",
                 "20.521608450605"
             ]
         },
         "666": {
-            "positive": 818,
-            "total": 1711,
+            "positive": 831,
+            "total": 1730,
             "NAME": "Шахты",
-            "positive_percent": 47.8,
+            "positive_percent": 48,
             "coords": [
                 "47.692238677329",
                 "40.203170523314"
             ]
         },
         "667": {
-            "positive": 699,
-            "total": 1633,
+            "positive": 702,
+            "total": 1643,
             "NAME": "Рубцовск",
-            "positive_percent": 42.8,
+            "positive_percent": 42.7,
             "coords": [
                 "51.523198385751",
                 "81.215469915344"
             ]
         },
         "668": {
-            "positive": 3412,
-            "total": 10750,
+            "positive": 3454,
+            "total": 10820,
             "NAME": "Мытищи",
-            "positive_percent": 31.7,
+            "positive_percent": 31.9,
             "coords": [
                 "55.910446062378",
                 "37.726494811755"
@@ -4382,60 +4398,60 @@
             ]
         },
         "672": {
-            "positive": 524,
-            "total": 1382,
+            "positive": 536,
+            "total": 1401,
             "NAME": "Протвино",
-            "positive_percent": 37.9,
+            "positive_percent": 38.3,
             "coords": [
                 "54.877674084127",
                 "37.232439931823"
             ]
         },
         "674": {
-            "positive": 1934,
-            "total": 6254,
+            "positive": 1958,
+            "total": 6295,
             "NAME": "Люберцы",
-            "positive_percent": 30.9,
+            "positive_percent": 31.1,
             "coords": [
                 "55.689904077345",
                 "37.919759912685"
             ]
         },
         "676": {
-            "positive": 710,
-            "total": 2244,
+            "positive": 723,
+            "total": 2263,
             "NAME": "Нахабино",
-            "positive_percent": 31.6,
+            "positive_percent": 31.9,
             "coords": [
                 "55.839456101878",
                 "37.180928249899"
             ]
         },
         "677": {
-            "positive": 1251,
-            "total": 3571,
+            "positive": 1286,
+            "total": 3645,
             "NAME": "Чехов",
-            "positive_percent": 35,
+            "positive_percent": 35.3,
             "coords": [
                 "55.152783283478",
                 "37.458283093871"
             ]
         },
         "680": {
-            "positive": 385,
-            "total": 733,
+            "positive": 391,
+            "total": 744,
             "NAME": "Верхний Уфалей",
-            "positive_percent": 52.5,
+            "positive_percent": 52.6,
             "coords": [
                 "56.059234005747",
                 "60.21966082209"
             ]
         },
         "683": {
-            "positive": 623,
-            "total": 1461,
+            "positive": 629,
+            "total": 1469,
             "NAME": "Североморск",
-            "positive_percent": 42.6,
+            "positive_percent": 42.8,
             "coords": [
                 "69.06518262797",
                 "33.425266219933"
@@ -4443,89 +4459,89 @@
         },
         "684": {
             "positive": 49,
-            "total": 135,
+            "total": 139,
             "NAME": "Зеленчукская",
-            "positive_percent": 36.3,
+            "positive_percent": 35.3,
             "coords": [
                 "43.865193927627",
                 "41.580227144334"
             ]
         },
         "686": {
-            "positive": 4554,
-            "total": 13817,
+            "positive": 4625,
+            "total": 13936,
             "NAME": "Нижний Новгород",
-            "positive_percent": 33,
+            "positive_percent": 33.2,
             "coords": [
                 "56.299906621381",
                 "43.945353070375"
             ]
         },
         "687": {
-            "positive": 804,
-            "total": 1981,
+            "positive": 823,
+            "total": 2006,
             "NAME": "Ангарск",
-            "positive_percent": 40.6,
+            "positive_percent": 41,
             "coords": [
                 "52.521013344483",
                 "103.87378764661"
             ]
         },
         "688": {
-            "positive": 405,
-            "total": 1069,
+            "positive": 410,
+            "total": 1077,
             "NAME": "Южноуральск",
-            "positive_percent": 37.9,
+            "positive_percent": 38.1,
             "coords": [
                 "54.443211506276",
                 "61.267297813492"
             ]
         },
         "695": {
-            "positive": 751,
-            "total": 1661,
+            "positive": 763,
+            "total": 1681,
             "NAME": "Мелеуз",
-            "positive_percent": 45.2,
+            "positive_percent": 45.4,
             "coords": [
                 "52.962875478869",
                 "55.933330867221"
             ]
         },
         "696": {
-            "positive": 1620,
-            "total": 4469,
+            "positive": 1652,
+            "total": 4512,
             "NAME": "Всеволожск",
-            "positive_percent": 36.2,
+            "positive_percent": 36.6,
             "coords": [
                 "60.013101573885",
                 "30.640388833378"
             ]
         },
         "700": {
-            "positive": 572,
-            "total": 2000,
+            "positive": 575,
+            "total": 2005,
             "NAME": "Новороссийск",
-            "positive_percent": 28.6,
+            "positive_percent": 28.7,
             "coords": [
                 "44.698643196362",
                 "37.783350013424"
             ]
         },
         "707": {
-            "positive": 5332,
-            "total": 11899,
+            "positive": 5395,
+            "total": 11995,
             "NAME": "Барнаул",
-            "positive_percent": 44.8,
+            "positive_percent": 45,
             "coords": [
                 "53.352869744836",
                 "83.711006626317"
             ]
         },
         "710": {
-            "positive": 277,
-            "total": 627,
+            "positive": 278,
+            "total": 630,
             "NAME": "Крымск",
-            "positive_percent": 44.2,
+            "positive_percent": 44.1,
             "coords": [
                 "44.934895555479",
                 "37.988000708488"
@@ -4533,109 +4549,109 @@
         },
         "711": {
             "positive": 423,
-            "total": 1023,
+            "total": 1027,
             "NAME": "Гурьевск",
-            "positive_percent": 41.3,
+            "positive_percent": 41.2,
             "coords": [
                 "54.283014277679",
                 "85.940603084656"
             ]
         },
         "713": {
-            "positive": 3151,
-            "total": 9338,
+            "positive": 3183,
+            "total": 9408,
             "NAME": "Пенза",
-            "positive_percent": 33.7,
+            "positive_percent": 33.8,
             "coords": [
                 "53.186072104436",
                 "44.999837391369"
             ]
         },
         "716": {
-            "positive": 254,
-            "total": 626,
+            "positive": 255,
+            "total": 629,
             "NAME": "Темрюк",
-            "positive_percent": 40.6,
+            "positive_percent": 40.5,
             "coords": [
                 "45.281170183259",
                 "37.373523116394"
             ]
         },
         "718": {
-            "positive": 4173,
-            "total": 15346,
+            "positive": 4232,
+            "total": 15442,
             "NAME": "Химки",
-            "positive_percent": 27.2,
+            "positive_percent": 27.4,
             "coords": [
                 "55.903377282808",
                 "37.419159789965"
             ]
         },
         "719": {
-            "positive": 871,
-            "total": 2120,
+            "positive": 879,
+            "total": 2132,
             "NAME": "Армавир",
-            "positive_percent": 41.1,
+            "positive_percent": 41.2,
             "coords": [
                 "45.004525367089",
                 "41.107120972387"
             ]
         },
         "720": {
-            "positive": 1610,
-            "total": 4169,
+            "positive": 1648,
+            "total": 4229,
             "NAME": "Гатчина",
-            "positive_percent": 38.6,
+            "positive_percent": 39,
             "coords": [
                 "59.574011893903",
                 "30.128209442763"
             ]
         },
         "721": {
-            "positive": 1576,
-            "total": 4934,
+            "positive": 1622,
+            "total": 5020,
             "NAME": "Московский",
-            "positive_percent": 31.9,
+            "positive_percent": 32.3,
             "coords": [
                 "55.599273584252",
                 "37.350549076826"
             ]
         },
         "724": {
-            "positive": 3274,
-            "total": 7728,
+            "positive": 3310,
+            "total": 7789,
             "NAME": "Тула",
-            "positive_percent": 42.4,
+            "positive_percent": 42.5,
             "coords": [
-                "54.196793508247",
-                "37.615299943413"
+                "54.192619806597",
+                "37.60724555473"
             ]
         },
         "726": {
-            "positive": 2013,
-            "total": 5394,
+            "positive": 2041,
+            "total": 5438,
             "NAME": "Астрахань",
-            "positive_percent": 37.3,
+            "positive_percent": 37.5,
             "coords": [
                 "46.341353983171",
                 "48.044134867779"
             ]
         },
         "730": {
-            "positive": 993,
-            "total": 2680,
+            "positive": 1016,
+            "total": 2711,
             "NAME": "Сибай",
-            "positive_percent": 37.1,
+            "positive_percent": 37.5,
             "coords": [
                 "52.727162189992",
                 "58.684726271164"
             ]
         },
         "733": {
-            "positive": 390,
-            "total": 1124,
+            "positive": 396,
+            "total": 1131,
             "NAME": "Серов",
-            "positive_percent": 34.7,
+            "positive_percent": 35,
             "coords": [
                 "59.602928845665",
                 "60.573797245811"
@@ -4652,58 +4668,58 @@
             ]
         },
         "736": {
-            "positive": 622,
-            "total": 1435,
+            "positive": 632,
+            "total": 1454,
             "NAME": "Балабаново",
-            "positive_percent": 43.3,
+            "positive_percent": 43.5,
             "coords": [
                 "55.172244844983",
                 "36.661649195106"
             ]
         },
         "738": {
-            "positive": 664,
-            "total": 1381,
+            "positive": 670,
+            "total": 1391,
             "NAME": "Озёрск",
-            "positive_percent": 48.1,
+            "positive_percent": 48.2,
             "coords": [
                 "55.757025300235",
                 "60.701745457672"
             ]
         },
         "744": {
-            "positive": 846,
-            "total": 2109,
+            "positive": 865,
+            "total": 2143,
             "NAME": "Бугуруслан",
-            "positive_percent": 40.1,
+            "positive_percent": 40.4,
             "coords": [
                 "53.633310941041",
                 "52.424486005453"
             ]
         },
         "754": {
-            "positive": 492,
-            "total": 1956,
+            "positive": 513,
+            "total": 1983,
             "NAME": "Апрелевка",
-            "positive_percent": 25.2,
+            "positive_percent": 25.9,
             "coords": [
                 "55.539991350493",
                 "37.079445572252"
             ]
         },
         "755": {
-            "positive": 590,
-            "total": 1344,
+            "positive": 600,
+            "total": 1365,
             "NAME": "Каменск-Шахтинский",
-            "positive_percent": 43.9,
+            "positive_percent": 44,
             "coords": [
                 "48.31722037625",
                 "40.284963542328"
             ]
         },
         "764": {
-            "positive": 665,
-            "total": 1582,
+            "positive": 672,
+            "total": 1600,
             "NAME": "Конаково",
             "positive_percent": 42,
             "coords": [
@@ -4712,8 +4728,8 @@
             ]
         },
         "767": {
-            "positive": 1864,
-            "total": 7038,
+            "positive": 1902,
+            "total": 7189,
             "NAME": "Якутск",
             "positive_percent": 26.5,
             "coords": [
@@ -4722,18 +4738,18 @@
             ]
         },
         "768": {
-            "positive": 754,
-            "total": 2852,
+            "positive": 766,
+            "total": 2872,
             "NAME": "Можайск",
-            "positive_percent": 26.4,
+            "positive_percent": 26.7,
             "coords": [
                 "55.50311089029",
                 "36.024646861351"
             ]
         },
         "769": {
-            "positive": 6483,
-            "total": 18977,
+            "positive": 6502,
+            "total": 19021,
             "NAME": "Кемерово",
             "positive_percent": 34.2,
             "coords": [
@@ -4742,38 +4758,38 @@
             ]
         },
         "771": {
-            "positive": 379,
-            "total": 1422,
+            "positive": 383,
+            "total": 1426,
             "NAME": "Озёры",
-            "positive_percent": 26.7,
+            "positive_percent": 26.9,
             "coords": [
                 "54.853324690028",
                 "38.555287752532"
             ]
         },
         "773": {
-            "positive": 464,
-            "total": 1247,
+            "positive": 466,
+            "total": 1250,
             "NAME": "Моздок",
-            "positive_percent": 37.2,
+            "positive_percent": 37.3,
             "coords": [
                 "43.744900224431",
                 "44.649316728836"
             ]
         },
         "774": {
-            "positive": 7971,
-            "total": 21031,
+            "positive": 8097,
+            "total": 21212,
             "NAME": "Ростов-на-Дону",
-            "positive_percent": 37.9,
+            "positive_percent": 38.2,
             "coords": [
                 "47.247606364569",
                 "39.708974556548"
             ]
         },
         "785": {
-            "positive": 415,
-            "total": 949,
+            "positive": 418,
+            "total": 956,
             "NAME": "Мариинск",
             "positive_percent": 43.7,
             "coords": [
@@ -4782,98 +4798,98 @@
             ]
         },
         "793": {
-            "positive": 533,
-            "total": 1391,
+            "positive": 534,
+            "total": 1397,
             "NAME": "Ахтубинск",
-            "positive_percent": 38.3,
+            "positive_percent": 38.2,
             "coords": [
                 "48.286046948447",
                 "46.164177142968"
             ]
         },
         "795": {
-            "positive": 380,
-            "total": 869,
+            "positive": 387,
+            "total": 884,
             "NAME": "Вичуга",
-            "positive_percent": 43.7,
+            "positive_percent": 43.8,
             "coords": [
                 "57.215593104622",
                 "41.92979964418"
             ]
         },
         "800": {
-            "positive": 617,
-            "total": 1430,
+            "positive": 627,
+            "total": 1447,
             "NAME": "Междуреченск",
-            "positive_percent": 43.1,
+            "positive_percent": 43.3,
             "coords": [
                 "53.689464234438",
                 "88.063158711898"
             ]
         },
         "801": {
-            "positive": 672,
-            "total": 1566,
+            "positive": 678,
+            "total": 1576,
             "NAME": "Вологда",
-            "positive_percent": 42.9,
+            "positive_percent": 43,
             "coords": [
                 "59.220703616293",
                 "39.869774541478"
             ]
         },
         "803": {
-            "positive": 415,
-            "total": 1038,
+            "positive": 418,
+            "total": 1043,
             "NAME": "Сальск",
-            "positive_percent": 40,
+            "positive_percent": 40.1,
             "coords": [
                 "46.476209351667",
                 "41.537492766865"
             ]
         },
         "806": {
-            "positive": 2425,
-            "total": 7543,
+            "positive": 2446,
+            "total": 7578,
             "NAME": "Чебоксары",
-            "positive_percent": 32.1,
+            "positive_percent": 32.3,
             "coords": [
                 "56.128318497997",
                 "47.222843048079"
             ]
         },
         "809": {
-            "positive": 449,
-            "total": 1256,
+            "positive": 451,
+            "total": 1258,
             "NAME": "Волжский",
-            "positive_percent": 35.7,
+            "positive_percent": 35.9,
             "coords": [
                 "48.781937122833",
                 "44.776485509496"
             ]
         },
         "810": {
-            "positive": 382,
-            "total": 729,
+            "positive": 388,
+            "total": 738,
             "NAME": "Ишимбай",
-            "positive_percent": 52.4,
+            "positive_percent": 52.6,
             "coords": [
                 "53.450888966886",
                 "56.035626991402"
             ]
         },
         "813": {
-            "positive": 522,
-            "total": 1429,
+            "positive": 537,
+            "total": 1451,
             "NAME": "Котельники",
-            "positive_percent": 36.5,
+            "positive_percent": 37,
             "coords": [
                 "55.66351693449",
                 "37.856811686518"
             ]
         },
         "815": {
-            "positive": 302,
-            "total": 720,
+            "positive": 304,
+            "total": 725,
             "NAME": "Болотное",
             "positive_percent": 41.9,
             "coords": [
@@ -4882,148 +4898,148 @@
             ]
         },
         "819": {
-            "positive": 1264,
-            "total": 2967,
+            "positive": 1277,
+            "total": 2992,
             "NAME": "Кисловодск",
-            "positive_percent": 42.6,
+            "positive_percent": 42.7,
             "coords": [
                 "43.917371400804",
                 "42.716874596726"
             ]
         },
         "820": {
-            "positive": 1108,
-            "total": 3016,
+            "positive": 1122,
+            "total": 3048,
             "NAME": "Пятигорск",
-            "positive_percent": 36.7,
+            "positive_percent": 36.8,
             "coords": [
                 "44.049919037309",
                 "43.050579010434"
             ]
         },
         "827": {
-            "positive": 908,
-            "total": 2354,
+            "positive": 928,
+            "total": 2383,
             "NAME": "Анапа",
-            "positive_percent": 38.6,
+            "positive_percent": 38.9,
             "coords": [
                 "44.894881187501",
                 "37.32848592344"
             ]
         },
         "832": {
-            "positive": 1039,
-            "total": 3106,
+            "positive": 1061,
+            "total": 3139,
             "NAME": "Кудрово",
-            "positive_percent": 33.5,
+            "positive_percent": 33.8,
             "coords": [
                 "59.906546816519",
                 "30.515485460962"
             ]
         },
         "835": {
-            "positive": 17732,
-            "total": 51568,
+            "positive": 17994,
+            "total": 51940,
             "NAME": "Челябинск",
-            "positive_percent": 34.4,
+            "positive_percent": 34.6,
             "coords": [
                 "55.169285662509",
                 "61.38257272392"
             ]
         },
         "839": {
-            "positive": 377,
-            "total": 1405,
+            "positive": 382,
+            "total": 1413,
             "NAME": "Щербинка",
-            "positive_percent": 26.8,
+            "positive_percent": 27,
             "coords": [
                 "55.511939315815",
                 "37.573554911129"
             ]
         },
         "840": {
-            "positive": 336,
-            "total": 1026,
+            "positive": 338,
+            "total": 1028,
             "NAME": "Шатура",
-            "positive_percent": 32.7,
+            "positive_percent": 32.9,
             "coords": [
                 "55.576970962313",
                 "39.527723030744"
             ]
         },
         "842": {
-            "positive": 2739,
-            "total": 6830,
+            "positive": 2789,
+            "total": 6904,
             "NAME": "Калуга",
-            "positive_percent": 40.1,
+            "positive_percent": 40.4,
             "coords": [
                 "54.51514636358",
                 "36.26198315528"
             ]
         },
         "844": {
-            "positive": 1449,
-            "total": 3487,
+            "positive": 1466,
+            "total": 3514,
             "NAME": "Бузулук",
-            "positive_percent": 41.6,
+            "positive_percent": 41.7,
             "coords": [
                 "52.784749479975",
                 "52.254053142729"
             ]
         },
         "845": {
-            "positive": 512,
-            "total": 1311,
+            "positive": 518,
+            "total": 1317,
             "NAME": "Кольчугино",
-            "positive_percent": 39.1,
+            "positive_percent": 39.3,
             "coords": [
                 "56.295054034033",
                 "39.376784186508"
             ]
         },
         "847": {
-            "positive": 1679,
-            "total": 3696,
+            "positive": 1701,
+            "total": 3723,
             "NAME": "Бийск",
-            "positive_percent": 45.4,
+            "positive_percent": 45.7,
             "coords": [
                 "52.528257392107",
                 "85.184339608155"
             ]
         },
         "848": {
-            "positive": 778,
-            "total": 1515,
+            "positive": 788,
+            "total": 1529,
             "NAME": "Мценск",
-            "positive_percent": 51.4,
+            "positive_percent": 51.5,
             "coords": [
                 "53.280990714334",
                 "36.571378584656"
             ]
         },
         "852": {
-            "positive": 362,
-            "total": 840,
+            "positive": 370,
+            "total": 853,
             "NAME": "Карталы",
-            "positive_percent": 43.1,
+            "positive_percent": 43.4,
             "coords": [
                 "53.05670356795",
                 "60.638638101852"
             ]
         },
         "857": {
-            "positive": 568,
-            "total": 1438,
+            "positive": 574,
+            "total": 1446,
             "NAME": "Алапаевск",
-            "positive_percent": 39.5,
+            "positive_percent": 39.7,
             "coords": [
                 "57.853211213153",
                 "61.702230947416"
             ]
         },
         "861": {
-            "positive": 1224,
-            "total": 2867,
+            "positive": 1231,
+            "total": 2882,
             "NAME": "Прокопьевск",
             "positive_percent": 42.7,
             "coords": [
@@ -5032,8 +5048,8 @@
             ]
         },
         "862": {
-            "positive": 243,
-            "total": 614,
+            "positive": 244,
+            "total": 616,
             "NAME": "Судогда",
             "positive_percent": 39.6,
             "coords": [
@@ -5042,8 +5058,8 @@
             ]
         },
         "864": {
-            "positive": 1408,
-            "total": 3115,
+            "positive": 1416,
+            "total": 3130,
             "NAME": "Владикавказ",
             "positive_percent": 45.2,
             "coords": [
@@ -5052,8 +5068,8 @@
             ]
         },
         "865": {
-            "positive": 300,
-            "total": 709,
+            "positive": 303,
+            "total": 716,
             "NAME": "Алатырь",
             "positive_percent": 42.3,
             "coords": [
@@ -5062,28 +5078,28 @@
             ]
         },
         "867": {
-            "positive": 1379,
-            "total": 3226,
+            "positive": 1397,
+            "total": 3251,
             "NAME": "Каменск-Уральский",
-            "positive_percent": 42.7,
+            "positive_percent": 43,
             "coords": [
                 "56.413574980144",
                 "61.908111777795"
             ]
         },
         "872": {
-            "positive": 3046,
-            "total": 6935,
+            "positive": 3078,
+            "total": 6988,
             "NAME": "Норильск",
-            "positive_percent": 43.9,
+            "positive_percent": 44,
             "coords": [
                 "69.377544649839",
                 "88.155746619696"
             ]
         },
         "876": {
-            "positive": 486,
-            "total": 1014,
+            "positive": 492,
+            "total": 1027,
             "NAME": "Светлый",
             "positive_percent": 47.9,
             "coords": [
@@ -5092,58 +5108,58 @@
             ]
         },
         "880": {
-            "positive": 238,
-            "total": 487,
+            "positive": 241,
+            "total": 491,
             "NAME": "Новотроицк",
-            "positive_percent": 48.9,
+            "positive_percent": 49.1,
             "coords": [
                 "51.19638595613",
                 "58.320124720238"
             ]
         },
         "881": {
-            "positive": 2894,
-            "total": 6822,
+            "positive": 2947,
+            "total": 6890,
             "NAME": "Орёл",
-            "positive_percent": 42.4,
+            "positive_percent": 42.8,
             "coords": [
                 "52.971056841014",
                 "36.074668110098"
             ]
         },
         "883": {
-            "positive": 280,
-            "total": 979,
+            "positive": 287,
+            "total": 993,
             "NAME": "Туапсе",
-            "positive_percent": 28.6,
+            "positive_percent": 28.9,
             "coords": [
                 "44.098728140753",
                 "39.081737874834"
             ]
         },
         "884": {
-            "positive": 958,
-            "total": 2110,
+            "positive": 971,
+            "total": 2131,
             "NAME": "Чапаевск",
-            "positive_percent": 45.4,
+            "positive_percent": 45.6,
             "coords": [
                 "52.956854724883",
                 "49.689958754631"
             ]
         },
         "886": {
-            "positive": 2391,
-            "total": 5401,
+            "positive": 2411,
+            "total": 5429,
             "NAME": "Северодвинск",
-            "positive_percent": 44.3,
+            "positive_percent": 44.4,
             "coords": [
                 "64.556119449614",
                 "39.819067333437"
             ]
         },
         "892": {
-            "positive": 6598,
-            "total": 16588,
+            "positive": 6693,
+            "total": 16811,
             "NAME": "Омск",
             "positive_percent": 39.8,
             "coords": [
@@ -5152,118 +5168,118 @@
             ]
         },
         "894": {
-            "positive": 372,
-            "total": 804,
+            "positive": 378,
+            "total": 812,
             "NAME": "Каспийск",
-            "positive_percent": 46.3,
+            "positive_percent": 46.6,
             "coords": [
                 "42.895350357356",
                 "47.628994158896"
             ]
         },
         "895": {
-            "positive": 592,
-            "total": 1538,
+            "positive": 600,
+            "total": 1550,
             "NAME": "Сатка",
-            "positive_percent": 38.5,
+            "positive_percent": 38.7,
             "coords": [
                 "55.045510037475",
                 "58.978380084656"
             ]
         },
         "896": {
-            "positive": 2258,
-            "total": 5612,
+            "positive": 2307,
+            "total": 5673,
             "NAME": "Чита",
-            "positive_percent": 40.2,
+            "positive_percent": 40.7,
             "coords": [
                 "52.037702929433",
                 "113.50714761797"
             ]
         },
         "899": {
-            "positive": 1484,
-            "total": 4967,
+            "positive": 1505,
+            "total": 4996,
             "NAME": "Пушкино",
-            "positive_percent": 29.9,
+            "positive_percent": 30.1,
             "coords": [
                 "56.014188973159",
                 "37.851028526546"
             ]
         },
         "908": {
-            "positive": 150,
-            "total": 327,
+            "positive": 152,
+            "total": 330,
             "NAME": "Тырныауз",
-            "positive_percent": 45.9,
+            "positive_percent": 46.1,
             "coords": [
                 "43.392483719629",
                 "42.921989335968"
             ]
         },
         "909": {
-            "positive": 496,
-            "total": 1163,
+            "positive": 500,
+            "total": 1169,
             "NAME": "Братск",
-            "positive_percent": 42.6,
+            "positive_percent": 42.8,
             "coords": [
                 "56.146993993373",
                 "101.61640493096"
             ]
         },
         "918": {
-            "positive": 353,
-            "total": 676,
+            "positive": 362,
+            "total": 687,
             "NAME": "Фурманов",
-            "positive_percent": 52.2,
+            "positive_percent": 52.7,
             "coords": [
                 "57.26592331659",
                 "41.123375550926"
             ]
         },
         "919": {
-            "positive": 353,
-            "total": 962,
+            "positive": 358,
+            "total": 970,
             "NAME": "Ачинск",
-            "positive_percent": 36.7,
+            "positive_percent": 36.9,
             "coords": [
                 "56.262539819887",
                 "90.495798416193"
             ]
         },
         "920": {
-            "positive": 2122,
-            "total": 7253,
+            "positive": 2153,
+            "total": 7302,
             "NAME": "Домодедово",
-            "positive_percent": 29.3,
+            "positive_percent": 29.5,
             "coords": [
                 "55.418063239716",
                 "37.76144689857"
             ]
         },
         "922": {
-            "positive": 381,
-            "total": 862,
+            "positive": 386,
+            "total": 871,
             "NAME": "Прохладный",
-            "positive_percent": 44.2,
+            "positive_percent": 44.3,
             "coords": [
                 "43.758471902029",
                 "44.023999500664"
             ]
         },
         "923": {
-            "positive": 1049,
-            "total": 2687,
+            "positive": 1071,
+            "total": 2727,
             "NAME": "Ломоносов",
-            "positive_percent": 39,
+            "positive_percent": 39.3,
             "coords": [
                 "59.914608555148",
                 "29.766816804756"
             ]
         },
         "929": {
-            "positive": 321,
-            "total": 623,
+            "positive": 322,
+            "total": 625,
             "NAME": "Буйнакск",
             "positive_percent": 51.5,
             "coords": [
@@ -5272,100 +5288,100 @@
             ]
         },
         "932": {
-            "positive": 1169,
-            "total": 2429,
+            "positive": 1174,
+            "total": 2444,
             "NAME": "Ковров",
-            "positive_percent": 48.1,
+            "positive_percent": 48,
             "coords": [
                 "56.344413421499",
                 "41.316563682209"
             ]
         },
         "939": {
-            "positive": 495,
-            "total": 1496,
+            "positive": 501,
+            "total": 1504,
             "NAME": "Егорьевск",
-            "positive_percent": 33.1,
+            "positive_percent": 33.3,
             "coords": [
                 "55.379884297289",
                 "39.041375135922"
             ]
         },
         "940": {
-            "positive": 1656,
-            "total": 6069,
+            "positive": 1682,
+            "total": 6106,
             "NAME": "Истра",
-            "positive_percent": 27.3,
+            "positive_percent": 27.5,
             "coords": [
                 "55.912576581012",
                 "36.858199500926"
             ]
         },
         "942": {
-            "positive": 3054,
-            "total": 9313,
+            "positive": 3110,
+            "total": 9390,
             "NAME": "Красногорск",
-            "positive_percent": 32.8,
+            "positive_percent": 33.1,
             "coords": [
                 "55.828456583266",
                 "37.329410132583"
             ]
         },
         "946": {
-            "positive": 632,
-            "total": 2150,
+            "positive": 644,
+            "total": 2165,
             "NAME": "Наро-Фоминск",
-            "positive_percent": 29.4,
+            "positive_percent": 29.7,
             "coords": [
                 "55.385246671474",
                 "36.728668005943"
             ]
         },
         "951": {
-            "positive": 395,
-            "total": 1215,
+            "positive": 400,
+            "total": 1225,
             "NAME": "Ялуторовск",
-            "positive_percent": 32.5,
+            "positive_percent": 32.7,
             "coords": [
                 "56.653844703378",
                 "66.312977480986"
             ]
         },
         "954": {
-            "positive": 336,
-            "total": 988,
+            "positive": 340,
+            "total": 993,
             "NAME": "Дедовск",
-            "positive_percent": 34,
+            "positive_percent": 34.2,
             "coords": [
                 "55.860955813905",
                 "37.12167482209"
             ]
         },
         "960": {
-            "positive": 12880,
-            "total": 35080,
+            "positive": 13046,
+            "total": 35317,
             "NAME": "Красноярск",
-            "positive_percent": 36.7,
+            "positive_percent": 36.9,
             "coords": [
                 "56.027225841278",
                 "92.899288952881"
             ]
         },
         "962": {
-            "positive": 2485,
-            "total": 6458,
+            "positive": 2516,
+            "total": 6508,
             "NAME": "Сыктывкар",
-            "positive_percent": 38.5,
+            "positive_percent": 38.7,
             "coords": [
                 "61.702303287918",
                 "50.805635104291"
             ]
         },
         "966": {
-            "positive": 634,
-            "total": 1722,
+            "positive": 647,
+            "total": 1739,
             "NAME": "Климовск",
-            "positive_percent": 36.8,
+            "positive_percent": 37.2,
             "coords": [
                 "55.379490461495",
                 "37.541538954403"
@@ -5382,80 +5398,80 @@
             ]
         },
         "979": {
-            "positive": 1089,
-            "total": 2368,
+            "positive": 1112,
+            "total": 2402,
             "NAME": "Губкин",
-            "positive_percent": 46,
+            "positive_percent": 46.3,
             "coords": [
                 "51.282817097821",
                 "37.53083669042"
             ]
         },
         "983": {
-            "positive": 1444,
-            "total": 3486,
+            "positive": 1462,
+            "total": 3512,
             "NAME": "Юрга",
-            "positive_percent": 41.4,
+            "positive_percent": 41.6,
             "coords": [
                 "55.721624999969",
                 "84.930082442957"
             ]
         },
         "986": {
-            "positive": 23586,
-            "total": 55170,
+            "positive": 23957,
+            "total": 55703,
             "NAME": "Самара",
-            "positive_percent": 42.8,
+            "positive_percent": 43,
             "coords": [
                 "53.211796487098",
                 "50.187424863417"
             ]
         },
         "991": {
-            "positive": 564,
-            "total": 1516,
+            "positive": 573,
+            "total": 1528,
             "NAME": "Кольцово",
-            "positive_percent": 37.2,
+            "positive_percent": 37.5,
             "coords": [
                 "54.937374708475",
                 "83.191997125166"
             ]
         },
         "992": {
-            "positive": 9035,
-            "total": 23611,
+            "positive": 9119,
+            "total": 23751,
             "NAME": "Томск",
-            "positive_percent": 38.3,
+            "positive_percent": 38.4,
             "coords": [
                 "56.485463604964",
                 "84.984674601656"
             ]
         },
         "993": {
-            "positive": 876,
-            "total": 3176,
+            "positive": 884,
+            "total": 3185,
             "NAME": "Орехово-Зуево",
-            "positive_percent": 27.6,
+            "positive_percent": 27.8,
             "coords": [
                 "55.802750383206",
                 "38.973246904774"
             ]
         },
         "994": {
-            "positive": 678,
-            "total": 1540,
+            "positive": 686,
+            "total": 1552,
             "NAME": "Миллерово",
-            "positive_percent": 44,
+            "positive_percent": 44.2,
             "coords": [
                 "48.919102818135",
                 "40.386459597553"
             ]
         },
         "995": {
-            "positive": 794,
-            "total": 1811,
+            "positive": 820,
+            "total": 1854,
             "NAME": "Улан-Удэ",
-            "positive_percent": 43.8,
+            "positive_percent": 44.2,
             "coords": [
                 "51.819143265487",
                 "107.61941347191"
@@ -5463,107 +5479,107 @@
         },
         "998": {
             "positive": 274,
-            "total": 545,
+            "total": 547,
             "NAME": "Избербаш",
-            "positive_percent": 50.3,
+            "positive_percent": 50.1,
             "coords": [
                 "42.565113947945",
                 "47.868280777771"
             ]
         },
         "999": {
-            "positive": 101,
-            "total": 230,
+            "positive": 102,
+            "total": 231,
             "NAME": "Терек",
-            "positive_percent": 43.9,
+            "positive_percent": 44.2,
             "coords": [
                 "43.484682939984",
                 "44.128135720238"
             ]
         },
         "1006": {
-            "positive": 1672,
-            "total": 3598,
+            "positive": 1692,
+            "total": 3634,
             "NAME": "Рыбинск",
-            "positive_percent": 46.5,
+            "positive_percent": 46.6,
             "coords": [
                 "58.053059737728",
                 "38.831708348608"
             ]
         },
         "1007": {
-            "positive": 2504,
-            "total": 6094,
+            "positive": 2531,
+            "total": 6130,
             "NAME": "Нефтеюганск",
-            "positive_percent": 41.1,
+            "positive_percent": 41.3,
             "coords": [
                 "61.07783618045",
                 "72.615390036028"
             ]
         },
         "1012": {
-            "positive": 100,
-            "total": 346,
+            "positive": 101,
+            "total": 348,
             "NAME": "Нарткала",
-            "positive_percent": 28.9,
+            "positive_percent": 29,
             "coords": [
                 "43.556007972008",
                 "43.86021179914"
             ]
         },
         "1013": {
-            "positive": 6954,
-            "total": 18619,
+            "positive": 7061,
+            "total": 18787,
             "NAME": "Уфа",
-            "positive_percent": 37.3,
+            "positive_percent": 37.6,
             "coords": [
                 "54.757835078035",
                 "56.011928052472"
             ]
         },
         "1014": {
-            "positive": 2301,
-            "total": 8581,
+            "positive": 2326,
+            "total": 8629,
             "NAME": "Серпухов",
-            "positive_percent": 26.8,
+            "positive_percent": 27,
             "coords": [
                 "54.922188974879",
                 "37.428223723141"
             ]
         },
         "1017": {
-            "positive": 129,
-            "total": 268,
+            "positive": 131,
+            "total": 271,
             "NAME": "Кунашак",
-            "positive_percent": 48.1,
+            "positive_percent": 48.3,
             "coords": [
                 "55.695170131152",
                 "61.548497534425"
             ]
         },
         "1025": {
-            "positive": 1349,
-            "total": 4241,
+            "positive": 1354,
+            "total": 4247,
             "NAME": "Петропавловск-Камчатский",
-            "positive_percent": 31.8,
+            "positive_percent": 31.9,
             "coords": [
                 "53.046609135189",
                 "158.64913303497"
             ]
         },
         "1026": {
-            "positive": 1248,
-            "total": 2498,
+            "positive": 1257,
+            "total": 2511,
             "NAME": "Кириши",
-            "positive_percent": 50,
+            "positive_percent": 50.1,
             "coords": [
                 "59.444065415571",
                 "32.033718567642"
             ]
         },
         "1030": {
-            "positive": 4650,
-            "total": 16060,
+            "positive": 4686,
+            "total": 16142,
             "NAME": "Иркутск",
             "positive_percent": 29,
             "coords": [
@@ -5572,18 +5588,18 @@
             ]
         },
         "1031": {
-            "positive": 747,
-            "total": 2304,
+            "positive": 753,
+            "total": 2315,
             "NAME": "Ступино",
-            "positive_percent": 32.4,
+            "positive_percent": 32.5,
             "coords": [
                 "54.891514822765",
                 "38.065050152529"
             ]
         },
         "1033": {
-            "positive": 311,
-            "total": 823,
+            "positive": 312,
+            "total": 826,
             "NAME": "Саяногорск",
             "positive_percent": 37.8,
             "coords": [
@@ -5592,8 +5608,8 @@
             ]
         },
         "1037": {
-            "positive": 790,
-            "total": 1806,
+            "positive": 797,
+            "total": 1823,
             "NAME": "Стерлитамак",
             "positive_percent": 43.7,
             "coords": [
@@ -5612,60 +5628,60 @@
             ]
         },
         "1041": {
-            "positive": 988,
-            "total": 2550,
+            "positive": 1016,
+            "total": 2593,
             "NAME": "Ижевск",
-            "positive_percent": 38.7,
+            "positive_percent": 39.2,
             "coords": [
                 "56.855276398092",
                 "53.234844112143"
             ]
         },
         "1043": {
-            "positive": 12765,
-            "total": 35639,
+            "positive": 13006,
+            "total": 35993,
             "NAME": "Екатеринбург",
-            "positive_percent": 35.8,
+            "positive_percent": 36.1,
             "coords": [
                 "56.826202599169",
                 "60.598179850254"
             ]
         },
         "1045": {
-            "positive": 595,
-            "total": 1549,
+            "positive": 601,
+            "total": 1558,
             "NAME": "Учалы",
-            "positive_percent": 38.4,
+            "positive_percent": 38.6,
             "coords": [
                 "54.320191184167",
                 "59.375019456344"
             ]
         },
         "1051": {
-            "positive": 336,
-            "total": 788,
+            "positive": 344,
+            "total": 797,
             "NAME": "Козельск",
-            "positive_percent": 42.6,
+            "positive_percent": 43.2,
             "coords": [
                 "54.032053002464",
                 "35.793266550926"
             ]
         },
         "1052": {
-            "positive": 1186,
-            "total": 2488,
+            "positive": 1198,
+            "total": 2505,
             "NAME": "Валуйки",
-            "positive_percent": 47.7,
+            "positive_percent": 47.8,
             "coords": [
                 "50.214079808151",
                 "38.10277864418"
             ]
         },
         "1054": {
-            "positive": 308,
-            "total": 637,
+            "positive": 312,
+            "total": 647,
             "NAME": "Ишим",
-            "positive_percent": 48.4,
+            "positive_percent": 48.2,
             "coords": [
                 "56.107467883619",
                 "69.463905364418"
@@ -5673,39 +5689,39 @@
         },
         "1060": {
             "positive": 156,
-            "total": 331,
+            "total": 335,
             "NAME": "Орджоникидзевская",
-            "positive_percent": 47.1,
+            "positive_percent": 46.6,
             "coords": [
                 "43.319271166547",
                 "45.047609440475"
             ]
         },
         "1061": {
-            "positive": 911,
-            "total": 1836,
+            "positive": 923,
+            "total": 1858,
             "NAME": "Сасово",
-            "positive_percent": 49.6,
+            "positive_percent": 49.7,
             "coords": [
                 "54.358401435468",
                 "41.909378607832"
             ]
         },
         "1064": {
-            "positive": 2417,
-            "total": 7641,
+            "positive": 2450,
+            "total": 7686,
             "NAME": "Сергиев Посад",
-            "positive_percent": 31.6,
+            "positive_percent": 31.9,
             "coords": [
                 "56.312035087332",
                 "38.133554328619"
             ]
         },
         "1072": {
-            "positive": 622,
-            "total": 1395,
+            "positive": 628,
+            "total": 1406,
             "NAME": "Азов",
-            "positive_percent": 44.6,
+            "positive_percent": 44.7,
             "coords": [
                 "47.098668662583",
                 "39.439012909667"
@@ -5722,28 +5738,28 @@
             ]
         },
         "1078": {
-            "positive": 795,
-            "total": 2002,
+            "positive": 816,
+            "total": 2033,
             "NAME": "Ухта",
-            "positive_percent": 39.7,
+            "positive_percent": 40.1,
             "coords": [
                 "63.568425711065",
                 "53.661468350682"
             ]
         },
         "1080": {
-            "positive": 640,
-            "total": 1631,
+            "positive": 656,
+            "total": 1651,
             "NAME": "Шушары",
-            "positive_percent": 39.2,
+            "positive_percent": 39.7,
             "coords": [
                 "59.789886195207",
                 "30.374001850309"
             ]
         },
         "1081": {
-            "positive": 299,
-            "total": 562,
+            "positive": 303,
+            "total": 570,
             "NAME": "Касли",
             "positive_percent": 53.2,
             "coords": [
@@ -5752,50 +5768,50 @@
             ]
         },
         "1084": {
-            "positive": 1242,
-            "total": 3201,
+            "positive": 1256,
+            "total": 3225,
             "NAME": "Оренбург",
-            "positive_percent": 38.8,
+            "positive_percent": 38.9,
             "coords": [
                 "51.803303631967",
                 "55.147807923179"
             ]
         },
         "1087": {
-            "positive": 4016,
-            "total": 9298,
+            "positive": 4083,
+            "total": 9395,
             "NAME": "Ярославль",
-            "positive_percent": 43.2,
+            "positive_percent": 43.5,
             "coords": [
                 "57.630441031181",
                 "39.872822226089"
             ]
         },
         "1090": {
-            "positive": 327,
-            "total": 844,
+            "positive": 331,
+            "total": 848,
             "NAME": "Рузаевка",
-            "positive_percent": 38.7,
+            "positive_percent": 39,
             "coords": [
                 "54.058291283792",
                 "44.94367446627"
             ]
         },
         "1091": {
-            "positive": 130,
-            "total": 307,
+            "positive": 134,
+            "total": 312,
             "NAME": "Новопавловск",
-            "positive_percent": 42.3,
+            "positive_percent": 42.9,
             "coords": [
                 "43.971454397914",
                 "43.624557169311"
             ]
         },
         "1092": {
-            "positive": 48745,
-            "total": 116819,
+            "positive": 49386,
+            "total": 117818,
             "NAME": "Новосибирск",
-            "positive_percent": 41.7,
+            "positive_percent": 41.9,
             "coords": [
                 "55.016124784218",
                 "82.940810449666"
@@ -5812,88 +5828,88 @@
             ]
         },
         "1099": {
-            "positive": 7094,
-            "total": 21250,
+            "positive": 7187,
+            "total": 21394,
             "NAME": "Казань",
-            "positive_percent": 33.4,
+            "positive_percent": 33.6,
             "coords": [
                 "55.795647098608",
                 "49.151375817003"
             ]
         },
         "1101": {
-            "positive": 2553,
-            "total": 7793,
+            "positive": 2607,
+            "total": 7875,
             "NAME": "Одинцово",
-            "positive_percent": 32.8,
+            "positive_percent": 33.1,
             "coords": [
                 "55.681932374369",
                 "37.293977033312"
             ]
         },
         "1103": {
-            "positive": 575,
-            "total": 1540,
+            "positive": 585,
+            "total": 1552,
             "NAME": "Волгодонск",
-            "positive_percent": 37.3,
+            "positive_percent": 37.7,
             "coords": [
                 "47.511769297511",
                 "42.177637906746"
             ]
         },
         "1106": {
-            "positive": 445,
-            "total": 800,
+            "positive": 446,
+            "total": 804,
             "NAME": "Кизилюрт",
-            "positive_percent": 55.6,
+            "positive_percent": 55.5,
             "coords": [
                 "43.209805119532",
                 "46.859747513896"
             ]
         },
         "1107": {
-            "positive": 271,
-            "total": 592,
+            "positive": 275,
+            "total": 599,
             "NAME": "Куса",
-            "positive_percent": 45.8,
+            "positive_percent": 45.9,
             "coords": [
                 "55.338078460575",
                 "59.439867271164"
             ]
         },
         "1108": {
-            "positive": 647,
-            "total": 1427,
+            "positive": 654,
+            "total": 1438,
             "NAME": "Октябрьский (Респ. Башкортостан)",
-            "positive_percent": 45.3,
+            "positive_percent": 45.5,
             "coords": [
                 "54.482434123092",
                 "53.469918250332"
             ]
         },
         "1111": {
-            "positive": 1228,
-            "total": 2901,
+            "positive": 1241,
+            "total": 2926,
             "NAME": "Новочеркасск",
-            "positive_percent": 42.3,
+            "positive_percent": 42.4,
             "coords": [
                 "47.451267727045",
                 "40.089634042328"
             ]
         },
         "1113": {
-            "positive": 1587,
-            "total": 4310,
+            "positive": 1614,
+            "total": 4341,
             "NAME": "Коломна",
-            "positive_percent": 36.8,
+            "positive_percent": 37.2,
             "coords": [
                 "55.08045391833",
                 "38.787243920469"
             ]
         },
         "1116": {
-            "positive": 548,
-            "total": 1334,
+            "positive": 553,
+            "total": 1345,
             "NAME": "Муром",
             "positive_percent": 41.1,
             "coords": [
@@ -5902,28 +5918,28 @@
             ]
         },
         "1118": {
-            "positive": 1679,
-            "total": 5808,
+            "positive": 1695,
+            "total": 5831,
             "NAME": "Раменское",
-            "positive_percent": 28.9,
+            "positive_percent": 29.1,
             "coords": [
                 "55.573192620678",
                 "38.220642004865"
             ]
         },
         "1120": {
-            "positive": 2715,
-            "total": 8729,
+            "positive": 2762,
+            "total": 8805,
             "NAME": "Долгопрудный",
-            "positive_percent": 31.1,
+            "positive_percent": 31.4,
             "coords": [
                 "55.93974882176",
                 "37.502122531556"
             ]
         },
         "1122": {
-            "positive": 719,
-            "total": 1668,
+            "positive": 723,
+            "total": 1677,
             "NAME": "Балаково",
             "positive_percent": 43.1,
             "coords": [
@@ -5932,18 +5948,18 @@
             ]
         },
         "1127": {
-            "positive": 1793,
-            "total": 4549,
+            "positive": 1822,
+            "total": 4587,
             "NAME": "Владимир",
-            "positive_percent": 39.4,
+            "positive_percent": 39.7,
             "coords": [
                 "56.144017315128",
                 "40.404938622461"
             ]
         },
         "1129": {
-            "positive": 2168,
-            "total": 5603,
+            "positive": 2179,
+            "total": 5634,
             "NAME": "Ноябрьск",
             "positive_percent": 38.7,
             "coords": [
@@ -5952,8 +5968,8 @@
             ]
         },
         "1130": {
-            "positive": 327,
-            "total": 582,
+            "positive": 328,
+            "total": 584,
             "NAME": "Верхняя Пышма",
             "positive_percent": 56.2,
             "coords": [
@@ -5962,48 +5978,48 @@
             ]
         },
         "1135": {
-            "positive": 5001,
-            "total": 14979,
+            "positive": 5085,
+            "total": 15107,
             "NAME": "Смоленск",
-            "positive_percent": 33.4,
+            "positive_percent": 33.7,
             "coords": [
                 "54.781358913831",
                 "32.048638606728"
             ]
         },
         "1136": {
-            "positive": 1713,
-            "total": 4120,
+            "positive": 1746,
+            "total": 4168,
             "NAME": "Колпино",
-            "positive_percent": 41.6,
+            "positive_percent": 41.9,
             "coords": [
                 "59.740209169396",
                 "30.601886425291"
             ]
         },
         "1142": {
-            "positive": 445,
-            "total": 985,
+            "positive": 452,
+            "total": 994,
             "NAME": "Минеральные Воды",
-            "positive_percent": 45.2,
+            "positive_percent": 45.5,
             "coords": [
                 "44.199106000065",
                 "43.127293813492"
             ]
         },
         "1143": {
-            "positive": 2959,
-            "total": 9755,
+            "positive": 3024,
+            "total": 9872,
             "NAME": "Подольск",
-            "positive_percent": 30.3,
+            "positive_percent": 30.6,
             "coords": [
                 "55.443010300288",
                 "37.530685851374"
             ]
         },
         "1144": {
-            "positive": 143,
-            "total": 318,
+            "positive": 144,
+            "total": 320,
             "NAME": "Чегем",
             "positive_percent": 45,
             "coords": [
@@ -6012,48 +6028,48 @@
             ]
         },
         "1149": {
-            "positive": 1822,
-            "total": 5610,
+            "positive": 1854,
+            "total": 5656,
             "NAME": "Жуковский",
-            "positive_percent": 32.5,
+            "positive_percent": 32.8,
             "coords": [
                 "55.600522922377",
                 "38.10284091649"
             ]
         },
         "1152": {
-            "positive": 1846,
-            "total": 6331,
+            "positive": 1878,
+            "total": 6374,
             "NAME": "Дубна",
-            "positive_percent": 29.2,
+            "positive_percent": 29.5,
             "coords": [
                 "56.748230465344",
                 "37.154581806913"
             ]
         },
         "1153": {
-            "positive": 482,
-            "total": 1173,
+            "positive": 487,
+            "total": 1179,
             "NAME": "Калачинск",
-            "positive_percent": 41.1,
+            "positive_percent": 41.3,
             "coords": [
                 "55.049292939554",
                 "74.580849938658"
             ]
         },
         "1156": {
-            "positive": 1864,
-            "total": 5922,
+            "positive": 1887,
+            "total": 5966,
             "NAME": "Реутов",
-            "positive_percent": 31.5,
+            "positive_percent": 31.6,
             "coords": [
                 "55.755087443039",
                 "37.861840885882"
             ]
         },
         "1158": {
-            "positive": 733,
-            "total": 1488,
+            "positive": 735,
+            "total": 1492,
             "NAME": "Учкекен",
             "positive_percent": 49.3,
             "coords": [
@@ -6062,140 +6078,140 @@
             ]
         },
         "1160": {
-            "positive": 2058,
-            "total": 5724,
+            "positive": 2076,
+            "total": 5750,
             "NAME": "Ставрополь",
-            "positive_percent": 36,
+            "positive_percent": 36.1,
             "coords": [
                 "45.03925388723",
                 "41.946799055191"
             ]
         },
         "7807": {
-            "positive": 1715,
-            "total": 4296,
+            "positive": 1744,
+            "total": 4334,
             "NAME": "Абакан",
-            "positive_percent": 39.9,
+            "positive_percent": 40.2,
             "coords": [
                 "53.720631134223",
                 "91.431434526967"
             ]
         },
         "7808": {
-            "positive": 1666,
-            "total": 4600,
+            "positive": 1703,
+            "total": 4660,
             "NAME": "Троицк (Моск.обл.)",
-            "positive_percent": 36.2,
+            "positive_percent": 36.5,
             "coords": [
                 "55.477689132952",
                 "37.297996697725"
             ]
         },
         "7809": {
-            "positive": 1266,
-            "total": 2382,
+            "positive": 1291,
+            "total": 2426,
             "NAME": "Железногорск (Курс.обл.)",
-            "positive_percent": 53.1,
+            "positive_percent": 53.2,
             "coords": [
                 "52.341036999695",
                 "35.347411093254"
             ]
         },
         "7810": {
-            "positive": 881,
-            "total": 1954,
+            "positive": 895,
+            "total": 1970,
             "NAME": "Троицк (Челяб.обл.)",
-            "positive_percent": 45.1,
+            "positive_percent": 45.4,
             "coords": [
                 "54.082562391729",
                 "61.538072576721"
             ]
         },
         "7811": {
-            "positive": 717,
-            "total": 1379,
+            "positive": 731,
+            "total": 1401,
             "NAME": "Железногорск (Кр.край)",
-            "positive_percent": 52,
+            "positive_percent": 52.2,
             "coords": [
                 "56.257426535773",
                 "93.538809961971"
             ]
         },
         "7812": {
-            "positive": 394,
-            "total": 985,
+            "positive": 395,
+            "total": 994,
             "NAME": "Киров (Калужская обл)",
-            "positive_percent": 40,
+            "positive_percent": 39.7,
             "coords": [
                 "54.083598348468",
                 "34.314606099196"
             ]
         },
         "7813": {
-            "positive": 323,
-            "total": 633,
+            "positive": 329,
+            "total": 641,
             "NAME": "Новоалтайск",
-            "positive_percent": 51,
+            "positive_percent": 51.3,
             "coords": [
                 "53.389531102844",
                 "83.936496953373"
             ]
         },
         "7814": {
-            "positive": 223,
-            "total": 515,
+            "positive": 227,
+            "total": 519,
             "NAME": "Левокумское",
-            "positive_percent": 43.3,
+            "positive_percent": 43.7,
             "coords": [
                 "44.824351638077",
                 "44.667889317791"
             ]
         },
         "12883": {
-            "positive": 310,
-            "total": 1179,
+            "positive": 312,
+            "total": 1182,
             "NAME": "Руза",
-            "positive_percent": 26.3,
+            "positive_percent": 26.4,
             "coords": [
                 "55.702998058446",
                 "36.200117122684"
             ]
         },
         "12884": {
-            "positive": 353,
-            "total": 1253,
+            "positive": 357,
+            "total": 1263,
             "NAME": "Пласт",
-            "positive_percent": 28.2,
+            "positive_percent": 28.3,
             "coords": [
                 "54.36825392047",
                 "60.808069616889"
             ]
         },
         "12885": {
-            "positive": 167,
-            "total": 344,
+            "positive": 169,
+            "total": 346,
             "NAME": "Осинники",
-            "positive_percent": 48.5,
+            "positive_percent": 48.8,
             "coords": [
                 "53.592859998994",
                 "87.333287"
             ]
         },
         "12886": {
-            "positive": 249,
-            "total": 609,
+            "positive": 253,
+            "total": 617,
             "NAME": "Соль-Илецк",
-            "positive_percent": 40.9,
+            "positive_percent": 41,
             "coords": [
                 "51.161548298159",
                 "54.993638868717"
             ]
         },
         "12887": {
-            "positive": 306,
-            "total": 987,
+            "positive": 308,
+            "total": 990,
             "NAME": "Ликино-Дулево",
-            "positive_percent": 31,
+            "positive_percent": 31.1,
             "coords": [
                 "55.73384206065",
                 "38.95754014818"
@@ -6212,198 +6228,198 @@
             ]
         },
         "15060": {
-            "positive": 408,
-            "total": 1214,
+            "positive": 413,
+            "total": 1221,
             "NAME": "Красково",
-            "positive_percent": 33.6,
+            "positive_percent": 33.8,
             "coords": [
                 "55.658075687203",
                 "37.982810665012"
             ]
         },
         "15061": {
-            "positive": 976,
-            "total": 2114,
+            "positive": 983,
+            "total": 2124,
             "NAME": "Волхов",
-            "positive_percent": 46.2,
+            "positive_percent": 46.3,
             "coords": [
                 "59.911592831087",
                 "32.325857515956"
             ]
         },
         "15062": {
-            "positive": 420,
-            "total": 1063,
+            "positive": 427,
+            "total": 1084,
             "NAME": "Новоселье",
-            "positive_percent": 39.5,
+            "positive_percent": 39.4,
             "coords": [
                 "59.81209837616",
                 "30.078044094408"
             ]
         },
         "15063": {
-            "positive": 803,
-            "total": 1847,
+            "positive": 806,
+            "total": 1864,
             "NAME": "Похвистнево",
-            "positive_percent": 43.5,
+            "positive_percent": 43.2,
             "coords": [
                 "53.650755316569",
                 "52.132058341105"
             ]
         },
         "15064": {
-            "positive": 208,
-            "total": 492,
+            "positive": 212,
+            "total": 497,
             "NAME": "Городец",
-            "positive_percent": 42.3,
+            "positive_percent": 42.7,
             "coords": [
                 "56.645708457999",
                 "43.472721163195"
             ]
         },
         "15065": {
-            "positive": 175,
-            "total": 476,
+            "positive": 177,
+            "total": 479,
             "NAME": "Еткуль",
-            "positive_percent": 36.8,
+            "positive_percent": 37,
             "coords": [
                 "54.82617062214",
                 "61.588199939811"
             ]
         },
         "15066": {
-            "positive": 296,
-            "total": 655,
+            "positive": 308,
+            "total": 672,
             "NAME": "Ордынское",
-            "positive_percent": 45.2,
+            "positive_percent": 45.8,
             "coords": [
                 "54.365010144092",
                 "81.906918877315"
             ]
         },
         "15067": {
-            "positive": 159,
-            "total": 328,
+            "positive": 162,
+            "total": 331,
             "NAME": "Катав-Ивановск",
-            "positive_percent": 48.5,
+            "positive_percent": 48.9,
             "coords": [
                 "54.753850081154",
                 "58.205084279762"
             ]
         },
         "15068": {
-            "positive": 477,
-            "total": 883,
+            "positive": 483,
+            "total": 891,
             "NAME": "Ртищево",
-            "positive_percent": 54,
+            "positive_percent": 54.2,
             "coords": [
                 "52.257137748173",
                 "43.7940355221"
             ]
         },
         "15069": {
-            "positive": 393,
-            "total": 961,
+            "positive": 400,
+            "total": 980,
             "NAME": "Семилуки",
-            "positive_percent": 40.9,
+            "positive_percent": 40.8,
             "coords": [
                 "51.700036000586",
                 "39.022465224537"
             ]
         },
         "15070": {
-            "positive": 383,
-            "total": 861,
+            "positive": 387,
+            "total": 867,
             "NAME": "Старая",
-            "positive_percent": 44.5,
+            "positive_percent": 44.6,
             "coords": [
                 "59.932397223318",
                 "30.645064583992"
             ]
         },
         "15459": {
-            "positive": 233,
-            "total": 556,
+            "positive": 239,
+            "total": 569,
             "NAME": "Выкса",
-            "positive_percent": 41.9,
+            "positive_percent": 42,
             "coords": [
                 "55.319609531039",
                 "42.166992309193"
             ]
         },
         "15460": {
-            "positive": 758,
-            "total": 1479,
+            "positive": 771,
+            "total": 1500,
             "NAME": "Михайлов",
-            "positive_percent": 51.3,
+            "positive_percent": 51.4,
             "coords": [
                 "54.235734531724",
                 "39.026003895116"
             ]
         },
         "15461": {
-            "positive": 283,
-            "total": 973,
+            "positive": 290,
+            "total": 984,
             "NAME": "Михнево",
-            "positive_percent": 29.1,
+            "positive_percent": 29.5,
             "coords": [
                 "55.121125790768",
                 "37.957175971174"
             ]
         },
         "15462": {
-            "positive": 414,
-            "total": 1134,
+            "positive": 417,
+            "total": 1140,
             "NAME": "Заречный",
-            "positive_percent": 36.5,
+            "positive_percent": 36.6,
             "coords": [
                 "56.807117999976",
                 "61.31982611574"
             ]
         },
         "15463": {
-            "positive": 985,
-            "total": 2120,
+            "positive": 1014,
+            "total": 2156,
             "NAME": "Нефтегорск",
-            "positive_percent": 46.5,
+            "positive_percent": 47,
             "coords": [
                 "52.801535995212",
                 "51.168735008598"
             ]
         },
         "15464": {
-            "positive": 208,
-            "total": 459,
+            "positive": 214,
+            "total": 466,
             "NAME": "Зеленокумск",
-            "positive_percent": 45.3,
+            "positive_percent": 45.9,
             "coords": [
                 "44.415507058221",
                 "43.894165157682"
             ]
         },
         "15467": {
-            "positive": 144,
-            "total": 270,
+            "positive": 150,
+            "total": 276,
             "NAME": "Светлоград",
-            "positive_percent": 53.3,
+            "positive_percent": 54.3,
             "coords": [
                 "45.321071753269",
                 "42.876345725854"
             ]
         },
         "15970": {
-            "positive": 722,
-            "total": 1432,
+            "positive": 742,
+            "total": 1457,
             "NAME": "Жигулевск",
-            "positive_percent": 50.4,
+            "positive_percent": 50.9,
             "coords": [
                 "53.401097441857",
                 "49.495166139881"
             ]
         },
         "15971": {
-            "positive": 1164,
-            "total": 2411,
+            "positive": 1169,
+            "total": 2419,
             "NAME": "Хасавюрт",
             "positive_percent": 48.3,
             "coords": [
@@ -6412,90 +6428,90 @@
             ]
         },
         "16139": {
-            "positive": 189,
-            "total": 382,
+            "positive": 194,
+            "total": 391,
             "NAME": "Полысаево",
-            "positive_percent": 49.5,
+            "positive_percent": 49.6,
             "coords": [
                 "54.601111885536",
                 "86.281367402447"
             ]
         },
         "16758": {
-            "positive": 696,
-            "total": 1826,
+            "positive": 702,
+            "total": 1835,
             "NAME": "Усолье-Сибирское",
-            "positive_percent": 38.1,
+            "positive_percent": 38.3,
             "coords": [
                 "52.731965307802",
                 "103.65509683069"
             ]
         },
         "16803": {
-            "positive": 267,
-            "total": 528,
+            "positive": 280,
+            "total": 546,
             "NAME": "Тогучин",
-            "positive_percent": 50.6,
+            "positive_percent": 51.3,
             "coords": [
                 "55.238730522152",
                 "84.403913961971"
             ]
         },
         "16819": {
-            "positive": 527,
-            "total": 1196,
+            "positive": 534,
+            "total": 1208,
             "NAME": "Боровичи",
-            "positive_percent": 44.1,
+            "positive_percent": 44.2,
             "coords": [
                 "58.395378917738",
                 "33.91698046627"
             ]
         },
         "16820": {
-            "positive": 243,
-            "total": 824,
+            "positive": 304,
+            "total": 893,
             "NAME": "Тавда",
-            "positive_percent": 29.5,
+            "positive_percent": 34,
             "coords": [
                 "58.046693423881",
                 "65.273872054838"
             ]
         },
         "16821": {
-            "positive": 645,
-            "total": 1828,
+            "positive": 657,
+            "total": 1847,
             "NAME": "Сестрорецк",
-            "positive_percent": 35.3,
+            "positive_percent": 35.6,
             "coords": [
                 "60.090547301731",
                 "29.953609128975"
             ]
         },
         "16845": {
-            "positive": 186,
-            "total": 397,
+            "positive": 187,
+            "total": 398,
             "NAME": "Петровск",
-            "positive_percent": 46.9,
+            "positive_percent": 47,
             "coords": [
                 "52.299629117344",
                 "45.387241780426"
             ]
         },
         "17256": {
-            "positive": 430,
-            "total": 1051,
+            "positive": 433,
+            "total": 1054,
             "NAME": "Сысерть",
-            "positive_percent": 40.9,
+            "positive_percent": 41.1,
             "coords": [
                 "56.508373797447",
                 "60.81544182209"
             ]
         },
         "17345": {
-            "positive": 659,
-            "total": 1770,
+            "positive": 672,
+            "total": 1789,
             "NAME": "Нефтекамск",
-            "positive_percent": 37.2,
+            "positive_percent": 37.6,
             "coords": [
                 "56.089841732446",
                 "54.249091944387"
@@ -6512,8 +6528,8 @@
             ]
         },
         "17502": {
-            "positive": 461,
-            "total": 1896,
+            "positive": 464,
+            "total": 1909,
             "NAME": "Югорск",
             "positive_percent": 24.3,
             "coords": [
@@ -6522,20 +6538,20 @@
             ]
         },
         "17523": {
-            "positive": 327,
-            "total": 819,
+            "positive": 332,
+            "total": 829,
             "NAME": "Красноуральск",
-            "positive_percent": 39.9,
+            "positive_percent": 40,
             "coords": [
                 "58.358639207129",
                 "60.029291215878"
             ]
         },
         "17530": {
-            "positive": 409,
-            "total": 908,
+            "positive": 413,
+            "total": 913,
             "NAME": "Качканар",
-            "positive_percent": 45,
+            "positive_percent": 45.2,
             "coords": [
                 "58.7045005246",
                 "59.480132444051"
@@ -6543,27 +6559,27 @@
         },
         "17594": {
             "positive": 183,
-            "total": 377,
+            "total": 380,
             "NAME": "Яблоновский",
-            "positive_percent": 48.5,
+            "positive_percent": 48.2,
             "coords": [
                 "44.990604967598",
                 "38.931902139821"
             ]
         },
         "17634": {
-            "positive": 338,
-            "total": 1019,
+            "positive": 340,
+            "total": 1021,
             "NAME": "Бронницы",
-            "positive_percent": 33.2,
+            "positive_percent": 33.3,
             "coords": [
                 "55.425483203119",
                 "38.26611982209"
             ]
         },
         "17646": {
-            "positive": 590,
-            "total": 1314,
+            "positive": 596,
+            "total": 1326,
             "NAME": "Новый Оскол",
             "positive_percent": 44.9,
             "coords": [
@@ -6572,8 +6588,8 @@
             ]
         },
         "17647": {
-            "positive": 1381,
-            "total": 3468,
+            "positive": 1389,
+            "total": 3488,
             "NAME": "Алексеевка",
             "positive_percent": 39.8,
             "coords": [
@@ -6582,20 +6598,20 @@
             ]
         },
         "17653": {
-            "positive": 74,
-            "total": 218,
+            "positive": 75,
+            "total": 219,
             "NAME": "Белореченск",
-            "positive_percent": 33.9,
+            "positive_percent": 34.2,
             "coords": [
                 "44.764526055412",
                 "39.866667611114"
             ]
         },
         "17654": {
-            "positive": 192,
-            "total": 536,
+            "positive": 193,
+            "total": 541,
             "NAME": "Ейск",
-            "positive_percent": 35.8,
+            "positive_percent": 35.7,
             "coords": [
                 "46.70679090214",
                 "38.280943728836"
@@ -6603,47 +6619,47 @@
         },
         "17655": {
             "positive": 125,
-            "total": 298,
+            "total": 299,
             "NAME": "Кореновск",
-            "positive_percent": 41.9,
+            "positive_percent": 41.8,
             "coords": [
                 "45.454573509706",
                 "39.451973186508"
             ]
         },
         "17656": {
-            "positive": 158,
-            "total": 340,
+            "positive": 160,
+            "total": 343,
             "NAME": "Ленинградская",
-            "positive_percent": 46.5,
+            "positive_percent": 46.6,
             "coords": [
                 "46.324827223678",
                 "39.386666542328"
             ]
         },
         "17657": {
-            "positive": 209,
-            "total": 514,
+            "positive": 214,
+            "total": 520,
             "NAME": "Славянск-на-Кубани",
-            "positive_percent": 40.7,
+            "positive_percent": 41.2,
             "coords": [
                 "45.257183197777",
                 "38.121132"
             ]
         },
         "17664": {
-            "positive": 320,
-            "total": 701,
+            "positive": 325,
+            "total": 710,
             "NAME": "Изобильный",
-            "positive_percent": 45.6,
+            "positive_percent": 45.8,
             "coords": [
                 "45.377555868894",
                 "41.703541473685"
             ]
         },
         "17670": {
-            "positive": 422,
-            "total": 1288,
+            "positive": 425,
+            "total": 1296,
             "NAME": "Старая Купавна",
             "positive_percent": 32.8,
             "coords": [
@@ -6652,18 +6668,18 @@
             ]
         },
         "17671": {
-            "positive": 449,
-            "total": 2073,
+            "positive": 452,
+            "total": 2076,
             "NAME": "Волоколамск",
-            "positive_percent": 21.7,
+            "positive_percent": 21.8,
             "coords": [
                 "56.029654861893",
                 "35.958108054838"
             ]
         },
         "17672": {
-            "positive": 801,
-            "total": 2961,
+            "positive": 807,
+            "total": 2974,
             "NAME": "Звенигород",
             "positive_percent": 27.1,
             "coords": [
@@ -6672,20 +6688,20 @@
             ]
         },
         "17778": {
-            "positive": 232,
-            "total": 795,
+            "positive": 234,
+            "total": 800,
             "NAME": "Электроугли",
-            "positive_percent": 29.2,
+            "positive_percent": 29.3,
             "coords": [
                 "55.716208846018",
                 "38.214999860119"
             ]
         },
         "17797": {
-            "positive": 176,
-            "total": 406,
+            "positive": 178,
+            "total": 408,
             "NAME": "Арсеньев",
-            "positive_percent": 43.3,
+            "positive_percent": 43.6,
             "coords": [
                 "44.161186680616",
                 "133.27207691534"
@@ -6693,67 +6709,67 @@
         },
         "17835": {
             "positive": 145,
-            "total": 429,
+            "total": 431,
             "NAME": "Михайловск",
-            "positive_percent": 33.8,
+            "positive_percent": 33.6,
             "coords": [
                 "45.126293261963",
                 "42.024514341075"
             ]
         },
         "18110": {
-            "positive": 508,
-            "total": 875,
+            "positive": 520,
+            "total": 890,
             "NAME": "Воткинск",
-            "positive_percent": 58.1,
+            "positive_percent": 58.4,
             "coords": [
                 "57.053917776545",
                 "53.990795952985"
             ]
         },
         "18252": {
-            "positive": 189,
-            "total": 480,
+            "positive": 194,
+            "total": 486,
             "NAME": "Каневская",
-            "positive_percent": 39.4,
+            "positive_percent": 39.9,
             "coords": [
                 "46.076600298218",
                 "38.968018130895"
             ]
         },
         "18335": {
-            "positive": 118,
-            "total": 295,
+            "positive": 119,
+            "total": 296,
             "NAME": "Усть-Джегута",
-            "positive_percent": 40,
+            "positive_percent": 40.2,
             "coords": [
                 "44.086835000263",
                 "41.97882064418"
             ]
         },
         "18343": {
-            "positive": 123,
-            "total": 227,
+            "positive": 124,
+            "total": 228,
             "NAME": "Карабаш",
-            "positive_percent": 54.2,
+            "positive_percent": 54.4,
             "coords": [
                 "55.496118323656",
                 "60.204998626984"
             ]
         },
         "18403": {
-            "positive": 244,
-            "total": 948,
+            "positive": 249,
+            "total": 955,
             "NAME": "Усть-Илимск",
-            "positive_percent": 25.7,
+            "positive_percent": 26.1,
             "coords": [
                 "57.947614829582",
                 "102.7370789742"
             ]
         },
         "18418": {
-            "positive": 701,
-            "total": 1809,
+            "positive": 708,
+            "total": 1824,
             "NAME": "Переславль-Залесский",
             "positive_percent": 38.8,
             "coords": [
@@ -6762,30 +6778,30 @@
             ]
         },
         "18461": {
-            "positive": 1016,
-            "total": 2184,
+            "positive": 1026,
+            "total": 2200,
             "NAME": "Щекино",
-            "positive_percent": 46.5,
+            "positive_percent": 46.6,
             "coords": [
                 "54.013211511843",
                 "37.515941830688"
             ]
         },
         "18475": {
-            "positive": 89,
-            "total": 220,
+            "positive": 90,
+            "total": 221,
             "NAME": "Камышлов",
-            "positive_percent": 40.5,
+            "positive_percent": 40.7,
             "coords": [
                 "56.844002518595",
                 "62.709349271164"
             ]
         },
         "18900": {
-            "positive": 779,
-            "total": 1574,
+            "positive": 798,
+            "total": 1605,
             "NAME": "Сергиевск",
-            "positive_percent": 49.5,
+            "positive_percent": 49.7,
             "coords": [
                 "53.956917473782",
                 "51.176358728836"
@@ -6793,29 +6809,29 @@
         },
         "18908": {
             "positive": 186,
-            "total": 438,
+            "total": 441,
             "NAME": "Благодарный",
-            "positive_percent": 42.5,
+            "positive_percent": 42.2,
             "coords": [
                 "45.102616008806",
                 "43.436756434532"
             ]
         },
         "19259": {
-            "positive": 320,
-            "total": 759,
+            "positive": 329,
+            "total": 772,
             "NAME": "Кронштадт",
-            "positive_percent": 42.2,
+            "positive_percent": 42.6,
             "coords": [
                 "59.997988890635",
                 "29.764795844187"
             ]
         },
         "19261": {
-            "positive": 297,
-            "total": 823,
+            "positive": 300,
+            "total": 827,
             "NAME": "Кировск",
-            "positive_percent": 36.1,
+            "positive_percent": 36.3,
             "coords": [
                 "59.87845978652",
                 "30.982264721827"
@@ -6823,9 +6839,9 @@
         },
         "19262": {
             "positive": 70,
-            "total": 178,
+            "total": 179,
             "NAME": "Кашхатау",
-            "positive_percent": 39.3,
+            "positive_percent": 39.1,
             "coords": [
                 "43.317593491959",
                 "43.599720367041"
@@ -6833,159 +6849,159 @@
         },
         "19263": {
             "positive": 144,
-            "total": 320,
+            "total": 321,
             "NAME": "Заюково",
-            "positive_percent": 45,
+            "positive_percent": 44.9,
             "coords": [
                 "43.612738795342",
                 "43.333595271164"
             ]
         },
         "19276": {
-            "positive": 331,
-            "total": 905,
+            "positive": 339,
+            "total": 915,
             "NAME": "Реж",
-            "positive_percent": 36.6,
+            "positive_percent": 37,
             "coords": [
                 "57.360530999992",
                 "61.39390264418"
             ]
         },
         "19287": {
-            "positive": 294,
-            "total": 959,
+            "positive": 301,
+            "total": 969,
             "NAME": "Бутово",
-            "positive_percent": 30.7,
+            "positive_percent": 31.1,
             "coords": [
                 "55.545302150121",
                 "37.585925245369"
             ]
         },
         "19350": {
-            "positive": 1023,
-            "total": 2100,
+            "positive": 1051,
+            "total": 2134,
             "NAME": "Богородицк",
-            "positive_percent": 48.7,
+            "positive_percent": 49.3,
             "coords": [
                 "53.771759550331",
                 "38.128905005561"
             ]
         },
         "19507": {
-            "positive": 140,
-            "total": 327,
+            "positive": 141,
+            "total": 330,
             "NAME": "Линёво",
-            "positive_percent": 42.8,
+            "positive_percent": 42.7,
             "coords": [
                 "54.451796786012",
                 "83.371882436447"
             ]
         },
         "19535": {
-            "positive": 210,
-            "total": 665,
+            "positive": 217,
+            "total": 674,
             "NAME": "Шумиха",
-            "positive_percent": 31.6,
+            "positive_percent": 32.2,
             "coords": [
                 "55.228072039283",
                 "63.286000015047"
             ]
         },
         "19651": {
-            "positive": 170,
-            "total": 433,
+            "positive": 171,
+            "total": 436,
             "NAME": "Боготол",
-            "positive_percent": 39.3,
+            "positive_percent": 39.2,
             "coords": [
                 "56.202962934611",
                 "89.53449978797"
             ]
         },
         "19731": {
-            "positive": 829,
-            "total": 2059,
+            "positive": 865,
+            "total": 2116,
             "NAME": "Алексин",
-            "positive_percent": 40.3,
+            "positive_percent": 40.9,
             "coords": [
                 "54.50334679409",
                 "37.067807549875"
             ]
         },
         "20013": {
-            "positive": 588,
-            "total": 1824,
+            "positive": 597,
+            "total": 1836,
             "NAME": "Лыткарино",
-            "positive_percent": 32.2,
+            "positive_percent": 32.5,
             "coords": [
                 "55.585616071632",
                 "37.900581194786"
             ]
         },
         "20028": {
-            "positive": 186,
-            "total": 473,
+            "positive": 187,
+            "total": 474,
             "NAME": "Богданович",
-            "positive_percent": 39.3,
+            "positive_percent": 39.5,
             "coords": [
                 "56.774142582129",
                 "62.048550185866"
             ]
         },
         "20058": {
-            "positive": 252,
-            "total": 541,
+            "positive": 254,
+            "total": 547,
             "NAME": "Родники",
-            "positive_percent": 46.6,
+            "positive_percent": 46.4,
             "coords": [
                 "57.104184778231",
                 "41.733459355178"
             ]
         },
         "20061": {
-            "positive": 2946,
-            "total": 8339,
+            "positive": 2979,
+            "total": 8396,
             "NAME": "Пермь",
-            "positive_percent": 35.3,
+            "positive_percent": 35.5,
             "coords": [
                 "57.999710884561",
                 "56.207791216409"
             ]
         },
         "20062": {
-            "positive": 393,
-            "total": 853,
+            "positive": 399,
+            "total": 862,
             "NAME": "Корсаков",
-            "positive_percent": 46.1,
+            "positive_percent": 46.3,
             "coords": [
                 "46.6293634906",
                 "142.77579443983"
             ]
         },
         "20116": {
-            "positive": 490,
-            "total": 1368,
+            "positive": 500,
+            "total": 1393,
             "NAME": "Урай",
-            "positive_percent": 35.8,
+            "positive_percent": 35.9,
             "coords": [
                 "60.128300410082",
                 "64.795113889549"
             ]
         },
         "20132": {
-            "positive": 1216,
-            "total": 2490,
+            "positive": 1235,
+            "total": 2520,
             "NAME": "Кингисепп",
-            "positive_percent": 48.8,
+            "positive_percent": 49,
             "coords": [
                 "59.374532149495",
                 "28.606541542328"
             ]
         },
         "20133": {
-            "positive": 275,
-            "total": 475,
+            "positive": 279,
+            "total": 484,
             "NAME": "Ипатово",
-            "positive_percent": 57.9,
+            "positive_percent": 57.6,
             "coords": [
                 "45.711811581118",
                 "42.914779457672"
@@ -6993,37 +7009,37 @@
         },
         "20134": {
             "positive": 89,
-            "total": 232,
+            "total": 235,
             "NAME": "Новоалександровск",
-            "positive_percent": 38.4,
+            "positive_percent": 37.9,
             "coords": [
                 "45.495920408886",
                 "41.216729457672"
             ]
         },
         "20232": {
-            "positive": 335,
-            "total": 761,
+            "positive": 336,
+            "total": 766,
             "NAME": "Артем",
-            "positive_percent": 44,
+            "positive_percent": 43.9,
             "coords": [
                 "43.355407973029",
                 "132.17395736442"
             ]
         },
         "20264": {
-            "positive": 276,
-            "total": 868,
+            "positive": 281,
+            "total": 886,
             "NAME": "Сорочинск",
-            "positive_percent": 31.8,
+            "positive_percent": 31.7,
             "coords": [
                 "52.408700534893",
                 "53.173554120376"
             ]
         },
         "20306": {
-            "positive": 257,
-            "total": 573,
+            "positive": 258,
+            "total": 574,
             "NAME": "Невьянск",
             "positive_percent": 44.9,
             "coords": [
@@ -7032,28 +7048,28 @@
             ]
         },
         "20342": {
-            "positive": 339,
-            "total": 953,
+            "positive": 344,
+            "total": 958,
             "NAME": "Яхрома",
-            "positive_percent": 35.6,
+            "positive_percent": 35.9,
             "coords": [
                 "56.287959736599",
                 "37.48256517791"
             ]
         },
         "20351": {
-            "positive": 32,
-            "total": 163,
+            "positive": 33,
+            "total": 164,
             "NAME": "Хотьково",
-            "positive_percent": 19.6,
+            "positive_percent": 20.1,
             "coords": [
                 "56.251194918479",
                 "37.977135635582"
             ]
         },
         "20883": {
-            "positive": 235,
-            "total": 549,
+            "positive": 236,
+            "total": 551,
             "NAME": "Александровское",
             "positive_percent": 42.8,
             "coords": [
@@ -7072,18 +7088,18 @@
             ]
         },
         "20943": {
-            "positive": 195,
-            "total": 562,
+            "positive": 204,
+            "total": 578,
             "NAME": "Никольское",
-            "positive_percent": 34.7,
+            "positive_percent": 35.3,
             "coords": [
                 "59.694314307172",
                 "30.785532093254"
             ]
         },
         "20970": {
-            "positive": 537,
-            "total": 1637,
+            "positive": 538,
+            "total": 1640,
             "NAME": "Большой Камень",
             "positive_percent": 32.8,
             "coords": [
@@ -7093,7 +7109,7 @@
         },
         "21133": {
             "positive": 579,
-            "total": 1425,
+            "total": 1426,
             "NAME": "Ракитное",
             "positive_percent": 40.6,
             "coords": [
@@ -7102,50 +7118,50 @@
             ]
         },
         "21190": {
-            "positive": 342,
-            "total": 860,
+            "positive": 348,
+            "total": 868,
             "NAME": "Находка",
-            "positive_percent": 39.8,
+            "positive_percent": 40.1,
             "coords": [
                 "42.809930748783",
                 "132.87128181349"
             ]
         },
         "21195": {
-            "positive": 324,
-            "total": 1328,
+            "positive": 329,
+            "total": 1334,
             "NAME": "Пущино",
-            "positive_percent": 24.4,
+            "positive_percent": 24.7,
             "coords": [
                 "54.829639439552",
                 "37.630046176582"
             ]
         },
         "21196": {
-            "positive": 347,
-            "total": 1035,
+            "positive": 357,
+            "total": 1045,
             "NAME": "Новодвинск",
-            "positive_percent": 33.5,
+            "positive_percent": 34.2,
             "coords": [
                 "64.413875908576",
                 "40.818539"
             ]
         },
         "21211": {
-            "positive": 272,
-            "total": 552,
+            "positive": 275,
+            "total": 555,
             "NAME": "Железноводск",
-            "positive_percent": 49.3,
+            "positive_percent": 49.5,
             "coords": [
                 "44.143692079845",
                 "43.004465728836"
             ]
         },
         "21212": {
-            "positive": 585,
-            "total": 2199,
+            "positive": 592,
+            "total": 2209,
             "NAME": "Лосино-Петровский",
-            "positive_percent": 26.6,
+            "positive_percent": 26.8,
             "coords": [
                 "55.869249276574",
                 "38.20242035582"
@@ -7162,38 +7178,38 @@
             ]
         },
         "21231": {
-            "positive": 13,
-            "total": 54,
+            "positive": 15,
+            "total": 56,
             "NAME": "Кочубеевское",
-            "positive_percent": 24.1,
+            "positive_percent": 26.8,
             "coords": [
                 "44.686560000265",
                 "41.821024728836"
             ]
         },
         "21332": {
-            "positive": 406,
-            "total": 1092,
+            "positive": 415,
+            "total": 1108,
             "NAME": "Березовский",
-            "positive_percent": 37.2,
+            "positive_percent": 37.5,
             "coords": [
                 "56.910005274855",
                 "60.820770317791"
             ]
         },
         "21333": {
-            "positive": 1312,
-            "total": 2800,
+            "positive": 1328,
+            "total": 2824,
             "NAME": "Елец",
-            "positive_percent": 46.9,
+            "positive_percent": 47,
             "coords": [
                 "52.611464061837",
                 "38.477975720238"
             ]
         },
         "21334": {
-            "positive": 399,
-            "total": 825,
+            "positive": 404,
+            "total": 835,
             "NAME": "Долгодеревенское",
             "positive_percent": 48.4,
             "coords": [
@@ -7203,39 +7219,39 @@
         },
         "21523": {
             "positive": 267,
-            "total": 778,
+            "total": 781,
             "NAME": "Октябрьский (Моск.обл.)",
-            "positive_percent": 34.3,
+            "positive_percent": 34.2,
             "coords": [
                 "55.608208133497",
                 "37.976344034393"
             ]
         },
         "21563": {
-            "positive": 308,
-            "total": 673,
+            "positive": 309,
+            "total": 676,
             "NAME": "Кировград",
-            "positive_percent": 45.8,
+            "positive_percent": 45.7,
             "coords": [
                 "57.435085968148",
                 "60.059026440475"
             ]
         },
         "21643": {
-            "positive": 117,
-            "total": 413,
+            "positive": 123,
+            "total": 426,
             "NAME": "Спасск-Дальний",
-            "positive_percent": 28.3,
+            "positive_percent": 28.9,
             "coords": [
                 "44.603987323967",
                 "132.82256927116"
             ]
         },
         "21681": {
-            "positive": 297,
-            "total": 1086,
+            "positive": 301,
+            "total": 1090,
             "NAME": "Когалым",
-            "positive_percent": 27.3,
+            "positive_percent": 27.6,
             "coords": [
                 "62.268384993666",
                 "74.486478271164"
@@ -7252,60 +7268,60 @@
             ]
         },
         "21862": {
-            "positive": 347,
-            "total": 957,
+            "positive": 353,
+            "total": 970,
             "NAME": "Заводоуковск",
-            "positive_percent": 36.3,
+            "positive_percent": 36.4,
             "coords": [
                 "56.496751934274",
                 "66.558344"
             ]
         },
         "22712": {
-            "positive": 539,
-            "total": 1115,
+            "positive": 546,
+            "total": 1124,
             "NAME": "Кузнецк",
-            "positive_percent": 48.3,
+            "positive_percent": 48.6,
             "coords": [
                 "53.121101999996",
                 "46.583543813492"
             ]
         },
         "23214": {
-            "positive": 430,
-            "total": 982,
+            "positive": 434,
+            "total": 995,
             "NAME": "Красноуфимск",
-            "positive_percent": 43.8,
+            "positive_percent": 43.6,
             "coords": [
                 "56.617158169227",
                 "57.768960084656"
             ]
         },
         "23215": {
-            "positive": 1497,
-            "total": 4247,
+            "positive": 1525,
+            "total": 4297,
             "NAME": "Мурино",
-            "positive_percent": 35.2,
+            "positive_percent": 35.5,
             "coords": [
                 "60.057881655423",
                 "30.44130692017"
             ]
         },
         "23216": {
-            "positive": 334,
-            "total": 860,
+            "positive": 341,
+            "total": 872,
             "NAME": "Новое Девяткино",
-            "positive_percent": 38.8,
+            "positive_percent": 39.1,
             "coords": [
                 "60.059540311779",
                 "30.469780331693"
             ]
         },
         "23217": {
-            "positive": 291,
-            "total": 1159,
+            "positive": 296,
+            "total": 1167,
             "NAME": "Зарайск",
-            "positive_percent": 25.1,
+            "positive_percent": 25.4,
             "coords": [
                 "54.759148818351",
                 "38.877516635582"
@@ -7313,17 +7329,17 @@
         },
         "23254": {
             "positive": 93,
-            "total": 235,
+            "total": 236,
             "NAME": "Усть-Лабинск",
-            "positive_percent": 39.6,
+            "positive_percent": 39.4,
             "coords": [
                 "45.213046375215",
                 "39.68819764418"
             ]
         },
         "23262": {
-            "positive": 526,
-            "total": 1068,
+            "positive": 530,
+            "total": 1074,
             "NAME": "Зубова Поляна",
             "positive_percent": 49.3,
             "coords": [
@@ -7342,48 +7358,48 @@
             ]
         },
         "23433": {
-            "positive": 128,
-            "total": 252,
+            "positive": 130,
+            "total": 257,
             "NAME": "Верхнеуральск",
-            "positive_percent": 50.8,
+            "positive_percent": 50.6,
             "coords": [
                 "53.882222830521",
                 "59.223003008598"
             ]
         },
         "23608": {
-            "positive": 887,
-            "total": 2292,
+            "positive": 900,
+            "total": 2312,
             "NAME": "Магадан",
-            "positive_percent": 38.7,
+            "positive_percent": 38.9,
             "coords": [
                 "59.565082938568",
                 "150.81340827116"
             ]
         },
         "23715": {
-            "positive": 42,
-            "total": 71,
+            "positive": 43,
+            "total": 72,
             "NAME": "Вольск",
-            "positive_percent": 59.2,
+            "positive_percent": 59.7,
             "coords": [
                 "52.044025231315",
                 "47.390732906746"
             ]
         },
         "23716": {
-            "positive": 320,
-            "total": 541,
+            "positive": 323,
+            "total": 545,
             "NAME": "Холмск",
-            "positive_percent": 59.1,
+            "positive_percent": 59.3,
             "coords": [
                 "47.036537838565",
                 "142.04089286872"
             ]
         },
         "23775": {
-            "positive": 372,
-            "total": 979,
+            "positive": 376,
+            "total": 989,
             "NAME": "Нововоронеж",
             "positive_percent": 38,
             "coords": [
@@ -7392,8 +7408,8 @@
             ]
         },
         "24362": {
-            "positive": 80,
-            "total": 159,
+            "positive": 81,
+            "total": 161,
             "NAME": "Брюховецкая",
             "positive_percent": 50.3,
             "coords": [
@@ -7403,19 +7419,19 @@
         },
         "24400": {
             "positive": 580,
-            "total": 1543,
+            "total": 1547,
             "NAME": "Нерюнгри",
-            "positive_percent": 37.6,
+            "positive_percent": 37.5,
             "coords": [
                 "56.658008317155",
                 "124.70638408466"
             ]
         },
         "25716": {
-            "positive": 978,
-            "total": 2220,
+            "positive": 988,
+            "total": 2236,
             "NAME": "Ржев",
-            "positive_percent": 44.1,
+            "positive_percent": 44.2,
             "coords": [
                 "56.257225915569",
                 "34.328576542328"
@@ -7423,9 +7439,9 @@
         },
         "26022": {
             "positive": 362,
-            "total": 1072,
+            "total": 1081,
             "NAME": "Заринск",
-            "positive_percent": 33.8,
+            "positive_percent": 33.5,
             "coords": [
                 "53.706204873468",
                 "84.928897539673"
@@ -7433,9 +7449,9 @@
         },
         "26031": {
             "positive": 32,
-            "total": 67,
+            "total": 68,
             "NAME": "Нефтекумск",
-            "positive_percent": 47.8,
+            "positive_percent": 47.1,
             "coords": [
                 "44.752206419795",
                 "44.98062317791"
@@ -7443,49 +7459,49 @@
         },
         "26110": {
             "positive": 75,
-            "total": 207,
+            "total": 210,
             "NAME": "Торбеево",
-            "positive_percent": 36.2,
+            "positive_percent": 35.7,
             "coords": [
                 "54.072735999977",
                 "43.243671880951"
             ]
         },
         "26441": {
-            "positive": 93,
-            "total": 158,
+            "positive": 103,
+            "total": 170,
             "NAME": "Краснознаменск",
-            "positive_percent": 58.9,
+            "positive_percent": 60.6,
             "coords": [
                 "55.599886",
                 "37.041447"
             ]
         },
         "27097": {
-            "positive": 431,
-            "total": 800,
+            "positive": 452,
+            "total": 828,
             "NAME": "Десногорск",
-            "positive_percent": 53.9,
+            "positive_percent": 54.6,
             "coords": [
                 "54.152287",
                 "33.290657"
             ]
         },
         "27262": {
-            "positive": 20,
-            "total": 36,
+            "positive": 21,
+            "total": 37,
             "NAME": "Мисайлово",
-            "positive_percent": 55.6,
+            "positive_percent": 56.8,
             "coords": [
                 "55.560693",
                 "37.812165"
             ]
         },
         "27312": {
-            "positive": 2,
-            "total": 3,
+            "positive": 3,
+            "total": 5,
             "NAME": "Металлострой",
-            "positive_percent": 66.7,
+            "positive_percent": 60,
             "coords": [
                 "59.810333",
                 "30.580503"
@@ -7493,8 +7509,8 @@
         }
     },
     "CURRENT_CITY_ID": 482,
-    "CURRENT_DATE_RAW": "2021-05-23",
-    "CURRENT_DATE": "23 мая",
+    "CURRENT_DATE_RAW": "2021-05-26",
+    "CURRENT_DATE": "26 мая",
     "ANALYSIS": [],
     "CITIES": {
         "852": {
@@ -9548,50 +9564,50 @@
     },
     "DIAGRAM_RESULTS": {
         "482": {
-            "total": 5251,
+            "total": 5300,
             "total_male_percent": 41,
             "total_female_percent": 59,
-            "positive_total": 2013,
+            "positive_total": 2032,
             "positive_14_percent": 3,
             "positive_14_18_percent": 2,
-            "positive_18_45_percent": 52,
-            "positive_45_65_percent": 36,
+            "positive_18_45_percent": 51,
+            "positive_45_65_percent": 37,
             "positive_65_percent": 7,
-            "positive_total_male": 808,
+            "positive_total_male": 816,
             "positive_male_14_percent": 5,
             "positive_male_14_18_percent": 3,
             "positive_male_18_45_percent": 57,
             "positive_male_45_65_percent": 30,
             "positive_male_65_percent": 5,
-            "positive_total_female": 1205,
+            "positive_total_female": 1216,
             "positive_female_14_percent": 2,
             "positive_female_14_18_percent": 2,
-            "positive_female_18_45_percent": 47,
+            "positive_female_18_45_percent": 46,
             "positive_female_45_65_percent": 41,
-            "positive_female_65_percent": 8
+            "positive_female_65_percent": 9
         }
     },
     "DIAGRAM_RUSSIA_RESULTS": {
-        "total": 5251,
+        "total": 5300,
         "total_male_percent": 41,
         "total_female_percent": 59,
-        "positive_total": 2013,
+        "positive_total": 2032,
         "positive_14_percent": 3,
         "positive_14_18_percent": 2,
-        "positive_18_45_percent": 52,
-        "positive_45_65_percent": 36,
+        "positive_18_45_percent": 51,
+        "positive_45_65_percent": 37,
         "positive_65_percent": 7,
-        "positive_total_male": 808,
+        "positive_total_male": 816,
         "positive_male_14_percent": 5,
         "positive_male_14_18_percent": 3,
         "positive_male_18_45_percent": 57,
         "positive_male_45_65_percent": 30,
         "positive_male_65_percent": 5,
-        "positive_total_female": 1205,
+        "positive_total_female": 1216,
         "positive_female_14_percent": 2,
         "positive_female_14_18_percent": 2,
-        "positive_female_18_45_percent": 47,
+        "positive_female_18_45_percent": 46,
         "positive_female_45_65_percent": 41,
-        "positive_female_65_percent": 8
+        "positive_female_65_percent": 9
     }
 }

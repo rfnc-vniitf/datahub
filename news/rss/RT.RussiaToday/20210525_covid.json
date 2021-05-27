@@ -1,0 +1,55 @@
+[
+    {
+        "title": "В Нижегородской области выявили 138 случаев коронавируса за сутки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://russian.rt.com/rss",
+            "value": "В Нижегородской области выявили 138 случаев коронавируса за сутки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://russian.rt.com/russia/news/865736-region-pandemiya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "123",
+                "href": "https://cdni.rt.com/russian/images/2021.05/thumbnail/60acf7aeae5ac93fb65b322c.png",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://russian.rt.com/russia/news/865736-region-pandemiya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "id": "https://russian.rt.com/russia/news/865736-region-pandemiya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "guidislink": false,
+        "summary": "<img align=\"left\" alt=\"Preview\" src=\"https://cdni.rt.com/russian/images/2021.05/thumbnail/60acf7aeae5ac93fb65b322c.png\" style=\"margin-right: 10px;\" /> В Нижегородской области зарегистрировали 138 случаев коронавируса за сутки. <br /><a href=\"https://russian.rt.com/russia/news/865736-region-pandemiya-koronavirus?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Читать далее</a>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://russian.rt.com/rss",
+            "value": "<img align=\"left\" alt=\"Preview\" src=\"https://cdni.rt.com/russian/images/2021.05/thumbnail/60acf7aeae5ac93fb65b322c.png\" style=\"margin-right: 10px;\" /> В Нижегородской области зарегистрировали 138 случаев коронавируса за сутки. <br /><a href=\"https://russian.rt.com/russia/news/865736-region-pandemiya-koronavirus?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Читать далее</a>"
+        },
+        "published": "Tue, 25 May 2021 16:51:36 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            25,
+            13,
+            51,
+            36,
+            1,
+            145,
+            0
+        ],
+        "authors": [
+            {
+                "name": "RT на русском"
+            }
+        ],
+        "author": "RT на русском",
+        "author_detail": {
+            "name": "RT на русском"
+        }
+    }
+]

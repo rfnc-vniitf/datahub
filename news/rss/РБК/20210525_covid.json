@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Россия разрешит въезд иностранным инвесторам в условиях пандемии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Россия разрешит въезд иностранным инвесторам в условиях пандемии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/60acacef9a79475396cd54ca"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/0/04/756219336439040.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/60acacef9a79475396cd54ca",
+        "summary": "Правительство России поддержало предложение предоставить иностранным инвесторам право въезда в Россию в период ограничений, связанных с COVID-19.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Правительство России поддержало предложение предоставить иностранным инвесторам право въезда в Россию в период ограничений, связанных с COVID-19."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/60acacef9a79475396cd54ca",
+        "guidislink": false,
+        "published": "Tue, 25 May 2021 12:11:55 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            25,
+            9,
+            11,
+            55,
+            1,
+            145,
+            0
+        ]
+    },
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 25 мая",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 25 мая"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/25/05/2021/5e2fe9459a79479d102bada6"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/756214096194311.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/25/05/2021/5e2fe9459a79479d102bada6",
+        "summary": "Россия возобновляет полеты еще в пять стран, сертификаты вакцинации вводит Украина, индийский штамм в России, Греция открылась для привитых «Спутником V». Главные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Россия возобновляет полеты еще в пять стран, сертификаты вакцинации вводит Украина, индийский штамм в России, Греция открылась для привитых «Спутником V». Главные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Tue, 25 May 2021 11:18:55 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            25,
+            8,
+            18,
+            55,
+            1,
+            145,
+            0
+        ]
+    }
+]

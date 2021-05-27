@@ -1,4 +1,644 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-06,-15.0,57.0,21.0,-35.0,-25.0,13.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-07,-12.0,,25.0,-24.0,-11.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-08,-6.0,,32.0,,-19.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-09,-16.0,,,-38.0,-23.0,10.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-10,-17.0,34.0,8.0,-42.0,-27.0,12.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-11,-27.0,46.0,-25.0,-38.0,-26.0,12.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-12,-15.0,,,-43.0,-26.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-13,-13.0,47.0,4.0,-30.0,-22.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-14,-13.0,,25.0,-29.0,-8.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-15,-18.0,,-12.0,,-17.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-16,-16.0,,,-34.0,-24.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-17,-17.0,32.0,6.0,-38.0,-27.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-18,-19.0,51.0,9.0,-37.0,-23.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-19,-17.0,,,-44.0,-24.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-20,-14.0,47.0,19.0,-27.0,-20.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-21,-9.0,,19.0,-21.0,-13.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-22,-16.0,,-29.0,,-14.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-23,-25.0,,-10.0,-43.0,-21.0,10.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-24,-16.0,37.0,-5.0,-42.0,-23.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-25,-15.0,46.0,3.0,-39.0,-25.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-26,-11.0,,,-37.0,-23.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-27,-12.0,46.0,5.0,-30.0,-18.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-28,-10.0,,6.0,-21.0,-8.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-29,-18.0,,-33.0,,-7.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-11-30,-11.0,,,-34.0,-20.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-01,-17.0,32.0,-12.0,-42.0,-24.0,10.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-02,-17.0,49.0,2.0,-29.0,-21.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-03,-10.0,,,-38.0,-21.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-04,-5.0,51.0,43.0,-21.0,-18.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-05,-7.0,,-15.0,-18.0,-1.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-06,-14.0,,-27.0,,-8.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-07,-14.0,,-10.0,-44.0,-23.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-08,-12.0,34.0,-18.0,-42.0,-23.0,10.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-09,-12.0,49.0,9.0,-28.0,-20.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-10,-10.0,,,-37.0,-22.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-11,-7.0,46.0,10.0,-17.0,-19.0,4.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-12,-7.0,,6.0,-8.0,-1.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-13,-7.0,,-16.0,,-13.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-14,-9.0,,13.0,-36.0,-22.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-15,-9.0,37.0,-19.0,-43.0,-25.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-16,-5.0,44.0,-8.0,-34.0,-24.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-17,-4.0,,1.0,-41.0,-26.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-18,-3.0,50.0,-13.0,-26.0,-22.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-19,-7.0,,-3.0,-16.0,-5.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-20,-7.0,,-25.0,,-6.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-21,1.0,,6.0,-34.0,-34.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-22,-2.0,61.0,-50.0,-49.0,-38.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-23,7.0,106.0,-8.0,-37.0,-43.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-24,2.0,,-4.0,-55.0,-61.0,15.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-25,-80.0,,15.0,-66.0,-87.0,14.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-26,-53.0,-14.0,-7.0,-43.0,-38.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-27,-37.0,,-45.0,-46.0,-23.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-28,-11.0,,,-61.0,-77.0,15.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-29,-7.0,30.0,10.0,-60.0,-68.0,15.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-30,-13.0,44.0,4.0,-65.0,-66.0,13.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2020-12-31,-20.0,,,-56.0,-69.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-01,-49.0,-12.0,28.0,-62.0,-83.0,19.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-02,-35.0,,-23.0,-48.0,-30.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-03,-32.0,,-43.0,-46.0,-20.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-04,-24.0,,-40.0,-60.0,-55.0,15.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-05,-25.0,28.0,-34.0,-61.0,-56.0,17.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-06,-23.0,32.0,-1.0,-56.0,-53.0,14.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-07,-16.0,,,-63.0,-55.0,15.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-08,-20.0,24.0,11.0,-49.0,-51.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-09,-23.0,,-6.0,-39.0,-12.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-10,-25.0,,-20.0,-40.0,-14.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-11,-28.0,,-9.0,-54.0,-43.0,14.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-12,-17.0,23.0,-6.0,-52.0,-44.0,14.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-13,-27.0,22.0,-9.0,-51.0,-39.0,12.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-14,-18.0,,11.0,-55.0,-41.0,12.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-15,-24.0,23.0,-33.0,-46.0,-36.0,10.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-16,-20.0,,-21.0,-37.0,-9.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-17,-14.0,,-11.0,,-12.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-18,-21.0,,11.0,-53.0,-34.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-19,-18.0,18.0,-9.0,-50.0,-35.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-20,-22.0,25.0,-3.0,-46.0,-34.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-21,-18.0,,10.0,-52.0,-35.0,10.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-22,-18.0,23.0,-11.0,-40.0,-30.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-23,-20.0,,-12.0,-25.0,-9.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-24,-29.0,,-39.0,-36.0,-8.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-25,-25.0,,-15.0,-57.0,-50.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-26,-21.0,17.0,-9.0,-67.0,-77.0,17.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-27,-21.0,37.0,-12.0,-44.0,-23.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-28,-17.0,,-2.0,-46.0,-26.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-29,-27.0,35.0,-56.0,-44.0,-19.0,10.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-30,-11.0,,3.0,-21.0,5.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-01-31,-9.0,,-6.0,,-6.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-01,-16.0,,10.0,-29.0,-17.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-02,-20.0,27.0,-16.0,-33.0,-19.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-03,-19.0,33.0,-7.0,-30.0,-17.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-04,-18.0,,7.0,-40.0,-17.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-05,-15.0,40.0,-31.0,-22.0,-14.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-06,-4.0,,1.0,-19.0,-1.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-07,-14.0,,-28.0,-35.0,-8.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-08,-19.0,,-1.0,-27.0,-19.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-09,-16.0,31.0,-17.0,-33.0,-19.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-10,-19.0,34.0,-18.0,-25.0,-16.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-11,-20.0,,-4.0,-33.0,-17.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-12,-2.0,65.0,2.0,-24.0,-11.0,3.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-13,-61.0,,-29.0,-64.0,-41.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-14,-51.0,,-29.0,-58.0,-36.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-15,-50.0,,11.0,-68.0,-51.0,25.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-16,-48.0,19.0,-15.0,-76.0,-54.0,29.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-17,-51.0,27.0,-12.0,-67.0,-51.0,26.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-18,-10.0,,5.0,-41.0,-18.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-19,-10.0,33.0,-5.0,-27.0,-13.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-20,-7.0,,-4.0,-25.0,-3.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-21,-8.0,,-12.0,,-5.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-22,-16.0,,7.0,-26.0,-15.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-23,-17.0,28.0,-20.0,-34.0,-19.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-24,-16.0,36.0,0.0,-30.0,-16.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-25,-11.0,,,-28.0,-15.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-26,-11.0,46.0,-1.0,-24.0,-12.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-27,1.0,,33.0,-25.0,2.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-02-28,-4.0,,12.0,-34.0,-10.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-01,-21.0,,0.0,-24.0,-13.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-02,-19.0,21.0,-21.0,-36.0,-17.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-03,-17.0,41.0,-15.0,-21.0,-16.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-04,-15.0,,5.0,-31.0,-16.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-05,-14.0,38.0,-19.0,-25.0,-16.0,3.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-06,-12.0,,-8.0,-23.0,-7.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-07,-15.0,,0.0,,-14.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-08,-14.0,,-5.0,-62.0,-78.0,11.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-09,-20.0,28.0,-30.0,-33.0,-22.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-10,-22.0,25.0,-14.0,-21.0,-18.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-11,-15.0,,,-35.0,-18.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-12,-9.0,42.0,-5.0,-7.0,-13.0,3.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-13,-9.0,,-27.0,-37.0,-7.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-14,-9.0,,-19.0,,-8.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-15,-17.0,,-6.0,-23.0,-13.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-16,-19.0,25.0,-7.0,-30.0,-16.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-17,-18.0,34.0,-7.0,-18.0,-15.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-18,-15.0,,4.0,-21.0,-18.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-19,-9.0,31.0,-13.0,-10.0,-12.0,3.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-20,-3.0,,0.0,-8.0,-1.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-21,-24.0,,-59.0,,-11.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-22,-22.0,,-19.0,-24.0,-13.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-23,-22.0,22.0,-39.0,-33.0,-14.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-24,-22.0,33.0,-35.0,-16.0,-12.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-25,-15.0,,-10.0,-23.0,-15.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-26,-10.0,33.0,-2.0,-12.0,-11.0,2.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-27,-8.0,,-19.0,-17.0,-1.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-28,-9.0,,-12.0,,-6.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-29,-20.0,,-12.0,-25.0,-9.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-30,-14.0,27.0,-14.0,-36.0,-12.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-03-31,-11.0,46.0,-11.0,-23.0,-11.0,4.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-01,2.0,,-4.0,-26.0,-14.0,2.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-02,-47.0,,,-50.0,-81.0,17.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-03,-23.0,,-17.0,-27.0,-20.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-04,-31.0,-8.0,-24.0,,-25.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-05,-13.0,,,-61.0,-78.0,12.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-06,-19.0,26.0,-21.0,-48.0,-39.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-07,-16.0,28.0,-5.0,-35.0,-35.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-08,-14.0,,,-36.0,-32.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-09,-20.0,32.0,-28.0,-29.0,-31.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-10,-18.0,,-28.0,-36.0,-5.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-11,-31.0,,-67.0,-44.0,-16.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-12,-18.0,,-21.0,-27.0,-30.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-13,-19.0,18.0,-13.0,-39.0,-29.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-14,-17.0,29.0,-4.0,-26.0,-29.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-15,-14.0,,8.0,-39.0,-28.0,9.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-16,-13.0,28.0,-25.0,-26.0,-27.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-17,-10.0,,-4.0,-12.0,-13.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-18,-15.0,,-2.0,,-12.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-19,-20.0,,-9.0,-14.0,-8.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-20,-25.0,15.0,-45.0,-31.0,-12.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-21,-24.0,25.0,-11.0,-14.0,-10.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-22,-17.0,,0.0,-22.0,-9.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-23,-8.0,26.0,-16.0,-8.0,-10.0,3.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-24,-7.0,,0.0,-18.0,-11.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-25,-12.0,,-9.0,,-20.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-26,-18.0,,-4.0,-24.0,-11.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-27,-22.0,20.0,-23.0,-24.0,-13.0,7.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-28,-19.0,29.0,-12.0,-11.0,-10.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-29,-13.0,,,-20.0,-11.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-30,-14.0,22.0,7.0,0.0,-10.0,3.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-01,0.0,,42.0,-1.0,-10.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-02,-11.0,,9.0,,-18.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-03,-19.0,,-13.0,-16.0,-12.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-04,-23.0,21.0,-35.0,-28.0,-10.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-05,-18.0,29.0,-4.0,-9.0,-9.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-06,-13.0,,,-11.0,-12.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-07,-10.0,40.0,1.0,2.0,-7.0,3.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-08,-1.0,,15.0,0.0,-6.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-09,3.0,,6.0,,-10.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-10,-21.0,,-14.0,-15.0,-10.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-11,-23.0,28.0,-34.0,-25.0,-9.0,8.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-12,-17.0,42.0,-7.0,-10.0,-10.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-13,-19.0,,-20.0,-26.0,-9.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-14,-16.0,39.0,-15.0,-16.0,-8.0,4.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-15,-16.0,,-27.0,-19.0,-13.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-16,-12.0,,-18.0,,-16.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-17,-22.0,,-8.0,-21.0,-4.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-18,-21.0,35.0,-27.0,-30.0,-9.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-19,-16.0,37.0,-11.0,-16.0,-6.0,5.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-20,-18.0,,-2.0,-20.0,-9.0,6.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-21,-8.0,49.0,-10.0,-12.0,-8.0,4.0
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-22,-4.0,,9.0,-9.0,-10.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-05-23,-2.0,,18.0,,-22.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-15,,,-14.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-16,,,-12.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-17,,,-12.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-18,,,-16.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-21,,,-9.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-22,,,-7.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-23,,,0.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-24,,,-27.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-25,,,-13.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-27,,,-2.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-28,,,-14.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-02-29,,,-10.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-01,,,-17.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-02,,,-25.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-03,,,-16.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-06,,,74.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-07,,,115.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-10,,,28.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-13,,,-10.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-14,,,-16.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-15,,,-8.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-16,,,-4.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-17,,,9.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-20,,,-19.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-21,,,-24.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-22,,,-20.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-23,,,-42.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-24,,,-54.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-25,,,-52.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-26,,,-49.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-27,,,-73.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-28,,,-75.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-29,,,-77.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-03-30,,,-74.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-04-01,,,-66.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-04-06,,,-75.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-04-07,,,-74.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-04-08,,,-70.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-04-10,,,-76.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-04-12,,,-82.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-06,,,-70.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-10,,,-84.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-14,,,-69.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-16,,,-77.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-17,,,-76.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-18,,,-74.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-19,,,-75.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-21,,,-68.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-23,,,-80.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-24,,,-76.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-25,,,-70.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-27,,,-63.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-29,,,-70.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-30,,,-75.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-05-31,,,-81.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-02,,,-67.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-03,,,-49.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-04,,,-43.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-05,,,-43.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-06,,,-14.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-07,,,17.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-08,,,2.0,,-63.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-09,,,-60.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-10,,,-42.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-11,,,-44.0,,-5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-12,,,-51.0,,1.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-13,,,-56.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-14,,,-59.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-15,,,-67.0,,-8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-16,,,-66.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-17,,,-45.0,,-5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-18,,,-41.0,,-10.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-19,,,-56.0,,-8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-20,,,-54.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-21,,,-54.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-22,,,-55.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-23,,,-47.0,,-1.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-24,,,-44.0,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-25,,,-39.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-26,,,-38.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-27,,,-27.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-28,,,-23.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-29,,,-15.0,,-14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-06-30,,,3.0,,-14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-01,,,,,-11.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-02,,,-16.0,,-15.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-03,,,-22.0,,-17.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-04,,,-16.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-05,,,-4.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-06,,,-2.0,,-13.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-07,,,7.0,,-12.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-08,,,,,-12.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-09,,,,,-18.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-10,,,-36.0,,-16.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-11,,,-54.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-12,,,-51.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-13,,,-56.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-14,,,-54.0,,-9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-15,,,-51.0,,-5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-16,,,-44.0,,-9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-17,,,-50.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-18,,,-60.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-19,,,-68.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-20,,,-61.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-21,,,-63.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-22,,,-50.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-23,,,-56.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-24,,,-58.0,,-2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-25,,,-51.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-26,,,-47.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-27,,,-68.0,,-9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-28,,,-54.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-29,,,-54.0,,-10.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-30,,,-52.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-07-31,,,-56.0,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-01,,,-45.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-02,,,-53.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-03,,,-62.0,,-5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-04,,,-62.0,,-12.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-05,,,-58.0,,-9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-06,,,,,-19.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-07,,,,,-23.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-09,,,-82.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-10,,,-73.0,,-25.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-11,,,,,-19.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-12,,,,,-19.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-13,,,,,-21.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-14,,,-78.0,,-15.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-08-16,,,-83.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-11,,,-80.0,,-19.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-12,,,-87.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-13,,,-78.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-14,,,-70.0,,-16.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-15,,,-72.0,,-14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-16,,,-59.0,,-17.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-17,,,-65.0,,-22.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-18,,,-66.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-19,,,-67.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-20,,,-63.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-21,,,-52.0,,-24.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-22,,,-60.0,,-20.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-23,,,-49.0,,-22.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-24,,,-53.0,,-24.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-25,,,-56.0,,-12.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-26,,,-53.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-27,,,-38.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-28,,,-43.0,,-14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-29,,,-44.0,,-20.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-09-30,,,-43.0,,-19.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-01,,,-18.0,,-23.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-02,,,-27.0,,-17.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-03,,,-35.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-04,,,-55.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-05,,,-64.0,,-19.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-06,,,-65.0,,-16.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-07,,,-62.0,,-10.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-08,,,-72.0,,-17.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-09,,,-51.0,,-2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-10,,,-44.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-11,,,-45.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-12,,,-54.0,,-8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-13,,,-54.0,,-9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-14,,,-35.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-15,,,-51.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-16,,,-58.0,,3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-17,,,-58.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-18,,,-53.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-19,,,-60.0,,-3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-20,,,-59.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-21,,,-38.0,,-5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-22,,,-28.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-23,,,-18.0,,-49.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-24,,,-39.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-25,,,-53.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-26,,,-55.0,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-27,,,-60.0,,-3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-28,,,-45.0,,-5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-29,,,-63.0,,0.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-30,,,-55.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-10-31,,,-45.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-01,,,-22.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-02,,,-27.0,,-20.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-03,,,-38.0,,-56.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-04,,,-53.0,,-2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-05,,,-54.0,,-3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-06,,,-59.0,,12.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-07,,,-52.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-08,,,-51.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-09,,,-50.0,,-1.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-10,,,-50.0,,-3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-11,,,-45.0,,6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-12,,,-36.0,,0.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-13,,,-36.0,,8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-14,,,-12.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-15,,,-21.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-16,,,-35.0,,9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-17,,,-42.0,,10.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-18,,,-21.0,,8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-19,,,-32.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-20,,,-24.0,,16.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-21,,,-15.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-22,,,-37.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-23,,,-48.0,,6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-24,,,-49.0,,8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-25,,,-21.0,,13.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-26,,,-32.0,,1.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-27,,,-32.0,,14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-28,,,-23.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-29,,,-28.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-11-30,,,-38.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-01,,,-52.0,,6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-02,,,-24.0,,11.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-03,,,-27.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-04,,,-34.0,,14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-05,,,-41.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-06,,,-38.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-07,,,-53.0,,-2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-08,,,-47.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-09,,,-39.0,,6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-10,,,-43.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-11,,,-45.0,,8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-12,,,-35.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-13,,,-44.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-14,,,-44.0,,3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-15,,,-47.0,,3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-16,,,-46.0,,3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-17,,,-44.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-18,,,-45.0,,15.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-19,,,-26.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-20,,,-12.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-21,,,-22.0,,-5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-22,,,-21.0,,-9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-23,,,,,-8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-24,,,,,-25.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-25,,,81.0,,-70.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-26,,,50.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-27,,,65.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-28,,,,,-62.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-29,,,,,-28.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-30,,,,,-34.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2020-12-31,,,,,-38.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-01,,,73.0,,-68.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-02,,,3.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-03,,,14.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-04,,,34.0,,-18.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-05,,,,,-19.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-06,,,,,-13.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-07,,,,,-18.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-08,,,25.0,,-14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-09,,,0.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-10,,,-14.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-11,,,-21.0,,-12.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-12,,,-12.0,,-9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-13,,,,,-13.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-14,,,,,-16.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-15,,,-18.0,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-16,,,-16.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-17,,,-9.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-18,,,-19.0,,-14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-19,,,-13.0,,-15.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-20,,,,,-8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-21,,,-7.0,,-18.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-22,,,-16.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-23,,,-2.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-24,,,22.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-25,,,20.0,,-22.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-26,,,0.0,,-59.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-27,,,-28.0,,-7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-28,,,-37.0,,0.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-29,,,-51.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-30,,,-40.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-01-31,,,-44.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-01,,,-54.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-02,,,-48.0,,0.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-03,,,-29.0,,0.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-04,,,-41.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-05,,,-56.0,,9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-06,,,-44.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-07,,,-39.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-08,,,-53.0,,0.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-09,,,-45.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-10,,,-36.0,,-1.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-11,,,-43.0,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-12,,,-53.0,,10.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-13,,,-87.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-14,,,-82.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-15,,,-79.0,,-23.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-16,,,-81.0,,-25.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-17,,,-74.0,,-18.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-18,,,-58.0,,-3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-19,,,-45.0,,15.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-20,,,-44.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-21,,,-36.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-22,,,-47.0,,-2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-23,,,-48.0,,-3.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-24,,,-24.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-25,,,-28.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-26,,,-38.0,,10.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-27,,,-33.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-02-28,,,-45.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-01,,,-52.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-02,,,-49.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-03,,,-31.0,,6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-04,,,-42.0,,-1.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-05,,,-30.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-06,,,9.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-07,,,76.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-08,,,0.0,,-56.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-09,,,-50.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-10,,,-32.0,,0.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-11,,,-38.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-12,,,-44.0,,12.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-13,,,-51.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-14,,,-42.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-15,,,-43.0,,1.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-16,,,-42.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-17,,,-27.0,,15.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-18,,,-29.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-19,,,-41.0,,13.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-20,,,-34.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-21,,,-60.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-22,,,-62.0,,8.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-23,,,-45.0,,9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-24,,,-44.0,,6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-25,,,-40.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-26,,,-41.0,,15.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-27,,,-38.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-28,,,-39.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-29,,,-43.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-30,,,-39.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-03-31,,,-25.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-01,,,,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-02,,,,,-61.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-03,,,98.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-04,,,125.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-05,,,,,-61.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-06,,,-3.0,,-11.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-07,,,,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-08,,,,,-9.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-09,,,-8.0,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-10,,,-13.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-11,,,-30.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-12,,,-14.0,,-6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-13,,,-20.0,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-14,,,-8.0,,-5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-15,,,-7.0,,-4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-16,,,-26.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-17,,,-31.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-18,,,-45.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-19,,,-45.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-20,,,-51.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-21,,,-28.0,,7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-22,,,-27.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-23,,,-39.0,,11.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-24,,,-21.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-25,,,-34.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-26,,,-40.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-27,,,-54.0,,6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-28,,,-30.0,,7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-29,,,-30.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-30,,,-38.0,,11.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-01,,,-25.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-02,,,-49.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-03,,,-59.0,,5.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-04,,,-58.0,,7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-05,,,-35.0,,7.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-06,,,-35.0,,6.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-07,,,-49.0,,19.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-08,,,-37.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-09,,,-51.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-10,,,-67.0,,10.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-11,,,-59.0,,15.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-12,,,-37.0,,11.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-13,,,-44.0,,1.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-14,,,-38.0,,18.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-15,,,-39.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-16,,,-48.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-17,,,-44.0,,2.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-18,,,-52.0,,14.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-19,,,-40.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-20,,,-37.0,,4.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-21,,,-35.0,,16.0,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-22,,,-34.0,,,
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-05-23,,,-39.0,,,
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-15,-5.0,7.0,-40.0,3.0,4.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-16,6.0,11.0,0.0,-1.0,-1.0,-1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-17,11.0,13.0,83.0,14.0,10.0,-3.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-18,-10.0,-4.0,-46.0,6.0,6.0,1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-19,-7.0,-9.0,-35.0,0.0,7.0,1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-20,-9.0,-1.0,-32.0,-1.0,8.0,-1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-21,0.0,4.0,-19.0,15.0,10.0,-3.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-22,23.0,10.0,71.0,41.0,2.0,-3.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-23,23.0,17.0,57.0,14.0,-4.0,-2.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-24,2.0,6.0,10.0,5.0,8.0,-1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-25,0.0,2.0,-14.0,14.0,6.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-26,-4.0,-3.0,-18.0,4.0,8.0,-1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-27,-5.0,0.0,-27.0,6.0,8.0,-1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-28,2.0,3.0,-16.0,11.0,9.0,-3.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-02-29,21.0,16.0,83.0,34.0,5.0,-2.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-01,12.0,10.0,23.0,-3.0,-4.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-02,2.0,9.0,13.0,10.0,10.0,-2.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-03,-1.0,11.0,-10.0,7.0,6.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-04,-4.0,2.0,-25.0,0.0,6.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-05,-16.0,5.0,-61.0,4.0,5.0,1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-06,-3.0,9.0,-29.0,6.0,6.0,-3.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-07,-5.0,20.0,-3.0,6.0,-6.0,-1.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-08,4.0,10.0,-7.0,-8.0,-4.0,-3.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-09,12.0,18.0,94.0,-23.0,-72.0,11.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-10,5.0,14.0,9.0,14.0,3.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-11,5.0,5.0,26.0,8.0,5.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-12,2.0,22.0,10.0,7.0,4.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-13,-7.0,19.0,-37.0,0.0,4.0,2.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-14,-4.0,25.0,-25.0,2.0,-2.0,4.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-15,-12.0,18.0,-43.0,-25.0,-7.0,4.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-16,4.0,46.0,43.0,-15.0,-5.0,4.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-17,-4.0,35.0,11.0,-21.0,-13.0,9.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-18,-14.0,14.0,-13.0,-28.0,-19.0,12.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-19,-24.0,15.0,-29.0,-33.0,-23.0,14.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-20,-27.0,8.0,-32.0,-34.0,-22.0,13.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-21,-31.0,4.0,-26.0,-35.0,-11.0,9.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-22,-39.0,-9.0,-56.0,-52.0,-17.0,
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-23,-32.0,10.0,-20.0,-50.0,-34.0,17.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-24,-48.0,-7.0,-25.0,-56.0,-49.0,24.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-25,-51.0,-18.0,-36.0,-59.0,-52.0,26.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-26,-54.0,-7.0,-30.0,-61.0,-54.0,28.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-27,-52.0,-8.0,-8.0,-57.0,-54.0,28.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-28,-58.0,-15.0,-19.0,-53.0,-42.0,
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-29,-66.0,-32.0,-64.0,-66.0,-46.0,
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-30,-50.0,-12.0,1.0,-64.0,-60.0,26.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-03-31,-54.0,-13.0,-21.0,-63.0,-63.0,30.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-01,-55.0,-25.0,-27.0,-62.0,-62.0,31.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-02,-63.0,-21.0,-68.0,-72.0,-63.0,33.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-03,-59.0,-14.0,-44.0,-65.0,-62.0,31.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-04,-65.0,-19.0,-72.0,-69.0,-48.0,
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-05,-69.0,-32.0,-83.0,-76.0,-48.0,
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-06,-52.0,-15.0,-22.0,-65.0,-62.0,27.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-07,-55.0,-12.0,-45.0,-61.0,-64.0,31.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-08,-54.0,-19.0,-37.0,-65.0,-64.0,31.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-09,-53.0,10.0,-37.0,-62.0,-64.0,29.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-10,-76.0,-68.0,-34.0,-71.0,-88.0,
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-11,-65.0,-1.0,-76.0,-68.0,-55.0,
 AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-12,-70.0,-33.0,-73.0,-71.0,-52.0,
 AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-13,-55.0,-8.0,31.0,-72.0,-86.0,
 AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2020-04-14,-56.0,-14.0,-36.0,-66.0,-65.0,31.0
@@ -403,6 +1043,9 @@ AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2021-05-1
 AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2021-05-18,-32.0,-24.0,-60.0,-50.0,-36.0,10.0
 AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2021-05-19,-30.0,-26.0,-54.0,-47.0,-35.0,9.0
 AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2021-05-20,-34.0,-22.0,-66.0,-56.0,-34.0,10.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2021-05-21,-26.0,-19.0,-52.0,-47.0,-35.0,7.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2021-05-22,-22.0,-13.0,-40.0,-28.0,-17.0,0.0
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2021-05-23,-26.0,-20.0,-32.0,-37.0,-20.0,0.0
 AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2020-02-15,-18.0,-6.0,-54.0,-36.0,1.0,0.0
 AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2020-02-16,-11.0,1.0,-20.0,-17.0,-6.0,1.0
 AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2020-02-17,-20.0,-6.0,2.0,-8.0,20.0,-3.0
@@ -864,6 +1507,9 @@ AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9L
 AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2021-05-18,-27.0,-10.0,-58.0,-32.0,-5.0,4.0
 AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2021-05-19,-22.0,-14.0,-52.0,-27.0,-4.0,3.0
 AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2021-05-20,-22.0,-11.0,-59.0,-37.0,-3.0,4.0
+AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2021-05-21,-22.0,-11.0,-30.0,-6.0,-3.0,2.0
+AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2021-05-22,-26.0,-19.0,-50.0,-36.0,-7.0,2.0
+AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2021-05-23,-21.0,-9.0,-31.0,-21.0,-14.0,1.0
 AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2020-02-15,2.0,,-4.0,,,
 AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2020-02-16,-11.0,,-36.0,,,
 AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2020-02-17,-18.0,,-38.0,,20.0,
@@ -1295,6 +1941,9 @@ AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2021-
 AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2021-05-18,,,-68.0,,9.0,
 AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2021-05-19,-12.0,,-60.0,,10.0,
 AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2021-05-20,-15.0,,-70.0,,9.0,
+AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2021-05-21,-13.0,,-51.0,,11.0,
+AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2021-05-22,-18.0,,-40.0,,5.0,
+AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2021-05-23,-11.0,,-53.0,,-14.0,
 AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,2020-04-10,,,,,-74.0,
 AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,2020-06-08,,,,,-57.0,
 AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,2020-06-09,,,,,9.0,
@@ -1526,6 +2175,7 @@ AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,20
 AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,2021-05-18,,,,,18.0,
 AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,2021-05-19,,,,,15.0,
 AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,2021-05-20,,,,,11.0,
+AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,2021-05-21,,,,,20.0,
 AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2020-02-15,11.0,14.0,3.0,2.0,-4.0,2.0
 AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2020-02-16,3.0,15.0,20.0,-1.0,-5.0,
 AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2020-02-17,-9.0,5.0,14.0,9.0,11.0,-2.0
@@ -1987,6 +2637,9 @@ AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2021-05-17
 AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2021-05-18,-24.0,8.0,-39.0,-43.0,-32.0,11.0
 AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2021-05-19,-19.0,13.0,-37.0,-40.0,-31.0,10.0
 AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2021-05-20,-21.0,17.0,-42.0,-46.0,-31.0,10.0
+AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2021-05-21,-14.0,21.0,-17.0,-38.0,-32.0,9.0
+AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2021-05-22,-12.0,18.0,1.0,1.0,-10.0,1.0
+AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2021-05-23,-17.0,12.0,-6.0,-13.0,-17.0,1.0
 AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2020-02-15,-22.0,-25.0,-46.0,,,
 AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2020-02-16,-14.0,-22.0,-27.0,,,
 AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2020-02-17,-29.0,-28.0,-31.0,,27.0,
@@ -2431,6 +3084,9 @@ AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2021-05-17
 AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2021-05-18,-35.0,,-74.0,,-7.0,
 AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2021-05-19,-34.0,,-74.0,,-6.0,
 AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2021-05-20,-33.0,-37.0,-81.0,,-10.0,
+AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2021-05-21,-27.0,-38.0,-71.0,,-11.0,
+AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2021-05-22,-32.0,-34.0,-65.0,,-20.0,
+AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2021-05-23,-23.0,-36.0,-63.0,,-36.0,
 AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2020-02-15,14.0,,,,,
 AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2020-02-17,,,,,10.0,
 AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2020-02-18,-5.0,,,,11.0,
@@ -2839,6 +3495,9 @@ AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2021-0
 AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2021-05-18,,,,,-1.0,
 AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2021-05-19,,,,,-4.0,
 AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2021-05-20,,,,,-1.0,
+AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2021-05-21,2.0,,,,-5.0,
+AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2021-05-22,1.0,,,,-16.0,
+AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2021-05-23,,,,,-20.0,
 AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2020-02-15,5.0,-3.0,,,,
 AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2020-02-16,-6.0,,,,,
 AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2020-02-17,-10.0,,,,22.0,
@@ -3275,6 +3934,9 @@ AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2021-
 AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2021-05-18,-12.0,-4.0,,,11.0,2.0
 AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2021-05-19,-8.0,-6.0,,,7.0,2.0
 AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2021-05-20,-7.0,-5.0,,,11.0,1.0
+AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2021-05-21,4.0,-7.0,,,13.0,-2.0
+AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2021-05-22,6.0,-8.0,,,-2.0,
+AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2021-05-23,1.0,,,,-5.0,
 AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2020-02-15,-10.0,-19.0,-50.0,,,
 AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2020-02-16,-15.0,-27.0,-53.0,,,
 AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2020-02-17,-14.0,-23.0,-58.0,,17.0,
@@ -3711,6 +4373,9 @@ AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2021-05-17
 AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2021-05-18,-19.0,-12.0,-66.0,,1.0,3.0
 AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2021-05-19,-18.0,-15.0,-53.0,,4.0,3.0
 AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2021-05-20,-24.0,-8.0,-62.0,,1.0,3.0
+AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2021-05-21,-21.0,-15.0,-64.0,,3.0,1.0
+AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2021-05-22,-22.0,-11.0,-50.0,,-12.0,
+AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2021-05-23,-23.0,-18.0,-54.0,,-22.0,
 AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2020-02-15,4.0,-10.0,-8.0,,7.0,
 AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2020-02-16,-5.0,-14.0,-5.0,,,
 AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2020-02-17,-2.0,-12.0,,,15.0,-5.0
@@ -4147,6 +4812,9 @@ AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2021-05-17
 AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2021-05-18,-6.0,-5.0,-27.0,,10.0,2.0
 AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2021-05-19,-5.0,-2.0,-13.0,,14.0,2.0
 AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2021-05-20,-3.0,0.0,-12.0,,9.0,2.0
+AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2021-05-21,4.0,9.0,-11.0,,12.0,2.0
+AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2021-05-22,-4.0,4.0,-4.0,,2.0,
+AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2021-05-23,1.0,-4.0,-7.0,,-4.0,
 AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2020-02-15,7.0,16.0,6.0,-8.0,2.0,2.0
 AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2020-02-16,2.0,25.0,49.0,3.0,-3.0,1.0
 AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2020-02-17,-6.0,12.0,26.0,11.0,19.0,-3.0
@@ -4608,6 +5276,9 @@ AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2021-05-17,
 AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2021-05-18,-16.0,7.0,-19.0,-9.0,-14.0,7.0
 AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2021-05-19,-10.0,9.0,-19.0,-10.0,-15.0,7.0
 AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2021-05-20,-18.0,8.0,-10.0,-30.0,-13.0,8.0
+AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2021-05-21,-8.0,12.0,22.0,-23.0,-14.0,5.0
+AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2021-05-22,4.0,9.0,22.0,-12.0,0.0,2.0
+AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2021-05-23,-3.0,16.0,21.0,-12.0,-8.0,2.0
 AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2020-02-15,11.0,15.0,-42.0,2.0,3.0,1.0
 AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2020-02-16,11.0,19.0,12.0,3.0,2.0,-1.0
 AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2020-02-17,-1.0,4.0,6.0,15.0,20.0,-3.0
@@ -5069,6 +5740,9 @@ AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2021-05-17,
 AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2021-05-18,-4.0,7.0,-31.0,-19.0,-6.0,4.0
 AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2021-05-19,-1.0,11.0,-5.0,-14.0,-6.0,4.0
 AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2021-05-20,-8.0,3.0,-8.0,-28.0,-6.0,5.0
+AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2021-05-21,2.0,9.0,32.0,-21.0,-3.0,2.0
+AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2021-05-22,3.0,7.0,17.0,1.0,-5.0,1.0
+AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2021-05-23,4.0,7.0,18.0,-15.0,-9.0,1.0
 AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2020-02-15,3.0,-9.0,-14.0,,3.0,
 AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2020-02-16,15.0,-1.0,,,,
 AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2020-02-17,3.0,-10.0,,,18.0,-2.0
@@ -5524,6 +6198,9 @@ AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2021-05-17,-5.
 AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2021-05-18,-5.0,13.0,,,9.0,2.0
 AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2021-05-19,-7.0,3.0,,,5.0,2.0
 AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2021-05-20,-4.0,13.0,,,6.0,1.0
+AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2021-05-21,0.0,14.0,,,7.0,1.0
+AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2021-05-22,-7.0,12.0,-34.0,,-1.0,
+AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2021-05-23,-1.0,7.0,,,-14.0,
 AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2020-02-15,5.0,12.0,-35.0,-14.0,3.0,-1.0
 AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2020-02-16,9.0,13.0,14.0,9.0,2.0,0.0
 AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2020-02-17,1.0,2.0,27.0,14.0,22.0,-4.0
@@ -5985,6 +6662,9 @@ AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2021-05-
 AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2021-05-18,-21.0,10.0,-40.0,-32.0,-9.0,4.0
 AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2021-05-19,-15.0,10.0,-22.0,-26.0,-8.0,5.0
 AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2021-05-20,-17.0,15.0,-30.0,-33.0,-8.0,4.0
+AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2021-05-21,-12.0,18.0,-31.0,-21.0,-5.0,3.0
+AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2021-05-22,-4.0,12.0,-11.0,-12.0,-5.0,1.0
+AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2021-05-23,-6.0,6.0,-11.0,-13.0,-12.0,1.0
 AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2020-02-15,7.0,3.0,-1.0,12.0,2.0,0.0
 AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2020-02-16,5.0,4.0,2.0,2.0,0.0,1.0
 AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2020-02-17,-1.0,0.0,-7.0,8.0,17.0,-1.0
@@ -6446,6 +7126,9 @@ AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2021-05-17,2
 AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2021-05-18,4.0,15.0,-20.0,-15.0,6.0,2.0
 AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2021-05-19,3.0,12.0,-18.0,-13.0,6.0,2.0
 AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2021-05-20,3.0,10.0,-12.0,-15.0,6.0,2.0
+AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2021-05-21,7.0,15.0,-14.0,-18.0,7.0,1.0
+AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2021-05-22,10.0,15.0,-24.0,-31.0,-1.0,3.0
+AU,Australia,Western Australia,,,AU-WA,,ChIJ0YTziS4qOSoRmaMAMt9KDm4,2021-05-23,6.0,13.0,-34.0,-38.0,-7.0,5.0
 AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2020-02-15,3.0,7.0,-2.0,,8.0,
 AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2020-02-16,-10.0,,-12.0,,,
 AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2020-02-17,0.0,15.0,-12.0,,22.0,-1.0
@@ -6901,6 +7584,9 @@ AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,202
 AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2021-05-18,-7.0,12.0,-24.0,,13.0,2.0
 AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2021-05-19,-7.0,12.0,-7.0,,14.0,1.0
 AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2021-05-20,-6.0,10.0,-4.0,,16.0,0.0
+AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2021-05-21,-5.0,4.0,-10.0,,16.0,-1.0
+AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2021-05-22,1.0,18.0,-30.0,,16.0,
+AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2021-05-23,-16.0,,-32.0,,-3.0,
 AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2020-02-15,5.0,-7.0,21.0,26.0,3.0,0.0
 AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2020-02-16,11.0,4.0,16.0,-5.0,-3.0,0.0
 AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2020-02-17,3.0,7.0,16.0,12.0,15.0,-1.0
@@ -7362,6 +8048,9 @@ AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2
 AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2021-05-18,10.0,-3.0,10.0,-16.0,3.0,2.0
 AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2021-05-19,5.0,-1.0,10.0,-13.0,1.0,2.0
 AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2021-05-20,2.0,-11.0,21.0,-14.0,5.0,1.0
+AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2021-05-21,8.0,-10.0,26.0,-22.0,7.0,1.0
+AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2021-05-22,15.0,-9.0,12.0,-30.0,-3.0,3.0
+AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2021-05-23,12.0,-5.0,16.0,-40.0,-13.0,4.0
 AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2020-02-15,5.0,4.0,22.0,29.0,3.0,0.0
 AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2020-02-16,2.0,9.0,14.0,11.0,-1.0,
 AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2020-02-17,-5.0,3.0,1.0,21.0,14.0,-2.0
@@ -7819,6 +8508,9 @@ AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,
 AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2021-05-18,5.0,2.0,2.0,6.0,5.0,3.0
 AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2021-05-19,2.0,-1.0,-10.0,2.0,3.0,3.0
 AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2021-05-20,1.0,-1.0,1.0,-13.0,3.0,3.0
+AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2021-05-21,5.0,-2.0,-4.0,-7.0,3.0,2.0
+AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2021-05-22,12.0,0.0,34.0,-29.0,-6.0,3.0
+AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2021-05-23,7.0,0.0,-30.0,-31.0,-13.0,5.0
 AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2020-02-15,10.0,3.0,165.0,-1.0,1.0,
 AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2020-02-16,10.0,10.0,20.0,4.0,-2.0,
 AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2020-02-17,0.0,0.0,5.0,-4.0,11.0,-1.0
@@ -8280,6 +8972,9 @@ AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,20
 AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2021-05-18,20.0,4.0,-4.0,-28.0,1.0,4.0
 AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2021-05-19,21.0,9.0,-2.0,-24.0,1.0,3.0
 AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2021-05-20,16.0,10.0,9.0,-24.0,1.0,2.0
+AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2021-05-21,21.0,17.0,-6.0,-36.0,5.0,2.0
+AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2021-05-22,32.0,19.0,-6.0,-57.0,-4.0,4.0
+AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2021-05-23,34.0,17.0,-8.0,-49.0,-10.0,
 AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2020-02-15,2.0,-8.0,-9.0,,,
 AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2020-02-16,4.0,-1.0,-12.0,,,
 AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2020-02-17,-3.0,-4.0,-20.0,,21.0,
@@ -8716,6 +9411,9 @@ AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,20
 AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2021-05-18,6.0,19.0,-51.0,-41.0,18.0,2.0
 AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2021-05-19,3.0,15.0,-50.0,-37.0,21.0,0.0
 AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2021-05-20,5.0,13.0,-44.0,-39.0,11.0,1.0
+AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2021-05-21,9.0,15.0,-42.0,-42.0,21.0,-1.0
+AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2021-05-22,5.0,10.0,-70.0,-59.0,2.0,
+AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2021-05-23,8.0,19.0,-63.0,-54.0,-14.0,
 AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2020-02-15,-5.0,-8.0,-15.0,,-4.0,
 AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2020-02-16,-10.0,-14.0,-25.0,,-5.0,
 AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2020-02-17,-13.0,-19.0,-26.0,,18.0,
@@ -9152,6 +9850,9 @@ AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,
 AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2021-05-18,-21.0,-20.0,-59.0,,3.0,1.0
 AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2021-05-19,-19.0,-17.0,-55.0,,3.0,2.0
 AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2021-05-20,-20.0,-20.0,-53.0,,4.0,1.0
+AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2021-05-21,-16.0,-20.0,-57.0,,6.0,1.0
+AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2021-05-22,-19.0,-15.0,-71.0,,-13.0,
+AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2021-05-23,-24.0,-27.0,-70.0,,-12.0,
 AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2020-02-15,1.0,4.0,42.0,37.0,1.0,1.0
 AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2020-02-16,4.0,7.0,27.0,12.0,0.0,1.0
 AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2020-02-17,-4.0,1.0,27.0,24.0,19.0,-1.0
@@ -9613,6 +10314,9 @@ AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,20
 AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2021-05-18,-1.0,16.0,16.0,-8.0,10.0,2.0
 AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2021-05-19,-3.0,10.0,13.0,-12.0,9.0,2.0
 AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2021-05-20,-3.0,14.0,17.0,-23.0,11.0,3.0
+AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2021-05-21,0.0,16.0,14.0,-16.0,10.0,2.0
+AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2021-05-22,6.0,17.0,46.0,-28.0,-1.0,3.0
+AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2021-05-23,10.0,15.0,-2.0,-46.0,-12.0,5.0
 AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2020-02-15,-3.0,3.0,-14.0,9.0,2.0,0.0
 AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2020-02-16,6.0,14.0,-15.0,-5.0,3.0,0.0
 AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2020-02-17,-2.0,7.0,-13.0,10.0,17.0,-2.0
@@ -10074,6 +10778,9 @@ AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2
 AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2021-05-18,-3.0,-2.0,-36.0,15.0,3.0,2.0
 AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2021-05-19,-4.0,-2.0,-31.0,18.0,2.0,1.0
 AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2021-05-20,-1.0,-6.0,-18.0,19.0,3.0,2.0
+AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2021-05-21,2.0,-3.0,-18.0,12.0,6.0,1.0
+AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2021-05-22,-1.0,-5.0,-38.0,14.0,-6.0,3.0
+AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2021-05-23,-2.0,-6.0,-42.0,9.0,-11.0,5.0
 AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2020-02-15,-4.0,-1.0,-15.0,-32.0,,
 AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2020-02-16,0.0,1.0,6.0,-7.0,,
 AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2020-02-17,-8.0,2.0,-1.0,2.0,18.0,
@@ -10510,6 +11217,9 @@ AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,
 AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2021-05-18,-3.0,-14.0,-32.0,-31.0,2.0,3.0
 AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2021-05-19,-3.0,-14.0,-19.0,-19.0,2.0,2.0
 AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2021-05-20,0.0,-14.0,-11.0,-24.0,0.0,3.0
+AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2021-05-21,0.0,-24.0,-12.0,-23.0,7.0,1.0
+AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2021-05-22,-4.0,-28.0,-41.0,-63.0,-11.0,
+AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2021-05-23,-7.0,-25.0,-42.0,-55.0,-13.0,
 AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2020-02-15,5.0,6.0,15.0,20.0,2.0,0.0
 AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2020-02-16,7.0,12.0,6.0,7.0,2.0,1.0
 AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2020-02-17,2.0,15.0,-9.0,14.0,19.0,-1.0
@@ -10971,6 +11681,9 @@ AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2
 AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2021-05-18,24.0,27.0,8.0,-9.0,9.0,2.0
 AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2021-05-19,21.0,27.0,11.0,-13.0,10.0,1.0
 AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2021-05-20,23.0,20.0,20.0,-10.0,8.0,2.0
+AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2021-05-21,25.0,26.0,11.0,-12.0,10.0,1.0
+AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2021-05-22,31.0,22.0,19.0,-33.0,-6.0,3.0
+AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2021-05-23,27.0,20.0,-18.0,-39.0,-8.0,4.0
 AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2020-02-15,4.0,-7.0,,,1.0,
 AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2020-02-16,5.0,4.0,,,,
 AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2020-02-17,-5.0,-2.0,,-10.0,24.0,-1.0
@@ -11426,6 +12139,9 @@ AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7
 AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2021-05-18,8.0,21.0,,-28.0,19.0,1.0
 AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2021-05-19,8.0,19.0,,-17.0,20.0,0.0
 AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2021-05-20,10.0,10.0,,-3.0,16.0,1.0
+AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2021-05-21,9.0,9.0,,-37.0,19.0,1.0
+AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2021-05-22,20.0,21.0,,-53.0,4.0,
+AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2021-05-23,16.0,,,-42.0,-2.0,
 AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2020-02-15,5.0,5.0,-9.0,27.0,2.0,0.0
 AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2020-02-16,2.0,10.0,-7.0,-3.0,2.0,1.0
 AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2020-02-17,-3.0,3.0,-18.0,29.0,21.0,-1.0
@@ -11887,6 +12603,9 @@ AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,
 AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2021-05-18,-3.0,10.0,-34.0,4.0,0.0,2.0
 AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2021-05-19,-5.0,10.0,-33.0,3.0,-1.0,2.0
 AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2021-05-20,-1.0,13.0,-21.0,1.0,-1.0,2.0
+AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2021-05-21,4.0,20.0,-24.0,-5.0,2.0,1.0
+AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2021-05-22,11.0,13.0,-35.0,-21.0,-14.0,3.0
+AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2021-05-23,6.0,15.0,-45.0,-45.0,-16.0,5.0
 AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2020-02-15,10.0,6.0,52.0,3.0,6.0,
 AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2020-02-16,10.0,22.0,65.0,-10.0,4.0,
 AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2020-02-17,-1.0,14.0,,9.0,18.0,-1.0
@@ -12342,6 +13061,9 @@ AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,
 AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2021-05-18,16.0,23.0,,-41.0,8.0,2.0
 AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2021-05-19,16.0,11.0,22.0,-39.0,7.0,2.0
 AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2021-05-20,12.0,14.0,23.0,-45.0,6.0,2.0
+AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2021-05-21,16.0,20.0,44.0,-50.0,7.0,1.0
+AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2021-05-22,26.0,16.0,61.0,-64.0,0.0,3.0
+AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2021-05-23,23.0,17.0,21.0,,-3.0,
 AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2020-02-15,10.0,13.0,,,4.0,
 AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2020-02-16,11.0,,,,,
 AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2020-02-17,2.0,,,,15.0,0.0
@@ -12791,6 +13513,9 @@ AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrR
 AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2021-05-18,15.0,26.0,,8.0,16.0,0.0
 AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2021-05-19,19.0,25.0,,,14.0,-1.0
 AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2021-05-20,15.0,23.0,,10.0,17.0,-1.0
+AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2021-05-21,16.0,26.0,,,17.0,2.0
+AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2021-05-22,18.0,25.0,,,20.0,
+AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2021-05-23,22.0,,-46.0,,6.0,
 AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2020-02-15,19.0,,-2.0,,-1.0,
 AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2020-02-16,10.0,,-1.0,,,
 AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2020-02-17,21.0,,-11.0,-1.0,14.0,
@@ -13227,6 +13952,9 @@ AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2
 AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2021-05-18,10.0,,-15.0,3.0,4.0,0.0
 AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2021-05-19,19.0,,-10.0,12.0,3.0,0.0
 AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2021-05-20,9.0,,-3.0,3.0,7.0,1.0
+AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2021-05-21,24.0,,14.0,,8.0,
+AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2021-05-22,20.0,,15.0,,-12.0,
+AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2021-05-23,12.0,,13.0,,-17.0,
 AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2020-02-15,5.0,6.0,-4.0,16.0,1.0,
 AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2020-02-16,7.0,4.0,-17.0,1.0,-1.0,
 AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2020-02-17,7.0,3.0,,20.0,14.0,-2.0
@@ -13682,6 +14410,9 @@ AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,20
 AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2021-05-18,18.0,26.0,,6.0,5.0,2.0
 AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2021-05-19,9.0,39.0,,3.0,6.0,2.0
 AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2021-05-20,15.0,46.0,,-8.0,2.0,1.0
+AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2021-05-21,20.0,44.0,,-13.0,7.0,1.0
+AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2021-05-22,15.0,49.0,-26.0,-22.0,3.0,3.0
+AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2021-05-23,8.0,41.0,-11.0,-31.0,-10.0,
 AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2020-02-15,-1.0,14.0,-26.0,12.0,2.0,0.0
 AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2020-02-16,-2.0,16.0,-17.0,1.0,-2.0,1.0
 AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2020-02-17,-3.0,14.0,-9.0,15.0,22.0,-1.0
@@ -14140,6 +14871,9 @@ AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2
 AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2021-05-18,7.0,15.0,-24.0,-17.0,5.0,1.0
 AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2021-05-19,8.0,13.0,-18.0,-14.0,4.0,1.0
 AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2021-05-20,6.0,6.0,-8.0,-9.0,6.0,1.0
+AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2021-05-21,10.0,13.0,-7.0,-9.0,7.0,0.0
+AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2021-05-22,7.0,8.0,-21.0,-19.0,-5.0,4.0
+AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2021-05-23,0.0,4.0,-47.0,-36.0,-16.0,5.0
 AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2020-02-15,6.0,18.0,5.0,20.0,0.0,0.0
 AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2020-02-16,5.0,14.0,13.0,-7.0,3.0,
 AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2020-02-17,1.0,18.0,21.0,34.0,18.0,-1.0
@@ -14598,6 +15332,9 @@ AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2
 AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2021-05-18,1.0,20.0,-13.0,8.0,10.0,3.0
 AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2021-05-19,4.0,22.0,-15.0,5.0,11.0,2.0
 AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2021-05-20,1.0,13.0,-2.0,4.0,11.0,2.0
+AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2021-05-21,10.0,23.0,-1.0,1.0,12.0,1.0
+AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2021-05-22,8.0,33.0,-9.0,-19.0,0.0,3.0
+AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2021-05-23,1.0,28.0,-2.0,-42.0,-7.0,5.0
 AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2020-02-15,30.0,,-4.0,,,
 AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2020-02-17,21.0,,,,,
 AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2020-02-18,29.0,,,,,
@@ -15010,6 +15747,9 @@ AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2
 AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2021-05-18,24.0,,,,7.0,
 AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2021-05-19,19.0,,,,4.0,
 AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2021-05-20,20.0,,-4.0,,5.0,
+AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2021-05-21,26.0,,,,10.0,
+AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2021-05-22,43.0,,,,,
+AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2021-05-23,,,-8.0,,,
 AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2020-02-15,23.0,5.0,7.0,41.0,,
 AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2020-02-16,13.0,5.0,17.0,14.0,,
 AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2020-02-17,-1.0,5.0,-1.0,15.0,8.0,0.0
@@ -15471,6 +16211,9 @@ AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2021
 AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2021-05-18,-16.0,10.0,-30.0,-4.0,-1.0,6.0
 AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2021-05-19,-14.0,9.0,-29.0,-8.0,2.0,5.0
 AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2021-05-20,-19.0,3.0,-28.0,-6.0,4.0,5.0
+AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2021-05-21,-15.0,8.0,-28.0,-3.0,3.0,5.0
+AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2021-05-22,-9.0,0.0,-34.0,-13.0,16.0,
+AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2021-05-23,-16.0,-3.0,-51.0,-25.0,9.0,
 AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2020-02-15,2.0,7.0,-11.0,15.0,1.0,0.0
 AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2020-02-16,5.0,19.0,-6.0,6.0,-5.0,1.0
 AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2020-02-17,-1.0,6.0,-12.0,11.0,16.0,-1.0
@@ -15932,6 +16675,9 @@ AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU
 AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2021-05-18,0.0,16.0,11.0,-13.0,3.0,1.0
 AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2021-05-19,-1.0,13.0,10.0,-11.0,3.0,1.0
 AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2021-05-20,-3.0,17.0,26.0,-18.0,2.0,1.0
+AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2021-05-21,3.0,19.0,22.0,-16.0,4.0,0.0
+AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2021-05-22,3.0,14.0,-28.0,-36.0,-9.0,3.0
+AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2021-05-23,-3.0,17.0,-48.0,-44.0,-17.0,5.0
 AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2020-02-15,5.0,12.0,1.0,1.0,10.0,
 AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2020-02-16,3.0,,9.0,,,
 AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2020-02-17,8.0,,1.0,1.0,15.0,-1.0
@@ -16387,6 +17133,9 @@ AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_J
 AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2021-05-18,11.0,,-25.0,-1.0,1.0,4.0
 AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2021-05-19,7.0,,-21.0,-7.0,0.0,4.0
 AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2021-05-20,13.0,,-6.0,-6.0,-1.0,3.0
+AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2021-05-21,15.0,,-13.0,,5.0,3.0
+AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2021-05-22,12.0,16.0,-38.0,-26.0,-9.0,
+AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2021-05-23,3.0,,-46.0,-43.0,-18.0,
 AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2020-02-15,1.0,10.0,-5.0,19.0,0.0,0.0
 AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2020-02-16,0.0,11.0,8.0,0.0,0.0,1.0
 AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2020-02-17,-4.0,10.0,-3.0,23.0,14.0,-1.0
@@ -16848,6 +17597,9 @@ AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2
 AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2021-05-18,4.0,13.0,-20.0,-14.0,-8.0,3.0
 AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2021-05-19,5.0,8.0,-12.0,-6.0,-6.0,3.0
 AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2021-05-20,1.0,8.0,-20.0,-14.0,-6.0,3.0
+AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2021-05-21,5.0,8.0,-3.0,-16.0,-11.0,3.0
+AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2021-05-22,3.0,11.0,-27.0,-29.0,-19.0,4.0
+AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2021-05-23,2.0,9.0,-24.0,-45.0,-21.0,6.0
 AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2020-02-15,13.0,,,10.0,,
 AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2020-02-16,6.0,,,,,
 AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2020-02-17,10.0,,,15.0,15.0,
@@ -17284,6 +18036,9 @@ AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,20
 AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2021-05-18,8.0,,,-9.0,3.0,
 AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2021-05-19,13.0,,,-14.0,-6.0,
 AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2021-05-20,12.0,,,-15.0,-1.0,
+AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2021-05-21,20.0,,,-9.0,4.0,
+AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2021-05-22,22.0,,,-21.0,,
+AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2021-05-23,1.0,,,,,
 AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2020-02-15,4.0,11.0,-1.0,7.0,2.0,0.0
 AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2020-02-16,6.0,18.0,25.0,-5.0,2.0,0.0
 AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2020-02-17,-4.0,8.0,1.0,4.0,18.0,-1.0
@@ -17745,6 +18500,9 @@ AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2021-
 AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2021-05-18,7.0,44.0,-21.0,-29.0,14.0,1.0
 AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2021-05-19,6.0,47.0,-28.0,-26.0,17.0,1.0
 AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2021-05-20,9.0,49.0,-19.0,-26.0,12.0,1.0
+AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2021-05-21,12.0,48.0,-16.0,-27.0,20.0,0.0
+AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2021-05-22,20.0,53.0,-29.0,-47.0,3.0,3.0
+AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2021-05-23,10.0,43.0,-35.0,-54.0,-1.0,4.0
 AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2020-02-15,45.0,14.0,-7.0,,7.0,
 AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2020-02-16,9.0,6.0,9.0,,,
 AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2020-02-17,0.0,4.0,-10.0,21.0,16.0,-2.0
@@ -18200,6 +18958,9 @@ AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,20
 AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2021-05-18,-12.0,30.0,-17.0,-20.0,-6.0,5.0
 AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2021-05-19,0.0,25.0,-17.0,-20.0,-6.0,4.0
 AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2021-05-20,-7.0,21.0,-4.0,-13.0,-7.0,4.0
+AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2021-05-21,33.0,20.0,5.0,4.0,-5.0,3.0
+AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2021-05-22,-5.0,33.0,-31.0,-22.0,-7.0,
+AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2021-05-23,15.0,24.0,-33.0,,-13.0,
 AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2020-02-15,0.0,-1.0,-3.0,0.0,0.0,0.0
 AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2020-02-16,6.0,10.0,-10.0,-11.0,2.0,1.0
 AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2020-02-17,1.0,-1.0,-7.0,3.0,17.0,-1.0
@@ -18661,6 +19422,9 @@ AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2
 AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2021-05-18,19.0,19.0,-32.0,-15.0,9.0,1.0
 AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2021-05-19,20.0,20.0,-36.0,-14.0,9.0,1.0
 AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2021-05-20,20.0,19.0,-23.0,-16.0,10.0,1.0
+AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2021-05-21,23.0,12.0,-33.0,-13.0,9.0,1.0
+AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2021-05-22,25.0,13.0,-51.0,-30.0,1.0,3.0
+AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2021-05-23,25.0,11.0,-61.0,-47.0,-4.0,4.0
 AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2020-02-15,,,1.0,,,
 AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2020-02-16,,,-2.0,,,
 AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2020-02-17,,,-10.0,,,
@@ -19097,6 +19861,9 @@ AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY
 AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2021-05-18,,,26.0,,20.0,
 AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2021-05-19,,,20.0,,9.0,
 AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2021-05-20,,,20.0,,17.0,
+AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2021-05-21,,,19.0,,25.0,
+AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2021-05-22,,,32.0,,,
+AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2021-05-23,,,23.0,,17.0,
 AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2020-02-15,0.0,,-32.0,,,
 AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2020-02-16,,,-27.0,,,
 AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2020-02-17,,,-21.0,,,
@@ -19533,6 +20300,9 @@ AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLy
 AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2021-05-18,,,-45.0,,8.0,
 AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2021-05-19,,,-47.0,,2.0,
 AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2021-05-20,,,-38.0,,9.0,
+AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2021-05-21,-18.0,,-58.0,,15.0,
+AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2021-05-22,-17.0,,-70.0,,-7.0,
+AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2021-05-23,,,-70.0,,,
 AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,2020-02-20,-4.0,,,,,
 AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,2020-03-02,,,,,-51.0,
 AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,2020-03-06,5.0,,,,,
@@ -19771,6 +20541,7 @@ AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,20
 AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,2021-05-18,,,,,23.0,
 AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,2021-05-19,,,,,20.0,
 AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,2021-05-20,,,,,26.0,
+AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,2021-05-21,,,,,27.0,
 AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2020-02-18,,,,,21.0,
 AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2020-02-19,,,,,24.0,
 AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2020-02-20,,,,,24.0,
@@ -20107,6 +20878,8 @@ AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,202
 AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2021-05-18,,,,,18.0,
 AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2021-05-19,,,,,22.0,
 AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2021-05-20,,,,,20.0,
+AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2021-05-21,,,,,20.0,
+AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2021-05-22,,,,,-1.0,
 AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2020-02-15,6.0,,,,,
 AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2020-02-21,4.0,,,,,
 AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2020-02-22,3.0,,,,,
@@ -20466,6 +21239,8 @@ AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,
 AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2021-05-18,,,,,6.0,
 AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2021-05-19,,,,,8.0,
 AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2021-05-20,-11.0,,,,7.0,
+AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2021-05-21,-2.0,,,,11.0,
+AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2021-05-22,6.0,,,,,
 AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2020-02-15,,,16.0,,,
 AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2020-02-16,,,15.0,,,
 AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2020-02-17,,,17.0,13.0,,
@@ -20902,6 +21677,9 @@ AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk
 AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2021-05-18,,,10.0,2.0,3.0,
 AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2021-05-19,,,11.0,25.0,5.0,
 AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2021-05-20,,,10.0,20.0,2.0,
+AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2021-05-21,,,31.0,34.0,11.0,
+AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2021-05-22,,,38.0,,7.0,
+AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2021-05-23,,,34.0,,12.0,
 AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2020-02-15,,,-6.0,,,
 AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2020-02-16,,,-22.0,,,
 AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2020-02-17,,,-30.0,,,
@@ -21305,6 +22083,9 @@ AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg
 AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2021-05-18,-19.0,,-36.0,,9.0,
 AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2021-05-19,,,-41.0,,22.0,
 AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2021-05-20,-11.0,,,,11.0,
+AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2021-05-21,-15.0,,-31.0,,13.0,
+AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2021-05-22,,,-14.0,,,
+AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2021-05-23,,,-51.0,,,
 AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2020-02-15,-3.0,,,,,
 AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2020-02-16,0.0,,,,,
 AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2020-02-17,3.0,,,,25.0,
@@ -21741,6 +22522,9 @@ AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,20
 AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2021-05-18,,,,,24.0,0.0
 AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2021-05-19,,,,,20.0,0.0
 AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2021-05-20,7.0,,,,21.0,-1.0
+AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2021-05-21,20.0,,,,25.0,0.0
+AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2021-05-22,20.0,,,,-7.0,
+AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2021-05-23,12.0,,,,-9.0,
 AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2020-02-15,5.0,-6.0,4.0,,,
 AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2020-02-16,9.0,,27.0,,,
 AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2020-02-17,14.0,-3.0,,,23.0,-2.0
@@ -22196,6 +22980,9 @@ AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8
 AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2021-05-18,21.0,,,,10.0,1.0
 AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2021-05-19,19.0,-12.0,,,11.0,2.0
 AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2021-05-20,23.0,,,,6.0,3.0
+AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2021-05-21,26.0,-5.0,,,8.0,2.0
+AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2021-05-22,25.0,-3.0,-13.0,,-2.0,
+AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2021-05-23,,,-9.0,,-2.0,
 AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2020-02-15,-12.0,,-14.0,,,
 AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2020-02-19,,,,,14.0,
 AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2020-02-21,-9.0,,,,,
@@ -22562,6 +23349,9 @@ AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,20
 AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2021-05-18,,,,,12.0,
 AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2021-05-19,,,,,10.0,
 AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2021-05-20,,,,,12.0,
+AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2021-05-21,-4.0,,,,16.0,
+AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2021-05-22,-11.0,,-19.0,,10.0,
+AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2021-05-23,,,-47.0,,,
 AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2020-04-10,,,,,-77.0,
 AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2020-06-08,,,,,7.0,
 AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2020-06-09,,,,,5.0,
@@ -22793,6 +23583,7 @@ AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2
 AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2021-05-18,,,,,4.0,
 AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2021-05-19,,,,,4.0,
 AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2021-05-20,,,,,3.0,
+AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2021-05-21,,,,,3.0,
 AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2020-02-17,,,,,19.0,-2.0
 AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2020-02-18,,,,,14.0,-1.0
 AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2020-02-19,,,,,15.0,-2.0
@@ -23222,6 +24013,9 @@ AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0Mio
 AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2021-05-18,,,,,3.0,1.0
 AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2021-05-19,,,,,6.0,1.0
 AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2021-05-20,,,,,5.0,0.0
+AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2021-05-21,,,,,5.0,1.0
+AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2021-05-22,,,,,-10.0,
+AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2021-05-23,,,,,-13.0,
 AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2020-02-17,,,,23.0,22.0,
 AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2020-02-18,,,,28.0,18.0,
 AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2020-02-19,,,,30.0,12.0,
@@ -23587,6 +24381,8 @@ AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk
 AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2021-05-18,,,,5.0,-2.0,
 AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2021-05-19,,,,12.0,-1.0,
 AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2021-05-20,,,,-1.0,-1.0,
+AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2021-05-21,,,,16.0,4.0,
+AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2021-05-22,,,,,-8.0,
 AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2020-02-15,6.0,,-3.0,,,
 AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2020-02-16,-1.0,,-6.0,,,
 AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2020-02-17,5.0,,-11.0,20.0,14.0,
@@ -24023,6 +24819,9 @@ AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,
 AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2021-05-18,6.0,,-36.0,-2.0,5.0,
 AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2021-05-19,6.0,,-36.0,-1.0,1.0,3.0
 AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2021-05-20,11.0,,-16.0,-7.0,-3.0,2.0
+AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2021-05-21,21.0,,-25.0,-10.0,5.0,
+AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2021-05-22,6.0,,-21.0,-17.0,-6.0,
+AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2021-05-23,-2.0,,-49.0,,,
 AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,2020-02-15,4.0,,,,,
 AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,2020-02-18,13.0,,,,,
 AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,2020-02-19,23.0,,,,,
@@ -24308,6 +25107,7 @@ AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,
 AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,2021-05-18,4.0,,,,,
 AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,2021-05-19,1.0,,,,1.0,
 AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,2021-05-20,-7.0,,,,,
+AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,2021-05-22,9.0,,,,,
 AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2020-02-15,,,-32.0,,,
 AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2020-02-16,,,-32.0,,,
 AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2020-02-17,,,-15.0,,,
@@ -24708,6 +25508,9 @@ AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,
 AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2021-05-18,,,-79.0,,,
 AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2021-05-19,,,-71.0,,,
 AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2021-05-20,,,-66.0,,,
+AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2021-05-21,,,-56.0,,,
+AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2021-05-22,,,-80.0,,,
+AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2021-05-23,,,-88.0,,,
 AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2020-02-17,,,,16.0,11.0,
 AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2020-02-18,,,,-7.0,12.0,
 AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2020-02-19,,,,0.0,8.0,
@@ -25110,6 +25913,9 @@ AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBX
 AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2021-05-18,,,,-6.0,15.0,
 AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2021-05-19,,,,-5.0,12.0,
 AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2021-05-20,,,,-4.0,9.0,
+AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2021-05-21,,,,,14.0,
+AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2021-05-22,,,,,2.0,
+AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2021-05-23,,,,,-2.0,
 AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2020-02-15,67.0,12.0,14.0,44.0,-1.0,
 AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2020-02-16,8.0,21.0,23.0,0.0,-3.0,
 AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2020-02-17,8.0,14.0,13.0,23.0,7.0,-1.0
@@ -25565,3 +26371,6 @@ AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p
 AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2021-05-18,18.0,23.0,36.0,-4.0,-2.0,4.0
 AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2021-05-19,20.0,8.0,10.0,8.0,-1.0,3.0
 AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2021-05-20,22.0,12.0,11.0,-2.0,-1.0,3.0
+AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2021-05-21,23.0,13.0,-9.0,1.0,1.0,3.0
+AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2021-05-22,82.0,12.0,17.0,27.0,1.0,
+AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2021-05-23,19.0,18.0,-18.0,-27.0,-1.0,

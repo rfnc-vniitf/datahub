@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Эпидемиолог заявил о сезонности вакцинации от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "Эпидемиолог заявил о сезонности вакцинации от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/05/27/871538-ezhegodnoi-vaktsinatsii-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/43/k1qrt/normal-pze.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/05/27/871538-ezhegodnoi-vaktsinatsii-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/05/27/871538-ezhegodnoi-vaktsinatsii-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/05/27/871538-ezhegodnoi-vaktsinatsii-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 09:12:15 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            6,
+            12,
+            15,
+            3,
+            147,
+            0
+        ]
+    }
+]

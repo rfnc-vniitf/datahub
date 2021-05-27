@@ -139,6 +139,10 @@
 21.05.2021 | 6 | 0 
 22.05.2021 | 6 | 0 
 23.05.2021 | 8 | 0 
+24.05.2021 | 9 | 1 
+25.05.2021 | 8 | 0 
+26.05.2021 | 8 | 0 
+27.05.2021 | 3 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Пошли в грузчики: на фоне пандемии зарплаты синих воротничков в России выросли на 35%](http://www.forbes.ru/biznes/429417-poshli-v-gruzchiki-na-fone-pandemii-zarplaty-sinih-vorotnichkov-v-rossii-vyrosli-na-35)
++ [Новая волна проверок: как бизнесу защититься от штрафов за нарушения антиковидных мер](http://www.forbes.ru/karera-i-svoy-biznes/429951-novaya-volna-proverok-kak-biznesu-zashchititsya-ot-shtrafov-za)

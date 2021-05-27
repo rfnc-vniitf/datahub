@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/world/2021/05/27/1903627.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/05/27/1903627.html",
+        "title": "Facebook решил не удалять посты о лабораторном происхождении коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Facebook решил не удалять посты о лабораторном происхождении коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/05/27/1903627.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/b/a/8/5/cFnNzQTt-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Социальная сеть Facebook не станет удалять посты о лабораторном происхождении COVID-19, по всяком случае, пока продолжается расследование этого вопроса....",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Социальная сеть Facebook не станет удалять посты о лабораторном происхождении COVID-19, по всяком случае, пока продолжается расследование этого вопроса...."
+        },
+        "published": "Thu, 27 May 2021 08:50:43 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            5,
+            50,
+            43,
+            3,
+            147,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/05/27/1903619.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/05/27/1903619.html",
+        "title": "Китай призвал «не политизировать» происхождение коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Китай призвал «не политизировать» происхождение коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/05/27/1903619.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/7/e/a/1/vmzb3Kq2-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Происхождение коронавируса является «чисто научным вопросом», а попытки его «политизирования» затрудняют борьбу с пандемией, заявило посольство Китая в...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Происхождение коронавируса является «чисто научным вопросом», а попытки его «политизирования» затрудняют борьбу с пандемией, заявило посольство Китая в..."
+        },
+        "published": "Thu, 27 May 2021 06:59:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            3,
+            59,
+            0,
+            3,
+            147,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

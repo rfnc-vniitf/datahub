@@ -1,0 +1,134 @@
+[
+    {
+        "title": "В США одобрено экспериментальное лекарство от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "В США одобрено экспериментальное лекарство от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vesti.ru/article/2567195"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn-st1.rtr-vesti.ru/vh/pictures/b/317/318/7.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vesti.ru/article/2567195",
+        "published": "Thu, 27 May 2021 07:24:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            4,
+            24,
+            0,
+            3,
+            147,
+            0
+        ],
+        "summary": "США одобрили применение экспериментального препарата Sotrovimab для лечения коронавируса. Тем временем в Бразилии ситуация с вирусом усложняется.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "США одобрили применение экспериментального препарата Sotrovimab для лечения коронавируса. Тем временем в Бразилии ситуация с вирусом усложняется."
+        },
+        "yandex_full-text": "Более 80 тысяч человек заболели коронавирусом COVID-19 за прошедшие сутки в Бразилии. Число случаев уже более 16 миллионов 270 тысяч. Страна находится на третьем месте во всем мире после Штатов и Индии.\r\n\r\nТелеканал \"Россия 24\" показывает видео палаточного городка, который организовали лишившиеся из-за пандемии рабочих мест бразильцы. Тысячи человек не могут позволить себе аренду жилья, оплачивать коммунальные услуги.\r\n\r\nТем временем Штаты одобрили экстренное использование экспериментального лекарства от ковида. Препарат Sotrovimab будут применять для детей старше 12 лет и с массой тела менее 40 килограммов, у которых легкая и средняя степени тяжести течения болезни. Пациентам, которые нуждаются в кислородной терапии, это лекарство давать нельзя.",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "amplink": "https://www.vesti.ru/amp/article/2567195",
+        "media_content": [
+            {
+                "url": "https://player.vgtrk.com/go/video2/2302148",
+                "type": "video/mp4"
+            }
+        ],
+        "media_thumbnail": [
+            {
+                "url": "https://player.vgtrk.com/go/poster/xw/2302148"
+            }
+        ],
+        "href": ""
+    },
+    {
+        "title": "Новости на \"России 24\". В США одобрено экспериментальное лекарство от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "Новости на \"России 24\". В США одобрено экспериментальное лекарство от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vesti.ru/video/2302148"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn-st1.rtr-vesti.ru/vh/pictures/b/317/320/2.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vesti.ru/video/2302148",
+        "published": "Thu, 27 May 2021 06:07:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            3,
+            7,
+            0,
+            3,
+            147,
+            0
+        ],
+        "summary": "США одобрили применение экспериментального препарата Sotrovimab для лечения коронавируса. Тем временем в Бразилии ситуация с вирусом усложняется.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "США одобрили применение экспериментального препарата Sotrovimab для лечения коронавируса. Тем временем в Бразилии ситуация с вирусом усложняется."
+        },
+        "yandex_full-text": "США одобрили применение экспериментального препарата Sotrovimab для лечения коронавируса. Тем временем в Бразилии ситуация с вирусом усложняется.",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "amplink": "https://www.vesti.ru/amp/video/2302148",
+        "media_content": [
+            {
+                "url": "https://player.vgtrk.com/go/video2/2302148",
+                "type": "video/mp4"
+            }
+        ],
+        "media_thumbnail": [
+            {
+                "url": "https://player.vgtrk.com/go/poster/xw/2302148"
+            }
+        ],
+        "href": ""
+    }
+]

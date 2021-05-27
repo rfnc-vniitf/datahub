@@ -157,9 +157,12 @@
 21.05.2021 | 50 | 4 
 22.05.2021 | 50 | 3 
 23.05.2021 | 50 | 3 
-24.05.2021 | 1 | 0 
+24.05.2021 | 50 | 3 
+25.05.2021 | 50 | 1 
+26.05.2021 | 50 | 4 
+27.05.2021 | 45 | 3 
 
 > ### Последние новости по теме covid-19:
-+ [За сутки в Румынии выявили более 300 случаев коронавируса](https://russian.rt.com/world/news/864986-rumyniya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [«Справились лучше, чем другие мировые города»: Собянин оценил успехи Москвы в борьбе с коронавирусом](https://russian.rt.com/russia/article/864938-koronavirus-rossiya-vakcinaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Число случаев коронавируса в Белоруссии превысило 386 тысяч](https://russian.rt.com/ussr/news/864975-belorussiya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В России за сутки проведено более 330 тысяч тестов на коронавирус](https://russian.rt.com/russia/news/866421-rossiya-testy-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Число жертв коронавируса на Украине превысило 50 тысяч](https://russian.rt.com/ussr/news/866394-sluchai-koronavirus-ukraina?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Индии за сутки выявили более 211 тысяч случаев коронавируса](https://russian.rt.com/world/news/866388-indiya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

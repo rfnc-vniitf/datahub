@@ -156,7 +156,12 @@
 21.05.2021 | 25 | 0 
 22.05.2021 | 8 | 1 
 23.05.2021 | 8 | 2 
+24.05.2021 | 23 | 2 
+25.05.2021 | 22 | 3 
+26.05.2021 | 21 | 0 
+27.05.2021 | 7 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [В России число заболевших коронавирусом превысило 5 млн человек](http://expert.ru/2021/05/23/koronavirus-covid-19-v-rossii/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/23/koronavirus-covid-19-v-rossii/)
-+ [Гинцбург оценил последствия постковидного синдрома у привитых от COVID-19](http://expert.ru/2021/05/23/gintsburg-otsenil-posledstviya-postkovidnogo-sindroma-u-privitykh-ot-covid-19/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/23/gintsburg-otsenil-posledstviya-postkovidnogo-sindroma-u-privitykh-ot-covid-19/)
++ [Якутия сделала обязательной вакцинацию против коронавируса](http://expert.ru/2021/05/25/yakutiya-sdelala-obyazatelnoy-vaktsinatsiyu-protiv-koronavirusa/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/25/yakutiya-sdelala-obyazatelnoy-vaktsinatsiyu-protiv-koronavirusa/)
++ [В России выявили 7,8 тыс. случаев заражения коронавирусом](http://expert.ru/2021/05/25/v-rossii-za-sutki-vyyavleno-novykh-sluchayev-covid/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/25/v-rossii-za-sutki-vyyavleno-novykh-sluchayev-covid/)
++ [Цена на нефть растет на новостях об ослаблении пандемии](http://expert.ru/2021/05/25/neft/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/25/neft/)

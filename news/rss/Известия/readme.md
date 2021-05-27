@@ -157,8 +157,11 @@
 21.05.2021 | 50 | 2 
 22.05.2021 | 50 | 1 
 23.05.2021 | 50 | 2 
-24.05.2021 | 1 | 0 
+24.05.2021 | 50 | 2 
+25.05.2021 | 50 | 1 
+26.05.2021 | 50 | 0 
+27.05.2021 | 50 | 2 
 
 > ### Последние новости по теме covid-19:
-+ [Собянин заявил о достойной борьбе с пандемией COVID-19 в Москве](https://iz.ru/1167857/2021-05-23/sobianin-zaiavil-o-dostoinoi-borbe-s-pandemiei-covid-19-v-moskve)
-+ [Экономисты подсчитали убытки Германии из-за пандемии](https://iz.ru/1167827/2021-05-23/ekonomisty-podschitali-ubytki-germanii-iz-za-pandemii)
++ [Эпидемиолог допустил ежегодное обновление вакцин от коронавируса](https://iz.ru/1169951/2021-05-27/epidemiolog-dopustil-ezhegodnoe-obnovlenie-vaktcin-ot-koronavirusa)
++ [Эпидемиолог заявил о выявлении в России новых версий коронавируса](https://iz.ru/1169949/2021-05-27/epidemiolog-zaiavil-o-vyiavlenii-v-rossii-novykh-versii-koronavirusa)
