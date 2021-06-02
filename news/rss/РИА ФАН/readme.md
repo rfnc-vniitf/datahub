@@ -161,6 +161,12 @@
 25.05.2021 | 20 | 1 
 26.05.2021 | 20 | 1 
 27.05.2021 | 20 | 0 
+28.05.2021 | 20 | 0 
+29.05.2021 | 20 | 1 
+30.05.2021 | 20 | 1 
+31.05.2021 | 20 | 0 
+01.06.2021 | 20 | 1 
+02.06.2021 | 3 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Юлию Галямину оштрафовали за нарушение коронавирусных ограничений на «Земском съезде»](https://riafan.ru/1452948-yuliyu-galyaminu-oshtrafovali-za-narushenie-koronavirusnyh-ogranichenii-na-zemskom-sezde)
++ [Компания EY назвала успешными действия Москвы во время пандемии](https://riafan.ru/1457309-kompaniya-ey-nazvala-uspeshnymi-deistviya-moskvy-vo-vremya-pandemii)

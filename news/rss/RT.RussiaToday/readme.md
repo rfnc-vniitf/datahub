@@ -160,9 +160,17 @@
 24.05.2021 | 50 | 3 
 25.05.2021 | 50 | 1 
 26.05.2021 | 50 | 4 
-27.05.2021 | 45 | 3 
+27.05.2021 | 50 | 5 
+28.05.2021 | 50 | 1 
+29.05.2021 | 50 | 5 
+30.05.2021 | 50 | 2 
+31.05.2021 | 50 | 4 
+01.06.2021 | 50 | 5 
+02.06.2021 | 1 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [В России за сутки проведено более 330 тысяч тестов на коронавирус](https://russian.rt.com/russia/news/866421-rossiya-testy-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Число жертв коронавируса на Украине превысило 50 тысяч](https://russian.rt.com/ussr/news/866394-sluchai-koronavirus-ukraina?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Индии за сутки выявили более 211 тысяч случаев коронавируса](https://russian.rt.com/world/news/866388-indiya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Кировской области медики выявили 51 случай коронавируса за сутки](https://russian.rt.com/russia/news/868267-kirovskaya-oblast-koronavirus-za-sutki?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Более 117 тысяч жителей Удмуртии прошли вакцинацию от коронавируса](https://russian.rt.com/russia/news/868257-udmurtiya-vakcinaciya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Омской области рассказали об уровне заболеваемости коронавирусом среди медиков](https://russian.rt.com/russia/news/868262-omskaya-oblast-covid-19-mediki?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Петербурге тесты на COVID-19 сдали более 9 млн человек с начала пандемии](https://russian.rt.com/russia/news/868212-peterburg-pandemiya-test?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [На Ставрополье оценили ситуацию с коронавирусом](https://russian.rt.com/russia/news/868209-stavropole-koronavirus-gubernator?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

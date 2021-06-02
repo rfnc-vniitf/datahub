@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/piter/2021/05/28/1903874.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/piter/2021/05/28/1903874.html",
+        "title": "В Петербурге за сутки коронавирусом заразились 840 человек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В Петербурге за сутки коронавирусом заразились 840 человек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/piter/2021/05/28/1903874.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/d3/3e/b5/1c/H2ndjcTXZqLD-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Тридцать три пациента скончались.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Тридцать три пациента скончались."
+        },
+        "published": "Fri, 28 May 2021 12:28:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            28,
+            9,
+            28,
+            0,
+            4,
+            148,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/05/28/1903867.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/05/28/1903867.html",
+        "title": "В России снова более 9 тысяч заболевших ковидом за сутки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России снова более 9 тысяч заболевших ковидом за сутки"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/05/28/1903867.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/dd/13/ca/63/PTvHXFmqhBY8-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Суточное количество заболевших коронавирусом в России составило 9 тыс. 252 человека.  В Москве было зафиксировано 3 тыс. 274 случая заболевания, в Санкт-Петербурге —...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Суточное количество заболевших коронавирусом в России составило 9 тыс. 252 человека.  В Москве было зафиксировано 3 тыс. 274 случая заболевания, в Санкт-Петербурге —..."
+        },
+        "published": "Fri, 28 May 2021 11:42:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            28,
+            8,
+            42,
+            0,
+            4,
+            148,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

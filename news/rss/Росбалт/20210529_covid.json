@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/world/2021/05/29/1904025.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/05/29/1904025.html",
+        "title": "Вьетнаму начал угрожать ковид-гибрид",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Вьетнаму начал угрожать ковид-гибрид"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/05/29/1904025.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/f/0/7/7/fr8B93cw-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Врачи предупредили о повышенной заразности штамма.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Врачи предупредили о повышенной заразности штамма."
+        },
+        "published": "Sat, 29 May 2021 12:02:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            29,
+            9,
+            2,
+            0,
+            5,
+            149,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/05/29/1904023.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/05/29/1904023.html",
+        "title": "В России за день жертвами пандемии стали более 400 человек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "В России за день жертвами пандемии стали более 400 человек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/05/29/1904023.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/b2/ce/67/a8/8NMdfR7jhBmD-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "100 случаев смерти, то есть четвертая часть, приходится на Москву и Петербург.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "100 случаев смерти, то есть четвертая часть, приходится на Москву и Петербург."
+        },
+        "published": "Sat, 29 May 2021 11:11:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            29,
+            8,
+            11,
+            0,
+            5,
+            149,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

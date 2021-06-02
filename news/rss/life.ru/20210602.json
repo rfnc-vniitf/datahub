@@ -1,0 +1,96 @@
+[
+    {
+        "title": "ВОЗ дала первые рекомендации из-за случая заражения человека вирусом H10N3",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "ВОЗ дала первые рекомендации из-за случая заражения человека вирусом H10N3"
+        },
+        "summary": "<a href=\"https://life.ru/p/1400689\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "<a href=\"https://life.ru/p/1400689\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400689"
+            }
+        ],
+        "link": "https://life.ru/p/1400689",
+        "id": "https://life.ru/p/1400689",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 00:05:28 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            0,
+            5,
+            28,
+            2,
+            153,
+            0
+        ]
+    },
+    {
+        "title": "\"Код памяти\": В России запущен аналог \"Википедии\" для сбора информации об усопших",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "\"Код памяти\": В России запущен аналог \"Википедии\" для сбора информации об усопших"
+        },
+        "summary": "Родные смогут делиться фото, видео, записями голосов членов семьи, которые уже покинули этот мир.<a href=\"https://life.ru/p/1400677\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Родные смогут делиться фото, видео, записями голосов членов семьи, которые уже покинули этот мир.<a href=\"https://life.ru/p/1400677\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400677"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/5/1/1454993056618.6355.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400677",
+        "id": "https://life.ru/p/1400677",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 00:00:00 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            0,
+            0,
+            0,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "википедия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "стартапы",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

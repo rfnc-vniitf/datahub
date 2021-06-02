@@ -1,0 +1,155 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/05/30/1904071.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/05/30/1904071.html",
+        "title": "Еще 355 россиян умерли от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Еще 355 россиян умерли от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/05/30/1904071.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/4/b/f/9/kpBTcjPY-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "По стране за сутки подтвердили инфекцию у 9 тыс. 694 человек, больше всего — в столице и Петербурге.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "По стране за сутки подтвердили инфекцию у 9 тыс. 694 человек, больше всего — в столице и Петербурге."
+        },
+        "published": "Sun, 30 May 2021 11:12:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            30,
+            8,
+            12,
+            0,
+            6,
+            150,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/moscow/2021/05/30/1904070.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/moscow/2021/05/30/1904070.html",
+        "title": "«Отсиживались на дачах и дома, а после майских побежали по врачам»: Собянин объяснил всплеск госпитализаций с коронавирусом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "«Отсиживались на дачах и дома, а после майских побежали по врачам»: Собянин объяснил всплеск госпитализаций с коронавирусом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/moscow/2021/05/30/1904070.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/5/0/6/0/9TD6Fv7K-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Мэр Москвы напомнил о традиционном сезоне простуд на рубеже весенних месяцев.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Мэр Москвы напомнил о традиционном сезоне простуд на рубеже весенних месяцев."
+        },
+        "published": "Sun, 30 May 2021 10:59:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            30,
+            7,
+            59,
+            0,
+            6,
+            150,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/world/2021/05/30/1904068.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/05/30/1904068.html",
+        "title": "Times: Британская разведка сочла правдоподобной версию об утечке коронавируса из лаборатории",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Times: Британская разведка сочла правдоподобной версию об утечке коронавируса из лаборатории"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/05/30/1904068.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/e/e/2/2/WmcVJMKr-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Это предположение расходится с официальным донесением миссии ВОЗ о происхождении источника пандемии.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Это предположение расходится с официальным донесением миссии ВОЗ о происхождении источника пандемии."
+        },
+        "published": "Sun, 30 May 2021 10:47:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            30,
+            7,
+            47,
+            0,
+            6,
+            150,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

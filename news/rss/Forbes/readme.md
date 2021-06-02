@@ -142,7 +142,12 @@
 24.05.2021 | 9 | 1 
 25.05.2021 | 8 | 0 
 26.05.2021 | 8 | 0 
-27.05.2021 | 3 | 0 
+27.05.2021 | 10 | 0 
+28.05.2021 | 10 | 1 
+29.05.2021 | 6 | 0 
+30.05.2021 | 4 | 0 
+31.05.2021 | 8 | 0 
+01.06.2021 | 9 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Новая волна проверок: как бизнесу защититься от штрафов за нарушения антиковидных мер](http://www.forbes.ru/karera-i-svoy-biznes/429951-novaya-volna-proverok-kak-biznesu-zashchititsya-ot-shtrafov-za)
++ [«Паспорт — остатки крепостного права»: Дмитрий Волков о том, как пандемия изменила жизнь цифровых кочевников](http://www.forbes.ru/forbeslife/430687-pasport-ostatki-krepostnogo-prava-dmitriy-volkov-o-tom-kak-pandemiya-izmenila)

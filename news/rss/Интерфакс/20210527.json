@@ -1,206 +1,161 @@
 [
     {
-        "title": "Москва разместит выпуск \"зеленых\" облигаций по ставке 7,38%",
+        "title": "Москва разместила выпуск \"зеленых\" облигаций на 70 млрд руб. в полном объеме",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.interfax.ru/rss.asp",
-            "value": "Москва разместит выпуск \"зеленых\" облигаций по ставке 7,38%"
+            "value": "Москва разместила выпуск \"зеленых\" облигаций на 70 млрд руб. в полном объеме"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.interfax.ru/moscow/769076"
+                "href": "https://www.interfax.ru/business/769187"
             }
         ],
-        "link": "https://www.interfax.ru/moscow/769076",
-        "summary": "Правительство Москвы установило ставку 1-го купона \"зеленого\" выпуска облигаций города 74-й серии объемом до 70 млрд рублей в размере 7,38% годовых.",
+        "link": "https://www.interfax.ru/business/769187",
+        "summary": "Москва разместила выпуск \"зеленых\" облигаций на 70 млрд рублей в полном объеме, следует из данных торгов на сайте Московской биржи.",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://www.interfax.ru/rss.asp",
-            "value": "Правительство Москвы установило ставку 1-го купона \"зеленого\" выпуска облигаций города 74-й серии объемом до 70 млрд рублей в размере 7,38% годовых."
+            "value": "Москва разместила выпуск \"зеленых\" облигаций на 70 млрд рублей в полном объеме, следует из данных торгов на сайте Московской биржи."
         },
         "tags": [
             {
-                "term": "Москва",
+                "term": "Экономика",
                 "scheme": null,
                 "label": null
             }
         ],
-        "published": "Thu, 27 May 2021 09:45:00 +0300",
+        "published": "Thu, 27 May 2021 16:52:00 +0300",
         "published_parsed": [
             2021,
             5,
             27,
-            6,
+            13,
+            52,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/business/769187",
+        "guidislink": false
+    },
+    {
+        "title": "Экс-замглавы нижегородского УФСИН осужден условно за сбор денег с подчиненных",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Экс-замглавы нижегородского УФСИН осужден условно за сбор денег с подчиненных"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769185"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769185",
+        "summary": "Суд вынес приговор бывшему высокопоставленному сотруднику ГУФСИН по Нижегородской области, который требовал деньги от руководителей нескольких исправительных учреждений.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Суд вынес приговор бывшему высокопоставленному сотруднику ГУФСИН по Нижегородской области, который требовал деньги от руководителей нескольких исправительных учреждений."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 16:49:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            13,
+            49,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769185",
+        "guidislink": false
+    },
+    {
+        "title": "В Берлине заложили общий храм для христиан, иудеев и мусульман",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В Берлине заложили общий храм для христиан, иудеев и мусульман"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/769186"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/769186",
+        "summary": "В Берлине в четверг заложили церковь House of One, которая будет служить местом религиозных встреч для представителей сразу трех религий - христианства, иудаизма и ислама, сообщает телерадиокомпания Rbb.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В Берлине в четверг заложили церковь House of One, которая будет служить местом религиозных встреч для представителей сразу трех религий - христианства, иудаизма и ислама, сообщает телерадиокомпания Rbb."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 16:45:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            13,
             45,
             0,
             3,
             147,
             0
         ],
-        "id": "https://www.interfax.ru/moscow/769076",
+        "id": "https://www.interfax.ru/world/769186",
         "guidislink": false
     },
     {
-        "title": "Главархив Москвы показал проекты 8-й сталинской высотки и пантеона",
+        "title": "Мэр Оренбурга после обысков заявил, что ему не предъявлены обвинения",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.interfax.ru/rss.asp",
-            "value": "Главархив Москвы показал проекты 8-й сталинской высотки и пантеона"
+            "value": "Мэр Оренбурга после обысков заявил, что ему не предъявлены обвинения"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.interfax.ru/moscow/769074"
+                "href": "https://www.interfax.ru/russia/769184"
             }
         ],
-        "link": "https://www.interfax.ru/moscow/769074",
-        "summary": "Столичный Главархив и Государственная инспекция по контролю за использованием объектов недвижимости открыли доступ к документам о нереализованных архитектурных проектах времён СССР, сообщается на официальном сайте столичной мэрии.",
+        "link": "https://www.interfax.ru/russia/769184",
+        "summary": "Глава Оренбурга Владимир Ильиных заявил, что правоохранительные органы провели оперативные мероприятия в здании мэрии и его жилище, однако обвинений никому не предъявлено.",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://www.interfax.ru/rss.asp",
-            "value": "Столичный Главархив и Государственная инспекция по контролю за использованием объектов недвижимости открыли доступ к документам о нереализованных архитектурных проектах времён СССР, сообщается на официальном сайте столичной мэрии."
-        },
-        "tags": [
-            {
-                "term": "Москва",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 09:39:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            6,
-            39,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/moscow/769074",
-        "guidislink": false
-    },
-    {
-        "title": "\"Мегафон\" решил пересмотреть проект подводной линии связи Arctic Connect",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "\"Мегафон\" решил пересмотреть проект подводной линии связи Arctic Connect"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/business/769075"
-            }
-        ],
-        "link": "https://www.interfax.ru/business/769075",
-        "summary": "\"Мегафон\" решил пересмотреть проект строительства подводной волоконно-оптической линии связи (ВОЛС) в Арктике Arctic Connect, сообщили \"Интерфаксу\" в пресс-службе оператора.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "\"Мегафон\" решил пересмотреть проект строительства подводной волоконно-оптической линии связи (ВОЛС) в Арктике Arctic Connect, сообщили \"Интерфаксу\" в пресс-службе оператора."
-        },
-        "tags": [
-            {
-                "term": "Экономика",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 09:31:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            6,
-            31,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/business/769075",
-        "guidislink": false
-    },
-    {
-        "title": "Число случаев заражения COVID-19 в мире превысило 168 млн",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Число случаев заражения COVID-19 в мире превысило 168 млн"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769069"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769069",
-        "summary": "Число зарегистрированных случаев инфицирования COVID-19 в мире на утро четверга составило 168 197 107, сообщает американский университет Джонса Хопкинса.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Число зарегистрированных случаев инфицирования COVID-19 в мире на утро четверга составило 168 197 107, сообщает американский университет Джонса Хопкинса."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 09:23:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            6,
-            23,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769069",
-        "guidislink": false
-    },
-    {
-        "title": "Силовики пришли с обысками в дом мэра Оренбурга Владимира Ильиных",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Силовики пришли с обысками в дом мэра Оренбурга Владимира Ильиных"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/russia/769073"
-            }
-        ],
-        "link": "https://www.interfax.ru/russia/769073",
-        "summary": "Сотрудники правоохранительных органов в четверг проводят оперативные мероприятия в доме главы Оренбурга Владимира Ильиных.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Сотрудники правоохранительных органов в четверг проводят оперативные мероприятия в доме главы Оренбурга Владимира Ильиных."
+            "value": "Глава Оренбурга Владимир Ильиных заявил, что правоохранительные органы провели оперативные мероприятия в здании мэрии и его жилище, однако обвинений никому не предъявлено."
         },
         "tags": [
             {
@@ -209,853 +164,43 @@
                 "label": null
             }
         ],
-        "published": "Thu, 27 May 2021 09:15:00 +0300",
+        "published": "Thu, 27 May 2021 16:41:00 +0300",
         "published_parsed": [
             2021,
             5,
             27,
-            6,
-            15,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/russia/769073",
-        "guidislink": false
-    },
-    {
-        "title": "Борт МЧС доставил из сектора Газа в Москву более 60 человек",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Борт МЧС доставил из сектора Газа в Москву более 60 человек"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769072"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769072",
-        "summary": "Авиация МЧС России вывезла из сектора Газа в РФ несколько десятков соотечественников, сообщили журналистам в пресс-службе МЧС.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Авиация МЧС России вывезла из сектора Газа в РФ несколько десятков соотечественников, сообщили журналистам в пресс-службе МЧС."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 09:05:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            6,
-            5,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769072",
-        "guidislink": false
-    },
-    {
-        "title": "Мэр Иркутска призвал уменьшить сбросы воды через ГЭС из-за риска подтопления города",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Мэр Иркутска призвал уменьшить сбросы воды через ГЭС из-за риска подтопления города"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/russia/769066"
-            }
-        ],
-        "link": "https://www.interfax.ru/russia/769066",
-        "summary": "Мэр Иркутска Руслан Болотов обратился к председателю правительства Иркутской области по поводу ситуации со сбросами воды через ГЭС, которые сейчас увеличены, сообщила в четверг пресс-служба администрации города.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Мэр Иркутска Руслан Болотов обратился к председателю правительства Иркутской области по поводу ситуации со сбросами воды через ГЭС, которые сейчас увеличены, сообщила в четверг пресс-служба администрации города."
-        },
-        "tags": [
-            {
-                "term": "В России",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 08:56:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            5,
-            56,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/russia/769066",
-        "guidislink": false
-    },
-    {
-        "title": "Армения заявила, что плененные Азербайджаном военные вели инженерные работы на своей территории",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Армения заявила, что плененные Азербайджаном военные вели инженерные работы на своей территории"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769071"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769071",
-        "summary": "Военнослужащие ВС Армении взяты в плен азербайджанской стороной во время проведения инженерных работ на своей территории, сообщает Минобороны Армении.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Военнослужащие ВС Армении взяты в плен азербайджанской стороной во время проведения инженерных работ на своей территории, сообщает Минобороны Армении."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 08:48:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            5,
-            48,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769071",
-        "guidislink": false
-    },
-    {
-        "title": "Госдеп США посоветовал американцам не посещать Белоруссию",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Госдеп США посоветовал американцам не посещать Белоруссию"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769070"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769070",
-        "summary": "Госдеп США в среду в обновленной версии рекомендаций, касающихся Белоруссии, посоветовал соотечественникам не ездить в эту страну или же при планировании поездок помнить о недавнем инциденте с самолетом Ryanair в Минске.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Госдеп США в среду в обновленной версии рекомендаций, касающихся Белоруссии, посоветовал соотечественникам не ездить в эту страну или же при планировании поездок помнить о недавнем инциденте с самолетом Ryanair в Минске."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 08:42:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            5,
-            42,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769070",
-        "guidislink": false
-    },
-    {
-        "title": "Нефть Brent подешевела до $68,47 на фоне укрепления доллара",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Нефть Brent подешевела до $68,47 на фоне укрепления доллара"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/business/769068"
-            }
-        ],
-        "link": "https://www.interfax.ru/business/769068",
-        "summary": "Цены на нефть эталонных марок снижаются в ходе торгов в четверг.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Цены на нефть эталонных марок снижаются в ходе торгов в четверг."
-        },
-        "tags": [
-            {
-                "term": "Экономика",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 08:34:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            5,
-            34,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/business/769068",
-        "guidislink": false
-    },
-    {
-        "title": "Азербайджан заявил о попытке диверсии ВС Армении и пленении 6 армянских военных",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Азербайджан заявил о попытке диверсии ВС Армении и пленении 6 армянских военных"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769067"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769067",
-        "summary": "Министерство обороны Азербайджана сообщило о пресечении попытки разведывательно-диверсионной группы вооруженных сил Армении перейти границу двух стран, в результате чего обезврежены и взяты в плен шесть армянских военных.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Министерство обороны Азербайджана сообщило о пресечении попытки разведывательно-диверсионной группы вооруженных сил Армении перейти границу двух стран, в результате чего обезврежены и взяты в плен шесть армянских военных."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 08:28:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            5,
-            28,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769067",
-        "guidislink": false
-    },
-    {
-        "title": "Бывший мэр Бишкека задержан за мошенничество с землей",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Бывший мэр Бишкека задержан за мошенничество с землей"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769065"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769065",
-        "summary": "Бывший мэр Бишкека Азиз Суракматов задержан по подозрению в коррупции и незаконном обогащении, сообщил в четверг Государственный комитет национальной безопасности Киргизии.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Бывший мэр Бишкека Азиз Суракматов задержан по подозрению в коррупции и незаконном обогащении, сообщил в четверг Государственный комитет национальной безопасности Киргизии."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 08:19:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            5,
-            19,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769065",
-        "guidislink": false
-    },
-    {
-        "title": "Ущерб от паводков для дорог в Приамурье превысил 1,2 млрд рублей",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Ущерб от паводков для дорог в Приамурье превысил 1,2 млрд рублей"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/russia/769064"
-            }
-        ],
-        "link": "https://www.interfax.ru/russia/769064",
-        "summary": "Предварительная сумма ущерба от подтопления дорог из-за вышедших из берегов рек и дождевых паводков в Амурской области составила около 1,2 млрд рублей, сообщает региональный Минтранс.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Предварительная сумма ущерба от подтопления дорог из-за вышедших из берегов рек и дождевых паводков в Амурской области составила около 1,2 млрд рублей, сообщает региональный Минтранс."
-        },
-        "tags": [
-            {
-                "term": "В России",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 07:33:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            4,
-            33,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/russia/769064",
-        "guidislink": false
-    },
-    {
-        "title": "Что случилось этой ночью: четверг, 27 мая",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Что случилось этой ночью: четверг, 27 мая"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769057"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769057",
-        "summary": "Позиция Роскомнадзора по замедлению Google и Facebook, заявление Пентагона о том, что Россия не враг для США, реакция МИД ФРГ на признание в РФ нежелательными трех НПО из Германии",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Позиция Роскомнадзора по замедлению Google и Facebook, заявление Пентагона о том, что Россия не враг для США, реакция МИД ФРГ на признание в РФ нежелательными трех НПО из Германии"
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 07:30:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            4,
-            30,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769057",
-        "guidislink": false
-    },
-    {
-        "title": "Рубль незначительно снижается к доллару и евро вслед за нефтью",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Рубль незначительно снижается к доллару и евро вслед за нефтью"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/business/769063"
-            }
-        ],
-        "link": "https://www.interfax.ru/business/769063",
-        "summary": "Доллар США и евро незначительно растут на \"Московской бирже\" в четверг утром, рубль слабеет к бивалютной корзине вслед за наметившимся снижением цен на нефть эталонных марок.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Доллар США и евро незначительно растут на \"Московской бирже\" в четверг утром, рубль слабеет к бивалютной корзине вслед за наметившимся снижением цен на нефть эталонных марок."
-        },
-        "tags": [
-            {
-                "term": "Экономика",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 07:10:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            4,
-            10,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/business/769063",
-        "guidislink": false
-    },
-    {
-        "title": "В Южной Корее предположили, что Ким Чен Ын опасается COVID-19",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "В Южной Корее предположили, что Ким Чен Ын опасается COVID-19"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769062"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769062",
-        "summary": "Северокорейский лидер Ким Чен Ын, похоже, сократил свое участие в публичных мероприятиях из-за опасений, связанных с распространением COVID-19 по всему миру, сообщил агентству \"Ренхап\" представитель министерства по делам объединения двух Корей.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Северокорейский лидер Ким Чен Ын, похоже, сократил свое участие в публичных мероприятиях из-за опасений, связанных с распространением COVID-19 по всему миру, сообщил агентству \"Ренхап\" представитель министерства по делам объединения двух Корей."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 07:00:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            4,
-            0,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769062",
-        "guidislink": false
-    },
-    {
-        "title": "ИКАО проведет экстренную встречу из-за инцидента с самолетом Ryanair",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "ИКАО проведет экстренную встречу из-за инцидента с самолетом Ryanair"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769061"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769061",
-        "summary": "Международная организация гражданской авиации (ИКАО), входящая в ООН, как ожидается, в четверг проведет экстренную встречу в связи с инцидентом с посадкой самолета авиакомпании Ryanair в Белоруссии.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Международная организация гражданской авиации (ИКАО), входящая в ООН, как ожидается, в четверг проведет экстренную встречу в связи с инцидентом с посадкой самолета авиакомпании Ryanair в Белоруссии."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 06:56:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            3,
-            56,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769061",
-        "guidislink": false
-    },
-    {
-        "title": "Рынок акций США умеренно вырос на фоне ослабления инфляционных опасений",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Рынок акций США умеренно вырос на фоне ослабления инфляционных опасений"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/business/769060"
-            }
-        ],
-        "link": "https://www.interfax.ru/business/769060",
-        "summary": "Американские фондовые индексы продемонстрировали умеренный рост по итогам торгов в среду.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Американские фондовые индексы продемонстрировали умеренный рост по итогам торгов в среду."
-        },
-        "tags": [
-            {
-                "term": "Экономика",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 06:47:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            3,
-            47,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/business/769060",
-        "guidislink": false
-    },
-    {
-        "title": "Европейские фондовые индексы слабо изменились в среду",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Европейские фондовые индексы слабо изменились в среду"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/business/769059"
-            }
-        ],
-        "link": "https://www.interfax.ru/business/769059",
-        "summary": "Фондовые индексы стран Западной Европы продемонстрировали слабые и разнонаправленные изменения по итогам торгов в среду.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Фондовые индексы стран Западной Европы продемонстрировали слабые и разнонаправленные изменения по итогам торгов в среду."
-        },
-        "tags": [
-            {
-                "term": "Экономика",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 06:03:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            3,
-            3,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/business/769059",
-        "guidislink": false
-    },
-    {
-        "title": "Китай призвал США не политизировать происхождение COVID-19",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Китай призвал США не политизировать происхождение COVID-19"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769058"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769058",
-        "summary": "Посольство Китая в США предупредило, что возродившаяся в США кампания, призванная обвинить Китай в том, что он является основным источником распространения в мире коронавируса, только затруднит борьбу с пандемией.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Посольство Китая в США предупредило, что возродившаяся в США кампания, призванная обвинить Китай в том, что он является основным источником распространения в мире коронавируса, только затруднит борьбу с пандемией."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 05:42:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            2,
-            42,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769058",
-        "guidislink": false
-    },
-    {
-        "title": "Экс-директор Иннополиса возглавил Корпорацию развития Дальнего Востока и Арктики",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Экс-директор Иннополиса возглавил Корпорацию развития Дальнего Востока и Арктики"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/russia/769056"
-            }
-        ],
-        "link": "https://www.interfax.ru/russia/769056",
-        "summary": "Бывший генеральный директор особой экономической зоны \"Иннополис\" (Татарстан) Игорь Носов назначен исполняющим обязанности директора Корпорации развития Дальнего Востока и Арктики (КРДВ).",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Бывший генеральный директор особой экономической зоны \"Иннополис\" (Татарстан) Игорь Носов назначен исполняющим обязанности директора Корпорации развития Дальнего Востока и Арктики (КРДВ)."
-        },
-        "tags": [
-            {
-                "term": "В России",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 04:55:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            1,
-            55,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/russia/769056",
-        "guidislink": false
-    },
-    {
-        "title": "Регулятор США разрешил лечить COVID-19 препаратами еще двух компаний",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Регулятор США разрешил лечить COVID-19 препаратами еще двух компаний"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769055"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769055",
-        "summary": "Управление по санитарному надзору за качеством пищевых продуктов и медикаментов США (FDA) выдало разрешение на экстренное использование препарата с антителами к COVID-19, разработанного британской компанией GlaxoSmithKline и американской Vir Biotechnology.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Управление по санитарному надзору за качеством пищевых продуктов и медикаментов США (FDA) выдало разрешение на экстренное использование препарата с антителами к COVID-19, разработанного британской компанией GlaxoSmithKline и американской Vir Biotechnology."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 04:33:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            1,
-            33,
-            0,
-            3,
-            147,
-            0
-        ],
-        "id": "https://www.interfax.ru/world/769055",
-        "guidislink": false
-    },
-    {
-        "title": "Пентагон заявил, что США не называют Россию врагом",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Пентагон заявил, что США не называют Россию врагом"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.interfax.ru/world/769054"
-            }
-        ],
-        "link": "https://www.interfax.ru/world/769054",
-        "summary": "Пресс-секретарь Минобороны США Джон Кирби на брифинге для журналистов заявил, что в США Россию не называют \"врагом\".",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://www.interfax.ru/rss.asp",
-            "value": "Пресс-секретарь Минобороны США Джон Кирби на брифинге для журналистов заявил, что в США Россию не называют \"врагом\"."
-        },
-        "tags": [
-            {
-                "term": "В мире",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "published": "Thu, 27 May 2021 03:41:00 +0300",
-        "published_parsed": [
-            2021,
-            5,
-            27,
-            0,
+            13,
             41,
             0,
             3,
             147,
             0
         ],
-        "id": "https://www.interfax.ru/world/769054",
+        "id": "https://www.interfax.ru/russia/769184",
         "guidislink": false
     },
     {
-        "title": "Дума Владивостока приняла отставку мэра Гуменюка",
+        "title": "Google оштрафован на 3,5 млн рублей",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.interfax.ru/rss.asp",
-            "value": "Дума Владивостока приняла отставку мэра Гуменюка"
+            "value": "Google оштрафован на 3,5 млн рублей"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.interfax.ru/russia/769053"
+                "href": "https://www.interfax.ru/russia/769183"
             }
         ],
-        "link": "https://www.interfax.ru/russia/769053",
-        "summary": "Депутаты думы Владивостока в четверг досрочно прекратили полномочия главы города Олега Гуменюка, на прошлой неделе подавшего заявление об отставке по собственному желанию, передал корреспондент \"Интерфакса\" из зала заседания.",
+        "link": "https://www.interfax.ru/russia/769183",
+        "summary": "Всего с начала года компания получила штрафы на 9,5 млн рублей",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://www.interfax.ru/rss.asp",
-            "value": "Депутаты думы Владивостока в четверг досрочно прекратили полномочия главы города Олега Гуменюка, на прошлой неделе подавшего заявление об отставке по собственному желанию, передал корреспондент \"Интерфакса\" из зала заседания."
+            "value": "Всего с начала года компания получила штрафы на 9,5 млн рублей"
         },
         "tags": [
             {
@@ -1064,43 +209,223 @@
                 "label": null
             }
         ],
-        "published": "Thu, 27 May 2021 03:20:00 +0300",
+        "published": "Thu, 27 May 2021 16:26:00 +0300",
         "published_parsed": [
             2021,
             5,
             27,
+            13,
+            26,
             0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769183",
+        "guidislink": false
+    },
+    {
+        "title": "Руководство ВТБ прогнозирует годовую прибыль на уровне 270 млрд рублей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Руководство ВТБ прогнозирует годовую прибыль на уровне 270 млрд рублей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/business/769178"
+            }
+        ],
+        "link": "https://www.interfax.ru/business/769178",
+        "summary": "В ВТБ прогнозируют, что прибыль группы в 2021 году будет меньше 300 млрд рублей.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В ВТБ прогнозируют, что прибыль группы в 2021 году будет меньше 300 млрд рублей."
+        },
+        "tags": [
+            {
+                "term": "Экономика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 16:23:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            13,
+            23,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/business/769178",
+        "guidislink": false
+    },
+    {
+        "title": "TikTok оштрафован на 1,5 млн руб. за отказ удалить запрещенный контент",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "TikTok оштрафован на 1,5 млн руб. за отказ удалить запрещенный контент"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769182"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769182",
+        "summary": "В общей сложности компания должна выплатить 4,1 млн руб. за нарушение законов РФ",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В общей сложности компания должна выплатить 4,1 млн руб. за нарушение законов РФ"
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 16:20:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            13,
             20,
             0,
             3,
             147,
             0
         ],
-        "id": "https://www.interfax.ru/russia/769053",
+        "id": "https://www.interfax.ru/russia/769182",
         "guidislink": false
     },
     {
-        "title": "Байден призвал Конгресс принять меры против насилия с оружием в США",
+        "title": "Boeing выплатит штраф в $17 млн за нарушения при производстве самолетов",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://www.interfax.ru/rss.asp",
-            "value": "Байден призвал Конгресс принять меры против насилия с оружием в США"
+            "value": "Boeing выплатит штраф в $17 млн за нарушения при производстве самолетов"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.interfax.ru/world/769052"
+                "href": "https://www.interfax.ru/business/769180"
             }
         ],
-        "link": "https://www.interfax.ru/world/769052",
-        "summary": "Президент США Джо Байден после стрельбы в Сан-Хосе (штат Калифорния), в результате которой погибли восемь человек, призвал Конгресс \"положить конец эпидемии насилия с применением оружия\" в стране.",
+        "link": "https://www.interfax.ru/business/769180",
+        "summary": "Американский авиаконцерн Boeing Co выплатит штраф в размере $17 млн для урегулирования претензий Федерального управления гражданской авиации США (Federal Aviation Administration, FAA) в связи с выявленными регулятором проблемами в производстве самолетов серии 737.",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://www.interfax.ru/rss.asp",
-            "value": "Президент США Джо Байден после стрельбы в Сан-Хосе (штат Калифорния), в результате которой погибли восемь человек, призвал Конгресс \"положить конец эпидемии насилия с применением оружия\" в стране."
+            "value": "Американский авиаконцерн Boeing Co выплатит штраф в размере $17 млн для урегулирования претензий Федерального управления гражданской авиации США (Federal Aviation Administration, FAA) в связи с выявленными регулятором проблемами в производстве самолетов серии 737."
+        },
+        "tags": [
+            {
+                "term": "Экономика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 16:18:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            13,
+            18,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/business/769180",
+        "guidislink": false
+    },
+    {
+        "title": "В ЦБ РФ пообещали учесть все факторы в решении по ставке 11 июня",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В ЦБ РФ пообещали учесть все факторы в решении по ставке 11 июня"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/business/769181"
+            }
+        ],
+        "link": "https://www.interfax.ru/business/769181",
+        "summary": "Банк России при принятии решения по ключевой ставке 11 июня учет все факторы, в том числе повышенное инфляционное давление и продолжающееся восстановление экономики, сообщила первый зампред ЦБ Ксения Юдаева на брифинге в четверг.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Банк России при принятии решения по ключевой ставке 11 июня учет все факторы, в том числе повышенное инфляционное давление и продолжающееся восстановление экономики, сообщила первый зампред ЦБ Ксения Юдаева на брифинге в четверг."
+        },
+        "tags": [
+            {
+                "term": "Экономика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 16:17:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            13,
+            17,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/business/769181",
+        "guidislink": false
+    },
+    {
+        "title": "Тихановская объявила проведение акции солидарности с Белоруссией",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Тихановская объявила проведение акции солидарности с Белоруссией"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/769179"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/769179",
+        "summary": "Экс-кандидат в президенты Белоруссии, лидер оппозиции Светлана Тихановская объявила о проведении в ближайшую субботу международной акции солидарности с жителями своей страны.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Экс-кандидат в президенты Белоруссии, лидер оппозиции Светлана Тихановская объявила о проведении в ближайшую субботу международной акции солидарности с жителями своей страны."
         },
         "tags": [
             {
@@ -1109,19 +434,694 @@
                 "label": null
             }
         ],
-        "published": "Thu, 27 May 2021 03:02:00 +0300",
+        "published": "Thu, 27 May 2021 16:14:00 +0300",
         "published_parsed": [
             2021,
             5,
             27,
-            0,
-            2,
+            13,
+            14,
             0,
             3,
             147,
             0
         ],
-        "id": "https://www.interfax.ru/world/769052",
+        "id": "https://www.interfax.ru/world/769179",
+        "guidislink": false
+    },
+    {
+        "title": "Гендиректор Wildberries Татьяна Бакальчук выдвинута в набсовет ВТБ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Гендиректор Wildberries Татьяна Бакальчук выдвинута в набсовет ВТБ"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/business/769177"
+            }
+        ],
+        "link": "https://www.interfax.ru/business/769177",
+        "summary": "В списке кандидатов в наблюдательный совет ВТБ появились изменения: вместо главы \"Траста\" Александра Соколова в совет выдвинута основатель и гендиректор онлайн-ритейлера Wildberries Татьяна Бакальчук, рассказал \"Интерфаксу\" источник, близкий к ВТБ.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В списке кандидатов в наблюдательный совет ВТБ появились изменения: вместо главы \"Траста\" Александра Соколова в совет выдвинута основатель и гендиректор онлайн-ритейлера Wildberries Татьяна Бакальчук, рассказал \"Интерфаксу\" источник, близкий к ВТБ."
+        },
+        "tags": [
+            {
+                "term": "Экономика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 16:10:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            13,
+            10,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/business/769177",
+        "guidislink": false
+    },
+    {
+        "title": "Тайская Паттайя с 1 октября отменит карантин для привитых туристов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Тайская Паттайя с 1 октября отменит карантин для привитых туристов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/769176"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/769176",
+        "summary": "Провинция Паттайя в Таиланде с 1 октября планирует отменить 14-дневный карантин для иностранных туристов, к этому моменту в регионе должны вакцинировать 70% местных жителей и работающих в туризме и сфере услуг.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Провинция Паттайя в Таиланде с 1 октября планирует отменить 14-дневный карантин для иностранных туристов, к этому моменту в регионе должны вакцинировать 70% местных жителей и работающих в туризме и сфере услуг."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 16:00:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            13,
+            0,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/769176",
+        "guidislink": false
+    },
+    {
+        "title": "В России насчитали 600 тысяч случаев тяжелого COVID-19 за всю пандемию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В России насчитали 600 тысяч случаев тяжелого COVID-19 за всю пандемию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769166"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769166",
+        "summary": "В России с начала пандемии около 600 тысяч человек перенесли коронавирусную инфекцию в тяжелой форме, говорится в презентации директора Национального медицинского исследовательского центра терапии и профилактической медицины, главного внештатного терапевта Минздрава Оксаны Драпкиной.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "В России с начала пандемии около 600 тысяч человек перенесли коронавирусную инфекцию в тяжелой форме, говорится в презентации директора Национального медицинского исследовательского центра терапии и профилактической медицины, главного внештатного терапевта Минздрава Оксаны Драпкиной."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:56:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            56,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769166",
+        "guidislink": false
+    },
+    {
+        "title": "Путин заявил, что России нужно больше военно-транспортных самолетов и вертолетов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Путин заявил, что России нужно больше военно-транспортных самолетов и вертолетов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769175"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769175",
+        "summary": "Минобороны РФ необходимо гораздо большее число военно-транспортных самолетов и вертолетов, заявил президент Владимир Путин.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Минобороны РФ необходимо гораздо большее число военно-транспортных самолетов и вертолетов, заявил президент Владимир Путин."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:55:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            55,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769175",
+        "guidislink": false
+    },
+    {
+        "title": "Лавров призвал Запад не демонизировать власти Белоруссии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Лавров призвал Запад не демонизировать власти Белоруссии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769174"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769174",
+        "summary": "Глава МИД РФ Сергей Лавров призвал страны Запада отказаться от попыток демонизации нынешнего руководства Белоруссии.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Глава МИД РФ Сергей Лавров призвал страны Запада отказаться от попыток демонизации нынешнего руководства Белоруссии."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:50:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            50,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769174",
+        "guidislink": false
+    },
+    {
+        "title": "МТС внедрила бесплатную защиту от спам-звонков",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "МТС внедрила бесплатную защиту от спам-звонков"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769171"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769171",
+        "summary": "МТС запустила новое решение по защите абонентов от спам-звонков, которое автоматически с помощью анализа big data перенаправляет нежелательные вызовы на специальный голосовой ящик, говорится в сообщении компании.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "МТС запустила новое решение по защите абонентов от спам-звонков, которое автоматически с помощью анализа big data перенаправляет нежелательные вызовы на специальный голосовой ящик, говорится в сообщении компании."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:48:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            48,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769171",
+        "guidislink": false
+    },
+    {
+        "title": "Власти Югры захотели включить два района в арктическую зону России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Власти Югры захотели включить два района в арктическую зону России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769170"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769170",
+        "summary": "Власти Ханты-Мансийского автономного округа - Югры выступают за включение двух северных районов округа в состав арктической зоны России.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Власти Ханты-Мансийского автономного округа - Югры выступают за включение двух северных районов округа в состав арктической зоны России."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:47:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            47,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769170",
+        "guidislink": false
+    },
+    {
+        "title": "Россия отправила в Габон продукцию военного назначения",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Россия отправила в Габон продукцию военного назначения"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769173"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769173",
+        "summary": "Габон получил из России партию продукции военного назначения и ожидает дальнейшие поставки, заявил глава МИД страны Паком Мубеле Бубейя.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Габон получил из России партию продукции военного назначения и ожидает дальнейшие поставки, заявил глава МИД страны Паком Мубеле Бубейя."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:42:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            42,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769173",
+        "guidislink": false
+    },
+    {
+        "title": "Франция с 1 июня начнет прием документов россиян на продление шенгена",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Франция с 1 июня начнет прием документов россиян на продление шенгена"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769172"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769172",
+        "summary": "Франция с 1 июня начнет прием документов российских граждан на продление истекших во время пандемии многократных пятилетних виз, выданных консульством этой страны.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Франция с 1 июня начнет прием документов российских граждан на продление истекших во время пандемии многократных пятилетних виз, выданных консульством этой страны."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:40:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            40,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769172",
+        "guidislink": false
+    },
+    {
+        "title": "Молодой человек с ружьем задержан на улице в Ижевске",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Молодой человек с ружьем задержан на улице в Ижевске"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769169"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769169",
+        "summary": "Сотрудники правоохранительных органов в четверг после звонков от граждан задержали молодого человека, шедшего с ружьем по улицам Ижевска, сообщил \"Интерфаксу\" информированный источник.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Сотрудники правоохранительных органов в четверг после звонков от граждан задержали молодого человека, шедшего с ружьем по улицам Ижевска, сообщил \"Интерфаксу\" информированный источник."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:37:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            37,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769169",
+        "guidislink": false
+    },
+    {
+        "title": "Кофе подорожал до четырехлетнего максимума",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Кофе подорожал до четырехлетнего максимума"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/business/769163"
+            }
+        ],
+        "link": "https://www.interfax.ru/business/769163",
+        "summary": "Цены на кофе сорта арабика поднялись до четырехлетнего максимума на фоне сокращения поставок из Бразилии и логистических проблем в Колумбии, сообщает Trading Economics.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Цены на кофе сорта арабика поднялись до четырехлетнего максимума на фоне сокращения поставок из Бразилии и логистических проблем в Колумбии, сообщает Trading Economics."
+        },
+        "tags": [
+            {
+                "term": "Экономика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:32:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            32,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/business/769163",
+        "guidislink": false
+    },
+    {
+        "title": "Экс-главу МВД Ингушетии обвинили в участии в экстремистском сообществе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Экс-главу МВД Ингушетии обвинили в участии в экстремистском сообществе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769168"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769168",
+        "summary": "Следственные органы предъявили новое обвинение бывшему министру внутренних дел Ингушетии, сопредседателю ингушского комитета национального единства Ахмеду Погорову.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Следственные органы предъявили новое обвинение бывшему министру внутренних дел Ингушетии, сопредседателю ингушского комитета национального единства Ахмеду Погорову."
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:27:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            27,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769168",
+        "guidislink": false
+    },
+    {
+        "title": "Роман Протасевич стал фигурантом уголовного дела в ЛНР",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Роман Протасевич стал фигурантом уголовного дела в ЛНР"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/russia/769167"
+            }
+        ],
+        "link": "https://www.interfax.ru/russia/769167",
+        "summary": "Ему вменили участие в боевых действиях в составе батальона \"Азов\"",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Ему вменили участие в боевых действиях в составе батальона \"Азов\""
+        },
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:27:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            27,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/russia/769167",
+        "guidislink": false
+    },
+    {
+        "title": "Суд в пятницу рассмотрит жалобу на задержание россиянки Сапеги",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Суд в пятницу рассмотрит жалобу на задержание россиянки Сапеги"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/world/769164"
+            }
+        ],
+        "link": "https://www.interfax.ru/world/769164",
+        "summary": "Судебное обжалование задержания в Минске гражданки России Софьи Сапеги состоится в пятницу, сообщил \"Интерфаксу\" ее адвокат Александр Филанович.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Судебное обжалование задержания в Минске гражданки России Софьи Сапеги состоится в пятницу, сообщил \"Интерфаксу\" ее адвокат Александр Филанович."
+        },
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:23:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            23,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/world/769164",
+        "guidislink": false
+    },
+    {
+        "title": "Замглавы \"РусАла\" Полетаев выдвинут в совет директоров \"Мегафона\"",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Замглавы \"РусАла\" Полетаев выдвинут в совет директоров \"Мегафона\""
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.interfax.ru/business/769150"
+            }
+        ],
+        "link": "https://www.interfax.ru/business/769150",
+        "summary": "Совет директоров \"Мегафона\" утвердил список кандидатов в новый состав совета, который акционеры изберут на годовом собрании 30 июня.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.interfax.ru/rss.asp",
+            "value": "Совет директоров \"Мегафона\" утвердил список кандидатов в новый состав совета, который акционеры изберут на годовом собрании 30 июня."
+        },
+        "tags": [
+            {
+                "term": "Экономика",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Thu, 27 May 2021 15:22:00 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            27,
+            12,
+            22,
+            0,
+            3,
+            147,
+            0
+        ],
+        "id": "https://www.interfax.ru/business/769150",
         "guidislink": false
     }
 ]

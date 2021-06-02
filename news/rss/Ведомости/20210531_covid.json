@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 8475 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 8475 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/05/31/871985-8475-sluchaev-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/47/o893l/normal-vef.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/05/31/871985-8475-sluchaev-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/05/31/871985-8475-sluchaev-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/05/31/871985-8475-sluchaev-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Mon, 31 May 2021 11:25:51 +0300",
+        "published_parsed": [
+            2021,
+            5,
+            31,
+            8,
+            25,
+            51,
+            0,
+            151,
+            0
+        ]
+    }
+]

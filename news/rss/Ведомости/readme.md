@@ -160,7 +160,14 @@
 24.05.2021 | 52 | 9 
 25.05.2021 | 51 | 4 
 26.05.2021 | 52 | 1 
-27.05.2021 | 10 | 1 
+27.05.2021 | 54 | 6 
+28.05.2021 | 39 | 5 
+29.05.2021 | 11 | 1 
+30.05.2021 | 11 | 2 
+31.05.2021 | 44 | 1 
+01.06.2021 | 47 | 3 
 
 > ### Последние новости по теме covid-19:
-+ [Эпидемиолог заявил о сезонности вакцинации от коронавируса](https://www.vedomosti.ru/society/news/2021/05/27/871538-ezhegodnoi-vaktsinatsii-koronavirusa)
++ [Власти Петербурга назвали непростой ситуацию с коронавирусом перед ПМЭФ](https://www.vedomosti.ru/society/news/2021/06/01/872267-vlasti-peterburga-nazvali-neprostoi-situatsiyu-s-koronavirusom)
++ [Путин заявил о постепенном выходе из пандемии коронавируса](https://www.vedomosti.ru/society/news/2021/06/01/872255-putin-zayavil-o-postepennom-vihode-iz-pandemii)
++ [В России за сутки выявили 9500 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/06/01/872205-v-rossii-za-sutki-viyavili-9500-novih-sluchaev-koronavirusa)
