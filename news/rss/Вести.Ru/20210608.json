@@ -1,0 +1,139 @@
+[
+    {
+        "title": "Под Кировом тушат крупный пожар на мусорном полигоне",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "Под Кировом тушат крупный пожар на мусорном полигоне"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vesti.ru/article/2572338"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn-st1.rtr-vesti.ru/vh/pictures/b/318/022/8.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn-st1.rtr-vesti.ru/vh/pictures/b/318/023/9.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vesti.ru/article/2572338",
+        "published": "Tue, 08 Jun 2021 03:07:00 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            0,
+            7,
+            0,
+            1,
+            159,
+            0
+        ],
+        "summary": "Кировские пожарные уже несколько часов борются с огнем, который, по некоторым данным, распространился на площади 10 гектаров.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "Кировские пожарные уже несколько часов борются с огнем, который, по некоторым данным, распространился на площади 10 гектаров."
+        },
+        "yandex_full-text": "Огромная свалка загорелась вечером, 7 июня, в деревне Лубягино Кировской области. О происшествии сообщает региональное МЧС.\r\n\r\nПо данным кировских спасателей, сообщение о пожаре на полигоне твердых бытовых отходов поступило в понедельник в 18:28. К тушению привлечено 27 человек и 13 единиц техники.\r\n\r\nО площади пожара кировские спасатели пока не сообщали, но, по некоторым данным, речь может идти о 10 гектарах. Борьба с огнем продолжается уже несколько часов.",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "происшествия",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "amplink": "https://www.vesti.ru/amp/article/2572338",
+        "media_content": [
+            {
+                "url": "https://player.vgtrk.com/go/video2/2306074",
+                "type": "video/mp4"
+            }
+        ],
+        "media_thumbnail": [
+            {
+                "url": "https://player.vgtrk.com/go/poster/xw/2306074"
+            }
+        ],
+        "href": ""
+    },
+    {
+        "title": "ЧП. Под Кировом тушат крупный пожар на мусорном полигоне",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "ЧП. Под Кировом тушат крупный пожар на мусорном полигоне"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vesti.ru/video/2306074"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn-st1.rtr-vesti.ru/vh/pictures/b/318/022/8.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vesti.ru/video/2306074",
+        "published": "Tue, 08 Jun 2021 03:03:00 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            0,
+            3,
+            0,
+            1,
+            159,
+            0
+        ],
+        "summary": "Огромная свалка загорелась вечером, 7 июня, в деревне Лубягино Кировской области. О происшествии сообщает региональное МЧС.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.vesti.ru/vesti.rss",
+            "value": "Огромная свалка загорелась вечером, 7 июня, в деревне Лубягино Кировской области. О происшествии сообщает региональное МЧС."
+        },
+        "yandex_full-text": "Огромная свалка загорелась вечером, 7 июня, в деревне Лубягино Кировской области. О происшествии сообщает региональное МЧС.",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "ЧП",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "amplink": "https://www.vesti.ru/amp/video/2306074",
+        "media_content": [
+            {
+                "url": "https://player.vgtrk.com/go/video2/2306074",
+                "type": "video/mp4"
+            }
+        ],
+        "media_thumbnail": [
+            {
+                "url": "https://player.vgtrk.com/go/poster/xw/2306074"
+            }
+        ],
+        "href": ""
+    }
+]

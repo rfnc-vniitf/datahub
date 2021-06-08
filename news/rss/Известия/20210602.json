@@ -1,34 +1,81 @@
 [
     {
-        "title": "Израиль сообщил об уничтожении сирийского объекта на Голанах",
+        "title": "Линдеманн обратился на русском языке к снявшимся в его клипе детям",
         "title_detail": {
             "type": "text/plain",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "Израиль сообщил об уничтожении сирийского объекта на Голанах"
+            "value": "Линдеманн обратился на русском языке к снявшимся в его клипе детям"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://iz.ru/1172614/2021-06-02/izrail-soobshchil-ob-unichtozhenii-siriiskogo-obekta-na-golanakh"
+                "href": "https://iz.ru/1172934/2021-06-02/lindemann-obratilsia-na-russkom-iazyke-k-sniavshimsia-v-ego-klipe-detiam"
             }
         ],
-        "link": "https://iz.ru/1172614/2021-06-02/izrail-soobshchil-ob-unichtozhenii-siriiskogo-obekta-na-golanakh",
-        "summary": "<p lang=\"EN-US\" xml:lang=\"EN-US\">Армия обороны Израиля в среду, 2 июня, уничтожила наблюдательный пункт сирийских военных на Голанских высотах. Об этом сообщил в <a href=\"https://twitter.com/AvichayAdraee/status/1399790587138789379\" target=\"_blank\">Twitter</a> представитель ЦАХАЛ Авихай Эдри.</p>",
+        "link": "https://iz.ru/1172934/2021-06-02/lindemann-obratilsia-na-russkom-iazyke-k-sniavshimsia-v-ego-klipe-detiam",
+        "summary": "<p>Солист группы Rammstein Тилль Линдеманн опубликовал в среду, 2 июня, в социальной сети Instagram пост, где обратился на русском языке к детям, которые снялись в его новом клипе на песню «Ich hasse Kinder» («Ненавижу детей»).</p>",
         "summary_detail": {
             "type": "text/html",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "<p lang=\"EN-US\" xml:lang=\"EN-US\">Армия обороны Израиля в среду, 2 июня, уничтожила наблюдательный пункт сирийских военных на Голанских высотах. Об этом сообщил в <a href=\"https://twitter.com/AvichayAdraee/status/1399790587138789379\" target=\"_blank\">Twitter</a> представитель ЦАХАЛ Авихай Эдри.</p>"
+            "value": "<p>Солист группы Rammstein Тилль Линдеманн опубликовал в среду, 2 июня, в социальной сети Instagram пост, где обратился на русском языке к детям, которые снялись в его новом клипе на песню «Ich hasse Kinder» («Ненавижу детей»).</p>"
         },
-        "published": "Wed, 02 Jun 2021 03:04:11 +0300",
+        "published": "Wed, 02 Jun 2021 17:09:07 +0300",
         "published_parsed": [
             2021,
             6,
             2,
-            0,
-            4,
+            14,
+            9,
+            7,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Алина Прошина"
+            }
+        ],
+        "author": "Алина Прошина",
+        "author_detail": {
+            "name": "Алина Прошина"
+        },
+        "id": "https://iz.ru/1172934/2021-06-02/lindemann-obratilsia-na-russkom-iazyke-k-sniavshimsia-v-ego-klipe-detiam",
+        "guidislink": false
+    },
+    {
+        "title": "Мурашко призвал посетителей матчей Евро-2020 привиться от COVID-19",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Мурашко призвал посетителей матчей Евро-2020 привиться от COVID-19"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172935/2021-06-02/murashko-prizval-posetitelei-matchei-evro-2020-privitsia-ot-covid-19"
+            }
+        ],
+        "link": "https://iz.ru/1172935/2021-06-02/murashko-prizval-posetitelei-matchei-evro-2020-privitsia-ot-covid-19",
+        "summary": "<p>Глава российского Минздрава Михаил Мурашко призвал россиян, собирающихся посетить матчи Чемпионата Европы по футболу (Евро-2020), сделать прививку от коронавируса. Соответствующее заявление он сделал в среду, 2 июня, в эфире студии общества «Знание» на площадке Петербургского международного экономического форума (ПМЭФ).</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Глава российского Минздрава Михаил Мурашко призвал россиян, собирающихся посетить матчи Чемпионата Европы по футболу (Евро-2020), сделать прививку от коронавируса. Соответствующее заявление он сделал в среду, 2 июня, в эфире студии общества «Знание» на площадке Петербургского международного экономического форума (ПМЭФ).</p>"
+        },
+        "published": "Wed, 02 Jun 2021 17:07:11 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            14,
+            7,
             11,
             2,
             153,
@@ -36,32 +83,173 @@
         ],
         "authors": [
             {
-                "name": "Анастасия Астахова"
+                "name": "Маргарита Дмитриева"
             }
         ],
-        "author": "Анастасия Астахова",
+        "author": "Маргарита Дмитриева",
         "author_detail": {
-            "name": "Анастасия Астахова"
+            "name": "Маргарита Дмитриева"
         },
-        "id": "https://iz.ru/1172614/2021-06-02/izrail-soobshchil-ob-unichtozhenii-siriiskogo-obekta-na-golanakh",
+        "id": "https://iz.ru/1172935/2021-06-02/murashko-prizval-posetitelei-matchei-evro-2020-privitsia-ot-covid-19",
         "guidislink": false
     },
     {
-        "title": "Миротворцы РФ рассказали о психологической помощи в Нагорном Карабахеа",
+        "title": "Путин поддержал идею о системе депутатских отчетов перед избирателями",
         "title_detail": {
             "type": "text/plain",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "Миротворцы РФ рассказали о психологической помощи в Нагорном Карабахеа"
+            "value": "Путин поддержал идею о системе депутатских отчетов перед избирателями"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://iz.ru/1172583/video/mirotvortcy-rf-rasskazali-o-psikhologicheskoi-pomoshchi-v-nagornom-karabakhea"
+                "href": "https://iz.ru/1172938/2021-06-02/putin-podderzhal-ideiu-o-sisteme-deputatskikh-otchetov-pered-izbirateliami"
             }
         ],
-        "link": "https://iz.ru/1172583/video/mirotvortcy-rf-rasskazali-o-psikhologicheskoi-pomoshchi-v-nagornom-karabakhea",
+        "link": "https://iz.ru/1172938/2021-06-02/putin-podderzhal-ideiu-o-sisteme-deputatskikh-otchetov-pered-izbirateliami",
+        "summary": "<p>Президент России Владимир Путин в среду, 2 июня, поддержал идею о системе депутатских отчетов перед избирателями.</p><p>Глава государства подчеркнул, что представители депутатского корпуса должны осознавать, чем живет их страна.</p><p><em>новость дополняется </em></p><p> </p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Президент России Владимир Путин в среду, 2 июня, поддержал идею о системе депутатских отчетов перед избирателями.</p><p>Глава государства подчеркнул, что представители депутатского корпуса должны осознавать, чем живет их страна.</p><p><em>новость дополняется </em></p><p> </p>"
+        },
+        "published": "Wed, 02 Jun 2021 17:07:04 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            14,
+            7,
+            4,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Алина Прошина"
+            }
+        ],
+        "author": "Алина Прошина",
+        "author_detail": {
+            "name": "Алина Прошина"
+        },
+        "id": "https://iz.ru/1172938/2021-06-02/putin-podderzhal-ideiu-o-sisteme-deputatskikh-otchetov-pered-izbirateliami",
+        "guidislink": false
+    },
+    {
+        "title": "Сельский Дом культуры отремонтировали в Ростовской области",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Сельский Дом культуры отремонтировали в Ростовской области"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172936/2021-06-02/selskii-dom-kultury-otremontirovali-v-rostovskoi-oblasti"
+            }
+        ],
+        "link": "https://iz.ru/1172936/2021-06-02/selskii-dom-kultury-otremontirovali-v-rostovskoi-oblasti",
+        "summary": "<p>В станице Верхнекундрюченская Усть-Донецкого района Ростовской области после капитального ремонта был открыт сельский Дом культуры, говорится в сообщении регионального правительства. Деньги на ремонт Дома культуры в станице были выделены из федерального бюджета в рамках нацпроекта «Культура», всего было потрачено 5 млн рублей.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>В станице Верхнекундрюченская Усть-Донецкого района Ростовской области после капитального ремонта был открыт сельский Дом культуры, говорится в сообщении регионального правительства. Деньги на ремонт Дома культуры в станице были выделены из федерального бюджета в рамках нацпроекта «Культура», всего было потрачено 5 млн рублей.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 17:04:51 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            14,
+            4,
+            51,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Наталья Преблагина"
+            }
+        ],
+        "author": "Наталья Преблагина",
+        "author_detail": {
+            "name": "Наталья Преблагина"
+        },
+        "id": "https://iz.ru/1172936/2021-06-02/selskii-dom-kultury-otremontirovali-v-rostovskoi-oblasti",
+        "guidislink": false
+    },
+    {
+        "title": "Генпрокуратура Литвы рассмотрит запрос Минска по делу о геноциде",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Генпрокуратура Литвы рассмотрит запрос Минска по делу о геноциде"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172927/2021-06-02/genprokuratura-litvy-rassmotrit-zapros-minska-po-delu-o-genotcide"
+            }
+        ],
+        "link": "https://iz.ru/1172927/2021-06-02/genprokuratura-litvy-rassmotrit-zapros-minska-po-delu-o-genotcide",
+        "summary": "<p>Генеральная прокуратура Литвы рассмотрит запрос Минска о правовой помощи по уголовному делу о геноциде населения Белоруссии в годы Великой Отечественной войны, где в качестве свидетеля по данному делу проходит экс-президент Литвы Валдас Адамкус. Об этом в среду, 2 июня, сообщила журналистам представитель надзорной инстанции Элена Мартинонене.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Генеральная прокуратура Литвы рассмотрит запрос Минска о правовой помощи по уголовному делу о геноциде населения Белоруссии в годы Великой Отечественной войны, где в качестве свидетеля по данному делу проходит экс-президент Литвы Валдас Адамкус. Об этом в среду, 2 июня, сообщила журналистам представитель надзорной инстанции Элена Мартинонене.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 17:04:38 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            14,
+            4,
+            38,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Алина Прошина"
+            }
+        ],
+        "author": "Алина Прошина",
+        "author_detail": {
+            "name": "Алина Прошина"
+        },
+        "id": "https://iz.ru/1172927/2021-06-02/genprokuratura-litvy-rassmotrit-zapros-minska-po-delu-o-genotcide",
+        "guidislink": false
+    },
+    {
+        "title": "Школьникам рассказали секреты создания лучшего выпускного на планете «Алые паруса»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Школьникам рассказали секреты создания лучшего выпускного на планете «Алые паруса»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172933/video/shkolnikam-rasskazali-sekrety-sozdaniia-luchshego-vypusknogo-na-planete-alye-parusa"
+            }
+        ],
+        "link": "https://iz.ru/1172933/video/shkolnikam-rasskazali-sekrety-sozdaniia-luchshego-vypusknogo-na-planete-alye-parusa",
         "summary": "",
         "summary_detail": {
             "type": "text/html",
@@ -69,14 +257,14 @@
             "base": "https://iz.ru/xml/rss/all.xml",
             "value": ""
         },
-        "published": "Wed, 02 Jun 2021 03:00:01 +0300",
+        "published": "Wed, 02 Jun 2021 16:58:57 +0300",
         "published_parsed": [
             2021,
             6,
             2,
-            0,
-            0,
-            1,
+            13,
+            58,
+            57,
             2,
             153,
             0
@@ -85,39 +273,917 @@
             {}
         ],
         "author": "",
-        "id": "https://iz.ru/1172583/video/mirotvortcy-rf-rasskazali-o-psikhologicheskoi-pomoshchi-v-nagornom-karabakhea",
+        "id": "https://iz.ru/1172933/video/shkolnikam-rasskazali-sekrety-sozdaniia-luchshego-vypusknogo-na-planete-alye-parusa",
         "guidislink": false
     },
     {
-        "title": "Глава Минприроды сообщил о высокой скорости потепления в России",
+        "title": "Российские космонавты завершили работы в открытом космосе",
         "title_detail": {
             "type": "text/plain",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "Глава Минприроды сообщил о высокой скорости потепления в России"
+            "value": "Российские космонавты завершили работы в открытом космосе"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://iz.ru/1172599/2021-06-02/glava-minprirody-soobshchil-o-vysokoi-skorosti-potepleniia-v-rossii"
+                "href": "https://iz.ru/1172926/2021-06-02/rossiiskie-kosmonavty-zavershili-raboty-v-otkrytom-kosmose"
             }
         ],
-        "link": "https://iz.ru/1172599/2021-06-02/glava-minprirody-soobshchil-o-vysokoi-skorosti-potepleniia-v-rossii",
-        "summary": "<p>По оценкам Росгидромета, скорость потепления в России превосходит среднюю по земному шару и составляет 0.51°С за десятилетие. Об этом в интервью «Известиям» заявил глава Минприроды Александр Козлов.</p>",
+        "link": "https://iz.ru/1172926/2021-06-02/rossiiskie-kosmonavty-zavershili-raboty-v-otkrytom-kosmose",
+        "summary": "<p>Российские космонавты Олег Новицкий и Петр Дубов завершили работы в открытом космосе, сообщила пресс-служба «Роскосмоса» в среду, 2 июня.</p>",
         "summary_detail": {
             "type": "text/html",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "<p>По оценкам Росгидромета, скорость потепления в России превосходит среднюю по земному шару и составляет 0.51°С за десятилетие. Об этом в интервью «Известиям» заявил глава Минприроды Александр Козлов.</p>"
+            "value": "<p>Российские космонавты Олег Новицкий и Петр Дубов завершили работы в открытом космосе, сообщила пресс-служба «Роскосмоса» в среду, 2 июня.</p>"
         },
-        "published": "Wed, 02 Jun 2021 03:00:00 +0300",
+        "published": "Wed, 02 Jun 2021 16:58:57 +0300",
         "published_parsed": [
             2021,
             6,
             2,
-            0,
-            0,
+            13,
+            58,
+            57,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Маргарита Сурикова"
+            }
+        ],
+        "author": "Маргарита Сурикова",
+        "author_detail": {
+            "name": "Маргарита Сурикова"
+        },
+        "id": "https://iz.ru/1172926/2021-06-02/rossiiskie-kosmonavty-zavershili-raboty-v-otkrytom-kosmose",
+        "guidislink": false
+    },
+    {
+        "title": "Кириенко пожелал победителям «Большой перемены» воплотить мечты",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Кириенко пожелал победителям «Большой перемены» воплотить мечты"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172931/2021-06-02/kirienko-pozhelal-pobediteliam-bolshoi-peremeny-voplotit-mechty"
+            }
+        ],
+        "link": "https://iz.ru/1172931/2021-06-02/kirienko-pozhelal-pobediteliam-bolshoi-peremeny-voplotit-mechty",
+        "summary": "<p>Первый замглавы администрации президента России Владимира Путина Сергей Кириенко рассказал, что важный смысловой принцип, на котором воссоздался праздник «Алые паруса», озвучил российский лидер еще в 2005 году.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Первый замглавы администрации президента России Владимира Путина Сергей Кириенко рассказал, что важный смысловой принцип, на котором воссоздался праздник «Алые паруса», озвучил российский лидер еще в 2005 году.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:55:01 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            55,
+            1,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Анастасия Алимпиева"
+            }
+        ],
+        "author": "Анастасия Алимпиева",
+        "author_detail": {
+            "name": "Анастасия Алимпиева"
+        },
+        "id": "https://iz.ru/1172931/2021-06-02/kirienko-pozhelal-pobediteliam-bolshoi-peremeny-voplotit-mechty",
+        "guidislink": false
+    },
+    {
+        "title": "Путин указал на обновление списка кандидатов в Госдуму от ЕР благодаря праймериз",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путин указал на обновление списка кандидатов в Госдуму от ЕР благодаря праймериз"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172932/video/putin-ukazal-na-obnovlenie-spiska-kandidatov-v-gosdumu-ot-er-blagodaria-praimeriz"
+            }
+        ],
+        "link": "https://iz.ru/1172932/video/putin-ukazal-na-obnovlenie-spiska-kandidatov-v-gosdumu-ot-er-blagodaria-praimeriz",
+        "summary": "",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": ""
+        },
+        "published": "Wed, 02 Jun 2021 16:54:50 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            54,
+            50,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/1172932/video/putin-ukazal-na-obnovlenie-spiska-kandidatov-v-gosdumu-ot-er-blagodaria-praimeriz",
+        "guidislink": false
+    },
+    {
+        "title": "МИД Японии направил протест РФ из-за задержания рыболовецкого судна",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "МИД Японии направил протест РФ из-за задержания рыболовецкого судна"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172911/2021-06-02/mid-iaponii-napravil-protest-rf-iz-za-zaderzhaniia-rybolovetckogo-sudna"
+            }
+        ],
+        "link": "https://iz.ru/1172911/2021-06-02/mid-iaponii-napravil-protest-rf-iz-za-zaderzhaniia-rybolovetckogo-sudna",
+        "summary": "<p>Министерство иностранных дел Японии направило протест России в связи с задержанием японского рыболовного судна 28 мая в Охотском море российскими пограничниками. Об этом сообщили в среду, 2 июня, на телеканале <a href=\"https://www3.nhk.or.jp/news/html/20210602/k10013064791000.html\" target=\"_blank\">NHK</a>.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Министерство иностранных дел Японии направило протест России в связи с задержанием японского рыболовного судна 28 мая в Охотском море российскими пограничниками. Об этом сообщили в среду, 2 июня, на телеканале <a href=\"https://www3.nhk.or.jp/news/html/20210602/k10013064791000.html\" target=\"_blank\">NHK</a>.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:53:45 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            53,
+            45,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Екатерина Новикова"
+            }
+        ],
+        "author": "Екатерина Новикова",
+        "author_detail": {
+            "name": "Екатерина Новикова"
+        },
+        "id": "https://iz.ru/1172911/2021-06-02/mid-iaponii-napravil-protest-rf-iz-za-zaderzhaniia-rybolovetckogo-sudna",
+        "guidislink": false
+    },
+    {
+        "title": "Посол Германии в России назвал достоинства Москвы",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Посол Германии в России назвал достоинства Москвы"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172928/2021-06-02/posol-germanii-v-rossii-nazval-dostoinstva-moskvy"
+            }
+        ],
+        "link": "https://iz.ru/1172928/2021-06-02/posol-germanii-v-rossii-nazval-dostoinstva-moskvy",
+        "summary": "<p>Посол Германии в России Геза Андреас фон Гайр, говоря о достоинствах Москвы, отметил многообразие жизни города и спокойствие местных жителей. Своими впечатлениями дипломат поделился в ходе ежегодного мероприятия «Германо-французский день».</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Посол Германии в России Геза Андреас фон Гайр, говоря о достоинствах Москвы, отметил многообразие жизни города и спокойствие местных жителей. Своими впечатлениями дипломат поделился в ходе ежегодного мероприятия «Германо-французский день».</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:51:50 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            51,
+            50,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Ксения Темникова"
+            }
+        ],
+        "author": "Ксения Темникова",
+        "author_detail": {
+            "name": "Ксения Темникова"
+        },
+        "id": "https://iz.ru/1172928/2021-06-02/posol-germanii-v-rossii-nazval-dostoinstva-moskvy",
+        "guidislink": false
+    },
+    {
+        "title": "Более 70 тыс. пациентов с COVID-19 находятся в стационарах в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Более 70 тыс. пациентов с COVID-19 находятся в стационарах в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172923/2021-06-02/bolee-70-tys-patcientov-s-covid-19-nakhodiatsia-v-statcionarakh-v-rossii"
+            }
+        ],
+        "link": "https://iz.ru/1172923/2021-06-02/bolee-70-tys-patcientov-s-covid-19-nakhodiatsia-v-statcionarakh-v-rossii",
+        "summary": "<p>Министр здравоохранения РФ Михаил Мурашко сообщил в среду, 2 июня, что в России в настоящий момент свыше 70 тыс. пациентов с COVID-19 проходят лечение в стационарах, 1,5 тыс. граждан находятся в отделениях реанимации.</p><p>«На сегодняшний день 270 тыс. человек болеют коронавирусом, более 70 тыс. находятся в стационарах, более 1,5 тыс. находятся в отделениях реанимации», — сказал он в студии общества «Знание» на площадке Петербургского международного экономического форума (ПМЭФ).</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Министр здравоохранения РФ Михаил Мурашко сообщил в среду, 2 июня, что в России в настоящий момент свыше 70 тыс. пациентов с COVID-19 проходят лечение в стационарах, 1,5 тыс. граждан находятся в отделениях реанимации.</p><p>«На сегодняшний день 270 тыс. человек болеют коронавирусом, более 70 тыс. находятся в стационарах, более 1,5 тыс. находятся в отделениях реанимации», — сказал он в студии общества «Знание» на площадке Петербургского международного экономического форума (ПМЭФ).</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:49:58 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            49,
+            58,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Алина Прошина"
+            }
+        ],
+        "author": "Алина Прошина",
+        "author_detail": {
+            "name": "Алина Прошина"
+        },
+        "id": "https://iz.ru/1172923/2021-06-02/bolee-70-tys-patcientov-s-covid-19-nakhodiatsia-v-statcionarakh-v-rossii",
+        "guidislink": false
+    },
+    {
+        "title": "Протасевич рассказал об условиях содержания в СИЗО",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Протасевич рассказал об условиях содержания в СИЗО"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172920/2021-06-02/protasevich-rasskazal-ob-usloviiakh-soderzhaniia-v-sizo"
+            }
+        ],
+        "link": "https://iz.ru/1172920/2021-06-02/protasevich-rasskazal-ob-usloviiakh-soderzhaniia-v-sizo",
+        "summary": "<p>Задержанный в Минске бывший главный редактор признанного в Белоруссии экстремистским Telegram-канала NEXTA Роман Протасевич рассказал об условиях содержания в СИЗО. Об этом в среду, 2 июня, сообщает телеканал ОНТ в Telegram.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Задержанный в Минске бывший главный редактор признанного в Белоруссии экстремистским Telegram-канала NEXTA Роман Протасевич рассказал об условиях содержания в СИЗО. Об этом в среду, 2 июня, сообщает телеканал ОНТ в Telegram.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:47:56 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            47,
+            56,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Юлия Захарова"
+            }
+        ],
+        "author": "Юлия Захарова",
+        "author_detail": {
+            "name": "Юлия Захарова"
+        },
+        "id": "https://iz.ru/1172920/2021-06-02/protasevich-rasskazal-ob-usloviiakh-soderzhaniia-v-sizo",
+        "guidislink": false
+    },
+    {
+        "title": "Путин отметил работу «Единой России» в борьбе с пандемией",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путин отметил работу «Единой России» в борьбе с пандемией"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172925/video/putin-otmetil-rabotu-edinoi-rossii-v-borbe-s-pandemiei"
+            }
+        ],
+        "link": "https://iz.ru/1172925/video/putin-otmetil-rabotu-edinoi-rossii-v-borbe-s-pandemiei",
+        "summary": "",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": ""
+        },
+        "published": "Wed, 02 Jun 2021 16:45:21 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            45,
+            21,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/1172925/video/putin-otmetil-rabotu-edinoi-rossii-v-borbe-s-pandemiei",
+        "guidislink": false
+    },
+    {
+        "title": "Сервис «Ultima Яндекс Go» стал официальным партнером ПМЭФ-2021",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Сервис «Ultima Яндекс Go» стал официальным партнером ПМЭФ-2021"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172713/2021-06-02/servis-ultima-iandeks-go-stal-ofitcialnym-partnerom-pmef-2021"
+            }
+        ],
+        "link": "https://iz.ru/1172713/2021-06-02/servis-ultima-iandeks-go-stal-ofitcialnym-partnerom-pmef-2021",
+        "summary": "<p>Одним из официальных партнеров Петербургского международного экономического форума – 2021 (ПМЭФ) стал премиальный сервис «Ultima Яндекс Go». Об этом сообщается в пресс-релизе, поступившем «Известиям» 2 июня.</p><p>Гости и участники мероприятия в приложении «Яндекс Go» могут выбрать один из классов Ultima — Business (представлен автомобилями Mercedes-Benz Е-Класса, BMW 5-й серии), Premier (авто Mercedes-Benz S-Класса, BMW 7-й серии) или Élite (Mercedes-Maybach S-Класса). Кроме того, они смогут перестроить маршрут прямо в пути, а также заказать машину для другого человека.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Одним из официальных партнеров Петербургского международного экономического форума – 2021 (ПМЭФ) стал премиальный сервис «Ultima Яндекс Go». Об этом сообщается в пресс-релизе, поступившем «Известиям» 2 июня.</p><p>Гости и участники мероприятия в приложении «Яндекс Go» могут выбрать один из классов Ultima — Business (представлен автомобилями Mercedes-Benz Е-Класса, BMW 5-й серии), Premier (авто Mercedes-Benz S-Класса, BMW 7-й серии) или Élite (Mercedes-Maybach S-Класса). Кроме того, они смогут перестроить маршрут прямо в пути, а также заказать машину для другого человека.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:39:55 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            39,
+            55,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Елена Белова"
+            }
+        ],
+        "author": "Елена Белова",
+        "author_detail": {
+            "name": "Елена Белова"
+        },
+        "id": "https://iz.ru/1172713/2021-06-02/servis-ultima-iandeks-go-stal-ofitcialnym-partnerom-pmef-2021",
+        "guidislink": false
+    },
+    {
+        "title": "Путину рассказали о хакерских атаках во время праймериз ЕР",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путину рассказали о хакерских атаках во время праймериз ЕР"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172918/2021-06-02/putinu-rasskazali-o-khakerskikh-atakakh-vo-vremia-praimeriz-er"
+            }
+        ],
+        "link": "https://iz.ru/1172918/2021-06-02/putinu-rasskazali-o-khakerskikh-atakakh-vo-vremia-praimeriz-er",
+        "summary": "<p>Председатель партии «Единая Россия» Дмитрий Медведев заявил о том, что во время праймериз партии были выявлены хакерские атаки, в том числе и из-за границы. Об этом он заявил 2 июня на встрече президента России Владимира Путина с руководством партии.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Председатель партии «Единая Россия» Дмитрий Медведев заявил о том, что во время праймериз партии были выявлены хакерские атаки, в том числе и из-за границы. Об этом он заявил 2 июня на встрече президента России Владимира Путина с руководством партии.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:33:59 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            33,
+            59,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Анастасия Алимпиева"
+            }
+        ],
+        "author": "Анастасия Алимпиева",
+        "author_detail": {
+            "name": "Анастасия Алимпиева"
+        },
+        "id": "https://iz.ru/1172918/2021-06-02/putinu-rasskazali-o-khakerskikh-atakakh-vo-vremia-praimeriz-er",
+        "guidislink": false
+    },
+    {
+        "title": "Путин призвал не экономить на передвижных медкомплексах",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путин призвал не экономить на передвижных медкомплексах"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172919/video/putin-prizval-ne-ekonomit-na-peredvizhnykh-medkompleksakh"
+            }
+        ],
+        "link": "https://iz.ru/1172919/video/putin-prizval-ne-ekonomit-na-peredvizhnykh-medkompleksakh",
+        "summary": "",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": ""
+        },
+        "published": "Wed, 02 Jun 2021 16:33:17 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            33,
+            17,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/1172919/video/putin-prizval-ne-ekonomit-na-peredvizhnykh-medkompleksakh",
+        "guidislink": false
+    },
+    {
+        "title": "Украинский депутат сочла провокацией вопрос о количестве стран в НАТО",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Украинский депутат сочла провокацией вопрос о количестве стран в НАТО"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172904/2021-06-02/ukrainskii-deputat-sochla-provokatciei-vopros-o-kolichestve-stran-v-nato"
+            }
+        ],
+        "link": "https://iz.ru/1172904/2021-06-02/ukrainskii-deputat-sochla-provokatciei-vopros-o-kolichestve-stran-v-nato",
+        "summary": "<p>Депутат Верховной рады от партии «Слуга народа» Марьяна Безуглая назвала вопрос ведущей одной из передач на канале «Украина 24» о количестве стран, входящих в НАТО, провокационным.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Депутат Верховной рады от партии «Слуга народа» Марьяна Безуглая назвала вопрос ведущей одной из передач на канале «Украина 24» о количестве стран, входящих в НАТО, провокационным.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:32:18 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            32,
+            18,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Анастасия Алимпиева"
+            }
+        ],
+        "author": "Анастасия Алимпиева",
+        "author_detail": {
+            "name": "Анастасия Алимпиева"
+        },
+        "id": "https://iz.ru/1172904/2021-06-02/ukrainskii-deputat-sochla-provokatciei-vopros-o-kolichestve-stran-v-nato",
+        "guidislink": false
+    },
+    {
+        "title": "Катар подпишет на ПМЭФ договоры о поставках из РФ зерна и мяса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Катар подпишет на ПМЭФ договоры о поставках из РФ зерна и мяса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172916/2021-06-02/katar-podpishet-na-pmef-dogovory-o-postavkakh-iz-rf-zerna-i-miasa"
+            }
+        ],
+        "link": "https://iz.ru/1172916/2021-06-02/katar-podpishet-na-pmef-dogovory-o-postavkakh-iz-rf-zerna-i-miasa",
+        "summary": "<p>Катар заинтересован в поставках из России зерна, мяса и кормов для скота, подпишет соглашения с крупными компаниями из России во время Петербургского международного экономического форума (ПМЭФ). Об этом 2 июня сообщил исполнительный директор государственной компании Катара по обеспечению продовольственной безопасности страны и закупкам продовольствия Hassad Food Мухаммед ас-Сада.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Катар заинтересован в поставках из России зерна, мяса и кормов для скота, подпишет соглашения с крупными компаниями из России во время Петербургского международного экономического форума (ПМЭФ). Об этом 2 июня сообщил исполнительный директор государственной компании Катара по обеспечению продовольственной безопасности страны и закупкам продовольствия Hassad Food Мухаммед ас-Сада.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:32:15 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            32,
+            15,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Елена Плавская"
+            }
+        ],
+        "author": "Елена Плавская",
+        "author_detail": {
+            "name": "Елена Плавская"
+        },
+        "id": "https://iz.ru/1172916/2021-06-02/katar-podpishet-na-pmef-dogovory-o-postavkakh-iz-rf-zerna-i-miasa",
+        "guidislink": false
+    },
+    {
+        "title": "В Крыму оценили планы Украины ввести санкции при полетах «Белавиа» на полуостров",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В Крыму оценили планы Украины ввести санкции при полетах «Белавиа» на полуостров"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172912/2021-06-02/v-krymu-otcenili-plany-ukrainy-vvesti-sanktcii-pri-poletakh-belavia-na-poluostrov"
+            }
+        ],
+        "link": "https://iz.ru/1172912/2021-06-02/v-krymu-otcenili-plany-ukrainy-vvesti-sanktcii-pri-poletakh-belavia-na-poluostrov",
+        "summary": "<p>Глава комитета крымского парламента по межнациональным отношениям Юрий Гемпель прокомментировал в среду, 2 июня, заявление первого замминистра иностранных дел Украины Эмине Джапаровой о том, что Киев введет санкции в отношении Минска, если авиакомпания «Белавиа» решит начать полеты в Крым.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Глава комитета крымского парламента по межнациональным отношениям Юрий Гемпель прокомментировал в среду, 2 июня, заявление первого замминистра иностранных дел Украины Эмине Джапаровой о том, что Киев введет санкции в отношении Минска, если авиакомпания «Белавиа» решит начать полеты в Крым.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:30:48 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            30,
+            48,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Юлия Горностаева"
+            }
+        ],
+        "author": "Юлия Горностаева",
+        "author_detail": {
+            "name": "Юлия Горностаева"
+        },
+        "id": "https://iz.ru/1172912/2021-06-02/v-krymu-otcenili-plany-ukrainy-vvesti-sanktcii-pri-poletakh-belavia-na-poluostrov",
+        "guidislink": false
+    },
+    {
+        "title": "Около 18 млн россиян привились первым компонентом вакцины от COVID-19",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Около 18 млн россиян привились первым компонентом вакцины от COVID-19"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172914/2021-06-02/okolo-18-mln-rossiian-privilis-pervym-komponentom-vaktciny-ot-covid-19"
+            }
+        ],
+        "link": "https://iz.ru/1172914/2021-06-02/okolo-18-mln-rossiian-privilis-pervym-komponentom-vaktciny-ot-covid-19",
+        "summary": "<p>Первым компонентом вакцины от коронавируса в России привились уже около 18 млн человек. Такие данные привел глава российского Минздрава Михаил Мурашко в среду, 2 июня, в кулуарах Петербургского международного экономического форума.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Первым компонентом вакцины от коронавируса в России привились уже около 18 млн человек. Такие данные привел глава российского Минздрава Михаил Мурашко в среду, 2 июня, в кулуарах Петербургского международного экономического форума.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:29:44 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            29,
+            44,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Маргарита Дмитриева"
+            }
+        ],
+        "author": "Маргарита Дмитриева",
+        "author_detail": {
+            "name": "Маргарита Дмитриева"
+        },
+        "id": "https://iz.ru/1172914/2021-06-02/okolo-18-mln-rossiian-privilis-pervym-komponentom-vaktciny-ot-covid-19",
+        "guidislink": false
+    },
+    {
+        "title": "УФАС проверит снижение закупочных цен на молоко в Алтайском крае",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "УФАС проверит снижение закупочных цен на молоко в Алтайском крае"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172915/2021-06-02/ufas-proverit-snizhenie-zakupochnykh-tcen-na-moloko-v-altaiskom-krae"
+            }
+        ],
+        "link": "https://iz.ru/1172915/2021-06-02/ufas-proverit-snizhenie-zakupochnykh-tcen-na-moloko-v-altaiskom-krae",
+        "summary": "<p>УФАС по Алтайскому краю начало проверки после сигналов о снижении закупочной стоимости сырого коровьего молока. Антимонопольщики направили запросы предпринимателям и организациям в Волчихинском, Егорьевском, Ключевском, Краснощековском, Новичихинском, Петропавловском, Поспелихинском, Рубцовском и Шипуновском районах. Их жители ранее пожаловались на резкое снижение цен с 26 до 17 рублей, отмечает <a href=\"https://altapress.ru/zhizn/story/altayskie-antimonopolshchiki-zanyalis-287614\" target=\"_blank\">altapress.ru</a>.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>УФАС по Алтайскому краю начало проверки после сигналов о снижении закупочной стоимости сырого коровьего молока. Антимонопольщики направили запросы предпринимателям и организациям в Волчихинском, Егорьевском, Ключевском, Краснощековском, Новичихинском, Петропавловском, Поспелихинском, Рубцовском и Шипуновском районах. Их жители ранее пожаловались на резкое снижение цен с 26 до 17 рублей, отмечает <a href=\"https://altapress.ru/zhizn/story/altayskie-antimonopolshchiki-zanyalis-287614\" target=\"_blank\">altapress.ru</a>.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:29:27 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            29,
+            27,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Наталья Преблагина"
+            }
+        ],
+        "author": "Наталья Преблагина",
+        "author_detail": {
+            "name": "Наталья Преблагина"
+        },
+        "id": "https://iz.ru/1172915/2021-06-02/ufas-proverit-snizhenie-zakupochnykh-tcen-na-moloko-v-altaiskom-krae",
+        "guidislink": false
+    },
+    {
+        "title": "Путин согласился продумать возможное использование маткапитала на ремонт",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путин согласился продумать возможное использование маткапитала на ремонт"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172909/2021-06-02/putin-soglasilsia-produmat-vozmozhnoe-ispolzovanie-matkapitala-na-remont"
+            }
+        ],
+        "link": "https://iz.ru/1172909/2021-06-02/putin-soglasilsia-produmat-vozmozhnoe-ispolzovanie-matkapitala-na-remont",
+        "summary": "<p>Президент России Владимир Путин согласился с предложением продумать возможность расширения использования материнского капитала для проведения ремонта. Об этом глава государства заявил 2 июня в ходе встречи с руководством «Единой России» и участниками праймериз партии.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Президент России Владимир Путин согласился с предложением продумать возможность расширения использования материнского капитала для проведения ремонта. Об этом глава государства заявил 2 июня в ходе встречи с руководством «Единой России» и участниками праймериз партии.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:24:08 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            24,
+            8,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Елена Плавская"
+            }
+        ],
+        "author": "Елена Плавская",
+        "author_detail": {
+            "name": "Елена Плавская"
+        },
+        "id": "https://iz.ru/1172909/2021-06-02/putin-soglasilsia-produmat-vozmozhnoe-ispolzovanie-matkapitala-na-remont",
+        "guidislink": false
+    },
+    {
+        "title": "Украина пригрозила Белоруссии санкциями в случае полетов в Крым",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Украина пригрозила Белоруссии санкциями в случае полетов в Крым"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172906/2021-06-02/ukraina-prigrozila-belorussii-sanktciiami-v-sluchae-poletov-v-krym"
+            }
+        ],
+        "link": "https://iz.ru/1172906/2021-06-02/ukraina-prigrozila-belorussii-sanktciiami-v-sluchae-poletov-v-krym",
+        "summary": "<p>Первый заместитель министра иностранных дел Украины Эмине Джапарова в среду, 2 июня, заявила, что украинская сторона введет санкции в случае, если белорусские самолеты начнут летать в Крым.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Первый заместитель министра иностранных дел Украины Эмине Джапарова в среду, 2 июня, заявила, что украинская сторона введет санкции в случае, если белорусские самолеты начнут летать в Крым.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:24:05 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            24,
+            5,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Маргарита Дмитриева"
+            }
+        ],
+        "author": "Маргарита Дмитриева",
+        "author_detail": {
+            "name": "Маргарита Дмитриева"
+        },
+        "id": "https://iz.ru/1172906/2021-06-02/ukraina-prigrozila-belorussii-sanktciiami-v-sluchae-poletov-v-krym",
+        "guidislink": false
+    },
+    {
+        "title": "Инвестиции в распредцентр северного завоза в Якутии составят 1,7 млрд рублей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Инвестиции в распредцентр северного завоза в Якутии составят 1,7 млрд рублей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172910/2021-06-02/investitcii-v-raspredtcentr-severnogo-zavoza-v-iakutii-sostaviat-17-mlrd-rublei"
+            }
+        ],
+        "link": "https://iz.ru/1172910/2021-06-02/investitcii-v-raspredtcentr-severnogo-zavoza-v-iakutii-sostaviat-17-mlrd-rublei",
+        "summary": "<p>Объем инвестиций в создание оптово-распределительного центра северного завоза в Якутии составит 1,7 млрд рублей. Об этом глава республики Айсен Николаев заявил на совещании по развитию территорий опережающего развития (ТОР) при вице-премьере — полпреде президента на Дальнем Востоке Юрии Трутневе, сообщает <a href=\"https://tass.ru/\" target=\"_blank\">ТАСС</a>.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Объем инвестиций в создание оптово-распределительного центра северного завоза в Якутии составит 1,7 млрд рублей. Об этом глава республики Айсен Николаев заявил на совещании по развитию территорий опережающего развития (ТОР) при вице-премьере — полпреде президента на Дальнем Востоке Юрии Трутневе, сообщает <a href=\"https://tass.ru/\" target=\"_blank\">ТАСС</a>.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:23:21 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            23,
+            21,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Екатерина Натесова"
+            }
+        ],
+        "author": "Екатерина Натесова",
+        "author_detail": {
+            "name": "Екатерина Натесова"
+        },
+        "id": "https://iz.ru/1172910/2021-06-02/investitcii-v-raspredtcentr-severnogo-zavoza-v-iakutii-sostaviat-17-mlrd-rublei",
+        "guidislink": false
+    },
+    {
+        "title": "Штормовое предупреждение объявили в Астраханской области",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Штормовое предупреждение объявили в Астраханской области"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172908/2021-06-02/shtormovoe-preduprezhdenie-obiavili-v-astrakhanskoi-oblasti"
+            }
+        ],
+        "link": "https://iz.ru/1172908/2021-06-02/shtormovoe-preduprezhdenie-obiavili-v-astrakhanskoi-oblasti",
+        "summary": "<p>Синоптики предупредили об ухудшении погоды на территории Астраханской области. До ночи 2 июня и днем 3 июня в регионе ожидается сильный ветер.</p><p>По данным центра по гидрометеорологии и мониторингу окружающей среды, на Астраханскую область надвигается холодный фронт. Циклоническое поле растянулось над Средней Азией через Казахстан и Астраханскую область до Ростовской области. Об этом пишет <a href=\"https://astrakhan-24.ru/news/misc/v_astrakhanskoj_oblasti_objavleno_shtormovoe_preduprezhdenie_74935\" target=\"_blank\">«Астрахань-24».</a> 2 и 3 июня ветер в регионе усилится до 22 м/с.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Синоптики предупредили об ухудшении погоды на территории Астраханской области. До ночи 2 июня и днем 3 июня в регионе ожидается сильный ветер.</p><p>По данным центра по гидрометеорологии и мониторингу окружающей среды, на Астраханскую область надвигается холодный фронт. Циклоническое поле растянулось над Средней Азией через Казахстан и Астраханскую область до Ростовской области. Об этом пишет <a href=\"https://astrakhan-24.ru/news/misc/v_astrakhanskoj_oblasti_objavleno_shtormovoe_preduprezhdenie_74935\" target=\"_blank\">«Астрахань-24».</a> 2 и 3 июня ветер в регионе усилится до 22 м/с.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:22:00 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            22,
             0,
             2,
             153,
@@ -125,46 +1191,464 @@
         ],
         "authors": [
             {
-                "name": "Любовь Лежнева"
+                "name": "Дарья Батовкина"
             }
         ],
-        "author": "Любовь Лежнева",
+        "author": "Дарья Батовкина",
         "author_detail": {
-            "name": "Любовь Лежнева"
+            "name": "Дарья Батовкина"
         },
-        "id": "https://iz.ru/1172599/2021-06-02/glava-minprirody-soobshchil-o-vysokoi-skorosti-potepleniia-v-rossii",
+        "id": "https://iz.ru/1172908/2021-06-02/shtormovoe-preduprezhdenie-obiavili-v-astrakhanskoi-oblasti",
         "guidislink": false
     },
     {
-        "title": "Миротворцы РФ рассказали о психологической помощи жителям Нагорного Карабаха",
+        "title": "Правительство скорректировало правила выплат на идущих в первый класс детей",
         "title_detail": {
             "type": "text/plain",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "Миротворцы РФ рассказали о психологической помощи жителям Нагорного Карабаха"
+            "value": "Правительство скорректировало правила выплат на идущих в первый класс детей"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://iz.ru/1172577/2021-06-02/mirotvortcy-rf-rasskazali-o-psikhologicheskoi-pomoshchi-zhiteliam-nagornogo-karabakha"
+                "href": "https://iz.ru/1172907/video/pravitelstvo-skorrektirovalo-pravila-vyplat-na-idushchikh-v-pervyi-klass-detei"
             }
         ],
-        "link": "https://iz.ru/1172577/2021-06-02/mirotvortcy-rf-rasskazali-o-psikhologicheskoi-pomoshchi-zhiteliam-nagornogo-karabakha",
-        "summary": "<p>Миротворцы РФ занимаются оказанием психологической и гуманитарной помощи населению Нагорного Карабаха в пунктах приема граждан и по телефонам «горячей линии». Об этом в среду, 2 июня, сообщила пресс-служба Министерства обороны России.</p>",
+        "link": "https://iz.ru/1172907/video/pravitelstvo-skorrektirovalo-pravila-vyplat-na-idushchikh-v-pervyi-klass-detei",
+        "summary": "",
         "summary_detail": {
             "type": "text/html",
             "language": "ru",
             "base": "https://iz.ru/xml/rss/all.xml",
-            "value": "<p>Миротворцы РФ занимаются оказанием психологической и гуманитарной помощи населению Нагорного Карабаха в пунктах приема граждан и по телефонам «горячей линии». Об этом в среду, 2 июня, сообщила пресс-служба Министерства обороны России.</p>"
+            "value": ""
         },
-        "published": "Wed, 02 Jun 2021 03:00:00 +0300",
+        "published": "Wed, 02 Jun 2021 16:21:00 +0300",
         "published_parsed": [
             2021,
             6,
             2,
+            13,
+            21,
             0,
-            0,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/1172907/video/pravitelstvo-skorrektirovalo-pravila-vyplat-na-idushchikh-v-pervyi-klass-detei",
+        "guidislink": false
+    },
+    {
+        "title": "«Тинькофф» запустил комплексную платформу безопасности экосистемы",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "«Тинькофф» запустил комплексную платформу безопасности экосистемы"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172859/2021-06-02/tinkoff-zapustil-kompleksnuiu-platformu-bezopasnosti-ekosistemy"
+            }
+        ],
+        "link": "https://iz.ru/1172859/2021-06-02/tinkoff-zapustil-kompleksnuiu-platformu-bezopasnosti-ekosistemy",
+        "summary": "<p>Заработала комплексная платформа безопасности «Тинькофф Защита», разработанная «Тинькофф». Об этом говорится в пресс-релизе, поступившем 2 июня «Известиям».</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Заработала комплексная платформа безопасности «Тинькофф Защита», разработанная «Тинькофф». Об этом говорится в пресс-релизе, поступившем 2 июня «Известиям».</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:19:37 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            19,
+            37,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Елена Плавская"
+            }
+        ],
+        "author": "Елена Плавская",
+        "author_detail": {
+            "name": "Елена Плавская"
+        },
+        "id": "https://iz.ru/1172859/2021-06-02/tinkoff-zapustil-kompleksnuiu-platformu-bezopasnosti-ekosistemy",
+        "guidislink": false
+    },
+    {
+        "title": "Белоруссия получила второй транш госкредита России на $1 млрд",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Белоруссия получила второй транш госкредита России на $1 млрд"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172902/2021-06-02/belorussiia-poluchila-vtoroi-transh-goskredita-rossii-na-1-mlrd"
+            }
+        ],
+        "link": "https://iz.ru/1172902/2021-06-02/belorussiia-poluchila-vtoroi-transh-goskredita-rossii-na-1-mlrd",
+        "summary": "<p>Минфин Белоруссии сообщил о получении второго транша государственного кредита от России на $1 млрд. Об этом в среду, 2 июня, ведомство сообщает на <a href=\"http://minfin.gov.by/\" target=\"_blank\">своем официальном сайте.</a></p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Минфин Белоруссии сообщил о получении второго транша государственного кредита от России на $1 млрд. Об этом в среду, 2 июня, ведомство сообщает на <a href=\"http://minfin.gov.by/\" target=\"_blank\">своем официальном сайте.</a></p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:19:14 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            19,
+            14,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Ксения Темникова"
+            }
+        ],
+        "author": "Ксения Темникова",
+        "author_detail": {
+            "name": "Ксения Темникова"
+        },
+        "id": "https://iz.ru/1172902/2021-06-02/belorussiia-poluchila-vtoroi-transh-goskredita-rossii-na-1-mlrd",
+        "guidislink": false
+    },
+    {
+        "title": "Эксперт спрогнозировал восстановление экономики России быстрее ЕС",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Эксперт спрогнозировал восстановление экономики России быстрее ЕС"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172901/2021-06-02/ekspert-sprognoziroval-vosstanovlenie-ekonomiki-rossii-bystree-es"
+            }
+        ],
+        "link": "https://iz.ru/1172901/2021-06-02/ekspert-sprognoziroval-vosstanovlenie-ekonomiki-rossii-bystree-es",
+        "summary": "<p>Экономика стран — членов Евросоюза вполне может вернуться к докризисному состоянию к концу 2022 года, но российская экономика сделает это раньше — в начале того же года. Об этом заявил «Известиям» 2 июня Александр Абрамов, доцент РАНХиГС, комментируя прогноз главы Еврокомиссии о восстановлении экономической активности в ЕС.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Экономика стран — членов Евросоюза вполне может вернуться к докризисному состоянию к концу 2022 года, но российская экономика сделает это раньше — в начале того же года. Об этом заявил «Известиям» 2 июня Александр Абрамов, доцент РАНХиГС, комментируя прогноз главы Еврокомиссии о восстановлении экономической активности в ЕС.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:16:20 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            16,
+            20,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Екатерина Ракитина"
+            }
+        ],
+        "author": "Екатерина Ракитина",
+        "author_detail": {
+            "name": "Екатерина Ракитина"
+        },
+        "id": "https://iz.ru/1172901/2021-06-02/ekspert-sprognoziroval-vosstanovlenie-ekonomiki-rossii-bystree-es",
+        "guidislink": false
+    },
+    {
+        "title": "Путин отметил работу «Единой России» в борьбе с пандемией",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путин отметил работу «Единой России» в борьбе с пандемией"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172905/2021-06-02/putin-otmetil-rabotu-edinoi-rossii-v-borbe-s-pandemiei"
+            }
+        ],
+        "link": "https://iz.ru/1172905/2021-06-02/putin-otmetil-rabotu-edinoi-rossii-v-borbe-s-pandemiei",
+        "summary": "<p>У россиян может быть много претензий к партии власти, но «Единая Россия» (ЕР) проделала очень большую работу по борьбе с пандемией. Об этом 2 июня заявил президент РФ Владимир Путин.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>У россиян может быть много претензий к партии власти, но «Единая Россия» (ЕР) проделала очень большую работу по борьбе с пандемией. Об этом 2 июня заявил президент РФ Владимир Путин.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:16:11 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            16,
+            11,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Елена Плавская"
+            }
+        ],
+        "author": "Елена Плавская",
+        "author_detail": {
+            "name": "Елена Плавская"
+        },
+        "id": "https://iz.ru/1172905/2021-06-02/putin-otmetil-rabotu-edinoi-rossii-v-borbe-s-pandemiei",
+        "guidislink": false
+    },
+    {
+        "title": "Эффективность «Спутника V» превысила 96%",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Эффективность «Спутника V» превысила 96%"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172903/2021-06-02/effektivnost-sputnika-v-prevysila-96"
+            }
+        ],
+        "link": "https://iz.ru/1172903/2021-06-02/effektivnost-sputnika-v-prevysila-96",
+        "summary": "<p>Эффективность российской вакцины от коронавируса «Спутник V» превышает 96%, заявил в среду министр здравоохранения России Михаил Мурашко.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Эффективность российской вакцины от коронавируса «Спутник V» превышает 96%, заявил в среду министр здравоохранения России Михаил Мурашко.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:14:37 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            14,
+            37,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Лейсан Давлетшина"
+            }
+        ],
+        "author": "Лейсан Давлетшина",
+        "author_detail": {
+            "name": "Лейсан Давлетшина"
+        },
+        "id": "https://iz.ru/1172903/2021-06-02/effektivnost-sputnika-v-prevysila-96",
+        "guidislink": false
+    },
+    {
+        "title": "Школьникам рассказали секреты создания лучшего выпускного на планете «Алые паруса»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Школьникам рассказали секреты создания лучшего выпускного на планете «Алые паруса»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172763/2021-06-02/shkolnikam-rasskazali-sekrety-sozdaniia-luchshego-vypusknogo-na-planete-alye-parusa"
+            }
+        ],
+        "link": "https://iz.ru/1172763/2021-06-02/shkolnikam-rasskazali-sekrety-sozdaniia-luchshego-vypusknogo-na-planete-alye-parusa",
+        "summary": "<p>Праздник выпускников «Алые паруса» было решено возобновить в начале 2000-х годов, чтобы дать молодому поколению надежду на светлое будущее. Об этом 2 июня школьникам, победителям всероссийского конкурса «Большая перемена» рассказали в «Ленинград Центре» в рамках эксклюзивной экскурсии.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Праздник выпускников «Алые паруса» было решено возобновить в начале 2000-х годов, чтобы дать молодому поколению надежду на светлое будущее. Об этом 2 июня школьникам, победителям всероссийского конкурса «Большая перемена» рассказали в «Ленинград Центре» в рамках эксклюзивной экскурсии.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:13:32 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            13,
+            32,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Дарья Зарембо"
+            }
+        ],
+        "author": "Дарья Зарембо",
+        "author_detail": {
+            "name": "Дарья Зарембо"
+        },
+        "id": "https://iz.ru/1172763/2021-06-02/shkolnikam-rasskazali-sekrety-sozdaniia-luchshego-vypusknogo-na-planete-alye-parusa",
+        "guidislink": false
+    },
+    {
+        "title": "Путин призвал не экономить на передвижных медкомплексах",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путин призвал не экономить на передвижных медкомплексах"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172897/2021-06-02/putin-prizval-ne-ekonomit-na-peredvizhnykh-medkompleksakh"
+            }
+        ],
+        "link": "https://iz.ru/1172897/2021-06-02/putin-prizval-ne-ekonomit-na-peredvizhnykh-medkompleksakh",
+        "summary": "<p>Президент России Владимир Путин призвал мобилизоваться с организацией передвижных медицинских комплексов. Об этом он сообщил в среду, 2 июня, в ходе совещания с членами правительства в режиме видеоконференции.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Президент России Владимир Путин призвал мобилизоваться с организацией передвижных медицинских комплексов. Об этом он сообщил в среду, 2 июня, в ходе совещания с членами правительства в режиме видеоконференции.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:11:01 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            11,
+            1,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Алина Прошина"
+            }
+        ],
+        "author": "Алина Прошина",
+        "author_detail": {
+            "name": "Алина Прошина"
+        },
+        "id": "https://iz.ru/1172897/2021-06-02/putin-prizval-ne-ekonomit-na-peredvizhnykh-medkompleksakh",
+        "guidislink": false
+    },
+    {
+        "title": "В московской квартире нашли четыре самодельных взрывных устройства",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В московской квартире нашли четыре самодельных взрывных устройства"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172895/2021-06-02/v-moskovskoi-kvartire-nashli-chetyre-samodelnykh-vzryvnykh-ustroistv"
+            }
+        ],
+        "link": "https://iz.ru/1172895/2021-06-02/v-moskovskoi-kvartire-nashli-chetyre-samodelnykh-vzryvnykh-ustroistv",
+        "summary": "<p>В квартире жилого дома на улице Саянская в Москве обнаружили четыре самодельных взрывных устройства (СВУ), пишет телеканал <a href=\"https://ren.tv/news/kriminal/841411-chetyre-samodelnykh-vzryvnykh-ustroistva-obnaruzhili-v-kvartire-v-moskve\" target=\"_blank\">РЕН ТВ </a>в среду, 2 июня.</p><p>Правоохранители обнаружили СВУ в ходе обыска накануне, устройства хранились в батареях. Кроме того, в квартире были найдены пять электроплат с таймером и лист с электрической схемой подключения устройств.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>В квартире жилого дома на улице Саянская в Москве обнаружили четыре самодельных взрывных устройства (СВУ), пишет телеканал <a href=\"https://ren.tv/news/kriminal/841411-chetyre-samodelnykh-vzryvnykh-ustroistva-obnaruzhili-v-kvartire-v-moskve\" target=\"_blank\">РЕН ТВ </a>в среду, 2 июня.</p><p>Правоохранители обнаружили СВУ в ходе обыска накануне, устройства хранились в батареях. Кроме того, в квартире были найдены пять электроплат с таймером и лист с электрической схемой подключения устройств.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:10:46 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            10,
+            46,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Маргарита Сурикова"
+            }
+        ],
+        "author": "Маргарита Сурикова",
+        "author_detail": {
+            "name": "Маргарита Сурикова"
+        },
+        "id": "https://iz.ru/1172895/2021-06-02/v-moskovskoi-kvartire-nashli-chetyre-samodelnykh-vzryvnykh-ustroistv",
+        "guidislink": false
+    },
+    {
+        "title": "Путин указал на обновление списка кандидатов в Госдуму от ЕР благодаря праймериз",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путин указал на обновление списка кандидатов в Госдуму от ЕР благодаря праймериз"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172900/2021-06-02/putin-ukazal-na-obnovlenie-spiska-kandidatov-v-gosdumu-ot-er-blagodaria-praimeriz"
+            }
+        ],
+        "link": "https://iz.ru/1172900/2021-06-02/putin-ukazal-na-obnovlenie-spiska-kandidatov-v-gosdumu-ot-er-blagodaria-praimeriz",
+        "summary": "<p>Президент России Владимир Путин отметил серьезное обновление списка кандидатов в Госдуму от «Единой России» благодаря внутрипартийным праймериз. Об этом глава государства заявил в среду, 2 июня.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Президент России Владимир Путин отметил серьезное обновление списка кандидатов в Госдуму от «Единой России» благодаря внутрипартийным праймериз. Об этом глава государства заявил в среду, 2 июня.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:10:00 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            10,
             0,
             2,
             153,
@@ -172,14 +1656,662 @@
         ],
         "authors": [
             {
-                "name": "Ксения Cтрижова"
+                "name": "Ксения Темникова"
             }
         ],
-        "author": "Ксения Cтрижова",
+        "author": "Ксения Темникова",
         "author_detail": {
-            "name": "Ксения Cтрижова"
+            "name": "Ксения Темникова"
         },
-        "id": "https://iz.ru/1172577/2021-06-02/mirotvortcy-rf-rasskazali-o-psikhologicheskoi-pomoshchi-zhiteliam-nagornogo-karabakha",
+        "id": "https://iz.ru/1172900/2021-06-02/putin-ukazal-na-obnovlenie-spiska-kandidatov-v-gosdumu-ot-er-blagodaria-praimeriz",
+        "guidislink": false
+    },
+    {
+        "title": "ПМЭФ ИНТЕРВЬЮ СТУДИЯ Яковлева",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "ПМЭФ ИНТЕРВЬЮ СТУДИЯ Яковлева"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172898/video/pmef-interviu-studiia-iakovleva"
+            }
+        ],
+        "link": "https://iz.ru/1172898/video/pmef-interviu-studiia-iakovleva",
+        "summary": "",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": ""
+        },
+        "published": "Wed, 02 Jun 2021 16:08:50 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            8,
+            50,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/1172898/video/pmef-interviu-studiia-iakovleva",
+        "guidislink": false
+    },
+    {
+        "title": "В МИДе оценили заявления Чехии об отзыве сотрудников спецслужб из России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В МИДе оценили заявления Чехии об отзыве сотрудников спецслужб из России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172894/2021-06-02/v-mide-otcenili-zaiavleniia-chekhii-ob-otzyve-sotrudnikov-spetcsluzhb-iz-rossii"
+            }
+        ],
+        "link": "https://iz.ru/1172894/2021-06-02/v-mide-otcenili-zaiavleniia-chekhii-ob-otzyve-sotrudnikov-spetcsluzhb-iz-rossii",
+        "summary": "<p>Официальный представитель МИД России Мария Захарова прокомментировала заявление первого вице-премьера и главы МВД Чехии Яна Гамачека об отзыве чешскими спецслужбами своих сотрудников из РФ до придания огласке подозрений по инциденту во Врбетице. Своим мнением она поделилась в Telegram-канале.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Официальный представитель МИД России Мария Захарова прокомментировала заявление первого вице-премьера и главы МВД Чехии Яна Гамачека об отзыве чешскими спецслужбами своих сотрудников из РФ до придания огласке подозрений по инциденту во Врбетице. Своим мнением она поделилась в Telegram-канале.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:08:41 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            8,
+            41,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Юлия Захарова"
+            }
+        ],
+        "author": "Юлия Захарова",
+        "author_detail": {
+            "name": "Юлия Захарова"
+        },
+        "id": "https://iz.ru/1172894/2021-06-02/v-mide-otcenili-zaiavleniia-chekhii-ob-otzyve-sotrudnikov-spetcsluzhb-iz-rossii",
+        "guidislink": false
+    },
+    {
+        "title": "Чернышенко рассказал о работе по развитию туризма на Камчатке",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Чернышенко рассказал о работе по развитию туризма на Камчатке"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172896/2021-06-02/chernyshenko-rasskazal-o-rabote-po-razvitiiu-turizma-na-kamchatke"
+            }
+        ],
+        "link": "https://iz.ru/1172896/2021-06-02/chernyshenko-rasskazal-o-rabote-po-razvitiiu-turizma-na-kamchatke",
+        "summary": "<p>Вице-премьер РФ Дмитрий Чернышенко считает, что поручения по развитию туризма по итогам поездки на Камчатку станут моделью для работы других природоохранных территорий.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Вице-премьер РФ Дмитрий Чернышенко считает, что поручения по развитию туризма по итогам поездки на Камчатку станут моделью для работы других природоохранных территорий.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:04:34 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            4,
+            34,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Анастасия Алимпиева"
+            }
+        ],
+        "author": "Анастасия Алимпиева",
+        "author_detail": {
+            "name": "Анастасия Алимпиева"
+        },
+        "id": "https://iz.ru/1172896/2021-06-02/chernyshenko-rasskazal-o-rabote-po-razvitiiu-turizma-na-kamchatke",
+        "guidislink": false
+    },
+    {
+        "title": "Пушков указал на «разрыв на Западе» из-за России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Пушков указал на «разрыв на Западе» из-за России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172893/2021-06-02/pushkov-ukazal-na-razryv-na-zapade-iz-za-rossii"
+            }
+        ],
+        "link": "https://iz.ru/1172893/2021-06-02/pushkov-ukazal-na-razryv-na-zapade-iz-za-rossii",
+        "summary": "<p>Восприятие России западной либеральной элитой существенно отличается от того, как воспринимают страну большинство жителей государств Запада. Такое мнение в среду, 2 июня, выразил сенатор Алексей Пушков.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Восприятие России западной либеральной элитой существенно отличается от того, как воспринимают страну большинство жителей государств Запада. Такое мнение в среду, 2 июня, выразил сенатор Алексей Пушков.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:04:16 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            4,
+            16,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Лейсан Давлетшина"
+            }
+        ],
+        "author": "Лейсан Давлетшина",
+        "author_detail": {
+            "name": "Лейсан Давлетшина"
+        },
+        "id": "https://iz.ru/1172893/2021-06-02/pushkov-ukazal-na-razryv-na-zapade-iz-za-rossii",
+        "guidislink": false
+    },
+    {
+        "title": "В Москве полиция нашла ушедшего из детского сада трехлетнего мальчика",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В Москве полиция нашла ушедшего из детского сада трехлетнего мальчика"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172889/2021-06-02/v-moskve-politciia-nashla-ushedshego-iz-detskogo-sada-trekhletnego-malchika"
+            }
+        ],
+        "link": "https://iz.ru/1172889/2021-06-02/v-moskve-politciia-nashla-ushedshego-iz-detskogo-sada-trekhletnego-malchika",
+        "summary": "<p>Полицейские нашли и вернули родителям трехлетнего мальчика, потерявшегося во время уличной прогулки в детском саду в столичном районе Митино. Об этом в среду, 2 июня, сообщает пресс-служба ГУ МВД России по столице.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Полицейские нашли и вернули родителям трехлетнего мальчика, потерявшегося во время уличной прогулки в детском саду в столичном районе Митино. Об этом в среду, 2 июня, сообщает пресс-служба ГУ МВД России по столице.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 16:02:24 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            13,
+            2,
+            24,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Юлия Горностаева"
+            }
+        ],
+        "author": "Юлия Горностаева",
+        "author_detail": {
+            "name": "Юлия Горностаева"
+        },
+        "id": "https://iz.ru/1172889/2021-06-02/v-moskve-politciia-nashla-ushedshego-iz-detskogo-sada-trekhletnego-malchika",
+        "guidislink": false
+    },
+    {
+        "title": "РФ адаптирует мощности для производства тест-систем при новых инфекциях",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "РФ адаптирует мощности для производства тест-систем при новых инфекциях"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172892/2021-06-02/rf-adaptiruet-moshchnosti-dlia-proizvodstva-test-sistem-pri-novykh-infektciiakh"
+            }
+        ],
+        "link": "https://iz.ru/1172892/2021-06-02/rf-adaptiruet-moshchnosti-dlia-proizvodstva-test-sistem-pri-novykh-infektciiakh",
+        "summary": "<p>Российские власти адаптируют производственные мощности для изготовления тест-систем в случае возникновения новых инфекций. Такое заявление в среду, 2 июня, сделала вице-премьер России Татьяна Голикова на совещании президента РФ Владимира Путина с членами правительства.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Российские власти адаптируют производственные мощности для изготовления тест-систем в случае возникновения новых инфекций. Такое заявление в среду, 2 июня, сделала вице-премьер России Татьяна Голикова на совещании президента РФ Владимира Путина с членами правительства.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 15:59:57 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            59,
+            57,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Маргарита Дмитриева"
+            }
+        ],
+        "author": "Маргарита Дмитриева",
+        "author_detail": {
+            "name": "Маргарита Дмитриева"
+        },
+        "id": "https://iz.ru/1172892/2021-06-02/rf-adaptiruet-moshchnosti-dlia-proizvodstva-test-sistem-pri-novykh-infektciiakh",
+        "guidislink": false
+    },
+    {
+        "title": "Суд арестовал бывшего директора «Открытой России» Пивоварова",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Суд арестовал бывшего директора «Открытой России» Пивоварова"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172887/2021-06-02/sud-arestoval-byvshego-direktora-otkrytoi-rossii-pivovarova"
+            }
+        ],
+        "link": "https://iz.ru/1172887/2021-06-02/sud-arestoval-byvshego-direktora-otkrytoi-rossii-pivovarova",
+        "summary": "<p>Бывший директор фонда «Открытая Россия» (нежелательная организация в РФ) Андрей Пивоваров арестован Первомайским районным судом Краснодара до 31 июля 2021 года.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Бывший директор фонда «Открытая Россия» (нежелательная организация в РФ) Андрей Пивоваров арестован Первомайским районным судом Краснодара до 31 июля 2021 года.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 15:59:25 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            59,
+            25,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Елена Плавская"
+            }
+        ],
+        "author": "Елена Плавская",
+        "author_detail": {
+            "name": "Елена Плавская"
+        },
+        "id": "https://iz.ru/1172887/2021-06-02/sud-arestoval-byvshego-direktora-otkrytoi-rossii-pivovarova",
+        "guidislink": false
+    },
+    {
+        "title": "В Сербии 4 июня начнется производство вакцины «Спутник V»",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В Сербии 4 июня начнется производство вакцины «Спутник V»"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172890/2021-06-02/v-serbii-4-iiunia-nachnetsia-proizvodstvo-vaktciny-sputnik-v"
+            }
+        ],
+        "link": "https://iz.ru/1172890/2021-06-02/v-serbii-4-iiunia-nachnetsia-proizvodstvo-vaktciny-sputnik-v",
+        "summary": "<p>Производство российской вакцины от COVID-19 «Спутник V» на территории Сербии в белградском Институте вирусологии, вакцин и сывороток «Торлак» официально начнется 4 июня.</p><p>«Производство вакцины «Спутник V» в Институте «Торлак» начнется в пятницу, 4 июня», — сообщили <a href=\"https://tass.ru/\" target=\"_blank\">ТАСС</a> в среду, 2 июня, в пресс-службе министра, отвечающего в правительстве Сербии за инновации и технологии, главы межправительственного комитета по сотрудничеству с Россией Ненада Поповича.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Производство российской вакцины от COVID-19 «Спутник V» на территории Сербии в белградском Институте вирусологии, вакцин и сывороток «Торлак» официально начнется 4 июня.</p><p>«Производство вакцины «Спутник V» в Институте «Торлак» начнется в пятницу, 4 июня», — сообщили <a href=\"https://tass.ru/\" target=\"_blank\">ТАСС</a> в среду, 2 июня, в пресс-службе министра, отвечающего в правительстве Сербии за инновации и технологии, главы межправительственного комитета по сотрудничеству с Россией Ненада Поповича.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 15:56:49 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            56,
+            49,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Алина Прошина"
+            }
+        ],
+        "author": "Алина Прошина",
+        "author_detail": {
+            "name": "Алина Прошина"
+        },
+        "id": "https://iz.ru/1172890/2021-06-02/v-serbii-4-iiunia-nachnetsia-proizvodstvo-vaktciny-sputnik-v",
+        "guidislink": false
+    },
+    {
+        "title": "Голикова анонсировала запуск регистра имеющих право на льготные лекарства",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Голикова анонсировала запуск регистра имеющих право на льготные лекарства"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172884/2021-06-02/golikova-anonsirovala-zapusk-registra-imeiushchikh-pravo-na-lgotnye-lekarstva"
+            }
+        ],
+        "link": "https://iz.ru/1172884/2021-06-02/golikova-anonsirovala-zapusk-registra-imeiushchikh-pravo-na-lgotnye-lekarstva",
+        "summary": "<p>Федеральный регистр граждан, имеющих право на льготное лекарственное обеспечение, будет сформирован к 1 июля, сообщила вице-премьер Татьяна Голикова на совещании президента России Владимира Путина с правительством.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Федеральный регистр граждан, имеющих право на льготное лекарственное обеспечение, будет сформирован к 1 июля, сообщила вице-премьер Татьяна Голикова на совещании президента России Владимира Путина с правительством.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 15:56:26 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            56,
+            26,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Маргарита Сурикова"
+            }
+        ],
+        "author": "Маргарита Сурикова",
+        "author_detail": {
+            "name": "Маргарита Сурикова"
+        },
+        "id": "https://iz.ru/1172884/2021-06-02/golikova-anonsirovala-zapusk-registra-imeiushchikh-pravo-na-lgotnye-lekarstva",
+        "guidislink": false
+    },
+    {
+        "title": "На Украине намерены упростить получение гражданства воевавшим в Донбассе за Киев",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "На Украине намерены упростить получение гражданства воевавшим в Донбассе за Киев"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172888/2021-06-02/na-ukraine-namereny-uprostit-poluchenie-grazhdanstva-voevavshim-v-donbasse-za-kiev"
+            }
+        ],
+        "link": "https://iz.ru/1172888/2021-06-02/na-ukraine-namereny-uprostit-poluchenie-grazhdanstva-voevavshim-v-donbasse-za-kiev",
+        "summary": "<p>Правительство Украины одобрило и предложило Верховной раде упростить предоставление гражданства некоторым россиянам и иностранцам, которые воевали в Донбассе за Киев. Решение было принято в среду, 2 июня, на заседании правительства после рассмотрения соответствующего законопроекта. Трансляция заседания велась на YouTube.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Правительство Украины одобрило и предложило Верховной раде упростить предоставление гражданства некоторым россиянам и иностранцам, которые воевали в Донбассе за Киев. Решение было принято в среду, 2 июня, на заседании правительства после рассмотрения соответствующего законопроекта. Трансляция заседания велась на YouTube.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 15:52:44 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            52,
+            44,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Екатерина Новикова"
+            }
+        ],
+        "author": "Екатерина Новикова",
+        "author_detail": {
+            "name": "Екатерина Новикова"
+        },
+        "id": "https://iz.ru/1172888/2021-06-02/na-ukraine-namereny-uprostit-poluchenie-grazhdanstva-voevavshim-v-donbasse-za-kiev",
+        "guidislink": false
+    },
+    {
+        "title": "В Госдуме сравнили Украину с экспериментальным кроликом НАТО",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В Госдуме сравнили Украину с экспериментальным кроликом НАТО"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172875/2021-06-02/v-gosdume-sravnili-ukrainu-s-eksperimentalnym-krolikom-nato"
+            }
+        ],
+        "link": "https://iz.ru/1172875/2021-06-02/v-gosdume-sravnili-ukrainu-s-eksperimentalnym-krolikom-nato",
+        "summary": "<p>Украине отведена роль колониальных войск в возможных войнах НАТО, заявил «Известиям» депутат Госдумы Руслан Бальбек в среду, 2 июня.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Украине отведена роль колониальных войск в возможных войнах НАТО, заявил «Известиям» депутат Госдумы Руслан Бальбек в среду, 2 июня.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 15:52:21 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            52,
+            21,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Иван Носатов"
+            }
+        ],
+        "author": "Иван Носатов",
+        "author_detail": {
+            "name": "Иван Носатов"
+        },
+        "id": "https://iz.ru/1172875/2021-06-02/v-gosdume-sravnili-ukrainu-s-eksperimentalnym-krolikom-nato",
+        "guidislink": false
+    },
+    {
+        "title": "Улучшение паводковой обстановки фиксируют на юге Красноярского края",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Улучшение паводковой обстановки фиксируют на юге Красноярского края"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172886/2021-06-02/uluchshenie-pavodkovoi-obstanovki-fiksiruiut-na-iuge-krasnoiarskogo-kraia"
+            }
+        ],
+        "link": "https://iz.ru/1172886/2021-06-02/uluchshenie-pavodkovoi-obstanovki-fiksiruiut-na-iuge-krasnoiarskogo-kraia",
+        "summary": "<p>В южных районах Красноярского края начала улучшаться паводковая обстановка. Вода отступила от жилых домов, но оставила затопленными дворы и дачные участки, сообщает ГУ МЧС России по региону.</p><p>о данным ведомства, затопления зафиксированы на территории 87 дворов и 200 дачных участков. Спасатели и дорожные инспекторы работают в Курагинском, Ермаковском, Каратузском района, где размыты три участка автодорог, пишет ИА <a href=\"https://krasnoyarskmedia.ru/news/1109385/?from=15\" target=\"_blank\">KrasnoyarskMedia</a>.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>В южных районах Красноярского края начала улучшаться паводковая обстановка. Вода отступила от жилых домов, но оставила затопленными дворы и дачные участки, сообщает ГУ МЧС России по региону.</p><p>о данным ведомства, затопления зафиксированы на территории 87 дворов и 200 дачных участков. Спасатели и дорожные инспекторы работают в Курагинском, Ермаковском, Каратузском района, где размыты три участка автодорог, пишет ИА <a href=\"https://krasnoyarskmedia.ru/news/1109385/?from=15\" target=\"_blank\">KrasnoyarskMedia</a>.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 15:48:34 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            48,
+            34,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Екатерина Натесова"
+            }
+        ],
+        "author": "Екатерина Натесова",
+        "author_detail": {
+            "name": "Екатерина Натесова"
+        },
+        "id": "https://iz.ru/1172886/2021-06-02/uluchshenie-pavodkovoi-obstanovki-fiksiruiut-na-iuge-krasnoiarskogo-kraia",
+        "guidislink": false
+    },
+    {
+        "title": "Путин призвал россиян пройти вакцинацию от COVID-19",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Путин призвал россиян пройти вакцинацию от COVID-19"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172885/video/putin-prizval-rossiian-proiti-vaktcinatciiu-ot-covid-19"
+            }
+        ],
+        "link": "https://iz.ru/1172885/video/putin-prizval-rossiian-proiti-vaktcinatciiu-ot-covid-19",
+        "summary": "",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": ""
+        },
+        "published": "Wed, 02 Jun 2021 15:47:18 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            47,
+            18,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/1172885/video/putin-prizval-rossiian-proiti-vaktcinatciiu-ot-covid-19",
+        "guidislink": false
+    },
+    {
+        "title": "В Кремле назвали дату участия Путина в ПМЭФ-2021",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "В Кремле назвали дату участия Путина в ПМЭФ-2021"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1172880/2021-06-02/v-kremle-nazvali-datu-uchastiia-putina-v-pmef-2021"
+            }
+        ],
+        "link": "https://iz.ru/1172880/2021-06-02/v-kremle-nazvali-datu-uchastiia-putina-v-pmef-2021",
+        "summary": "<p>Президент России Владимир Путин примет участие в мероприятиях Петербургского международного экономического форума 4 июня. Об этом в среду, 2 июня, сообщили в пресс-службе Кремля.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "<p>Президент России Владимир Путин примет участие в мероприятиях Петербургского международного экономического форума 4 июня. Об этом в среду, 2 июня, сообщили в пресс-службе Кремля.</p>"
+        },
+        "published": "Wed, 02 Jun 2021 15:47:16 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            47,
+            16,
+            2,
+            153,
+            0
+        ],
+        "authors": [
+            {
+                "name": "Юлия Захарова"
+            }
+        ],
+        "author": "Юлия Захарова",
+        "author_detail": {
+            "name": "Юлия Захарова"
+        },
+        "id": "https://iz.ru/1172880/2021-06-02/v-kremle-nazvali-datu-uchastiia-putina-v-pmef-2021",
         "guidislink": false
     }
 ]

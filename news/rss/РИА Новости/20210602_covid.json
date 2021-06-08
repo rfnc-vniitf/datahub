@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Путин призвал россиян вакцинироваться от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://ria.ru/export/rss2/archive/index.xml",
+            "value": "Путин призвал россиян вакцинироваться от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://ria.ru/20210602/vaktsinatsiya-1735276712.html"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn21.img.ria.ru/images/07e5/03/16/1602359333_0:0:3076:1731_600x0_80_0_0_d492a0f6665ea5b5c70764243b230e72.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://ria.ru/20210602/vaktsinatsiya-1735276712.html",
+        "id": "https://ria.ru/20210602/vaktsinatsiya-1735276712.html",
+        "guidislink": false,
+        "rian_priority": "3",
+        "published": "Wed, 02 Jun 2021 15:54:24 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            12,
+            54,
+            24,
+            2,
+            153,
+            0
+        ],
+        "summary": "Президент РФ Владимир Путин еще раз призвал россиян сделать прививку от новой коронавирусной инфекции, указав на важность вакцинации.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://ria.ru/export/rss2/archive/index.xml",
+            "value": "Президент РФ Владимир Путин еще раз призвал россиян сделать прививку от новой коронавирусной инфекции, указав на важность вакцинации."
+        },
+        "rian_type": "article",
+        "tags": [
+            {
+                "term": "Лента новостей",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

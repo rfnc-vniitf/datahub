@@ -148,6 +148,12 @@
 30.05.2021 | 4 | 0 
 31.05.2021 | 8 | 0 
 01.06.2021 | 9 | 0 
+02.06.2021 | 10 | 0 
+03.06.2021 | 10 | 0 
+04.06.2021 | 12 | 0 
+05.06.2021 | 7 | 0 
+06.06.2021 | 6 | 0 
+07.06.2021 | 8 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [«Паспорт — остатки крепостного права»: Дмитрий Волков о том, как пандемия изменила жизнь цифровых кочевников](http://www.forbes.ru/forbeslife/430687-pasport-ostatki-krepostnogo-prava-dmitriy-volkov-o-tom-kak-pandemiya-izmenila)
++ [Преждевременные воды: как пандемия повлияла на путешествия по России и за ее пределы](http://www.forbes.ru/forbeslife/431305-prezhdevremennye-vody-kak-pandemiya-povliyala-na-puteshestviya-po-rossii-i-za-ee)

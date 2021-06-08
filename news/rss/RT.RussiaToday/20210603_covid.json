@@ -1,0 +1,55 @@
+[
+    {
+        "title": "В России выявлено более 1000 случаев новых штаммов коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://russian.rt.com/rss",
+            "value": "В России выявлено более 1000 случаев новых штаммов коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://russian.rt.com/russia/news/869111-rossiya-sluchai-shtammy-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "123",
+                "href": "https://cdni.rt.com/russian/images/2021.06/thumbnail/60b8da1302e8bd71545ae953.png",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://russian.rt.com/russia/news/869111-rossiya-sluchai-shtammy-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "id": "https://russian.rt.com/russia/news/869111-rossiya-sluchai-shtammy-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "guidislink": false,
+        "summary": "<img align=\"left\" alt=\"Preview\" src=\"https://cdni.rt.com/russian/images/2021.06/thumbnail/60b8da1302e8bd71545ae953.png\" style=\"margin-right: 10px;\" /> В России выявили 1068 случаев заболевания британским, индийским и южноафриканским штаммами коронавирусной инфекции COVID-19, сообщила глава Роспотребнадзора Анна Попова. <br /><a href=\"https://russian.rt.com/russia/news/869111-rossiya-sluchai-shtammy-koronavirus?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Читать далее</a>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://russian.rt.com/rss",
+            "value": "<img align=\"left\" alt=\"Preview\" src=\"https://cdni.rt.com/russian/images/2021.06/thumbnail/60b8da1302e8bd71545ae953.png\" style=\"margin-right: 10px;\" /> В России выявили 1068 случаев заболевания британским, индийским и южноафриканским штаммами коронавирусной инфекции COVID-19, сообщила глава Роспотребнадзора Анна Попова. <br /><a href=\"https://russian.rt.com/russia/news/869111-rossiya-sluchai-shtammy-koronavirus?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Читать далее</a>"
+        },
+        "published": "Thu, 03 Jun 2021 16:41:13 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            3,
+            13,
+            41,
+            13,
+            3,
+            154,
+            0
+        ],
+        "authors": [
+            {
+                "name": "RT на русском"
+            }
+        ],
+        "author": "RT на русском",
+        "author_detail": {
+            "name": "RT на русском"
+        }
+    }
+]

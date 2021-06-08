@@ -166,8 +166,13 @@
 30.05.2021 | 11 | 2 
 31.05.2021 | 44 | 1 
 01.06.2021 | 47 | 3 
+02.06.2021 | 42 | 6 
+03.06.2021 | 43 | 4 
+04.06.2021 | 54 | 1 
+05.06.2021 | 19 | 3 
+06.06.2021 | 12 | 2 
+07.06.2021 | 51 | 2 
 
 > ### Последние новости по теме covid-19:
-+ [Власти Петербурга назвали непростой ситуацию с коронавирусом перед ПМЭФ](https://www.vedomosti.ru/society/news/2021/06/01/872267-vlasti-peterburga-nazvali-neprostoi-situatsiyu-s-koronavirusom)
-+ [Путин заявил о постепенном выходе из пандемии коронавируса](https://www.vedomosti.ru/society/news/2021/06/01/872255-putin-zayavil-o-postepennom-vihode-iz-pandemii)
-+ [В России за сутки выявили 9500 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/06/01/872205-v-rossii-za-sutki-viyavili-9500-novih-sluchaev-koronavirusa)
++ [В Бурятии ужесточили ограничения из-за роста случаев коронавируса](https://www.vedomosti.ru/society/news/2021/06/07/873200-v-buryatii-uzhestochili-ogranicheniya-iz-za-rosta-zabolevaemosti-koronavirusom)
++ [В России за сутки выявили 9429 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/06/07/873164-9429-sluchaev-koronavirusa)

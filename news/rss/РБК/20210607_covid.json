@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 7 июня",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 7 июня"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/07/06/2021/5e2fe9459a79479d102bada6"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/756214096194311.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/07/06/2021/5e2fe9459a79479d102bada6",
+        "summary": "140 млн тестов на COVID в России, в половине регионов страны снизилась смертность, Госдеп США решил выяснить происхождение коронавируса, Боррель осудил «вакцинную дипломатию». Главные новости о коронавирусе — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "140 млн тестов на COVID в России, в половине регионов страны снизилась смертность, Госдеп США решил выяснить происхождение коронавируса, Боррель осудил «вакцинную дипломатию». Главные новости о коронавирусе — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Mon, 07 Jun 2021 12:54:07 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            7,
+            9,
+            54,
+            7,
+            0,
+            158,
+            0
+        ]
+    },
+    {
+        "title": "В Роспотребнадзоре назвали число проведенных за пандемию тестов на COVID",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Роспотребнадзоре назвали число проведенных за пандемию тестов на COVID"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/rbcfreenews/60bdc2359a7947e9ccda8958"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/6/86/756230495524866.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/rbcfreenews/60bdc2359a7947e9ccda8958",
+        "summary": "За время пандемии коронавирусной инфекции в России проведено 140 650 440 тестов на наличие COVID-19.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "За время пандемии коронавирусной инфекции в России проведено 140 650 440 тестов на наличие COVID-19."
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/60bdc2359a7947e9ccda8958",
+        "guidislink": false,
+        "published": "Mon, 07 Jun 2021 10:41:43 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            7,
+            7,
+            41,
+            43,
+            0,
+            158,
+            0
+        ]
+    }
+]

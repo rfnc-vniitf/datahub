@@ -1,0 +1,62 @@
+[
+    {
+        "id": "https://lenta.ru/news/2021/06/08/skandal/",
+        "guidislink": true,
+        "link": "https://lenta.ru/news/2021/06/08/skandal/",
+        "authors": [
+            {
+                "name": "Ксения Назарова"
+            }
+        ],
+        "author": "Ксения Назарова",
+        "author_detail": {
+            "name": "Ксения Назарова"
+        },
+        "title": "О секс-скандале с Вайнштейном снимут фильм",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://lenta.ru/rss/",
+            "value": "О секс-скандале с Вайнштейном снимут фильм"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://lenta.ru/news/2021/06/08/skandal/"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "33614",
+                "href": "https://icdn.lenta.ru/images/2021/06/08/02/20210608022107706/pic_d11971ce2e6367bd85ff972e51d71204.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "В США анонсировали съемки фильма, посвященного скандалу с участием известного продюсера Харви Вайнштейна. В основу ленты ляжет книга She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement, написанная репортерами The New York Times Меган Тухи и Джоди Кантор.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://lenta.ru/rss/",
+            "value": "В США анонсировали съемки фильма, посвященного скандалу с участием известного продюсера Харви Вайнштейна. В основу ленты ляжет книга She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement, написанная репортерами The New York Times Меган Тухи и Джоди Кантор."
+        },
+        "published": "Tue, 08 Jun 2021 03:06:53 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            0,
+            6,
+            53,
+            1,
+            159,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Культура",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

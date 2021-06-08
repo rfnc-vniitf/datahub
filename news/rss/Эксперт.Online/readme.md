@@ -165,6 +165,12 @@
 30.05.2021 | 8 | 1 
 31.05.2021 | 24 | 1 
 01.06.2021 | 25 | 0 
+02.06.2021 | 23 | 1 
+03.06.2021 | 25 | 0 
+04.06.2021 | 25 | 0 
+05.06.2021 | 8 | 1 
+06.06.2021 | 8 | 1 
+07.06.2021 | 24 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [В России за сутки выявлено 8,4 тыс. новых случаев коронавируса](http://expert.ru/2021/05/31/v-rossii-za-sutki-vyyavleno-novykh-sluchayev-covid/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/05/31/v-rossii-za-sutki-vyyavleno-novykh-sluchayev-covid/)
++ [За сутки коронавирусом в России заболели вновь более 9 тыс. человек](http://expert.ru/2021/06/6/koronavirus-statistika/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/06/6/koronavirus-statistika/)

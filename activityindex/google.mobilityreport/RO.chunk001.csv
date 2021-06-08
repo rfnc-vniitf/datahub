@@ -1,4 +1,1442 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-13,-22.0,-13.0,-19.0,-17.0,-3.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-14,-26.0,-7.0,-19.0,-19.0,-5.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-15,-30.0,-1.0,-18.0,-21.0,-11.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-16,-25.0,-17.0,-6.0,-23.0,-33.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-17,-31.0,-22.0,-7.0,-25.0,-35.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-18,-38.0,-22.0,-2.0,-34.0,-37.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-19,-46.0,-30.0,0.0,-38.0,-39.0,10.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-20,-50.0,-30.0,-19.0,-45.0,-20.0,11.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-21,-60.0,-32.0,-31.0,-49.0,-24.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-22,-67.0,-33.0,-47.0,-58.0,-39.0,13.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-23,-63.0,-44.0,-35.0,-54.0,-52.0,19.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-24,-63.0,-39.0,-32.0,-59.0,-57.0,20.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-25,-75.0,-58.0,-45.0,-69.0,-64.0,24.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-26,-78.0,-64.0,-41.0,-70.0,-62.0,23.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-27,-78.0,-61.0,-47.0,-72.0,-49.0,24.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-28,-80.0,-60.0,-51.0,-74.0,-45.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-29,-85.0,-65.0,-49.0,-78.0,-48.0,17.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-30,-71.0,-51.0,-34.0,-67.0,-62.0,22.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-03-31,-75.0,-55.0,-40.0,-71.0,-64.0,23.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-01,-74.0,-54.0,-33.0,-70.0,-63.0,21.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-02,-75.0,-56.0,-28.0,-69.0,-62.0,21.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-03,-75.0,-56.0,-39.0,-72.0,-48.0,22.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-04,-78.0,-56.0,-43.0,-72.0,-43.0,15.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-05,-83.0,-62.0,-45.0,-79.0,-45.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-06,-69.0,-49.0,-22.0,-66.0,-61.0,20.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-07,-69.0,-48.0,-24.0,-67.0,-61.0,20.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-08,-68.0,-48.0,-21.0,-67.0,-61.0,18.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-09,-69.0,-49.0,-18.0,-66.0,-59.0,18.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-10,-68.0,-45.0,-32.0,-67.0,-45.0,20.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-11,-71.0,-43.0,-36.0,-66.0,-37.0,13.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-12,-80.0,-55.0,-40.0,-75.0,-40.0,15.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-13,-62.0,-39.0,-15.0,-61.0,-58.0,18.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-14,-65.0,-38.0,-29.0,-67.0,-61.0,20.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-15,-59.0,-27.0,-21.0,-59.0,-59.0,18.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-16,-62.0,-31.0,-14.0,-59.0,-59.0,18.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-17,-69.0,-39.0,-35.0,-68.0,-60.0,24.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-18,-78.0,-55.0,-43.0,-72.0,-49.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-19,-94.0,-95.0,-52.0,-86.0,-56.0,19.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-20,-91.0,-88.0,-27.0,-85.0,-83.0,28.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-21,-79.0,-62.0,-30.0,-77.0,-70.0,23.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-22,-68.0,-50.0,-21.0,-69.0,-60.0,18.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-23,-68.0,-48.0,-17.0,-69.0,-60.0,19.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-24,-67.0,-49.0,-28.0,-69.0,-46.0,20.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-25,-72.0,-53.0,-36.0,-69.0,-36.0,12.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-26,-77.0,-57.0,-41.0,-76.0,-38.0,15.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-27,-59.0,-44.0,-12.0,-58.0,-53.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-28,-59.0,-43.0,-10.0,-61.0,-53.0,14.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-29,-59.0,-43.0,-15.0,-64.0,-53.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-04-30,-61.0,-41.0,-14.0,-63.0,-52.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-01,-69.0,-53.0,-30.0,-71.0,-49.0,20.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-02,-68.0,-46.0,-35.0,-68.0,-29.0,11.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-03,-75.0,-52.0,-39.0,-75.0,-33.0,13.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-04,-55.0,-41.0,-20.0,-62.0,-50.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-05,-56.0,-41.0,-15.0,-60.0,-50.0,15.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-06,-55.0,-38.0,-18.0,-61.0,-50.0,15.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-07,-59.0,-42.0,-19.0,-63.0,-50.0,17.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-08,-58.0,-40.0,-23.0,-61.0,-28.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-09,-62.0,-38.0,-26.0,-59.0,-21.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-10,-66.0,-41.0,-14.0,-64.0,-19.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-11,-49.0,-33.0,0.0,-51.0,-45.0,12.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-12,-52.0,-35.0,-17.0,-58.0,-47.0,14.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-13,-49.0,-29.0,-8.0,-53.0,-44.0,12.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-14,-50.0,-35.0,-5.0,-53.0,-43.0,11.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-15,-41.0,-24.0,-7.0,-47.0,-19.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-16,-41.0,-20.0,-5.0,-41.0,-10.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-17,-51.0,-30.0,-15.0,-55.0,-20.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-18,-24.0,-18.0,20.0,-27.0,-35.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-19,-29.0,-19.0,16.0,-34.0,-36.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-20,-33.0,-15.0,-13.0,-37.0,-40.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-21,-27.0,-8.0,5.0,-26.0,-41.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-22,-43.0,-27.0,-13.0,-39.0,-13.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-23,-44.0,-20.0,-6.0,-34.0,-4.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-24,-52.0,-27.0,-20.0,-48.0,-17.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-25,-29.0,-16.0,-1.0,-27.0,-36.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-26,-35.0,-18.0,-11.0,-35.0,-36.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-27,-37.0,-16.0,-18.0,-36.0,-39.0,10.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-28,-34.0,-16.0,-7.0,-32.0,-42.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-29,-44.0,-27.0,-26.0,-40.0,-13.0,10.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-30,-44.0,-19.0,-15.0,-26.0,-2.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-05-31,-50.0,-26.0,-23.0,-44.0,-14.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-01,-25.0,-14.0,-5.0,-27.0,-48.0,10.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-02,-14.0,-2.0,-6.0,-7.0,-33.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-03,-26.0,-13.0,-5.0,-17.0,-30.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-04,-26.0,-15.0,3.0,-8.0,-28.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-05,-27.0,-13.0,-4.0,-14.0,-3.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-06,-32.0,-12.0,2.0,-10.0,4.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-07,-22.0,-8.0,37.0,-7.0,6.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-08,-16.0,-7.0,37.0,-17.0,-55.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-09,-22.0,-14.0,-7.0,-13.0,-29.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-10,-19.0,-10.0,-1.0,-12.0,-28.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-11,-24.0,-15.0,0.0,-13.0,-28.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-12,-25.0,-13.0,-10.0,-19.0,-2.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-13,-30.0,-10.0,-7.0,-13.0,4.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-14,-16.0,-4.0,12.0,-3.0,7.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-15,-9.0,-4.0,7.0,-9.0,-28.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-16,-14.0,-5.0,2.0,-8.0,-30.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-17,-11.0,0.0,4.0,-7.0,-28.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-18,-16.0,-10.0,2.0,-8.0,-28.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-19,-21.0,-13.0,-10.0,-16.0,-3.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-20,-27.0,-12.0,-11.0,-15.0,3.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-21,-20.0,-8.0,-7.0,-13.0,-2.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-22,-9.0,-7.0,4.0,-13.0,-30.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-23,-13.0,-6.0,5.0,-7.0,-30.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-24,8.0,13.0,16.0,3.0,-33.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-25,-14.0,-11.0,10.0,-5.0,-27.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-26,-20.0,-12.0,3.0,-13.0,-4.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-27,-20.0,-7.0,12.0,-3.0,3.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-28,-8.0,0.0,32.0,8.0,7.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-29,5.0,6.0,26.0,-2.0,-35.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-06-30,-8.0,-6.0,16.0,-12.0,-29.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-01,-10.0,-4.0,26.0,-13.0,-29.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-02,-1.0,4.0,31.0,3.0,-29.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-03,-23.0,-16.0,3.0,-20.0,-6.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-04,-19.0,-7.0,5.0,-9.0,1.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-05,1.0,2.0,45.0,13.0,7.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-06,-6.0,-5.0,34.0,-8.0,-31.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-07,-11.0,-2.0,7.0,-9.0,-34.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-08,-4.0,1.0,28.0,-7.0,-30.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-09,-12.0,-7.0,31.0,-4.0,-29.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-10,-12.0,-6.0,19.0,-11.0,-5.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-11,-13.0,-2.0,30.0,-1.0,1.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-12,-11.0,2.0,19.0,5.0,-5.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-13,3.0,5.0,37.0,-1.0,-32.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-14,0.0,5.0,35.0,4.0,-32.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-15,5.0,9.0,37.0,2.0,-30.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-16,-3.0,1.0,33.0,3.0,-30.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-17,-8.0,-1.0,15.0,-7.0,-6.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-18,-8.0,2.0,25.0,1.0,2.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-19,1.0,6.0,34.0,5.0,-1.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-20,14.0,15.0,39.0,-3.0,-40.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-21,0.0,4.0,31.0,0.0,-34.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-22,3.0,7.0,37.0,-2.0,-32.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-23,-5.0,1.0,42.0,1.0,-31.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-24,-13.0,-6.0,24.0,-8.0,-6.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-25,-13.0,0.0,26.0,-4.0,-2.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-26,8.0,10.0,64.0,14.0,1.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-27,0.0,4.0,41.0,-4.0,-35.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-28,0.0,6.0,46.0,-2.0,-33.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-29,-2.0,6.0,49.0,-3.0,-34.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-30,-8.0,0.0,58.0,-4.0,-33.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-07-31,-12.0,-2.0,30.0,-9.0,-11.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-01,-8.0,7.0,42.0,-1.0,-2.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-02,10.0,15.0,86.0,9.0,1.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-03,4.0,7.0,67.0,1.0,-35.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-04,3.0,11.0,60.0,-3.0,-35.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-05,2.0,13.0,71.0,1.0,-34.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-06,14.0,23.0,90.0,18.0,-38.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-07,-8.0,-1.0,54.0,-4.0,-11.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-08,-8.0,5.0,60.0,3.0,-3.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-09,12.0,15.0,90.0,11.0,-1.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-10,5.0,9.0,68.0,8.0,-35.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-11,8.0,16.0,73.0,11.0,-34.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-12,8.0,19.0,81.0,9.0,-33.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-13,5.0,15.0,84.0,15.0,-32.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-14,0.0,12.0,57.0,9.0,-11.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-15,8.0,23.0,80.0,18.0,-12.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-16,13.0,15.0,82.0,16.0,-1.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-17,,14.0,,,-36.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-18,,15.0,,,-34.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-19,,14.0,,,-35.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-20,,11.0,,,-33.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-21,-2.0,4.0,,,-11.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-22,-3.0,7.0,,,-3.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-23,,14.0,,,,-9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-24,,5.0,,,-36.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-25,,7.0,,,-35.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-26,,11.0,,,-32.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-27,0.0,4.0,,,-32.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-28,-7.0,-2.0,,,-11.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-29,,20.0,,,-10.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-30,,6.0,,,,-9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-08-31,,0.0,,,-34.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-01,,5.0,,,-34.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-02,,6.0,,,-32.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-03,-10.0,-3.0,,,-34.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-04,-7.0,0.0,,,-10.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-05,-8.0,-2.0,,,-5.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-06,,12.0,,,,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-07,,1.0,,,-33.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-08,,27.0,,,-36.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-09,,5.0,,,-30.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-10,-3.0,-2.0,,,-31.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-11,-6.0,-1.0,30.0,-6.0,-8.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-12,-3.0,4.0,34.0,4.0,-5.0,-12.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-13,18.0,20.0,46.0,21.0,1.0,-12.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-14,31.0,30.0,64.0,12.0,-31.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-15,3.0,9.0,45.0,-3.0,-28.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-16,0.0,7.0,46.0,-5.0,-28.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-17,-6.0,-1.0,42.0,-1.0,-27.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-18,-10.0,-2.0,14.0,-10.0,-3.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-19,-11.0,-2.0,20.0,-10.0,-4.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-20,7.0,12.0,33.0,12.0,2.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-21,0.0,3.0,44.0,-1.0,-28.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-22,-6.0,7.0,24.0,-3.0,-28.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-23,-8.0,8.0,17.0,-4.0,-26.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-24,-14.0,-1.0,16.0,-2.0,-25.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-25,-18.0,-4.0,0.0,-8.0,-6.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-26,-23.0,-5.0,-10.0,-11.0,-6.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-27,-1.0,10.0,6.0,8.0,0.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-28,-16.0,-6.0,9.0,-11.0,-33.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-29,-16.0,-1.0,-8.0,-14.0,-33.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-09-30,-13.0,4.0,-7.0,-9.0,-27.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-01,-6.0,10.0,-9.0,6.0,-27.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-02,-20.0,-5.0,-18.0,-8.0,2.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-03,-18.0,-6.0,-9.0,-8.0,-11.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-04,-1.0,5.0,3.0,6.0,-13.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-05,-13.0,-2.0,1.0,-13.0,-37.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-06,-12.0,4.0,-9.0,-8.0,-27.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-07,-11.0,5.0,1.0,-6.0,-23.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-08,-21.0,-6.0,-11.0,-12.0,-24.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-09,-19.0,-3.0,-11.0,-12.0,5.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-10,-25.0,-6.0,-11.0,-18.0,-11.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-11,-14.0,2.0,4.0,-5.0,-10.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-12,-14.0,0.0,7.0,-11.0,-24.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-13,-21.0,1.0,-10.0,-12.0,-25.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-14,-3.0,20.0,-4.0,-8.0,-27.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-15,-23.0,-4.0,-9.0,-9.0,-21.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-16,-24.0,-3.0,-25.0,-19.0,4.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-17,-26.0,-4.0,-23.0,-22.0,-11.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-18,-17.0,2.0,-13.0,-11.0,-15.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-19,-18.0,-1.0,-11.0,-17.0,-25.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-20,-21.0,1.0,-14.0,-18.0,-25.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-21,-20.0,1.0,-7.0,-18.0,-23.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-22,-22.0,-5.0,0.0,-13.0,-21.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-23,-25.0,-5.0,-14.0,-21.0,5.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-24,-29.0,-5.0,-11.0,-20.0,-8.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-25,-26.0,-4.0,-23.0,-22.0,-19.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-26,-9.0,9.0,2.0,-16.0,-31.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-27,-13.0,8.0,-6.0,-10.0,-30.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-28,-23.0,-5.0,-10.0,-20.0,-26.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-29,-27.0,-12.0,-12.0,-20.0,-26.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-30,-29.0,-9.0,-35.0,-27.0,-2.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-10-31,-31.0,-9.0,-33.0,-29.0,-16.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-01,-22.0,-4.0,-22.0,-15.0,-19.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-02,-20.0,-7.0,-13.0,-21.0,-25.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-03,-25.0,-7.0,-29.0,-30.0,-30.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-04,-24.0,-4.0,-19.0,-25.0,-28.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-05,-28.0,-11.0,-22.0,-27.0,-28.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-06,-29.0,-7.0,-31.0,-29.0,-2.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-07,-29.0,-5.0,-24.0,-22.0,-15.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-08,-21.0,-1.0,-11.0,-11.0,-16.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-09,-30.0,-16.0,-19.0,-36.0,-38.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-10,-31.0,-11.0,-27.0,-35.0,-40.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-11,-30.0,-10.0,-23.0,-32.0,-39.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-12,-32.0,-15.0,-22.0,-31.0,-37.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-13,-31.0,-10.0,-35.0,-34.0,-16.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-14,-30.0,-9.0,-27.0,-25.0,-16.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-15,-22.0,1.0,-24.0,-17.0,-22.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-16,-24.0,-10.0,-18.0,-30.0,-38.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-17,-28.0,-7.0,-27.0,-31.0,-39.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-18,-28.0,-7.0,-23.0,-31.0,-38.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-19,-31.0,-13.0,-20.0,-27.0,-37.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-20,-36.0,-15.0,-36.0,-37.0,-17.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-21,-23.0,3.0,-35.0,-17.0,-25.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-22,-27.0,-8.0,-29.0,-19.0,-25.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-23,-28.0,-14.0,-22.0,-34.0,-39.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-24,-29.0,-11.0,-25.0,-33.0,-39.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-25,-26.0,-9.0,-21.0,-29.0,-37.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-26,-30.0,-14.0,-21.0,-28.0,-37.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-27,-34.0,-14.0,-34.0,-34.0,-14.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-28,-30.0,-7.0,-29.0,-23.0,-18.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-29,-18.0,3.0,-19.0,-12.0,-24.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-11-30,-12.0,5.0,-5.0,-39.0,-61.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-01,-35.0,-19.0,-24.0,-34.0,-57.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-02,-25.0,-5.0,-27.0,-31.0,-37.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-03,-30.0,-11.0,-27.0,-26.0,-36.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-04,-29.0,-8.0,-35.0,-32.0,-14.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-05,-23.0,5.0,-32.0,-20.0,-13.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-06,-25.0,-3.0,-27.0,-11.0,-19.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-07,-26.0,-14.0,-23.0,-38.0,-40.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-08,-25.0,-8.0,-26.0,-29.0,-39.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-09,-26.0,-7.0,-18.0,-30.0,-38.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-10,-30.0,-12.0,-14.0,-27.0,-37.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-11,-33.0,-12.0,-29.0,-31.0,-16.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-12,-27.0,1.0,-29.0,-17.0,-17.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-13,-19.0,4.0,-20.0,-6.0,-24.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-14,-19.0,-1.0,-5.0,-28.0,-38.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-15,-15.0,6.0,-8.0,-19.0,-38.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-16,-14.0,8.0,-5.0,-16.0,-37.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-17,-17.0,1.0,-6.0,-13.0,-37.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-18,-21.0,0.0,-18.0,-18.0,-15.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-19,-17.0,5.0,-17.0,-9.0,-17.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-20,5.0,26.0,-5.0,25.0,-18.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-21,2.0,21.0,14.0,-15.0,-41.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-22,2.0,31.0,9.0,-4.0,-43.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-23,1.0,35.0,8.0,-11.0,-49.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-24,-25.0,10.0,31.0,-24.0,-64.0,10.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-25,-79.0,-80.0,0.0,-66.0,-75.0,16.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-26,-42.0,-35.0,10.0,-50.0,-52.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-27,-15.0,-4.0,20.0,-21.0,-27.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-28,-2.0,10.0,23.0,-27.0,-51.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-29,3.0,27.0,21.0,-10.0,-50.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-30,1.0,37.0,24.0,-16.0,-52.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2020-12-31,-36.0,1.0,41.0,-32.0,-64.0,9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-01,-76.0,-80.0,3.0,-71.0,-76.0,14.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-02,-27.0,-19.0,7.0,-41.0,-45.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-03,-15.0,-3.0,2.0,-19.0,-24.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-04,-14.0,3.0,7.0,-32.0,-45.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-05,-20.0,0.0,-8.0,-29.0,-46.0,8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-06,-15.0,4.0,12.0,-28.0,-47.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-07,-16.0,-2.0,3.0,-29.0,-45.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-08,-27.0,-8.0,-16.0,-33.0,-21.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-09,-27.0,-7.0,-19.0,-35.0,-20.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-10,-20.0,-8.0,-11.0,-26.0,-19.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-11,-24.0,-6.0,-9.0,-37.0,-38.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-12,-25.0,-6.0,-16.0,-37.0,-39.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-13,-24.0,-3.0,-12.0,-36.0,-38.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-14,-27.0,-11.0,-17.0,-36.0,-38.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-15,-33.0,-14.0,-32.0,-42.0,-17.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-16,-33.0,-13.0,-29.0,-45.0,-23.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-17,-32.0,-20.0,-25.0,-44.0,-23.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-18,-30.0,-15.0,-25.0,-45.0,-41.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-19,-32.0,-15.0,-27.0,-46.0,-41.0,7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-20,-26.0,-7.0,-20.0,-39.0,-39.0,6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-21,-29.0,-13.0,-19.0,-36.0,-36.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-22,-31.0,-13.0,-30.0,-41.0,-14.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-23,-28.0,-10.0,-23.0,-37.0,-14.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-24,-23.0,-8.0,-16.0,-35.0,-16.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-25,-26.0,-11.0,-20.0,-42.0,-37.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-26,-27.0,-9.0,-23.0,-39.0,-37.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-27,-30.0,-10.0,-23.0,-41.0,-37.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-28,-34.0,-14.0,-25.0,-38.0,-35.0,5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-29,-34.0,-13.0,-31.0,-42.0,-13.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-30,-22.0,2.0,-17.0,-30.0,-17.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-01-31,-35.0,-16.0,-19.0,-39.0,-19.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-01,-28.0,-10.0,-13.0,-38.0,-38.0,4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-02,-21.0,2.0,-12.0,-31.0,-41.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-03,-26.0,-6.0,-11.0,-30.0,-37.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-04,-26.0,-9.0,-11.0,-26.0,-35.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-05,-32.0,-10.0,-28.0,-33.0,-15.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-06,-37.0,-13.0,-30.0,-38.0,-18.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-07,-38.0,-19.0,-29.0,-38.0,-21.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-08,-28.0,-9.0,-25.0,-34.0,-37.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-09,-26.0,-3.0,-26.0,-31.0,-35.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-10,-22.0,2.0,-22.0,-27.0,-32.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-11,-31.0,-8.0,-30.0,-29.0,-31.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-12,-36.0,-15.0,-46.0,-43.0,-10.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-13,-32.0,-6.0,-42.0,-43.0,-22.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-14,-26.0,-8.0,-38.0,-36.0,-19.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-15,-26.0,-4.0,-33.0,-34.0,-33.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-16,-24.0,0.0,-36.0,-32.0,-33.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-17,-23.0,2.0,-35.0,-33.0,-30.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-18,-29.0,-8.0,-37.0,-28.0,-30.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-19,-30.0,-6.0,-43.0,-34.0,-5.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-20,-31.0,-4.0,-39.0,-35.0,-15.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-21,-24.0,-5.0,-27.0,-26.0,-13.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-22,-22.0,-2.0,-26.0,-29.0,-28.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-23,-22.0,0.0,-30.0,-27.0,-28.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-24,-19.0,2.0,-31.0,-28.0,-26.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-25,-22.0,-2.0,-27.0,-19.0,-25.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-26,-22.0,-2.0,-34.0,-25.0,2.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-27,-28.0,-3.0,-42.0,-33.0,-14.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-02-28,-16.0,3.0,-29.0,-19.0,-12.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-01,-21.0,-2.0,-32.0,-30.0,-26.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-02,-20.0,1.0,-30.0,-23.0,-25.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-03,-20.0,4.0,-27.0,-24.0,-24.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-04,-22.0,-2.0,-27.0,-21.0,-23.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-05,-27.0,0.0,-40.0,-33.0,2.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-06,-23.0,2.0,-38.0,-34.0,-14.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-07,-9.0,16.0,-25.0,-17.0,-12.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-08,-3.0,17.0,-19.0,-20.0,-25.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-09,-21.0,3.0,-35.0,-27.0,-26.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-10,-24.0,-1.0,-35.0,-33.0,-25.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-11,-27.0,-4.0,-34.0,-26.0,-23.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-12,-28.0,-4.0,-42.0,-28.0,4.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-13,-22.0,2.0,-35.0,-27.0,-13.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-14,-12.0,5.0,-21.0,-16.0,-10.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-15,-22.0,0.0,-36.0,-31.0,-25.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-16,-23.0,3.0,-39.0,-31.0,-24.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-17,-27.0,-3.0,-41.0,-35.0,-25.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-18,-27.0,-3.0,-37.0,-26.0,-21.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-19,-30.0,-3.0,-45.0,-33.0,5.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-20,-29.0,-3.0,-40.0,-36.0,-12.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-21,-17.0,2.0,-25.0,-22.0,-10.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-22,-21.0,0.0,-30.0,-27.0,-24.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-23,-26.0,-1.0,-39.0,-32.0,-24.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-24,-23.0,2.0,-35.0,-30.0,-24.0,0.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-25,-19.0,2.0,-30.0,-24.0,-25.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-26,-28.0,-7.0,-36.0,-28.0,7.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-27,-28.0,-4.0,-29.0,-30.0,-12.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-28,-26.0,-3.0,-37.0,-26.0,-17.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-29,-18.0,0.0,-20.0,-28.0,-24.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-30,-20.0,2.0,-22.0,-25.0,-23.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-03-31,-20.0,2.0,-21.0,-22.0,-21.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-01,-18.0,-1.0,-13.0,-16.0,-18.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-02,-29.0,-5.0,-42.0,-32.0,-11.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-03,-27.0,-3.0,-37.0,-29.0,-15.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-04,-21.0,0.0,-32.0,-23.0,-17.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-05,-14.0,5.0,-12.0,-24.0,-33.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-06,-19.0,3.0,-20.0,-18.0,-33.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-07,-21.0,3.0,-31.0,-31.0,-35.0,1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-08,-21.0,-1.0,-26.0,-23.0,-31.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-09,-23.0,0.0,-29.0,-25.0,-8.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-10,-22.0,2.0,-21.0,-19.0,-12.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-11,-3.0,15.0,-4.0,-1.0,-10.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-12,-15.0,4.0,-4.0,-23.0,-32.0,-3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-13,-16.0,9.0,-14.0,-18.0,-32.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-14,-17.0,9.0,-25.0,-25.0,-33.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-15,-18.0,5.0,-29.0,-18.0,-31.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-16,-23.0,2.0,-36.0,-24.0,-6.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-17,-21.0,4.0,-26.0,-20.0,-11.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-18,-6.0,17.0,-21.0,4.0,-13.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-19,-14.0,6.0,-18.0,-25.0,-32.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-20,-11.0,15.0,-21.0,-17.0,-32.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-21,-11.0,14.0,-9.0,-14.0,-30.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-22,-16.0,6.0,-11.0,-14.0,-30.0,-4.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-23,-8.0,19.0,-33.0,-16.0,-12.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-24,-21.0,4.0,-23.0,-22.0,-9.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-25,-6.0,14.0,-5.0,-1.0,-6.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-26,-9.0,12.0,-9.0,-25.0,-33.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-27,-10.0,19.0,-16.0,-12.0,-33.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-28,-8.0,28.0,-11.0,-12.0,-34.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-29,-9.0,22.0,-2.0,-7.0,-37.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-04-30,-16.0,27.0,-10.0,-18.0,-43.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-01,-24.0,13.0,12.0,-14.0,-30.0,-1.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-02,-60.0,-69.0,27.0,-47.0,-32.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-03,-36.0,-34.0,40.0,-44.0,-77.0,3.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-04,-3.0,15.0,22.0,-19.0,-54.0,-2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-05,-5.0,16.0,4.0,-5.0,-26.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-06,-10.0,11.0,-3.0,-3.0,-24.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-07,-2.0,23.0,-13.0,-3.0,-1.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-08,-17.0,7.0,-18.0,-12.0,-12.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-09,3.0,15.0,9.0,4.0,-8.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-10,-1.0,19.0,5.0,-2.0,-17.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-11,-1.0,23.0,1.0,-2.0,-16.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-12,-2.0,26.0,-4.0,-3.0,-14.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-13,-4.0,20.0,-10.0,3.0,-13.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-14,-8.0,19.0,-23.0,-6.0,17.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-15,-7.0,17.0,-9.0,-8.0,-7.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-16,5.0,20.0,1.0,3.0,-8.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-17,6.0,27.0,8.0,0.0,-11.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-18,-3.0,23.0,-15.0,-5.0,-13.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-19,1.0,27.0,-2.0,0.0,-11.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-20,-6.0,21.0,-7.0,-5.0,-9.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-21,6.0,32.0,-4.0,0.0,18.0,-9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-22,-12.0,10.0,-6.0,-15.0,-8.0,-9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-23,2.0,16.0,8.0,2.0,-11.0,-9.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-24,2.0,22.0,2.0,-3.0,-9.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-25,0.0,26.0,0.0,-4.0,-8.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-26,1.0,26.0,1.0,-1.0,-8.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-27,-3.0,17.0,1.0,2.0,-4.0,-8.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-28,-12.0,11.0,-25.0,-11.0,28.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-29,-7.0,16.0,-7.0,-7.0,-7.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-30,8.0,21.0,8.0,4.0,-9.0,-6.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-05-31,6.0,26.0,5.0,-4.0,-9.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-06-01,8.0,23.0,-9.0,-16.0,-48.0,2.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-06-02,10.0,38.0,-5.0,6.0,-8.0,-5.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-06-03,-1.0,18.0,9.0,3.0,-2.0,-7.0
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2021-06-04,-4.0,17.0,-4.0,0.0,33.0,-8.0
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-15,,,-7.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-16,,,4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-17,,,-4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-18,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-19,,,-2.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-20,,,0.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-21,,,-17.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-22,,,-13.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-23,,,-4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-24,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-25,,,-5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-26,,,-11.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-27,,,-17.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-28,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-02-29,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-01,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-02,,,-8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-03,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-04,,,-4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-05,,,-11.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-06,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-07,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-08,,,-4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-09,,,-13.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-10,,,-10.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-11,,,0.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-12,,,2.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-13,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-14,,,-9.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-15,,,-3.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-16,,,-2.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-17,,,-6.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-18,,,3.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-19,,,5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-20,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-21,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-22,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-23,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-24,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-25,,,-29.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-26,,,-24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-27,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-28,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-29,,,-30.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-30,,,-18.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-03-31,,,-30.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-01,,,-13.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-02,,,-7.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-03,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-04,,,-25.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-05,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-06,,,-4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-07,,,-8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-08,,,4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-09,,,-1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-10,,,-18.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-11,,,-10.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-12,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-13,,,9.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-14,,,-9.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-15,,,0.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-16,,,10.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-17,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-18,,,-22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-19,,,-34.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-20,,,-4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-21,,,-14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-22,,,0.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-23,,,3.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-24,,,-10.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-25,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-26,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-27,,,9.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-28,,,1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-29,,,13.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-04-30,,,7.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-01,,,-12.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-02,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-03,,,-19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-04,,,-2.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-05,,,5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-06,,,7.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-07,,,0.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-08,,,-12.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-09,,,-6.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-10,,,4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-11,,,15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-12,,,6.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-13,,,15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-14,,,12.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-15,,,7.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-16,,,12.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-17,,,16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-18,,,26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-19,,,15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-20,,,12.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-21,,,45.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-22,,,20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-23,,,25.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-24,,,15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-25,,,36.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-26,,,20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-27,,,14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-28,,,23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-29,,,11.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-30,,,24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-05-31,,,23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-01,,,32.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-02,,,13.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-03,,,39.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-04,,,42.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-05,,,31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-06,,,64.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-07,,,97.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-08,,,72.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-09,,,21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-10,,,27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-11,,,34.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-12,,,28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-13,,,26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-14,,,43.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-15,,,33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-16,,,31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-17,,,41.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-18,,,24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-19,,,8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-20,,,28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-21,,,34.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-22,,,31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-23,,,32.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-24,,,38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-25,,,39.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-26,,,37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-27,,,60.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-28,,,73.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-29,,,64.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-06-30,,,44.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-01,,,47.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-02,,,43.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-03,,,41.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-04,,,37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-05,,,73.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-06,,,56.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-07,,,36.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-08,,,59.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-09,,,59.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-10,,,41.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-11,,,74.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-12,,,65.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-13,,,65.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-14,,,54.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-15,,,63.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-16,,,54.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-17,,,38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-18,,,55.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-19,,,60.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-20,,,49.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-21,,,48.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-22,,,45.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-23,,,66.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-24,,,50.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-25,,,59.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-26,,,85.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-27,,,65.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-28,,,65.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-29,,,76.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-30,,,84.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-07-31,,,46.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-01,,,77.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-03,,,82.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-04,,,67.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-05,,,91.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-06,,,100.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-07,,,65.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-08,,,96.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-09,,,112.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-10,,,81.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-11,,,78.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-12,,,93.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-13,,,103.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-14,,,71.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-15,,,109.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-08-16,,,93.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-11,,,9.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-12,,,16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-13,,,29.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-14,,,30.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-15,,,23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-16,,,28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-17,,,23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-18,,,-1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-19,,,6.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-20,,,22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-21,,,24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-22,,,6.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-23,,,11.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-24,,,14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-25,,,-1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-26,,,-5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-27,,,8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-28,,,8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-29,,,-3.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-09-30,,,1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-01,,,-8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-02,,,-17.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-03,,,-11.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-04,,,5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-05,,,-1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-06,,,-8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-07,,,-8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-08,,,-3.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-09,,,-14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-10,,,-12.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-11,,,3.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-12,,,-3.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-13,,,-11.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-14,,,-19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-15,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-16,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-17,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-18,,,-11.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-19,,,-19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-20,,,-22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-21,,,-14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-22,,,-12.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-23,,,-24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-24,,,-19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-25,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-26,,,-10.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-27,,,-19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-28,,,-22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-29,,,-25.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-30,,,-39.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-10-31,,,-35.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-01,,,-25.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-02,,,-25.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-03,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-04,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-05,,,-17.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-06,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-07,,,-24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-08,,,-8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-09,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-10,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-11,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-12,,,-18.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-13,,,-30.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-14,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-15,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-16,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-17,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-18,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-19,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-20,,,-31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-21,,,-31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-22,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-23,,,-22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-24,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-25,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-26,,,-24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-27,,,-33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-28,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-29,,,-14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-11-30,,,-6.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-01,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-02,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-03,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-04,,,-36.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-05,,,-33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-06,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-07,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-08,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-09,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-10,,,-14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-11,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-12,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-13,,,-13.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-14,,,-5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-15,,,-8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-16,,,-9.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-17,,,-2.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-18,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-19,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-20,,,-2.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-21,,,10.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-22,,,5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-23,,,14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-24,,,48.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-25,,,6.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-26,,,19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-27,,,25.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-28,,,22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-29,,,14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-30,,,26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2020-12-31,,,41.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-01,,,7.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-02,,,2.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-03,,,8.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-04,,,-1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-05,,,-14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-06,,,1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-07,,,-6.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-08,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-09,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-10,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-11,,,-19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-12,,,-22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-13,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-14,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-15,,,-35.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-16,,,-30.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-17,,,-19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-18,,,-30.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-19,,,-33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-20,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-21,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-22,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-23,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-24,,,-17.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-25,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-26,,,-31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-27,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-28,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-29,,,-33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-30,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-01-31,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-01,,,-19.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-02,,,-24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-03,,,-17.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-04,,,-14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-05,,,-30.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-06,,,-34.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-07,,,-25.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-08,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-09,,,-32.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-10,,,-27.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-11,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-12,,,-42.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-13,,,-40.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-14,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-15,,,-30.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-16,,,-36.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-17,,,-35.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-18,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-19,,,-40.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-20,,,-42.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-21,,,-29.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-22,,,-35.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-23,,,-40.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-24,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-25,,,-36.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-26,,,-42.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-27,,,-44.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-02-28,,,-33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-01,,,-34.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-02,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-03,,,-33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-04,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-05,,,-41.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-06,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-07,,,-32.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-08,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-09,,,-45.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-10,,,-41.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-11,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-12,,,-46.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-13,,,-45.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-14,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-15,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-16,,,-48.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-17,,,-45.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-18,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-19,,,-46.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-20,,,-45.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-21,,,-34.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-22,,,-39.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-23,,,-39.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-24,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-25,,,-41.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-26,,,-43.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-27,,,-40.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-28,,,-39.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-29,,,-31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-30,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-03-31,,,-33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-01,,,-34.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-02,,,-44.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-03,,,-41.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-04,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-05,,,-29.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-06,,,-31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-07,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-08,,,-36.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-09,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-10,,,-35.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-11,,,-24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-12,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-13,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-14,,,-33.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-15,,,-37.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-16,,,-40.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-17,,,-32.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-18,,,-29.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-19,,,-32.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-20,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-21,,,-22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-22,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-23,,,-38.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-24,,,-28.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-25,,,-15.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-26,,,-14.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-27,,,-24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-28,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-29,,,-5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-04-30,,,-11.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-01,,,-1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-02,,,32.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-03,,,43.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-04,,,1.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-05,,,-5.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-06,,,-9.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-07,,,-29.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-08,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-09,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-10,,,-10.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-11,,,-18.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-12,,,-16.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-13,,,-24.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-14,,,-31.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-15,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-16,,,-18.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-17,,,-9.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-18,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-19,,,-18.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-20,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-21,,,-26.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-22,,,-23.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-23,,,-4.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-24,,,-21.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-25,,,-29.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-26,,,-20.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-27,,,-17.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-28,,,-32.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-29,,,-17.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-30,,,3.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-05-31,,,-7.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-06-01,,,-22.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-06-02,,,-25.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-06-03,,,-12.0,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2021-06-04,,,-28.0,,,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-03-24,,,,,-62.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-03-25,,,,,-71.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-03-31,,,,,-66.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-04-07,,,,,-64.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-04-14,,,,,-62.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-04-21,,,,,-71.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-08,,,,,-62.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-09,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-10,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-11,,,,,-23.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-12,,,,,-12.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-15,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-16,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-17,,,,,-21.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-18,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-19,,,,,-1.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-22,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-23,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-24,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-25,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-26,,,,,-8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-29,,,,,-31.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-06-30,,,,,-32.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-01,,,,,-31.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-02,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-03,,,,,-11.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-06,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-07,,,,,-37.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-08,,,,,-31.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-09,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-10,,,,,-13.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-13,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-14,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-15,,,,,-21.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-16,,,,,-30.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-17,,,,,-10.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-20,,,,,-31.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-21,,,,,-32.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-22,,,,,-27.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-23,,,,,-21.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-24,,,,,-8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-27,,,,,-32.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-28,,,,,-27.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-29,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-30,,,,,-29.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-07-31,,,,,-12.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-03,,,,,-35.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-04,,,,,-31.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-05,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-06,,,,,-35.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-07,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-10,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-11,,,,,-41.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-12,,,,,-35.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-13,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-08-14,,,,,-16.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-11,,,,,-16.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-14,,,,,-30.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-15,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-16,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-17,,,,,-23.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-18,,,,,-7.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-21,,,,,-19.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-22,,,,,-22.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-23,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-24,,,,,-15.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-25,,,,,-8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-28,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-29,,,,,-30.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-09-30,,,,,-23.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-01,,,,,-13.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-02,,,,,8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-05,,,,,-29.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-06,,,,,-19.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-07,,,,,-13.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-08,,,,,-20.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-09,,,,,4.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-12,,,,,-20.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-13,,,,,-21.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-14,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-15,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-16,,,,,-6.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-19,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-20,,,,,-21.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-21,,,,,-20.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-22,,,,,-13.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-23,,,,,7.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-26,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-27,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-28,,,,,-22.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-29,,,,,-16.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-10-30,,,,,-1.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-02,,,,,-12.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-03,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-04,,,,,-23.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-05,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-06,,,,,1.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-09,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-10,,,,,-31.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-11,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-12,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-13,,,,,-8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-16,,,,,-27.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-17,,,,,-33.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-18,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-19,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-20,,,,,-9.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-23,,,,,-29.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-24,,,,,-33.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-25,,,,,-27.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-26,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-27,,,,,-11.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-11-30,,,,,-59.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-01,,,,,-61.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-02,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-03,,,,,-27.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-04,,,,,-16.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-07,,,,,-32.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-08,,,,,-30.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-09,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-10,,,,,-22.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-11,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-14,,,,,-33.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-15,,,,,-31.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-16,,,,,-30.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-17,,,,,-29.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-18,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-21,,,,,-38.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-22,,,,,-42.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-23,,,,,-48.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-24,,,,,-70.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-28,,,,,-47.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-29,,,,,-51.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-30,,,,,-48.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2020-12-31,,,,,-69.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-04,,,,,-42.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-05,,,,,-39.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-06,,,,,-43.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-07,,,,,-47.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-08,,,,,-23.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-11,,,,,-30.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-12,,,,,-30.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-13,,,,,-27.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-14,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-15,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-18,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-19,,,,,-36.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-20,,,,,-29.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-21,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-22,,,,,-5.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-25,,,,,-31.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-26,,,,,-38.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-27,,,,,-29.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-28,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-01-29,,,,,-9.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-01,,,,,-30.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-02,,,,,-34.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-03,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-04,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-05,,,,,-16.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-08,,,,,-26.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-09,,,,,-33.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-10,,,,,-20.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-11,,,,,-21.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-12,,,,,-15.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-15,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-16,,,,,-33.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-17,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-18,,,,,-14.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-19,,,,,-5.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-22,,,,,-23.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-23,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-24,,,,,-19.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-25,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-02-26,,,,,-1.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-01,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-02,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-03,,,,,-11.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-04,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-05,,,,,-1.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-08,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-09,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-10,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-11,,,,,-13.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-12,,,,,-3.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-15,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-16,,,,,-21.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-17,,,,,-15.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-18,,,,,-12.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-19,,,,,7.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-22,,,,,-15.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-23,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-24,,,,,-14.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-25,,,,,-11.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-26,,,,,11.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-29,,,,,-17.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-30,,,,,-16.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-03-31,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-01,,,,,-10.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-02,,,,,-14.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-05,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-06,,,,,-28.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-07,,,,,-25.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-08,,,,,-19.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-09,,,,,-8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-12,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-13,,,,,-20.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-14,,,,,-23.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-15,,,,,-19.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-16,,,,,2.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-19,,,,,-20.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-20,,,,,-20.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-21,,,,,-20.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-22,,,,,-16.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-23,,,,,-4.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-26,,,,,-21.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-27,,,,,-29.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-28,,,,,-24.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-29,,,,,-33.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-04-30,,,,,-49.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-04,,,,,-54.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-05,,,,,-18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-06,,,,,-13.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-07,,,,,3.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-10,,,,,-2.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-11,,,,,-11.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-12,,,,,-8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-13,,,,,6.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-17,,,,,2.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-18,,,,,-8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-19,,,,,4.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-20,,,,,10.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-24,,,,,1.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-25,,,,,3.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-26,,,,,8.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-27,,,,,18.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-05-31,,,,,9.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-06-01,,,,,-54.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-06-02,,,,,13.0,
+RO,Romania,Suceava County,Comuna Șcheia,,,,ChIJiXmsS07-NEcRW1jvC_kDzaU,2021-06-03,,,,,21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-15,-2.0,,,,,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-17,-2.0,,,,2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-18,-2.0,,,,1.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-19,,,,,6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-20,-9.0,-11.0,,,4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-21,-9.0,-8.0,,,19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-22,-11.0,,,,,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-24,-7.0,,,,2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-25,-3.0,,,,-1.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-26,,,,,5.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-27,-16.0,-11.0,,,0.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-28,-12.0,-13.0,,,21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-02-29,1.0,,,,,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-02,-2.0,,,,7.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-03,-1.0,,,,-2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-04,5.0,,,,7.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-05,-3.0,-8.0,,,4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-06,-3.0,-4.0,,,23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-07,9.0,,,,,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-09,9.0,,,,6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-10,-1.0,,,,-1.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-11,-16.0,,,,-8.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-12,-21.0,-9.0,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-13,-29.0,-18.0,,,-2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-14,-19.0,,,,,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-16,,,,,-27.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-17,,,,,-27.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-18,-39.0,,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-19,-56.0,-36.0,,,-32.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-20,-54.0,-32.0,,,-14.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-23,-67.0,,,,-43.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-24,-67.0,-45.0,,,-53.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-25,,-63.0,,,-58.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-26,,-71.0,,,-58.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-27,-80.0,-67.0,,,-49.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-30,,,,,-56.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-03-31,,-58.0,,,-58.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-01,,,,,-56.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-02,,-59.0,,,-56.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-03,,-58.0,,,-47.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-06,-73.0,,,,-53.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-07,-73.0,-49.0,,,-54.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-08,-73.0,-50.0,,,-52.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-09,-74.0,-52.0,,,-52.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-10,-72.0,-50.0,,,-46.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-13,-70.0,,,,-53.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-14,-67.0,,,,-56.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-15,-62.0,,,,-52.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-16,-66.0,-31.0,,,-54.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-17,-75.0,-46.0,,,-62.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-20,,-89.0,,,-83.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-21,,-63.0,,,-66.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-22,-70.0,,,,-48.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-23,-70.0,-43.0,,,-52.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-24,-71.0,-46.0,,,-45.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-27,-66.0,,,,-44.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-28,-64.0,,,,-43.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-29,-64.0,,,,-44.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-04-30,-67.0,-36.0,,,-41.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-01,-75.0,-50.0,,,-47.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-04,-63.0,,,,-40.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-05,-60.0,,,,-41.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-06,-59.0,,,,-37.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-07,-63.0,-38.0,,,-41.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-08,-65.0,-40.0,,,-20.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-11,-58.0,,,,-30.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-12,-57.0,,,,-38.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-13,-54.0,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-14,-59.0,-30.0,,,-27.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-15,-50.0,-21.0,,,-10.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-16,-32.0,,,,,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-18,-28.0,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-19,-26.0,,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-20,,,,,-32.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-21,-16.0,-19.0,,,-37.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-22,-46.0,-36.0,,,-8.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-25,,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-26,,,,,-29.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-27,,,,,-26.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-28,-30.0,-20.0,,,-39.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-29,-46.0,-35.0,,,-6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-05-30,-26.0,,,,,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-01,,,,,-37.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-02,-7.0,,,,-26.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-03,,,,,-19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-04,-28.0,-20.0,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-05,-30.0,-21.0,,,-6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-08,-11.0,,,,-51.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-09,,,,,-20.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-10,-12.0,,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-11,-20.0,-21.0,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-12,-25.0,-20.0,,,-2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-13,-17.0,,,,4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-15,-17.0,,,,-18.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-16,-21.0,,,,-21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-17,-18.0,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-18,-25.0,-21.0,,,-17.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-19,-28.0,-21.0,,,-5.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-20,,,,,2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-22,-13.0,,,,-18.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-23,-18.0,,,,-18.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-24,16.0,,,,-21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-25,-21.0,-16.0,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-26,-30.0,-23.0,,,1.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-27,-16.0,,,,4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-29,-2.0,,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-06-30,-17.0,,,,-19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-01,,,,,-19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-02,-5.0,,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-03,-41.0,-34.0,,,-10.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-04,,,,,-2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-06,,,,,-18.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-07,-14.0,,,,-29.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-08,-18.0,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-09,-22.0,-19.0,,,-21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-10,-31.0,-20.0,,,-11.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-11,-8.0,,,,2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-13,,,,,-21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-14,,,,,-21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-15,-9.0,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-16,-12.0,-9.0,,,-20.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-17,-18.0,-16.0,,,-6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-18,-5.0,,,,0.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-20,,,,,-34.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-21,-9.0,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-22,-8.0,,,,-19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-23,-10.0,-12.0,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-24,-22.0,-16.0,,,-6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-25,,,,,2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-27,-5.0,,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-28,,,,,-26.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-29,-10.0,,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-30,-17.0,-9.0,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-07-31,-31.0,-15.0,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-01,-11.0,,,,-6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-03,,,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-04,-9.0,,,,-30.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-05,,,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-06,,,,,-35.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-07,-20.0,-12.0,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-08,,,,,-8.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-10,,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-11,,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-12,,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-13,,,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-14,-25.0,3.0,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-08-15,1.0,,,,-11.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-11,-13.0,1.0,,,-5.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-12,,,,,2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-14,26.0,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-15,-1.0,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-16,-6.0,,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-17,-9.0,,,,-19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-18,-19.0,-5.0,,,-5.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-19,-10.0,,,,-7.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-21,-9.0,,,,-14.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-22,-13.0,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-23,-13.0,,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-24,-25.0,,,,-14.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-25,-39.0,-5.0,,,0.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-26,-28.0,,,,-4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-28,-27.0,,,,-20.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-29,,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-09-30,-16.0,,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-01,-6.0,,,,-19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-02,-29.0,-11.0,,,3.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-03,,,,,-5.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-05,,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-06,-12.0,,,,-17.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-07,-15.0,,,,-7.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-08,-29.0,-12.0,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-09,-23.0,-7.0,,,6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-10,,,,,-4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-12,-20.0,,,,-11.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-13,,,,,-13.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-14,8.0,,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-15,-29.0,-8.0,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-16,-27.0,-8.0,,,6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-17,-21.0,,,,-8.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-19,,,,,-14.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-20,-19.0,,,,-11.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-21,-19.0,,,,-7.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-22,-22.0,-8.0,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-23,-26.0,-5.0,,,5.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-24,,,,,-1.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-25,,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-26,-9.0,,,,-19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-27,-12.0,,,,-21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-28,,,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-29,-30.0,-14.0,,,-13.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-30,-33.0,-16.0,,,-2.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-10-31,,,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-02,,,,,-10.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-03,-13.0,,,,-19.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-04,-10.0,,,,-10.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-05,-21.0,-12.0,,,-10.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-06,-24.0,-8.0,,,7.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-07,-14.0,,,,-3.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-09,-31.0,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-10,,,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-11,-26.0,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-12,-36.0,-25.0,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-13,-35.0,-20.0,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-14,-25.0,,,,0.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-16,,,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-17,-26.0,,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-18,,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-19,-40.0,-27.0,,,-26.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-20,-41.0,-22.0,,,-14.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-21,,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-23,,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-24,-31.0,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-25,-27.0,,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-26,-33.0,-22.0,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-27,-43.0,-26.0,,,-6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-28,,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-11-30,-16.0,,,,-55.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-01,,,,,-51.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-02,-22.0,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-03,-31.0,-21.0,,,-29.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-04,-31.0,-15.0,,,-9.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-05,-13.0,,,,-4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-07,-24.0,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-08,-28.0,,,,-27.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-09,-21.0,,,,-26.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-10,-37.0,-21.0,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-11,-36.0,-22.0,,,-7.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-12,-12.0,,,,-10.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-14,-21.0,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-15,-14.0,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-16,-14.0,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-17,-19.0,-9.0,,,-25.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-18,-20.0,-6.0,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-19,-6.0,,,,-8.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-21,1.0,,,,-26.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-22,8.0,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-23,11.0,,,,-36.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-24,-12.0,,,,-56.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-25,-81.0,-81.0,,,-77.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-26,,,,,-50.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-28,-12.0,,,,-40.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-29,-2.0,,,,-40.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-30,-7.0,,,,-41.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2020-12-31,-42.0,-6.0,,,-54.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-01,-85.0,-78.0,,,-77.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-02,,,,,-41.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-04,-18.0,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-05,-19.0,,,,-36.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-06,-15.0,,,,-32.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-07,-24.0,-8.0,,,-36.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-08,-38.0,-16.0,,,-18.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-09,,,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-11,,,,,-27.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-12,-28.0,,,,-32.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-13,-25.0,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-14,-35.0,-18.0,,,-27.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-15,-43.0,-26.0,,,-14.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-16,-32.0,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-17,,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-18,,,,,-31.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-19,-38.0,,,,-34.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-20,-30.0,,,,-27.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-21,-35.0,-21.0,,,-29.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-22,-43.0,-24.0,,,-10.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-23,,,,,-7.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-25,-32.0,,,,-26.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-26,-31.0,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-27,-34.0,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-28,-42.0,-25.0,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-29,-41.0,-23.0,,,-11.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-01-30,-25.0,,,,-11.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-01,,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-02,-30.0,,,,-33.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-03,,,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-04,-38.0,-23.0,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-05,-39.0,-20.0,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-06,,,,,-17.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-08,,,,,-28.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-09,,,,,-26.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-10,-20.0,,,,-22.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-11,-33.0,-21.0,,,-24.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-12,-45.0,-28.0,,,-10.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-13,,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-15,-28.0,,,,-21.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-16,-25.0,,,,-23.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-17,-23.0,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-18,-30.0,-19.0,,,-20.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-19,-33.0,-16.0,,,-3.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-20,-35.0,,,,-4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-22,-26.0,,,,-14.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-23,-19.0,,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-24,-15.0,,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-25,-19.0,-7.0,,,-16.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-26,-26.0,-6.0,,,4.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-02-27,-25.0,,,,-12.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-03-01,-26.0,,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-03-02,-20.0,,,,-15.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-03-03,,,,,-8.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-03-04,-24.0,-9.0,,,-13.0,
 RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-03-05,-31.0,-5.0,,,0.0,
 RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-03-06,,,,,-8.0,
 RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-03-08,-1.0,,,,-11.0,
@@ -74,6 +1512,11 @@ RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-05-26,14
 RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-05-27,4.0,,,,7.0,
 RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-05-28,-6.0,13.0,,,23.0,
 RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-05-29,-4.0,,,,1.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-05-31,10.0,,,,3.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-06-01,0.0,,,,-41.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-06-02,26.0,,,,6.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-06-03,10.0,,,,11.0,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2021-06-04,1.0,20.0,,,33.0,
 RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2020-02-17,,,,,-1.0,
 RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2020-02-18,,,,,0.0,
 RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2020-02-20,,,,,-7.0,
@@ -412,6 +1855,11 @@ RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-05-
 RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-05-26,,,,,-9.0,
 RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-05-27,,,,,-9.0,
 RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-05-28,,,,,6.0,
+RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-05-31,,,,,-23.0,
+RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-06-01,,,,,-41.0,
+RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-06-02,,,,,-17.0,
+RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-06-03,,,,,-7.0,
+RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2021-06-04,,,,,10.0,
 RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2020-03-25,,,,,-66.0,
 RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2020-03-26,,,,,-65.0,
 RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2020-03-30,,,,,-65.0,
@@ -638,6 +2086,10 @@ RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2021-05-24,,,
 RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2021-05-25,,,,,12.0,
 RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2021-05-26,,,,,14.0,
 RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2021-05-27,,,,,18.0,
+RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2021-05-31,,,,,13.0,
+RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2021-06-01,,,,,-37.0,
+RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2021-06-02,,,,,9.0,
+RO,Romania,Suceava County,Ipotești,,,,ChIJCzfICgf9NEcR1f_Hkl9f3hc,2021-06-03,,,,,19.0,
 RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2020-02-17,,,,-4.0,0.0,
 RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2020-02-18,,,,,-1.0,
 RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2020-02-19,,,,,-4.0,
@@ -1010,6 +2462,11 @@ RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRy
 RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2021-05-27,-31.0,,,-21.0,-7.0,
 RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2021-05-28,-39.0,,,,6.0,
 RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2021-05-29,,,,,-10.0,
+RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2021-05-31,,,,-27.0,-13.0,
+RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2021-06-01,,,,,-41.0,
+RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2021-06-02,,,,,-11.0,
+RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2021-06-03,-35.0,,,,-7.0,
+RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2021-06-04,-34.0,,,,17.0,
 RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2020-02-16,5.0,,,,,
 RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2020-02-17,,4.0,,,1.0,
 RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2020-02-18,,3.0,,,0.0,
@@ -1434,6 +2891,12 @@ RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-05-26,,24.
 RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-05-27,,9.0,,,-5.0,-6.0
 RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-05-28,-10.0,16.0,,,14.0,
 RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-05-29,,,,,-2.0,
+RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-05-30,16.0,,,,,
+RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-05-31,,18.0,,,-9.0,0.0
+RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-06-01,,,,,-43.0,
+RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-06-02,,38.0,,,-4.0,0.0
+RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-06-03,,10.0,,,-1.0,-3.0
+RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2021-06-04,0.0,22.0,,,23.0,
 RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2020-02-15,,,-8.0,,,
 RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2020-02-16,,,-9.0,,,
 RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2020-02-17,,,-3.0,,,
@@ -1879,6 +3342,12 @@ RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021
 RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-05-27,,,-19.0,,,
 RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-05-28,,,-28.0,,,
 RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-05-29,,,-9.0,,,
+RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-05-30,,,-14.0,,,
+RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-05-31,,,-12.0,,,
+RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-06-01,,,-18.0,,,
+RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-06-02,,,-30.0,,,
+RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-06-03,,,-9.0,,,
+RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2021-06-04,,,-15.0,,,
 RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2020-02-15,2.0,-6.0,-5.0,12.0,0.0,0.0
 RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2020-02-16,12.0,0.0,40.0,21.0,2.0,
 RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2020-02-17,-1.0,-9.0,31.0,8.0,-2.0,-1.0
@@ -2349,6 +3818,12 @@ RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-05-26,4.0,
 RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-05-27,-2.0,14.0,,2.0,-12.0,-3.0
 RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-05-28,-12.0,2.0,-3.0,-5.0,5.0,-2.0
 RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-05-29,-9.0,12.0,48.0,-1.0,-12.0,-4.0
+RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-05-30,-1.0,15.0,,14.0,-7.0,-3.0
+RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-05-31,3.0,20.0,16.0,-3.0,-16.0,0.0
+RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-06-01,18.0,27.0,21.0,-9.0,-52.0,7.0
+RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-06-02,12.0,32.0,48.0,13.0,-14.0,0.0
+RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-06-03,0.0,17.0,,4.0,-9.0,-2.0
+RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2021-06-04,-5.0,8.0,70.0,1.0,10.0,-6.0
 RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2020-02-15,,,68.0,9.0,,
 RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2020-02-16,,,82.0,19.0,,
 RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2020-02-17,,-2.0,,-4.0,,
@@ -2791,6 +4266,12 @@ RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-05-26
 RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-05-27,,,-10.0,-10.0,-8.0,
 RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-05-28,,,-69.0,-23.0,5.0,
 RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-05-29,,,-58.0,-37.0,,
+RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-05-30,,,-41.0,-31.0,,
+RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-05-31,,,,-13.0,-15.0,
+RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-06-01,,,,-24.0,-41.0,
+RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-06-02,,,,4.0,-14.0,
+RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-06-03,,,-15.0,-17.0,-7.0,
+RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2021-06-04,,,-55.0,-17.0,9.0,
 RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2020-02-15,10.0,12.0,5.0,15.0,6.0,0.0
 RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2020-02-16,18.0,11.0,20.0,20.0,6.0,-1.0
 RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2020-02-17,7.0,7.0,20.0,6.0,3.0,-1.0
@@ -3261,6 +4742,12 @@ RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-05-26,23.0
 RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-05-27,20.0,26.0,30.0,9.0,-11.0,-7.0
 RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-05-28,5.0,28.0,9.0,8.0,11.0,-6.0
 RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-05-29,17.0,33.0,48.0,21.0,-5.0,-8.0
+RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-05-30,20.0,27.0,61.0,21.0,-11.0,-7.0
+RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-05-31,13.0,28.0,36.0,7.0,-20.0,-3.0
+RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-06-01,-4.0,7.0,13.0,-10.0,-53.0,5.0
+RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-06-02,22.0,31.0,30.0,16.0,-14.0,-5.0
+RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-06-03,21.0,29.0,42.0,15.0,-6.0,-5.0
+RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2021-06-04,17.0,31.0,38.0,12.0,14.0,-8.0
 RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2020-02-15,10.0,14.0,,,8.0,
 RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2020-02-16,21.0,10.0,,,,
 RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2020-02-17,-3.0,7.0,,,2.0,-1.0
@@ -3725,6 +5212,12 @@ RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-05-26
 RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-05-27,15.0,25.0,,,-2.0,-3.0
 RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-05-28,3.0,26.0,,,14.0,-2.0
 RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-05-29,-1.0,27.0,,,4.0,
+RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-05-30,,20.0,,,-3.0,
+RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-05-31,7.0,27.0,,,-15.0,1.0
+RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-06-01,-11.0,0.0,,,-57.0,9.0
+RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-06-02,,32.0,,,-7.0,-1.0
+RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-06-03,10.0,33.0,,,6.0,-2.0
+RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2021-06-04,6.0,35.0,,,19.0,-4.0
 RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2020-02-15,,,,10.0,,
 RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2020-02-16,,,,10.0,,
 RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2020-02-17,,,,-6.0,5.0,
@@ -4170,6 +5663,12 @@ RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-
 RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-05-27,,,,-14.0,1.0,
 RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-05-28,,,,-11.0,16.0,
 RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-05-29,,,,-3.0,11.0,
+RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-05-30,,,,-17.0,-7.0,
+RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-05-31,,,,-16.0,-14.0,
+RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-06-01,,,,-31.0,-50.0,
+RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-06-02,,,,0.0,-12.0,
+RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-06-03,,,,-10.0,9.0,
+RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2021-06-04,-22.0,,,-15.0,24.0,
 RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2020-02-17,,,,,1.0,
 RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2020-02-18,,,,,4.0,
 RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2020-02-19,,,,,6.0,
@@ -4532,6 +6031,11 @@ RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-0
 RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-05-27,,,,,-13.0,
 RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-05-28,,,,,6.0,
 RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-05-29,,,,,13.0,
+RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-05-31,,,,,-15.0,
+RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-06-01,,,,,-49.0,
+RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-06-02,,,,,-2.0,
+RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-06-03,,,,,-13.0,
+RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2021-06-04,,,,,9.0,
 RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2020-02-15,,,0.0,,,
 RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2020-02-16,,,17.0,,,
 RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2020-02-17,,,5.0,,,
@@ -4976,6 +6480,12 @@ RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-05-26,,,30
 RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-05-27,,,35.0,,,
 RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-05-28,,,23.0,,,
 RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-05-29,,,56.0,,,
+RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-05-30,,,77.0,,,
+RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-05-31,,,45.0,,,
+RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-06-01,,,19.0,,,
+RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-06-02,,,37.0,,,
+RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-06-03,,,47.0,,,
+RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2021-06-04,,,51.0,,,
 RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2020-02-15,12.0,5.0,32.0,3.0,7.0,-1.0
 RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2020-02-16,19.0,11.0,53.0,10.0,5.0,-2.0
 RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2020-02-17,6.0,5.0,39.0,6.0,3.0,-2.0
@@ -5446,6 +6956,12 @@ RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-05-26,-6.0,16
 RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-05-27,-9.0,12.0,16.0,-19.0,-24.0,-2.0
 RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-05-28,-7.0,14.0,21.0,-14.0,-9.0,-5.0
 RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-05-29,-12.0,7.0,39.0,-22.0,-5.0,-7.0
+RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-05-30,-7.0,6.0,46.0,-22.0,-6.0,-6.0
+RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-05-31,-12.0,7.0,-6.0,-30.0,-39.0,1.0
+RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-06-01,7.0,4.0,100.0,-25.0,-70.0,7.0
+RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-06-02,-8.0,15.0,17.0,-18.0,-22.0,-2.0
+RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-06-03,-7.0,13.0,15.0,-17.0,-22.0,-1.0
+RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2021-06-04,-4.0,15.0,34.0,-12.0,-5.0,-5.0
 RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2020-02-17,,,,,0.0,
 RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2020-02-18,,,,,5.0,
 RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2020-02-19,,,,,1.0,
@@ -5809,6 +7325,11 @@ RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-05-26,,,
 RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-05-27,,,,,-26.0,3.0
 RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-05-28,,,,,-12.0,-2.0
 RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-05-29,,,,,-4.0,
+RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-05-31,,,,,-42.0,6.0
+RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-06-01,,,,,-73.0,12.0
+RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-06-02,,,,,-24.0,4.0
+RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-06-03,,,,,-23.0,3.0
+RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2021-06-04,,,,,-4.0,-2.0
 RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2020-02-15,,,,-4.0,,
 RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2020-02-16,,,,4.0,,
 RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2020-02-17,,,,12.0,-1.0,
@@ -6254,6 +7775,12 @@ RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-05-26,,,,-5
 RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-05-27,,,,-54.0,-23.0,
 RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-05-28,,,,-44.0,-10.0,
 RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-05-29,,,,-63.0,,
+RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-05-30,,,,-61.0,,
+RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-05-31,,,,-63.0,-35.0,
+RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-06-01,,,,-74.0,-72.0,
+RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-06-02,,,,-56.0,-18.0,
+RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-06-03,,,,-50.0,-19.0,
+RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2021-06-04,,,,-41.0,-4.0,
 RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2020-06-08,,,,,-75.0,
 RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2020-06-09,,,,,-25.0,
 RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2020-06-10,,,,,-23.0,
@@ -6487,6 +8014,11 @@ RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-05-25,,,,,
 RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-05-26,,,,,-21.0,
 RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-05-27,,,,,-25.0,
 RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-05-28,,,,,1.0,
+RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-05-31,,,,,-31.0,
+RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-06-01,,,,,-64.0,
+RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-06-02,,,,,-19.0,
+RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-06-03,,,,,-13.0,
+RO,Romania,Timiș County,Giarmata,,,,ChIJW8ML3EJkRUcRuhHerIqYmyo,2021-06-04,,,,,-2.0,
 RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2020-02-17,,,,,0.0,-2.0
 RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2020-02-18,,,,,2.0,-2.0
 RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2020-02-19,,,,,-1.0,0.0
@@ -6852,6 +8384,11 @@ RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-05-26,,,,,-12
 RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-05-27,,,,,-14.0,-1.0
 RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-05-28,,,,,2.0,-4.0
 RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-05-29,,,,,8.0,
+RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-05-31,,,,,-36.0,4.0
+RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-06-01,,,,,-68.0,9.0
+RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-06-02,,,,,-10.0,1.0
+RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-06-03,,,,,-12.0,1.0
+RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2021-06-04,,,,,3.0,-4.0
 RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2020-02-15,,,2.0,,,
 RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2020-02-16,,,15.0,,,
 RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2020-02-17,,,17.0,,,
@@ -7297,6 +8834,12 @@ RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-05-26,,,30.0,
 RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-05-27,,,30.0,,,
 RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-05-28,,,32.0,,,
 RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-05-29,,,32.0,,,
+RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-05-30,,,32.0,,,
+RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-05-31,,,36.0,,,
+RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-06-01,,,33.0,,,
+RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-06-02,,,31.0,,,
+RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-06-03,,,34.0,,,
+RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2021-06-04,,,28.0,,,
 RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2020-03-25,,,,,-41.0,
 RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2020-04-01,,,,,-42.0,
 RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2020-04-15,,,,,-41.0,
@@ -7537,6 +9080,11 @@ RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-05-25,,,,,
 RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-05-26,,,,,-11.0,
 RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-05-27,,,,,-7.0,
 RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-05-28,,,,,3.0,
+RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-05-31,,,,,-34.0,
+RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-06-01,,,,,-68.0,
+RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-06-02,,,,,-13.0,
+RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-06-03,,,,,-10.0,
+RO,Romania,Timiș County,Jimbolia,,,,ChIJB1F1Cec8RUcRQmpS9PD2UzM,2021-06-04,,,,,4.0,
 RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2020-02-15,12.0,7.0,-21.0,,9.0,
 RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2020-02-16,,14.0,,,,
 RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2020-02-17,4.0,6.0,6.0,,4.0,-2.0
@@ -7999,6 +9547,12 @@ RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-05-26,,22.0,-
 RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-05-27,,21.0,-30.0,,-15.0,-2.0
 RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-05-28,,22.0,-44.0,2.0,6.0,-4.0
 RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-05-29,,21.0,-44.0,,-13.0,-5.0
+RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-05-30,,12.0,,,-7.0,
+RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-05-31,,17.0,-47.0,,-25.0,0.0
+RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-06-01,,17.0,0.0,,-60.0,8.0
+RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-06-02,,20.0,-22.0,,-11.0,-2.0
+RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-06-03,,21.0,-31.0,,-14.0,-2.0
+RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2021-06-04,,24.0,-28.0,1.0,7.0,-4.0
 RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2020-02-17,,,,,-1.0,
 RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2020-02-18,,,,,2.0,
 RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2020-02-19,,,,,-2.0,
@@ -8318,6 +9872,11 @@ RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-05-25,
 RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-05-26,,,,,-24.0,-3.0
 RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-05-27,,,,,-25.0,-3.0
 RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-05-28,,,,,-13.0,-8.0
+RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-05-31,,,,,-46.0,1.0
+RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-06-01,,,,,-78.0,10.0
+RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-06-02,,,,,-23.0,-3.0
+RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-06-03,,,,,-22.0,-2.0
+RO,Romania,Timiș County,Mosnita Noua,,,,ChIJC23W3sNfRUcRvDips6rWjE8,2021-06-04,,,,,-7.0,-7.0
 RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2020-03-16,,,,,-29.0,
 RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2020-03-17,,,,,-34.0,
 RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2020-03-18,,,,,-37.0,
@@ -8601,6 +10160,11 @@ RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-05-25,,,,,-
 RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-05-26,,,,,-13.0,
 RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-05-27,,,,,-13.0,
 RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-05-28,,,,,10.0,
+RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-05-31,,,,,-28.0,
+RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-06-01,,,,,-63.0,
+RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-06-02,,,,,-11.0,
+RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-06-03,,,,,-7.0,
+RO,Romania,Timiș County,Sacalaz,,,,ChIJNXTq_pRBRUcRDmTvbsSFLJc,2021-06-04,,,,,15.0,
 RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2020-03-25,,,,,-53.0,
 RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2020-03-30,,,,,-56.0,
 RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2020-03-31,,,,,-58.0,
@@ -8846,6 +10410,11 @@ RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-05-25,,,,
 RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-05-26,,,,,-19.0,
 RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-05-27,,,,,-18.0,
 RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-05-28,,,,,-2.0,
+RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-05-31,,,,,-32.0,
+RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-06-01,,,,,-67.0,
+RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-06-02,,,,,-16.0,
+RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-06-03,,,,,-16.0,
+RO,Romania,Timiș County,Sanandrei,,,,ChIJDWQ6kPBuRUcRoYi0zfUcmJU,2021-06-04,,,,,-3.0,
 RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2020-03-11,,,,,-13.0,
 RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2020-03-12,,,,,-15.0,
 RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2020-03-16,,,,,-29.0,
@@ -9130,6 +10699,11 @@ RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-05-
 RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-05-26,,,,,-18.0,
 RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-05-27,,,,,-16.0,
 RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-05-28,,,,,3.0,
+RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-05-31,,,,,-33.0,
+RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-06-01,,,,,-71.0,
+RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-06-02,,,,,-18.0,
+RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-06-03,,,,,-12.0,
+RO,Romania,Timiș County,Sanmihaiu Roman,,,,ChIJ8xalE4VERUcRynYmI2Q1yx8,2021-06-04,,,,,6.0,
 RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2020-02-19,,,,,0.0,
 RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2020-02-26,,,,,1.0,
 RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2020-03-04,,,,,3.0,
@@ -9427,6 +11001,11 @@ RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-05-
 RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-05-26,,,,,-10.0,
 RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-05-27,,,,,-11.0,
 RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-05-28,,,,,4.0,
+RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-05-31,,,,,-29.0,
+RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-06-01,,,,,-72.0,
+RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-06-02,,,,,-11.0,
+RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-06-03,,,,,-9.0,
+RO,Romania,Timiș County,Sannicolau Mare,,,,ChIJU1Z4J-z8REcRSXqFPGkcMns,2021-06-04,,,,,8.0,
 RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2020-02-15,9.0,4.0,46.0,-3.0,6.0,-1.0
 RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2020-02-16,12.0,6.0,67.0,4.0,6.0,-3.0
 RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2020-02-17,3.0,1.0,46.0,3.0,3.0,-2.0
@@ -9897,6 +11476,12 @@ RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-05-26,-8.
 RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-05-27,-15.0,9.0,20.0,-14.0,-28.0,3.0
 RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-05-28,-10.0,12.0,22.0,-10.0,-15.0,-1.0
 RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-05-29,-20.0,-1.0,42.0,-18.0,-6.0,-5.0
+RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-05-30,-17.0,0.0,51.0,-15.0,-1.0,-4.0
+RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-05-31,-18.0,0.0,-8.0,-27.0,-43.0,6.0
+RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-06-01,-1.0,1.0,103.0,-19.0,-72.0,10.0
+RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-06-02,-11.0,10.0,19.0,-16.0,-28.0,3.0
+RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-06-03,-14.0,10.0,20.0,-12.0,-27.0,3.0
+RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2021-06-04,-8.0,13.0,42.0,-8.0,-12.0,-1.0
 RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2020-02-15,6.0,7.0,0.0,2.0,2.0,0.0
 RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2020-02-16,13.0,9.0,37.0,16.0,1.0,
 RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2020-02-17,1.0,2.0,15.0,2.0,3.0,-1.0
@@ -10364,6 +11949,12 @@ RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-05-26,19.0,32
 RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-05-27,21.0,23.0,48.0,23.0,-5.0,-5.0
 RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-05-28,23.0,37.0,48.0,34.0,20.0,-8.0
 RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-05-29,32.0,39.0,82.0,63.0,-10.0,-6.0
+RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-05-30,51.0,32.0,108.0,75.0,-3.0,-7.0
+RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-05-31,21.0,26.0,2.0,8.0,-20.0,0.0
+RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-06-01,23.0,8.0,-28.0,2.0,-58.0,8.0
+RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-06-02,8.0,27.0,-10.0,7.0,-9.0,-1.0
+RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-06-03,14.0,26.0,31.0,12.0,-3.0,-2.0
+RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2021-06-04,16.0,33.0,57.0,29.0,22.0,-7.0
 RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2020-02-15,5.0,8.0,17.0,8.0,3.0,0.0
 RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2020-02-16,13.0,12.0,41.0,17.0,2.0,
 RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2020-02-17,-1.0,0.0,21.0,1.0,1.0,-1.0
@@ -10831,6 +12422,12 @@ RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-05-26,12.0,2
 RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-05-27,13.0,19.0,29.0,12.0,-1.0,-3.0
 RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-05-28,6.0,29.0,24.0,15.0,23.0,-6.0
 RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-05-29,5.0,24.0,33.0,31.0,-6.0,-6.0
+RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-05-30,22.0,22.0,46.0,24.0,2.0,-8.0
+RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-05-31,5.0,18.0,-24.0,-16.0,-18.0,3.0
+RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-06-01,18.0,9.0,-36.0,-27.0,-60.0,12.0
+RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-06-02,5.0,24.0,-12.0,-5.0,-5.0,1.0
+RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-06-03,10.0,26.0,17.0,8.0,1.0,-1.0
+RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2021-06-04,1.0,27.0,23.0,18.0,24.0,-5.0
 RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2020-02-15,9.0,12.0,4.0,9.0,4.0,-1.0
 RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2020-02-16,17.0,8.0,15.0,9.0,1.0,-1.0
 RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2020-02-17,5.0,9.0,8.0,6.0,2.0,0.0
@@ -11301,6 +12898,12 @@ RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-05-26,-4.0,2
 RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-05-27,-7.0,19.0,1.0,-12.0,-8.0,-6.0
 RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-05-28,-14.0,21.0,-20.0,-13.0,14.0,-6.0
 RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-05-29,-6.0,25.0,16.0,1.0,-4.0,-8.0
+RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-05-30,4.0,25.0,24.0,-11.0,-12.0,-6.0
+RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-05-31,-4.0,25.0,-16.0,-15.0,-19.0,-1.0
+RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-06-01,15.0,22.0,-19.0,-39.0,-50.0,5.0
+RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-06-02,0.0,29.0,0.0,-2.0,-8.0,-6.0
+RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-06-03,-5.0,19.0,0.0,5.0,-5.0,-6.0
+RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2021-06-04,-6.0,23.0,4.0,-4.0,21.0,-9.0
 RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2020-03-16,,,,,-20.0,
 RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2020-03-17,,,,,-18.0,
 RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2020-03-18,,,,,-26.0,
@@ -11619,6 +13222,11 @@ RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-05-25,,,
 RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-05-26,,,,,-10.0,
 RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-05-27,,,,,-6.0,
 RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-05-28,,,,,-1.0,
+RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-05-31,,,,,-12.0,
+RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-06-01,,,,,-48.0,
+RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-06-02,,,,,-9.0,
+RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-06-03,,,,,-3.0,
+RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2021-06-04,,,,,16.0,
 RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2020-02-15,9.0,8.0,6.0,10.0,6.0,-2.0
 RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2020-02-16,12.0,8.0,25.0,2.0,2.0,-2.0
 RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2020-02-17,5.0,7.0,12.0,3.0,1.0,-1.0
@@ -12089,6 +13697,12 @@ RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQb
 RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-05-27,-6.0,12.0,-18.0,-26.0,-4.0,-2.0
 RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-05-28,-9.0,15.0,-32.0,-31.0,9.0,-3.0
 RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-05-29,-10.0,10.0,-10.0,-28.0,-3.0,-7.0
+RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-05-30,-1.0,11.0,4.0,-36.0,-9.0,-5.0
+RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-05-31,-5.0,16.0,-47.0,-34.0,-19.0,2.0
+RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-06-01,21.0,19.0,-30.0,-56.0,-51.0,8.0
+RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-06-02,0.0,23.0,-14.0,-19.0,-6.0,-2.0
+RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-06-03,-6.0,14.0,-2.0,-17.0,-2.0,-2.0
+RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2021-06-04,-3.0,17.0,4.0,-22.0,18.0,-6.0
 RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2020-02-15,3.0,4.0,-3.0,9.0,-1.0,0.0
 RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2020-02-16,9.0,10.0,6.0,21.0,2.0,-1.0
 RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2020-02-17,2.0,0.0,-1.0,7.0,3.0,0.0
@@ -12559,6 +14173,12 @@ RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-05-26,9.0,12.
 RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-05-27,9.0,10.0,4.0,15.0,-13.0,-5.0
 RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-05-28,6.0,12.0,3.0,18.0,20.0,-7.0
 RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-05-29,6.0,10.0,17.0,5.0,-8.0,-7.0
+RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-05-30,11.0,15.0,28.0,6.0,-15.0,-6.0
+RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-05-31,15.0,13.0,-5.0,12.0,-17.0,-4.0
+RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-06-01,18.0,4.0,-20.0,-8.0,-56.0,6.0
+RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-06-02,6.0,12.0,-15.0,14.0,-16.0,-3.0
+RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-06-03,9.0,12.0,11.0,15.0,-13.0,-4.0
+RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2021-06-04,9.0,14.0,15.0,18.0,24.0,-7.0
 RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2020-02-15,-2.0,7.0,,0.0,3.0,
 RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2020-02-16,11.0,9.0,,21.0,8.0,
 RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2020-02-17,3.0,0.0,,3.0,3.0,-1.0
@@ -13023,6 +14643,12 @@ RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-05-26,-1.0,1
 RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-05-27,0.0,10.0,,12.0,-19.0,-3.0
 RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-05-28,-3.0,12.0,,17.0,14.0,-4.0
 RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-05-29,-5.0,13.0,,-3.0,7.0,-4.0
+RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-05-30,9.0,15.0,,7.0,-11.0,
+RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-05-31,1.0,10.0,,12.0,-21.0,-1.0
+RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-06-01,8.0,3.0,,-15.0,-55.0,10.0
+RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-06-02,-11.0,13.0,,12.0,-19.0,1.0
+RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-06-03,1.0,14.0,,11.0,-16.0,-1.0
+RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2021-06-04,2.0,15.0,,14.0,22.0,-4.0
 RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2020-02-17,,-2.0,,,3.0,
 RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2020-02-18,,-2.0,,,4.0,
 RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2020-02-19,,-3.0,,,5.0,
@@ -13440,6 +15066,12 @@ RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-05-26,,19.0,,,
 RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-05-27,,21.0,,,2.0,
 RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-05-28,,20.0,-34.0,,24.0,
 RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-05-29,,,,,-7.0,
+RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-05-30,,,,,0.0,
+RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-05-31,,23.0,-61.0,,-6.0,
+RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-06-01,,,,,-45.0,
+RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-06-02,,23.0,-53.0,,-2.0,
+RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-06-03,,27.0,,,2.0,
+RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2021-06-04,,21.0,,,23.0,
 RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2020-02-15,,,-2.0,,,
 RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2020-02-16,,,-1.0,,,
 RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2020-02-17,,,-7.0,,,
@@ -13885,6 +15517,12 @@ RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-05-26,,,-9
 RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-05-27,,,-4.0,,,
 RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-05-28,,,-8.0,,,
 RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-05-29,,,7.0,,,
+RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-05-30,,,15.0,,,
+RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-05-31,,,-4.0,,,
+RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-06-01,,,-12.0,,,
+RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-06-02,,,-16.0,,,
+RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-06-03,,,-1.0,,,
+RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2021-06-04,,,-3.0,,,
 RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2020-02-15,,,0.0,,,
 RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2020-02-16,,,6.0,,,
 RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2020-02-17,,,1.0,,,
@@ -14330,6 +15968,12 @@ RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-05-26,,,-6.
 RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-05-27,,,3.0,,,
 RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-05-28,,,5.0,,,
 RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-05-29,,,13.0,,,
+RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-05-30,,,30.0,,,
+RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-05-31,,,-6.0,,,
+RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-06-01,,,-17.0,,,
+RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-06-02,,,-15.0,,,
+RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-06-03,,,9.0,,,
+RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2021-06-04,,,11.0,,,
 RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2020-02-15,2.0,2.0,-12.0,14.0,-2.0,
 RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2020-02-16,3.0,7.0,9.0,28.0,-4.0,
 RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2020-02-17,0.0,-3.0,1.0,10.0,0.0,0.0
@@ -14794,6 +16438,12 @@ RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-05-26,18.0,1
 RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-05-27,20.0,8.0,,12.0,-4.0,-2.0
 RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-05-28,14.0,10.0,18.0,6.0,23.0,-4.0
 RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-05-29,5.0,6.0,47.0,1.0,-7.0,-5.0
+RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-05-30,1.0,3.0,83.0,-3.0,-11.0,-6.0
+RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-05-31,20.0,9.0,7.0,6.0,-11.0,-2.0
+RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-06-01,30.0,2.0,-25.0,-11.0,-53.0,9.0
+RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-06-02,15.0,10.0,-9.0,2.0,-7.0,0.0
+RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-06-03,19.0,8.0,,8.0,-4.0,-2.0
+RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2021-06-04,15.0,10.0,,17.0,23.0,-5.0
 RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2020-02-15,7.0,6.0,-2.0,11.0,-1.0,-1.0
 RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2020-02-16,12.0,6.0,7.0,20.0,2.0,-1.0
 RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2020-02-17,3.0,3.0,4.0,7.0,1.0,0.0
@@ -15264,6 +16914,12 @@ RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-05-26,11.0,2
 RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-05-27,13.0,23.0,0.0,12.0,-6.0,-6.0
 RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-05-28,11.0,29.0,-10.0,20.0,27.0,-9.0
 RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-05-29,6.0,23.0,18.0,13.0,5.0,-10.0
+RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-05-30,17.0,20.0,19.0,-11.0,0.0,-7.0
+RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-05-31,18.0,29.0,-4.0,7.0,-10.0,-4.0
+RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-06-01,30.0,16.0,-21.0,-11.0,-48.0,6.0
+RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-06-02,8.0,27.0,-10.0,15.0,-2.0,-4.0
+RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-06-03,15.0,25.0,6.0,7.0,0.0,-5.0
+RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2021-06-04,12.0,29.0,1.0,24.0,33.0,-10.0
 RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2020-03-19,,,,-52.0,,
 RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2020-03-23,,,,-60.0,-35.0,
 RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2020-03-25,,,,,-47.0,
@@ -15518,6 +17174,11 @@ RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-05-25,,,,,9.
 RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-05-26,,,,,14.0,
 RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-05-27,,,,,11.0,
 RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-05-28,,,,,42.0,
+RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-05-31,,,,,0.0,
+RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-06-01,,,,,-37.0,
+RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-06-02,,,,,8.0,
+RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-06-03,,,,,15.0,
+RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2021-06-04,,,,,42.0,
 RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2020-02-15,10.0,6.0,-32.0,14.0,-1.0,-1.0
 RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2020-02-16,11.0,7.0,-6.0,30.0,4.0,
 RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2020-02-17,3.0,2.0,8.0,-3.0,3.0,0.0
@@ -15988,6 +17649,12 @@ RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-05-26,12.0
 RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-05-27,13.0,27.0,-16.0,8.0,-3.0,-2.0
 RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-05-28,9.0,31.0,-47.0,9.0,19.0,-5.0
 RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-05-29,6.0,18.0,-34.0,0.0,1.0,-7.0
+RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-05-30,15.0,27.0,-28.0,-25.0,0.0,-5.0
+RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-05-31,19.0,33.0,-44.0,-6.0,-10.0,1.0
+RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-06-01,39.0,22.0,-69.0,-24.0,-50.0,11.0
+RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-06-02,12.0,34.0,-49.0,3.0,-2.0,1.0
+RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-06-03,14.0,29.0,-19.0,-1.0,0.0,-1.0
+RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2021-06-04,8.0,32.0,-27.0,10.0,28.0,-6.0
 RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2020-02-15,,,0.0,,,
 RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2020-02-16,,,6.0,,,
 RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2020-02-17,,,-2.0,,,
@@ -16418,3 +18085,9 @@ RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-05-26,,,9.0,,
 RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-05-27,,,2.0,,,
 RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-05-28,,,7.0,,,
 RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-05-29,,,26.0,,,
+RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-05-30,,,30.0,,,
+RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-05-31,,,8.0,,,
+RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-06-01,,,-7.0,,,
+RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-06-02,,,-11.0,,,
+RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-06-03,,,4.0,,,
+RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2021-06-04,,,4.0,,,

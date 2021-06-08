@@ -1,24 +1,553 @@
 [
     {
-        "title": "ВОЗ дала первые рекомендации из-за случая заражения человека вирусом H10N3",
+        "title": "Названы отрасли экономики с самым быстрым ростом доходов в период пандемии",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://life.ru/rss",
-            "value": "ВОЗ дала первые рекомендации из-за случая заражения человека вирусом H10N3"
+            "value": "Названы отрасли экономики с самым быстрым ростом доходов в период пандемии"
         },
-        "summary": "<a href=\"https://life.ru/p/1400689\">Читать далее...</a>",
+        "summary": "А наиболее отстающим секторам понадобится свыше пяти лет на полное восстановление. \"Улиток\", как отмечается, немного — они занимают чуть больше 1% российского ВВП.<a href=\"https://life.ru/p/1400748\">Читать далее...</a>",
         "summary_detail": {
             "type": "application/xhtml+xml",
             "language": null,
             "base": "https://life.ru/rss",
-            "value": "<a href=\"https://life.ru/p/1400689\">Читать далее...</a>"
+            "value": "А наиболее отстающим секторам понадобится свыше пяти лет на полное восстановление. \"Улиток\", как отмечается, немного — они занимают чуть больше 1% российского ВВП.<a href=\"https://life.ru/p/1400748\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400748"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/5/2/576522076527.821.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400748",
+        "id": "https://life.ru/p/1400748",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 09:17:07 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            9,
+            17,
+            7,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "экономика",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "сверхдоходы",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "пандемии",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Попова: Российский уровень подготовки к \"эпидемическим шокам\" оказался одним из самых высоких в мире",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Попова: Российский уровень подготовки к \"эпидемическим шокам\" оказался одним из самых высоких в мире"
+        },
+        "summary": "Глава Роспотребнадзора призвала не потерять достигнутый прогресс с учётом растущих угроз новых инфекций и пандемий: учёные уже предсказали наступление ковида-26 и ковида-32. <a href=\"https://life.ru/p/1400750\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Глава Роспотребнадзора призвала не потерять достигнутый прогресс с учётом растущих угроз новых инфекций и пандемий: учёные уже предсказали наступление ковида-26 и ковида-32. <a href=\"https://life.ru/p/1400750\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400750"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/5/2/1359084030119.8264.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400750",
+        "id": "https://life.ru/p/1400750",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 08:51:04 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            8,
+            51,
+            4,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "аннапопова",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "роспотребнадзор",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Росздравнадзоре оценили частоту побочных эффектов от российских антиковидных вакцин",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "В Росздравнадзоре оценили частоту побочных эффектов от российских антиковидных вакцин"
+        },
+        "summary": "По словам главы ведомства Аллы Самойловой, отслеживать наличие нежелательных реакций помогают так называемые дневники привитых, которые на портале госуслуг может вести любой гражданин.<a href=\"https://life.ru/p/1400743\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "По словам главы ведомства Аллы Самойловой, отслеживать наличие нежелательных реакций помогают так называемые дневники привитых, которые на портале госуслуг может вести любой гражданин.<a href=\"https://life.ru/p/1400743\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400743"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/5/2/910510110924.7318.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400743",
+        "id": "https://life.ru/p/1400743",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 08:50:52 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            8,
+            50,
+            52,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "вакцины",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "побочныеэффекты",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "росздравнадзор",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "пмэф",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Пульмонолог оценил регистрацию в России препарата \"Лейтрагин\" против осложнений при коронавирусе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Пульмонолог оценил регистрацию в России препарата \"Лейтрагин\" против осложнений при коронавирусе"
+        },
+        "summary": "Медик отметил оправданность поиска подобного лекарства. Однако степень эффективности будет оцениваться после накопления большого опыта. <a href=\"https://life.ru/p/1400734\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Медик отметил оправданность поиска подобного лекарства. Однако степень эффективности будет оцениваться после накопления большого опыта. <a href=\"https://life.ru/p/1400734\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400734"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2020/10/28/735483713346.126.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400734",
+        "id": "https://life.ru/p/1400734",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 08:42:36 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            8,
+            42,
+            36,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "препараты",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "медики",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В России выявили менее девяти тысяч случаев коронавируса за сутки",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "В России выявили менее девяти тысяч случаев коронавируса за сутки"
+        },
+        "summary": "При этом за прошедшие 24 часа окончательно излечилось от болезни 9020 человек. Общее число выздоровевших достигло 4 702 599.<a href=\"https://life.ru/p/1400742\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "При этом за прошедшие 24 часа окончательно излечилось от болезни 9020 человек. Общее число выздоровевших достигло 4 702 599.<a href=\"https://life.ru/p/1400742\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400742"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/4/9/183571899008.8259.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400742",
+        "id": "https://life.ru/p/1400742",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 08:22:13 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            8,
+            22,
+            13,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "статистика",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "болезни",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В центре Чумакова рассказали об эффективности антиковидной вакцины \"Ковивак\"",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "В центре Чумакова рассказали об эффективности антиковидной вакцины \"Ковивак\""
+        },
+        "summary": "Ранее разработчики сообщили о планах нарастить объёмы производства препарата. Предположительно, научный центр будет выпускать около 7–10 миллионов доз в год.<a href=\"https://life.ru/p/1400729\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Ранее разработчики сообщили о планах нарастить объёмы производства препарата. Предположительно, научный центр будет выпускать около 7–10 миллионов доз в год.<a href=\"https://life.ru/p/1400729\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400729"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/5/2/728676458145.223.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400729",
+        "id": "https://life.ru/p/1400729",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 08:15:24 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            8,
+            15,
+            24,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "вакцины",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "препараты",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "пандемия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "пмэф",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "\"Создали зону безопасности от ковида, и это самое главное\": Губернатор Петербурга Беглов оценил противокоронавирусные меры на ПМЭФ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "\"Создали зону безопасности от ковида, и это самое главное\": Губернатор Петербурга Беглов оценил противокоронавирусные меры на ПМЭФ"
+        },
+        "summary": "Сегодня в Северной столице стартовал XXIV Петербургский международный экономический форум. Ежегодно на мероприятии заключается множество сделок общей суммой в несколько триллионов рублей.<a href=\"https://life.ru/p/1400725\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Сегодня в Северной столице стартовал XXIV Петербургский международный экономический форум. Ежегодно на мероприятии заключается множество сделок общей суммой в несколько триллионов рублей.<a href=\"https://life.ru/p/1400725\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400725"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/5/2/199229092398.52588.png",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400725",
+        "id": "https://life.ru/p/1400725",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 08:03:02 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            8,
+            3,
+            2,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Санкт-Петербург",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "пмэф",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "александрбеглов",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "губернаторы",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "безопасность",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Стратегию Москвы по борьбе с пандемией высоко оценили аналитики",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Стратегию Москвы по борьбе с пандемией высоко оценили аналитики"
+        },
+        "summary": "Российской столице удалось добиться низкой безработицы и умеренных темпов заболеваемости ковидом.<a href=\"https://life.ru/p/1400690\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Российской столице удалось добиться низкой безработицы и умеренных темпов заболеваемости ковидом.<a href=\"https://life.ru/p/1400690\">Читать далее...</a>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://life.ru/p/1400690"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/5/2/1058681922068.3369.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://life.ru/p/1400690",
+        "id": "https://life.ru/p/1400690",
+        "guidislink": false,
+        "published": "Wed, 02 Jun 2021 04:41:20 GMT",
+        "published_parsed": [
+            2021,
+            6,
+            2,
+            4,
+            41,
+            20,
+            2,
+            153,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "пандемия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "коронавирус",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "ВОЗ дала первые рекомендации из-за заражения человека вирусом H10N3",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "ВОЗ дала первые рекомендации из-за заражения человека вирусом H10N3"
+        },
+        "summary": "Он известен давно, но прежде передавался только пернатым. Инфицированный мужчина проходит лечение с апреля.<a href=\"https://life.ru/p/1400689\">Читать далее...</a>",
+        "summary_detail": {
+            "type": "application/xhtml+xml",
+            "language": null,
+            "base": "https://life.ru/rss",
+            "value": "Он известен давно, но прежде передавался только пернатым. Инфицированный мужчина проходит лечение с апреля.<a href=\"https://life.ru/p/1400689\">Читать далее...</a>"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
                 "href": "https://life.ru/p/1400689"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://static.life.ru/publications/2021/5/2/1205903108284.891.jpeg",
+                "rel": "enclosure"
             }
         ],
         "link": "https://life.ru/p/1400689",
@@ -35,6 +564,28 @@
             2,
             153,
             0
+        ],
+        "tags": [
+            {
+                "term": "грипп",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "птичийгрипп",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "китай",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "воз",
+                "scheme": null,
+                "label": null
+            }
         ]
     }
 ]

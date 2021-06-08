@@ -166,11 +166,16 @@
 30.05.2021 | 50 | 2 
 31.05.2021 | 50 | 4 
 01.06.2021 | 50 | 5 
-02.06.2021 | 1 | 0 
+02.06.2021 | 50 | 2 
+03.06.2021 | 50 | 1 
+04.06.2021 | 50 | 4 
+05.06.2021 | 50 | 3 
+06.06.2021 | 50 | 1 
+07.06.2021 | 50 | 7 
 
 > ### Последние новости по теме covid-19:
-+ [В Кировской области медики выявили 51 случай коронавируса за сутки](https://russian.rt.com/russia/news/868267-kirovskaya-oblast-koronavirus-za-sutki?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Более 117 тысяч жителей Удмуртии прошли вакцинацию от коронавируса](https://russian.rt.com/russia/news/868257-udmurtiya-vakcinaciya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Омской области рассказали об уровне заболеваемости коронавирусом среди медиков](https://russian.rt.com/russia/news/868262-omskaya-oblast-covid-19-mediki?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Петербурге тесты на COVID-19 сдали более 9 млн человек с начала пандемии](https://russian.rt.com/russia/news/868212-peterburg-pandemiya-test?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [На Ставрополье оценили ситуацию с коронавирусом](https://russian.rt.com/russia/news/868209-stavropole-koronavirus-gubernator?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Глава Евросовета обсудил с Путиным доступность вакцин от коронавируса](https://russian.rt.com/world/news/870490-evrosovet-putin-vakciny?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Брюсселе смягчают ограничения по коронавирусу](https://russian.rt.com/world/news/870454-belgiya-ogranicheniya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Футболист сборной Латвии сдал положительный тест на коронавирус за несколько часов до игры с Германией](https://russian.rt.com/sport/news/870485-latviya-koronavirus-germaniya-futbol?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Белоруссии число случаев коронавируса достигло 400 422](https://russian.rt.com/ussr/news/870486-belorussiya-sutki-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Шмыгаль заявил об улучшении ситуации с коронавирусом на Украине](https://russian.rt.com/ussr/news/870479-shmygal-koronavirus-uluchshenie-ukraina?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
