@@ -1,0 +1,102 @@
+[
+    {
+        "title": "В Краснодаре врачи спасли пациента с коронавирусом, у которого было поражено 95% легких",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Краснодаре врачи спасли пациента с коронавирусом, у которого было поражено 95% легких"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598095"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598095",
+        "id": "https://tass.ru/obschestvo/11598095",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:53:28 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            53,
+            28,
+            1,
+            159,
+            0
+        ],
+        "summary": "Больной находился в реанимации более двух месяцев",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Больной находился в реанимации более двух месяцев"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Путин считает, что акция \"Мы вместе\" оказалась очень востребованной в пандемию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Путин считает, что акция \"Мы вместе\" оказалась очень востребованной в пандемию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597671"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597671",
+        "id": "https://tass.ru/obschestvo/11597671",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:48:09 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            48,
+            9,
+            1,
+            159,
+            0
+        ],
+        "summary": "Глава государства напомнил, что в рамках объявленной премии проекты могут получить гранты размером до 2,5 млн рублей",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Глава государства напомнил, что в рамках объявленной премии проекты могут получить гранты размером до 2,5 млн рублей"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

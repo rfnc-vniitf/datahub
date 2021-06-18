@@ -172,10 +172,18 @@
 05.06.2021 | 50 | 3 
 06.06.2021 | 50 | 1 
 07.06.2021 | 50 | 7 
+08.06.2021 | 39 | 6 
+09.06.2021 | 50 | 3 
+10.06.2021 | 50 | 2 
+11.06.2021 | 50 | 1 
+12.06.2021 | 50 | 5 
+13.06.2021 | 50 | 3 
+14.06.2021 | 50 | 1 
+15.06.2021 | 50 | 1 
+16.06.2021 | 50 | 5 
+17.06.2021 | 50 | 3 
 
 > ### Последние новости по теме covid-19:
-+ [Глава Евросовета обсудил с Путиным доступность вакцин от коронавируса](https://russian.rt.com/world/news/870490-evrosovet-putin-vakciny?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Брюсселе смягчают ограничения по коронавирусу](https://russian.rt.com/world/news/870454-belgiya-ogranicheniya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Футболист сборной Латвии сдал положительный тест на коронавирус за несколько часов до игры с Германией](https://russian.rt.com/sport/news/870485-latviya-koronavirus-germaniya-futbol?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Белоруссии число случаев коронавируса достигло 400 422](https://russian.rt.com/ussr/news/870486-belorussiya-sutki-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Шмыгаль заявил об улучшении ситуации с коронавирусом на Украине](https://russian.rt.com/ussr/news/870479-shmygal-koronavirus-uluchshenie-ukraina?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Сборная Словакии объявила о двух заболевших коронавирусом перед матчем Евро-2020](https://russian.rt.com/sport/news/874412-sbornaya-slovakii-koronavirus-evro-2020?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Ставропольском крае провели около 2 млн тестов на COVID-19 с начала пандемии](https://russian.rt.com/russia/news/874397-region-pandemiya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Оренбургской области рассказали о работе по борьбе с пандемией](https://russian.rt.com/russia/news/874394-region-pandemiya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

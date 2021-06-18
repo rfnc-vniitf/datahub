@@ -1,44 +1,552 @@
 [
     {
-        "title": "Эксперты: почти треть россиян в 2020 году трудились на хорошо оплачиваемой работе",
+        "title": "Женщина, подозреваемая в убийстве дочери в Самаре, не состояла на учете",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Эксперты: почти треть россиян в 2020 году трудились на хорошо оплачиваемой работе"
+            "value": "Женщина, подозреваемая в убийстве дочери в Самаре, не состояла на учете"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/ekonomika/11592095"
+                "href": "https://tass.ru/proisshestviya/11598291"
             }
         ],
-        "link": "https://tass.ru/ekonomika/11592095",
-        "id": "https://tass.ru/ekonomika/11592095",
+        "link": "https://tass.ru/proisshestviya/11598291",
+        "id": "https://tass.ru/proisshestviya/11598291",
         "guidislink": false,
-        "published": "Tue, 08 Jun 2021 03:08:45 +0300",
+        "published": "Tue, 08 Jun 2021 17:05:13 +0300",
         "published_parsed": [
             2021,
             6,
             8,
-            0,
-            8,
-            45,
+            14,
+            5,
+            13,
             1,
             159,
             0
         ],
-        "summary": "По данным FinExpertiza, количество высокопроизводительных или относительно высокооплачиваемых рабочих мест в кризисном 2020 году увеличилось по сравнению с 2019 годом на 1,2 млн и достигло 21,95 млн, что является максимальным показателем за 10 лет",
+        "summary": "По данным властей региона, женщина приехала из Ульяновска и жила с ребенком в съемной квартире, регистрации в Самарской области у нее не было",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "По данным FinExpertiza, количество высокопроизводительных или относительно высокооплачиваемых рабочих мест в кризисном 2020 году увеличилось по сравнению с 2019 годом на 1,2 млн и достигло 21,95 млн, что является максимальным показателем за 10 лет"
+            "value": "По данным властей региона, женщина приехала из Ульяновска и жила с ребенком в съемной квартире, регистрации в Самарской области у нее не было"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Президент Армении пообещал не допустить беспорядков после выборов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Президент Армении пообещал не допустить беспорядков после выборов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11598383"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11598383",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11598383",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 17:04:52 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            14,
+            4,
+            52,
+            1,
+            159,
+            0
+        ],
+        "summary": "Премьер-министр и главы представленных в парламенте партий договорились о проведении внеочередных выборов на фоне политического кризиса",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Премьер-министр и главы представленных в парламенте партий договорились о проведении внеочередных выборов на фоне политического кризиса"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В ОНК заявили, что осужденный за шпионаж Уилан не жалуется на условия в колонии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В ОНК заявили, что осужденный за шпионаж Уилан не жалуется на условия в колонии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598351"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598351",
+        "id": "https://tass.ru/obschestvo/11598351",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 17:03:13 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            14,
+            3,
+            13,
+            1,
+            159,
+            0
+        ],
+        "summary": "Американский гражданин надеется, что встреча президентов РФ и США принесет ему освобождение, отметил председатель комиссии в Мордовии Валерий Крутов",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Американский гражданин надеется, что встреча президентов РФ и США принесет ему освобождение, отметил председатель комиссии в Мордовии Валерий Крутов"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Дело Пола Уилана",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В мэрии Воронежа прошли обыски",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В мэрии Воронежа прошли обыски"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11598275"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11598275",
+        "id": "https://tass.ru/proisshestviya/11598275",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:59:55 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            59,
+            55,
+            1,
+            159,
+            0
+        ],
+        "summary": "По данным источника ТАСС, предположительно, они связаны с реконструкцией парка \"Орленок\"",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По данным источника ТАСС, предположительно, они связаны с реконструкцией парка \"Орленок\""
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Генсек ООН призвал Россию и США договариваться о дальнейших сокращениях ядерных арсеналов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Генсек ООН призвал Россию и США договариваться о дальнейших сокращениях ядерных арсеналов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11598371"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11598371",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11598371",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:58:40 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            58,
+            40,
+            1,
+            159,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Томске задержали убийцу двух человек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Томске задержали убийцу двух человек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11598227"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11598227",
+        "id": "https://tass.ru/proisshestviya/11598227",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:57:49 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            57,
+            49,
+            1,
+            159,
+            0
+        ],
+        "summary": "Мужчина совершил преступления с целью ограбления",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мужчина совершил преступления с целью ограбления"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Сибирь",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "ОПЗЖ обвиняет Кравчука в угрозе территориальной целостности Украины",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "ОПЗЖ обвиняет Кравчука в угрозе территориальной целостности Украины"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11598195"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11598195",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11598195",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:57:46 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            57,
+            46,
+            1,
+            159,
+            0
+        ],
+        "summary": "В партии настаивают не только на политической оценке заявлений главы делегации Киева в контактной группе по урегулированию в Донбассе, но и на реагировании со стороны правоохранительных органов",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В партии настаивают не только на политической оценке заявлений главы делегации Киева в контактной группе по урегулированию в Донбассе, но и на реагировании со стороны правоохранительных органов"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Ленобласти возбудили дело из-за выброшенных вместе с землей останков погибших на войне",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Ленобласти возбудили дело из-за выброшенных вместе с землей останков погибших на войне"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11598125"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11598125",
+        "id": "https://tass.ru/proisshestviya/11598125",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:57:10 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            57,
+            10,
+            1,
+            159,
+            0
+        ],
+        "summary": "По данным следствия, сотрудники частной компании во время земляных работ в поселке Тельмана нашли останки людей, предположительно, в месте захоронения советских воинов и вывезли их вместе с грунтом",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По данным следствия, сотрудники частной компании во время земляных работ в поселке Тельмана нашли останки людей, предположительно, в месте захоронения советских воинов и вывезли их вместе с грунтом"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Северо-Запад",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В региональном Минэнерго ФРГ не смогли назвать дату подачи газа по \"Северному потоку - 2\"",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В региональном Минэнерго ФРГ не смогли назвать дату подачи газа по \"Северному потоку - 2\""
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11598325"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11598325",
+        "id": "https://tass.ru/ekonomika/11598325",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:55:49 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            55,
+            49,
+            1,
+            159,
+            0
+        ],
+        "summary": "Для этого нужны тесты и подготовка газопровода, отметили в ведомстве",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Для этого нужны тесты и подготовка газопровода, отметили в ведомстве"
         },
         "tags": [
             {
                 "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Чернышенко запустил первую линию квантовой связи между Москвой и Санкт-Петербургом",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Чернышенко запустил первую линию квантовой связи между Москвой и Санкт-Петербургом"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11598313"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11598313",
+        "id": "https://tass.ru/ekonomika/11598313",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:54:16 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            54,
+            16,
+            1,
+            159,
+            0
+        ],
+        "summary": "Вице-премьер подчеркнул востребованность технологий квантовых коммуникаций в условиях растущих киберугроз",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Вице-премьер подчеркнул востребованность технологий квантовых коммуникаций в условиях растущих киберугроз"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Северо-Запад",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Партия Саакашвили прекратила бойкот и приступила к работе в парламенте Грузии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Партия Саакашвили прекратила бойкот и приступила к работе в парламенте Грузии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11598295"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11598295",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11598295",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:53:49 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            53,
+            49,
+            1,
+            159,
+            0
+        ],
+        "summary": "По итогам состоявшихся осенью 2020 года парламентских выборов партия получила 36 мандатов",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По итогам состоявшихся осенью 2020 года парламентских выборов партия получила 36 мандатов"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Краснодаре врачи спасли пациента с коронавирусом, у которого было поражено 95% легких",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Краснодаре врачи спасли пациента с коронавирусом, у которого было поражено 95% легких"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598095"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598095",
+        "id": "https://tass.ru/obschestvo/11598095",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:53:28 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            53,
+            28,
+            1,
+            159,
+            0
+        ],
+        "summary": "Больной находился в реанимации более двух месяцев",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Больной находился в реанимации более двух месяцев"
+        },
+        "tags": [
+            {
+                "term": "Общество",
                 "scheme": null,
                 "label": null
             },
@@ -50,41 +558,971 @@
         ]
     },
     {
-        "title": "Россияне рассказали, почему отказываются от кредита",
+        "title": "Трое осужденных за лжесвидетельство по делу Ефремова обжаловали приговоры",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Россияне рассказали, почему отказываются от кредита"
+            "value": "Трое осужденных за лжесвидетельство по делу Ефремова обжаловали приговоры"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/ekonomika/11592093"
+                "href": "https://tass.ru/proisshestviya/11598285"
             }
         ],
-        "link": "https://tass.ru/ekonomika/11592093",
-        "id": "https://tass.ru/ekonomika/11592093",
+        "link": "https://tass.ru/proisshestviya/11598285",
+        "id": "https://tass.ru/proisshestviya/11598285",
         "guidislink": false,
-        "published": "Tue, 08 Jun 2021 03:05:09 +0300",
+        "published": "Tue, 08 Jun 2021 16:52:28 +0300",
         "published_parsed": [
             2021,
             6,
             8,
-            0,
+            13,
+            52,
+            28,
+            1,
+            159,
+            0
+        ],
+        "summary": "Дата заседания в Мосгорсуде пока не известна",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Дата заседания в Мосгорсуде пока не известна"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "ДТП с участием Михаила Ефремова",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Экс-главу \"Открытой России\" обвинили в участии в деятельности нежелательной организации",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Экс-главу \"Открытой России\" обвинили в участии в деятельности нежелательной организации"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11598259"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11598259",
+        "id": "https://tass.ru/proisshestviya/11598259",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:50:10 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            50,
+            10,
+            1,
+            159,
+            0
+        ],
+        "summary": "По данным следствия, в августе 2020 года Андрей Пивоваров разместил в открытом доступе сведения агитационного характера в поддержку организации",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По данным следствия, в августе 2020 года Андрей Пивоваров разместил в открытом доступе сведения агитационного характера в поддержку организации"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Северо-Запад",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Сибирский университет опроверг свое участие в климатической обсерватории ZOTTO",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Сибирский университет опроверг свое участие в климатической обсерватории ZOTTO"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597683"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597683",
+        "id": "https://tass.ru/obschestvo/11597683",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:48:39 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            48,
+            39,
+            1,
+            159,
+            0
+        ],
+        "summary": "По данным СФУ, собственником объекта является Красноярский научный центр Сибирского отделения РАН",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По данным СФУ, собственником объекта является Красноярский научный центр Сибирского отделения РАН"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Сибирь",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Около 120 га земель передали из федеральной собственности Подмосковью с начала года",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Около 120 га земель передали из федеральной собственности Подмосковью с начала года"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11598255"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11598255",
+        "id": "https://tass.ru/ekonomika/11598255",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:48:21 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            48,
+            21,
+            1,
+            159,
+            0
+        ],
+        "summary": "Около 36 га земли переданы для размещения и реконструкции объектов транспортной инфраструктуры, более 70 га - для муниципальных нужд",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Около 36 га земли переданы для размещения и реконструкции объектов транспортной инфраструктуры, более 70 га - для муниципальных нужд"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Московская область",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Мошенники от лица главы депздрава Югры просили компании пожертвовать на \"Спутник V\"",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мошенники от лица главы депздрава Югры просили компании пожертвовать на \"Спутник V\""
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11598183"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11598183",
+        "id": "https://tass.ru/proisshestviya/11598183",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:47:05 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            47,
             5,
+            1,
+            159,
+            0
+        ],
+        "summary": "Директор департамента здравоохранения ХМАО Алексей Добровольский сообщил, что письма и звонки подобного содержания получили десятки организаций региона",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Директор департамента здравоохранения ХМАО Алексей Добровольский сообщил, что письма и звонки подобного содержания получили десятки организаций региона"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Новости Урала",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Вакцинация от коронавируса в России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Боррель выразил надежду, что ЕС сплоченно примет решение о санкциях против Белоруссии",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Боррель выразил надежду, что ЕС сплоченно примет решение о санкциях против Белоруссии"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11598247"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11598247",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11598247",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:44:32 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            44,
+            32,
+            1,
+            159,
+            0
+        ],
+        "summary": "По словам главы дипломатии Евросоюза, в белорусских тюрьмах содержатся около 450 политических заключенных",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По словам главы дипломатии Евросоюза, в белорусских тюрьмах содержатся около 450 политических заключенных"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Вячеслав Торсунов возглавил департамент ЖКХ Москвы",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Вячеслав Торсунов возглавил департамент ЖКХ Москвы"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/moskva/11598219"
+            }
+        ],
+        "link": "https://tass.ru/moskva/11598219",
+        "id": "https://tass.ru/moskva/11598219",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:44:23 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            44,
+            23,
+            1,
+            159,
+            0
+        ],
+        "summary": "Ранее от данной должности освободили Александра Соловьева",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Ранее от данной должности освободили Александра Соловьева"
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Лидеры французской оппозиции осудили нападение на Макрона",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Лидеры французской оппозиции осудили нападение на Макрона"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11598131"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11598131",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11598131",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:42:11 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            42,
+            11,
+            1,
+            159,
+            0
+        ],
+        "summary": "По словам лидера движения \"Неподчинившаяся Франции\" Жан-Люка Меланшона, нападение на президента показывает, что \"сторонники насилия переходят от слов к действиям\"",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По словам лидера движения \"Неподчинившаяся Франции\" Жан-Люка Меланшона, нападение на президента показывает, что \"сторонники насилия переходят от слов к действиям\""
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Театр из ДНР впервые покажет спектакли на гастролях в Севастополе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Театр из ДНР впервые покажет спектакли на гастролях в Севастополе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/kultura/11598061"
+            }
+        ],
+        "link": "https://tass.ru/kultura/11598061",
+        "id": "https://tass.ru/kultura/11598061",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:41:32 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            41,
+            32,
+            1,
+            159,
+            0
+        ],
+        "summary": "Жителям города представят постановки \"Юнона и Авось\" и \"Мэри Поппинс\"",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Жителям города представят постановки \"Юнона и Авось\" и \"Мэри Поппинс\""
+        },
+        "tags": [
+            {
+                "term": "Культура",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Театр",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Минздраве заявили, что \"Спутник V\" и \"Спутник Лайт\" могут применяться для ревакцинации",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Минздраве заявили, что \"Спутник V\" и \"Спутник Лайт\" могут применяться для ревакцинации"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598209"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598209",
+        "id": "https://tass.ru/obschestvo/11598209",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:41:24 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            41,
+            24,
+            1,
+            159,
+            0
+        ],
+        "summary": "Обе вакцины могут использоваться для ревакцинации, в том числе тех граждан, которые изначально прививались ими, уточнили в ведомстве",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Обе вакцины могут использоваться для ревакцинации, в том числе тех граждан, которые изначально прививались ими, уточнили в ведомстве"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Экс-главе \"Балтстроя\" смягчили приговор за хищение при реконструкции резиденции президента",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Экс-главе \"Балтстроя\" смягчили приговор за хищение при реконструкции резиденции президента"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11597741"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11597741",
+        "id": "https://tass.ru/proisshestviya/11597741",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:40:34 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            40,
+            34,
+            1,
+            159,
+            0
+        ],
+        "summary": "Срок назначенного наказания в виде лишения свободы снизили до пяти лет",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Срок назначенного наказания в виде лишения свободы снизили до пяти лет"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Кубанские аграрии в этом году планируют собрать не менее 11 млн тонн зерна",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Кубанские аграрии в этом году планируют собрать не менее 11 млн тонн зерна"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11598179"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11598179",
+        "id": "https://tass.ru/ekonomika/11598179",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:39:22 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            39,
+            22,
+            1,
+            159,
+            0
+        ],
+        "summary": "Уборка озимых стартует в крае через две недели",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Уборка озимых стартует в крае через две недели"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "АПК",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "ГИБДД: большая часть ответственности за безопасность электросамокатов лежит на властях",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "ГИБДД: большая часть ответственности за безопасность электросамокатов лежит на властях"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598171"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598171",
+        "id": "https://tass.ru/obschestvo/11598171",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:38:52 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            38,
+            52,
+            1,
+            159,
+            0
+        ],
+        "summary": "Начальник Научного центра безопасного дорожного движения МВД Дмитрий Митрошин отметил, что в ведении властей находятся регулировка рынка проката, запрет въезда на определенные территории, а также ограничение скорости",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Начальник Научного центра безопасного дорожного движения МВД Дмитрий Митрошин отметил, что в ведении властей находятся регулировка рынка проката, запрет въезда на определенные территории, а также ограничение скорости"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Госдума приняла в первом чтении законопроект о соблюдении ночью тишины в домах",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Госдума приняла в первом чтении законопроект о соблюдении ночью тишины в домах"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598139"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598139",
+        "id": "https://tass.ru/obschestvo/11598139",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:38:49 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            38,
+            49,
+            1,
+            159,
+            0
+        ],
+        "summary": "В документе предусмотрены исключения. В частности, речь идет о плаче ребенка, звуках воды в инженерных трубах, шагах при обычной ходьбе и так далее",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В документе предусмотрены исключения. В частности, речь идет о плаче ребенка, звуках воды в инженерных трубах, шагах при обычной ходьбе и так далее"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Клубы РПЛ и судейский комитет обсуждают выделение 30 млн рублей на премирование арбитров",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Клубы РПЛ и судейский комитет обсуждают выделение 30 млн рублей на премирование арбитров"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/sport/11598147"
+            }
+        ],
+        "link": "https://tass.ru/sport/11598147",
+        "id": "https://tass.ru/sport/11598147",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:36:36 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            36,
+            36,
+            1,
+            159,
+            0
+        ],
+        "summary": "На общем собрании клубов РПЛ 24 мая была предложена новая система финансирования судейства",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "На общем собрании клубов РПЛ 24 мая была предложена новая система финансирования судейства"
+        },
+        "tags": [
+            {
+                "term": "Спорт",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол в России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Москве открылась фотовыставка, посвященная промпредприятиям",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Москве открылась фотовыставка, посвященная промпредприятиям"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598145"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598145",
+        "id": "https://tass.ru/obschestvo/11598145",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:35:18 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            35,
+            18,
+            1,
+            159,
+            0
+        ],
+        "summary": "В фотопроекте приняли участие 10 столичных промпредприятий",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В фотопроекте приняли участие 10 столичных промпредприятий"
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Судебный департамент ВС РФ предложили наделить правом разработать мундиры для судей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Судебный департамент ВС РФ предложили наделить правом разработать мундиры для судей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598075"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598075",
+        "id": "https://tass.ru/obschestvo/11598075",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:35:09 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            35,
             9,
             1,
             159,
             0
         ],
-        "summary": "По данным Райффайзенбанка, 48% опрошенных не берут кредиты в банках из-за страха влезть в долги",
+        "summary": "Одобренный Пленумом ВС законопроект предлагает наделить Судебный департамент полномочиями утверждать \"техническое описание мантии судьи и образцов предметов служебного обмундирования судей и работников аппаратов судов, имеющих классные чины, работников аппарата Судебного департамента и его органов\"",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "По данным Райффайзенбанка, 48% опрошенных не берут кредиты в банках из-за страха влезть в долги"
+            "value": "Одобренный Пленумом ВС законопроект предлагает наделить Судебный департамент полномочиями утверждать \"техническое описание мантии судьи и образцов предметов служебного обмундирования судей и работников аппаратов судов, имеющих классные чины, работников аппарата Судебного департамента и его органов\""
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Российские ж/д операторы выступают за баланс ответственности в контрактах ship-or-pay",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Российские ж/д операторы выступают за баланс ответственности в контрактах ship-or-pay"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11598013"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11598013",
+        "id": "https://tass.ru/ekonomika/11598013",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:35:07 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            35,
+            7,
+            1,
+            159,
+            0
+        ],
+        "summary": "Ранее Минтранс России доработал законопроект о контрактах по принципу ship-or-pay между РЖД и грузоотправителями, сохранив условия предоплаты",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Ранее Минтранс России доработал законопроект о контрактах по принципу ship-or-pay между РЖД и грузоотправителями, сохранив условия предоплаты"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Транспорт",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В мэрии Ухты сообщили, что причиной выхода нефти в городе стала старая деревянная скважина",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В мэрии Ухты сообщили, что причиной выхода нефти в городе стала старая деревянная скважина"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598057"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598057",
+        "id": "https://tass.ru/obschestvo/11598057",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:34:48 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            34,
+            48,
+            1,
+            159,
+            0
+        ],
+        "summary": "По информации властей города, скважина будет ликвидирована",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По информации властей города, скважина будет ликвидирована"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Северо-Запад",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Корпорация \"Туризм.РФ\" заключила соглашения с инвесторами на 180 млрд рублей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Корпорация \"Туризм.РФ\" заключила соглашения с инвесторами на 180 млрд рублей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11598083"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11598083",
+        "id": "https://tass.ru/ekonomika/11598083",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:33:04 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            33,
+            4,
+            1,
+            159,
+            0
+        ],
+        "summary": "Согласно нацпроекту, к 2030 году \"Туризм.РФ\" привлечет в отрасль 1,7 трлн рублей частных инвестиций",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Согласно нацпроекту, к 2030 году \"Туризм.РФ\" привлечет в отрасль 1,7 трлн рублей частных инвестиций"
         },
         "tags": [
             {
@@ -95,38 +1533,3190 @@
         ]
     },
     {
-        "title": "Мурашко: выводы о возможности применения \"Спутник V\" беременным будут через пару недель",
+        "title": "На фестивале \"Архстояние\" в Калужской области художники нарисуют портреты гостей",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "http://tass.ru/rss/v2.xml",
-            "value": "Мурашко: выводы о возможности применения \"Спутник V\" беременным будут через пару недель"
+            "value": "На фестивале \"Архстояние\" в Калужской области художники нарисуют портреты гостей"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://tass.ru/obschestvo/11592121"
+                "href": "https://tass.ru/kultura/11597921"
             }
         ],
-        "link": "https://tass.ru/obschestvo/11592121",
-        "id": "https://tass.ru/obschestvo/11592121",
+        "link": "https://tass.ru/kultura/11597921",
+        "id": "https://tass.ru/kultura/11597921",
         "guidislink": false,
-        "published": "Tue, 08 Jun 2021 03:02:35 +0300",
+        "published": "Tue, 08 Jun 2021 16:32:51 +0300",
         "published_parsed": [
             2021,
             6,
             8,
-            0,
+            13,
+            32,
+            51,
+            1,
+            159,
+            0
+        ],
+        "summary": "Мероприятие пройдет с 23 по 25 июля",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мероприятие пройдет с 23 по 25 июля"
+        },
+        "tags": [
+            {
+                "term": "Культура",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Волонтеры из Калининграда попросили президента поддержать программу \"Молоды душой\"",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Волонтеры из Калининграда попросили президента поддержать программу \"Молоды душой\""
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598017"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598017",
+        "id": "https://tass.ru/obschestvo/11598017",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:32:06 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            32,
+            6,
+            1,
+            159,
+            0
+        ],
+        "summary": "По этой программе пенсионеры могут получить средства как физические лица на реализацию волонтерских инициатив",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По этой программе пенсионеры могут получить средства как физические лица на реализацию волонтерских инициатив"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Северо-Запад",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Минфине заявили об исполнении расходов на нацпроекты предварительно на 31,7%",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Минфине заявили об исполнении расходов на нацпроекты предварительно на 31,7%"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11598117"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11598117",
+        "id": "https://tass.ru/ekonomika/11598117",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:32:05 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            32,
+            5,
+            1,
+            159,
+            0
+        ],
+        "summary": "Лучше всего - на 47,2% - исполнены расходы на нацпроект \"Здравоохранение\"",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Лучше всего - на 47,2% - исполнены расходы на нацпроект \"Здравоохранение\""
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Инвестиции \"Металлоинвеста\" в ближайшие пять лет могут составить $0,7-1 млрд ежегодно",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Инвестиции \"Металлоинвеста\" в ближайшие пять лет могут составить $0,7-1 млрд ежегодно"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597867"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597867",
+        "id": "https://tass.ru/ekonomika/11597867",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:32:03 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            32,
+            3,
+            1,
+            159,
+            0
+        ],
+        "summary": "При этом генеральный директор компании Назим Эфендиев отметил, что \"важны не суммы, а направления затрат\"",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "При этом генеральный директор компании Назим Эфендиев отметил, что \"важны не суммы, а направления затрат\""
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "ПМЭФ-2021",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Курганской области отменили запрет на посещение общественных мест детьми без взрослых",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Курганской области отменили запрет на посещение общественных мест детьми без взрослых"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598055"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598055",
+        "id": "https://tass.ru/obschestvo/11598055",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:30:44 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            30,
+            44,
+            1,
+            159,
+            0
+        ],
+        "summary": "Ограничение действовало с октября 2020 года",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Ограничение действовало с октября 2020 года"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Новости Урала",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Мишустин поручит проработать распространение в РФ практики микрореабилитации детей на дому",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мишустин поручит проработать распространение в РФ практики микрореабилитации детей на дому"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11598067"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11598067",
+        "id": "https://tass.ru/obschestvo/11598067",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:29:22 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            29,
+            22,
+            1,
+            159,
+            0
+        ],
+        "summary": "Премьер-министр назвал замечательным решением организацию помощи на дому",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Премьер-министр назвал замечательным решением организацию помощи на дому"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "\"Металлоинвест\" в перспективе 10 лет может внедрить водород в производство",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "\"Металлоинвест\" в перспективе 10 лет может внедрить водород в производство"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597901"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597901",
+        "id": "https://tass.ru/ekonomika/11597901",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:27:51 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            27,
+            51,
+            1,
+            159,
+            0
+        ],
+        "summary": "По словам генерального директора компании Назима Эфендиева, модуль горячебрикетированного железа на Михайловском ГОКе будет строиться с возможностью до 100% переключения на водород",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По словам генерального директора компании Назима Эфендиева, модуль горячебрикетированного железа на Михайловском ГОКе будет строиться с возможностью до 100% переключения на водород"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Всероссийская акция \"Тест на ВИЧ: Экспедиция 2021\" пройдет на ВДНХ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Всероссийская акция \"Тест на ВИЧ: Экспедиция 2021\" пройдет на ВДНХ"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/moskva/11598033"
+            }
+        ],
+        "link": "https://tass.ru/moskva/11598033",
+        "id": "https://tass.ru/moskva/11598033",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:27:50 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            27,
+            50,
+            1,
+            159,
+            0
+        ],
+        "summary": "Бесплатное тестирование проведут в специальном автомобиле-лаборатории",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Бесплатное тестирование проведут в специальном автомобиле-лаборатории"
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Пентагоне заявили о завершении более чем на 50% операции по выводу войск из Афганистана",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Пентагоне заявили о завершении более чем на 50% операции по выводу войск из Афганистана"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11598041"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11598041",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11598041",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:26:48 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            26,
+            48,
+            1,
+            159,
+            0
+        ],
+        "summary": "НАТО также выводит свои силы из страны",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "НАТО также выводит свои силы из страны"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "СБУ провела обыски у основателей общественной организации \"Партия Шария\"",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "СБУ провела обыски у основателей общественной организации \"Партия Шария\""
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11598023"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11598023",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11598023",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:26:19 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            26,
+            19,
+            1,
+            159,
+            0
+        ],
+        "summary": "В Службе безопасности Украины сообщили, что они причастны к распространению агитационных материалов, направленных на изменение границ и нарушение конституционного строя",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Службе безопасности Украины сообщили, что они причастны к распространению агитационных материалов, направленных на изменение границ и нарушение конституционного строя"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Парки и скверы стали самыми популярными объектами для благоустройства на Дальнем Востоке",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Парки и скверы стали самыми популярными объектами для благоустройства на Дальнем Востоке"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/nacionalnye-proekty/11598001"
+            }
+        ],
+        "link": "https://tass.ru/nacionalnye-proekty/11598001",
+        "id": "https://tass.ru/nacionalnye-proekty/11598001",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:25:27 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            25,
+            27,
+            1,
+            159,
+            0
+        ],
+        "summary": "В Южно-Сахалинске приведут в порядок сквер Авиаторов, а в Петропавловске-Камчатском создадут экопарк",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Южно-Сахалинске приведут в порядок сквер Авиаторов, а в Петропавловске-Камчатском создадут экопарк"
+        },
+        "tags": [
+            {
+                "term": "Национальные проекты",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Жилье и городская среда",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "\"Металлоинвест\" готов подготовить проведение IPO",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "\"Металлоинвест\" готов подготовить проведение IPO"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597863"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597863",
+        "id": "https://tass.ru/ekonomika/11597863",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:24:48 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            24,
+            48,
+            1,
+            159,
+            0
+        ],
+        "summary": "Акционеры и совет директоров изучают различные возможности увеличения акционерной стоимости компании, отметил гендиректор \"Металлоинвеста\" Назим Эфендиев",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Акционеры и совет директоров изучают различные возможности увеличения акционерной стоимости компании, отметил гендиректор \"Металлоинвеста\" Назим Эфендиев"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "ПМЭФ-2021",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Медведев: России не нужно отгораживаться от дискуссий в мире по искусственному интеллекту",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Медведев: России не нужно отгораживаться от дискуссий в мире по искусственному интеллекту"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597729"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597729",
+        "id": "https://tass.ru/ekonomika/11597729",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:23:42 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            23,
+            42,
+            1,
+            159,
+            0
+        ],
+        "summary": "По оценке замглавы Совбеза, перспективным является взаимодействие в рамках БРИКС",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По оценке замглавы Совбеза, перспективным является взаимодействие в рамках БРИКС"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Минфин 9 июня проведет аукционы по размещению ОФЗ двух выпусков объемом 20 млрд рублей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Минфин 9 июня проведет аукционы по размещению ОФЗ двух выпусков объемом 20 млрд рублей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11598015"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11598015",
+        "id": "https://tass.ru/ekonomika/11598015",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:23:02 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            23,
             2,
-            35,
+            1,
+            159,
+            0
+        ],
+        "summary": "Объем удовлетворения заявок на каждом аукционе будет определяться исходя, в частности, из объема спроса",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Объем удовлетворения заявок на каждом аукционе будет определяться исходя, в частности, из объема спроса"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Трутнев поддержал идею Яровой о бесплатном проезде детей из ДФО на отдых без родителей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Трутнев поддержал идею Яровой о бесплатном проезде детей из ДФО на отдых без родителей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597953"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597953",
+        "id": "https://tass.ru/obschestvo/11597953",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:22:23 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            22,
+            23,
+            1,
+            159,
+            0
+        ],
+        "summary": "Полпред президента в ДФО поручил провести совещание с губернаторами, чтобы уже этим летом жители округа смогли воспользоваться такой возможностью",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Полпред президента в ДФО поручил провести совещание с губернаторами, чтобы уже этим летом жители округа смогли воспользоваться такой возможностью"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Кургане произошел пожар в бывшем здании интерната для детей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Кургане произошел пожар в бывшем здании интерната для детей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11597713"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11597713",
+        "id": "https://tass.ru/proisshestviya/11597713",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:18:17 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            18,
+            17,
+            1,
+            159,
+            0
+        ],
+        "summary": "Возгорание ликвидировали на площади 1 тыс. кв. м",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Возгорание ликвидировали на площади 1 тыс. кв. м"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Словенка Зиданшек вышла в полуфинал Roland Garros",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Словенка Зиданшек вышла в полуфинал Roland Garros"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/sport/11597971"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "3699943",
+                "href": "https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210608/6169109.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/sport/11597971",
+        "id": "https://tass.ru/sport/11597971",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:16:21 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            16,
+            21,
+            1,
+            159,
+            0
+        ],
+        "summary": "В следующем раунде спортсменка встретится с победительницей игры между россиянкой Анастасией Павлюченковой и представительницей Казахстана Еленой Рыбакиной",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В следующем раунде спортсменка встретится с победительницей игры между россиянкой Анастасией Павлюченковой и представительницей Казахстана Еленой Рыбакиной"
+        },
+        "tags": [
+            {
+                "term": "Спорт",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Теннис",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Roland Garros",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "ГД одобрила законопроект против бесконтрольного закрытия муниципальных учреждений культуры",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "ГД одобрила законопроект против бесконтрольного закрытия муниципальных учреждений культуры"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/kultura/11597963"
+            }
+        ],
+        "link": "https://tass.ru/kultura/11597963",
+        "id": "https://tass.ru/kultura/11597963",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:13:52 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            13,
+            52,
+            1,
+            159,
+            0
+        ],
+        "summary": "Согласно документу, решение о реорганизации или ликвидации муниципального учреждения культуры может приниматься только на основании заключения комиссии",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Согласно документу, решение о реорганизации или ликвидации муниципального учреждения культуры может приниматься только на основании заключения комиссии"
+        },
+        "tags": [
+            {
+                "term": "Культура",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Путин пообещал усилить поддержку людей с аутизмом в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Путин пообещал усилить поддержку людей с аутизмом в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597933"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597933",
+        "id": "https://tass.ru/obschestvo/11597933",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:12:07 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            12,
+            7,
+            1,
+            159,
+            0
+        ],
+        "summary": "Президент добавил государство на федеральном и региональном уровне также будет делать все для поддержки интернатов для престарелых и инвалидов",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Президент добавил государство на федеральном и региональном уровне также будет делать все для поддержки интернатов для престарелых и инвалидов"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Петербурге задержали гражданина Казахстана, разыскиваемого в Австрии за мошенничество",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Петербурге задержали гражданина Казахстана, разыскиваемого в Австрии за мошенничество"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11597641"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11597641",
+        "id": "https://tass.ru/proisshestviya/11597641",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:10:52 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            10,
+            52,
+            1,
+            159,
+            0
+        ],
+        "summary": "По словам источника ТАСС, в Австрии мужчина заочно арестован, он являлся участником преступной организации",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По словам источника ТАСС, в Австрии мужчина заочно арестован, он являлся участником преступной организации"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Северо-Запад",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Путин назвал очень важной раннюю помощь детям с ограничениями по здоровью",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Путин назвал очень важной раннюю помощь детям с ограничениями по здоровью"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597827"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597827",
+        "id": "https://tass.ru/obschestvo/11597827",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:10:51 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            10,
+            51,
+            1,
+            159,
+            0
+        ],
+        "summary": "Очень важно вовремя вмешаться, отметил президент",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Очень важно вовремя вмешаться, отметил президент"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Астраханский губернатор возглавит список \"Единой России\" региона на выборах в Госдуму",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Астраханский губернатор возглавит список \"Единой России\" региона на выборах в Госдуму"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/politika/11597903"
+            }
+        ],
+        "link": "https://tass.ru/politika/11597903",
+        "id": "https://tass.ru/politika/11597903",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:08:43 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            8,
+            43,
+            1,
+            159,
+            0
+        ],
+        "summary": "По словам Игоря Бабушкина, он принял это решение, чтобы выстроить эффективную работу с законодательной ветвью власти",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По словам Игоря Бабушкина, он принял это решение, чтобы выстроить эффективную работу с законодательной ветвью власти"
+        },
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Внутренняя политика",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Власти Москвы назвали предполагаемую доходность облигаций 73-го выпуска",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Власти Москвы назвали предполагаемую доходность облигаций 73-го выпуска"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597905"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597905",
+        "id": "https://tass.ru/ekonomika/11597905",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:08:18 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            8,
+            18,
+            1,
+            159,
+            0
+        ],
+        "summary": "Ожидаемый уровень доходности составляет около 55-65 базисных пунктов к кривой бескупонной доходности государственных ценных бумаг",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Ожидаемый уровень доходности составляет около 55-65 базисных пунктов к кривой бескупонной доходности государственных ценных бумаг"
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В ГД внесли законопроект о доплате к пенсии тренерам, подготовившим олимпийских чемпионов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В ГД внесли законопроект о доплате к пенсии тренерам, подготовившим олимпийских чемпионов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/sport/11597893"
+            }
+        ],
+        "link": "https://tass.ru/sport/11597893",
+        "id": "https://tass.ru/sport/11597893",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:07:05 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            7,
+            5,
+            1,
+            159,
+            0
+        ],
+        "summary": "Размер доплаты составит 12 585 рублей в месяц",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Размер доплаты составит 12 585 рублей в месяц"
+        },
+        "tags": [
+            {
+                "term": "Спорт",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Экспорт пшеницы из России за январь - апрель снизился на 19,2%",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Экспорт пшеницы из России за январь - апрель снизился на 19,2%"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597855"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597855",
+        "id": "https://tass.ru/ekonomika/11597855",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:06:08 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            6,
+            8,
+            1,
+            159,
+            0
+        ],
+        "summary": "В денежном выражении этот показатель снизился на 5,1%",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В денежном выражении этот показатель снизился на 5,1%"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Около 100 спортсменов примут участие в международном турнире по бильярду в Екатеринбурге",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Около 100 спортсменов примут участие в международном турнире по бильярду в Екатеринбурге"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/novosti-partnerov/11597823"
+            }
+        ],
+        "link": "https://tass.ru/novosti-partnerov/11597823",
+        "id": "https://tass.ru/novosti-partnerov/11597823",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:05:45 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            5,
+            45,
+            1,
+            159,
+            0
+        ],
+        "summary": "Призовой фонд турнира составит 1 млн рублей, сумма будут разделена между 16 игроками",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Призовой фонд турнира составит 1 млн рублей, сумма будут разделена между 16 игроками"
+        },
+        "tags": [
+            {
+                "term": "Новости партнеров",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Глава судейского комитета РФС Хачатурянц исключил возвращение Васильева к работе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Глава судейского комитета РФС Хачатурянц исключил возвращение Васильева к работе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/sport/11597907"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "1222195",
+                "href": "https://cdn3.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210608/6169101.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/sport/11597907",
+        "id": "https://tass.ru/sport/11597907",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:05:30 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            5,
+            30,
+            1,
+            159,
+            0
+        ],
+        "summary": "Арбитр отстранен от матчей всех лиг чемпионата России",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Арбитр отстранен от матчей всех лиг чемпионата России"
+        },
+        "tags": [
+            {
+                "term": "Спорт",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол в России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Хачатурянц рассказал, что ему поступало предложение стать президентом РПЛ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Хачатурянц рассказал, что ему поступало предложение стать президентом РПЛ"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/sport/11597861"
+            }
+        ],
+        "link": "https://tass.ru/sport/11597861",
+        "id": "https://tass.ru/sport/11597861",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:05:12 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            5,
+            12,
+            1,
+            159,
+            0
+        ],
+        "summary": "Президентом лиги с 2007 года является Сергей Прядкин",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Президентом лиги с 2007 года является Сергей Прядкин"
+        },
+        "tags": [
+            {
+                "term": "Спорт",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол в России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Власти Ленинградской области считают неопасной ситуацию в Кузьмолово",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Власти Ленинградской области считают неопасной ситуацию в Кузьмолово"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597451"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597451",
+        "id": "https://tass.ru/obschestvo/11597451",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:04:17 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            4,
+            17,
+            1,
+            159,
+            0
+        ],
+        "summary": "В населенном пункте ввели режим повышенной готовности из-за возможности загрязнения радиацией",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В населенном пункте ввели режим повышенной готовности из-за возможности загрязнения радиацией"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Северо-Запад",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Кирилл Верхолетов станет новым руководителем проекта VAR в России",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Кирилл Верхолетов станет новым руководителем проекта VAR в России"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/sport/11597839"
+            }
+        ],
+        "link": "https://tass.ru/sport/11597839",
+        "id": "https://tass.ru/sport/11597839",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:03:39 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            3,
+            39,
+            1,
+            159,
+            0
+        ],
+        "summary": "На этом посту он сменит Леонида Калошина",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "На этом посту он сменит Леонида Калошина"
+        },
+        "tags": [
+            {
+                "term": "Спорт",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол в России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "СМИ: задержанное в России японское судно отпустят в связи с оплатой штрафа",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "СМИ: задержанное в России японское судно отпустят в связи с оплатой штрафа"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11597801"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11597801",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11597801",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:01:46 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            1,
+            46,
+            1,
+            159,
+            0
+        ],
+        "summary": "По сведениям агентства Kyodo, российская сторона назначила штраф в размере 6 млн рублей за найденных на судне живых крабов и другие морепродукты",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По сведениям агентства Kyodo, российская сторона назначила штраф в размере 6 млн рублей за найденных на судне живых крабов и другие морепродукты"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Макрону дали пощечину во время общения с гражданами",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Макрону дали пощечину во время общения с гражданами"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11597817"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "856543",
+                "href": "https://phototass3.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210608/6169121.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11597817",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11597817",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:00:53 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            0,
+            53,
+            1,
+            159,
+            0
+        ],
+        "summary": "Два человека задержаны",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Два человека задержаны"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Глава \"Металлоинвеста\": в течение полугода мы увидим снижение цен на металлопродукцию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Глава \"Металлоинвеста\": в течение полугода мы увидим снижение цен на металлопродукцию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/opinions/interviews/11596621"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "2665798",
+                "href": "https://phototass1.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210608/6168965.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/opinions/interviews/11596621",
+        "id": "https://tass.ru/opinions/interviews/11596621",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 16:00:01 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            13,
+            0,
+            1,
             1,
             159,
             0
         ],
         "tags": [
             {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "ПМЭФ-2021",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Госдума приняла в I чтении законопроект, уточняющий участие 18-летних в референдумах",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Госдума приняла в I чтении законопроект, уточняющий участие 18-летних в референдумах"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/politika/11597751"
+            }
+        ],
+        "link": "https://tass.ru/politika/11597751",
+        "id": "https://tass.ru/politika/11597751",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:57:52 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            57,
+            52,
+            1,
+            159,
+            0
+        ],
+        "summary": "Граждане, которым исполняется 18 лет в ходе многодневного голосования, смогут принимать участие в референдумах как федерального, так и регионального уровней",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Граждане, которым исполняется 18 лет в ходе многодневного голосования, смогут принимать участие в референдумах как федерального, так и регионального уровней"
+        },
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Внутренняя политика",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Грантовый фонд премии \"Мы вместе\" в треке \"Волонтеры и НКО\" может превысить 100 млн рублей",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Грантовый фонд премии \"Мы вместе\" в треке \"Волонтеры и НКО\" может превысить 100 млн рублей"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597699"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597699",
+        "id": "https://tass.ru/obschestvo/11597699",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:55:52 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            55,
+            52,
+            1,
+            159,
+            0
+        ],
+        "summary": "Победители фестиваля получат награды в размере 2,5 млн рублей, отметил первый заместитель председателя комиссии Общественной палаты РФ по делам молодежи, развитию добровольчества и патриотическому воспитанию Артем Метелев",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Победители фестиваля получат награды в размере 2,5 млн рублей, отметил первый заместитель председателя комиссии Общественной палаты РФ по делам молодежи, развитию добровольчества и патриотическому воспитанию Артем Метелев"
+        },
+        "tags": [
+            {
                 "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Минэкономразвития дорабатывает стратегию социально-экономического развития РФ до 2030 года",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Минэкономразвития дорабатывает стратегию социально-экономического развития РФ до 2030 года"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597723"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597723",
+        "id": "https://tass.ru/ekonomika/11597723",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:55:13 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            55,
+            13,
+            1,
+            159,
+            0
+        ],
+        "summary": "Как сообщили в ведомстве, документ будет представлен до 1 июля 2021 года",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Как сообщили в ведомстве, документ будет представлен до 1 июля 2021 года"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "На Хайнане подписали соглашения по ключевым проектам на $24,4 млрд за последний год",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "На Хайнане подписали соглашения по ключевым проектам на $24,4 млрд за последний год"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597599"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597599",
+        "id": "https://tass.ru/ekonomika/11597599",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:52:12 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            52,
+            12,
+            1,
+            159,
+            0
+        ],
+        "summary": "Они коснулись высокотехнологичного производства, финансов, международных авиаперевозок, образования, медицины и научно-технической сферы",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Они коснулись высокотехнологичного производства, финансов, международных авиаперевозок, образования, медицины и научно-технической сферы"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Госдума одобрила в первом чтении ускорение перевода банками средств в казначейство",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Госдума одобрила в первом чтении ускорение перевода банками средств в казначейство"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597705"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597705",
+        "id": "https://tass.ru/ekonomika/11597705",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:52:06 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            52,
+            6,
+            1,
+            159,
+            0
+        ],
+        "summary": "В случае принятия документ вступит в силу с 1 июля",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В случае принятия документ вступит в силу с 1 июля"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Создавая мир будущего: открывается всероссийский конкурс для детей с дислексией",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Создавая мир будущего: открывается всероссийский конкурс для детей с дислексией"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/novosti-partnerov/11597545"
+            }
+        ],
+        "link": "https://tass.ru/novosti-partnerov/11597545",
+        "id": "https://tass.ru/novosti-partnerov/11597545",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:51:39 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            51,
+            39,
+            1,
+            159,
+            0
+        ],
+        "summary": "Проект \"Идеальный город будущего\" (12+) призван привлечь внимание общества к детской дислексии. Организаторами конкурса стали Ассоциация родителей детей с дислексией и Московский музей современного искусства",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Проект \"Идеальный город будущего\" (12+) призван привлечь внимание общества к детской дислексии. Организаторами конкурса стали Ассоциация родителей детей с дислексией и Московский музей современного искусства"
+        },
+        "tags": [
+            {
+                "term": "Новости партнеров",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "\"Россети\" направят более 4,1 млрд рублей на модернизацию основной подстанции Рязани",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "\"Россети\" направят более 4,1 млрд рублей на модернизацию основной подстанции Рязани"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597679"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597679",
+        "id": "https://tass.ru/ekonomika/11597679",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:51:05 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            51,
+            5,
+            1,
+            159,
+            0
+        ],
+        "summary": "Окончание модернизации намечено на 2023 год",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Окончание модернизации намечено на 2023 год"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Цифровая энергетика",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Изменены правила игры рукой в футболе",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Изменены правила игры рукой в футболе"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/sport/11597717"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "1082015",
+                "href": "https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210608/6169089.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/sport/11597717",
+        "id": "https://tass.ru/sport/11597717",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:48:50 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            48,
+            50,
+            1,
+            159,
+            0
+        ],
+        "summary": "Плечо признано частью тела, которой можно забить гол",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Плечо признано частью тела, которой можно забить гол"
+        },
+        "tags": [
+            {
+                "term": "Спорт",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Футбол",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Мировой футбол",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Американские сенаторы заявили, что просчеты разведслужб сделали возможным штурм Капитолия",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Американские сенаторы заявили, что просчеты разведслужб сделали возможным штурм Капитолия"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11597425"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11597425",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11597425",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:48:38 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            48,
+            38,
+            1,
+            159,
+            0
+        ],
+        "summary": "К беспорядкам привели отсутствие планов на случаи чрезвычайных ситуаций, а также плохая координация межведомственных взаимодействий, считают в Конгрессе США",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "К беспорядкам привели отсутствие планов на случаи чрезвычайных ситуаций, а также плохая координация межведомственных взаимодействий, считают в Конгрессе США"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Протесты сторонников Трампа в США",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Путин считает, что акция \"Мы вместе\" оказалась очень востребованной в пандемию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Путин считает, что акция \"Мы вместе\" оказалась очень востребованной в пандемию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597671"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597671",
+        "id": "https://tass.ru/obschestvo/11597671",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:48:09 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            48,
+            9,
+            1,
+            159,
+            0
+        ],
+        "summary": "Глава государства напомнил, что в рамках объявленной премии проекты могут получить гранты размером до 2,5 млн рублей",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Глава государства напомнил, что в рамках объявленной премии проекты могут получить гранты размером до 2,5 млн рублей"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Госдума одобрила в I чтении отмену репатриации валютной выручки для несырьевых экспортеров",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Госдума одобрила в I чтении отмену репатриации валютной выручки для несырьевых экспортеров"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597663"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597663",
+        "id": "https://tass.ru/ekonomika/11597663",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:47:16 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            47,
+            16,
+            1,
+            159,
+            0
+        ],
+        "summary": "Законопроект предусматривает возможность зачислять экспортную валютную выручку на счета экспортеров, открытые в банках за пределами России",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Законопроект предусматривает возможность зачислять экспортную валютную выручку на счета экспортеров, открытые в банках за пределами России"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Экспорт российского алюминия в январе - апреле вырос на 35,5%",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Экспорт российского алюминия в январе - апреле вырос на 35,5%"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597357"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597357",
+        "id": "https://tass.ru/ekonomika/11597357",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:47:03 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            47,
+            3,
+            1,
+            159,
+            0
+        ],
+        "summary": "В натуральном выражении экспорт алюминия увеличился на 40,2%",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В натуральном выражении экспорт алюминия увеличился на 40,2%"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Мишустин считает, что мужчин нужно агитировать проходить диспансеризацию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мишустин считает, что мужчин нужно агитировать проходить диспансеризацию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597415"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597415",
+        "id": "https://tass.ru/obschestvo/11597415",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:46:43 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            46,
+            43,
+            1,
+            159,
+            0
+        ],
+        "summary": "Как отметил премьер-министр РФ, регулярно проходящие медосмотры дольше живут и меньше болеют",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Как отметил премьер-министр РФ, регулярно проходящие медосмотры дольше живут и меньше болеют"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "COVID-19. Американский след",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "COVID-19. Американский след"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/opinions/11595333"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "5274348",
+                "href": "https://cdn3.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210608/6168641.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/opinions/11595333",
+        "id": "https://tass.ru/opinions/11595333",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:45:14 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            45,
+            14,
+            1,
+            159,
+            0
+        ],
+        "summary": "Андрей Шитов — о том, кто открыл ящик Пандоры",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Андрей Шитов — о том, кто открыл ящик Пандоры"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Слуцкий: РФ поднимет вопрос непризнания русских коренным народом Украины в ПАСЕ и ПА ОБСЕ",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Слуцкий: РФ поднимет вопрос непризнания русских коренным народом Украины в ПАСЕ и ПА ОБСЕ"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/politika/11597585"
+            }
+        ],
+        "link": "https://tass.ru/politika/11597585",
+        "id": "https://tass.ru/politika/11597585",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:45:13 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            45,
+            13,
+            1,
+            159,
+            0
+        ],
+        "summary": "Нельзя допустить возможность повторения эпидемии \"коричневой чумы\" в XXI веке в самом сердце Европы, отметил депутат",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Нельзя допустить возможность повторения эпидемии \"коричневой чумы\" в XXI веке в самом сердце Европы, отметил депутат"
+        },
+        "tags": [
+            {
+                "term": "Политика",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Внешняя политика",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Министры шести стран просят Еврокомиссию разобраться с вторичной миграцией беженцев по ЕС",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Министры шести стран просят Еврокомиссию разобраться с вторичной миграцией беженцев по ЕС"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11597473"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11597473",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11597473",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:44:35 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            44,
+            35,
+            1,
+            159,
+            0
+        ],
+        "summary": "В частности, в ФРГ с июля 2020 года более 17 тыс. мигрантов из Греции направили повторный запрос на получение убежища, хотя они уже пользуются защитой в соответствии со статусом беженца в Греции, заявили в министерстве внутренних дел Германии",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В частности, в ФРГ с июля 2020 года более 17 тыс. мигрантов из Греции направили повторный запрос на получение убежища, хотя они уже пользуются защитой в соответствии со статусом беженца в Греции, заявили в министерстве внутренних дел Германии"
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Госдума одобрила во II чтении предоставление льгот компаниям, использующим труд осужденных",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Госдума одобрила во II чтении предоставление льгот компаниям, использующим труд осужденных"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597581"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597581",
+        "id": "https://tass.ru/ekonomika/11597581",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:42:27 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            42,
+            27,
+            1,
+            159,
+            0
+        ],
+        "summary": "Законопроект включает осужденных в число социально уязвимых категорий граждан",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Законопроект включает осужденных в число социально уязвимых категорий граждан"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Путин пообещал разобраться с вопросом о том, достаточно ли в РФ наград для соцработников",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Путин пообещал разобраться с вопросом о том, достаточно ли в РФ наград для соцработников"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597517"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597517",
+        "id": "https://tass.ru/obschestvo/11597517",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:39:30 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            39,
+            30,
+            1,
+            159,
+            0
+        ],
+        "summary": "Президент также отметил, что недавно введенные орден Пирогова и медаль Луки Крымского должны распространятся и на социальную сферу",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Президент также отметил, что недавно введенные орден Пирогова и медаль Луки Крымского должны распространятся и на социальную сферу"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Из тела пилота упавшего в Донбассе Boeing извлекли 100 металлических фрагментов",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Из тела пилота упавшего в Донбассе Boeing извлекли 100 металлических фрагментов"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11597433"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11597433",
+        "id": "https://tass.ru/proisshestviya/11597433",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:39:10 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            39,
+            10,
+            1,
+            159,
+            0
+        ],
+        "summary": "Большая часть состоит из нелегированной стали, отметил судья Хендрик Стейнхёйс",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Большая часть состоит из нелегированной стали, отметил судья Хендрик Стейнхёйс"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Расследование крушения Boeing в Донецкой области",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Рогозин и глава CNES обсудили возможное участие Франции в лунной станции РФ и Китая",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Рогозин и глава CNES обсудили возможное участие Франции в лунной станции РФ и Китая"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/kosmos/11597507"
+            }
+        ],
+        "link": "https://tass.ru/kosmos/11597507",
+        "id": "https://tass.ru/kosmos/11597507",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:37:02 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            37,
+            2,
+            1,
+            159,
+            0
+        ],
+        "summary": "Как сообщили в Роскосмосе, главы космических агентств выразили надежду на продолжение взаимодействия по представляющим интерес направлениям деятельности",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Как сообщили в Роскосмосе, главы космических агентств выразили надежду на продолжение взаимодействия по представляющим интерес направлениям деятельности"
+        },
+        "tags": [
+            {
+                "term": "Космос",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Доходы России от экспорта нефти в январе - апреле упали на 10,9%",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Доходы России от экспорта нефти в январе - апреле упали на 10,9%"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597351"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597351",
+        "id": "https://tass.ru/ekonomika/11597351",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:36:30 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            36,
+            30,
+            1,
+            159,
+            0
+        ],
+        "summary": "Нефтяные компании сократили год к году экспорт бензина в январе - апреле 2021 года на 10,5%, до $996 млн",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Нефтяные компании сократили год к году экспорт бензина в январе - апреле 2021 года на 10,5%, до $996 млн"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Российские волейболистки проиграли сборной Турции в матче Лиги наций",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Российские волейболистки проиграли сборной Турции в матче Лиги наций"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/sport/11597539"
+            }
+        ],
+        "link": "https://tass.ru/sport/11597539",
+        "id": "https://tass.ru/sport/11597539",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:36:24 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            36,
+            24,
+            1,
+            159,
+            0
+        ],
+        "summary": "Россиянки потерпели четвертое поражение на турнире",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Россиянки потерпели четвертое поражение на турнире"
+        },
+        "tags": [
+            {
+                "term": "Спорт",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Летние виды спорта",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Летние олимпийские виды спорта",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Офис Зеленского отрицает разногласия с США, несмотря на инцидент с правкой пресс-релиза",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Офис Зеленского отрицает разногласия с США, несмотря на инцидент с правкой пресс-релиза"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/mezhdunarodnaya-panorama/11597317"
+            }
+        ],
+        "link": "https://tass.ru/mezhdunarodnaya-panorama/11597317",
+        "id": "https://tass.ru/mezhdunarodnaya-panorama/11597317",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:31:41 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            31,
+            41,
+            1,
+            159,
+            0
+        ],
+        "summary": "По утверждению советника главы офиса президента Украины Михаила Подоляка, первичное заявление украинской стороны после телефонной беседы Зеленского и Байдена делалось, \"исходя из общей атмосферы разговора президентов и прозвучавших устных формулировок\"",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "По утверждению советника главы офиса президента Украины Михаила Подоляка, первичное заявление украинской стороны после телефонной беседы Зеленского и Байдена делалось, \"исходя из общей атмосферы разговора президентов и прозвучавших устных формулировок\""
+        },
+        "tags": [
+            {
+                "term": "Международная панорама",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Times: Джонсон предложит лидерам G7 новый план борьбы с изменением климата",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Times: Джонсон предложит лидерам G7 новый план борьбы с изменением климата"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597377"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597377",
+        "id": "https://tass.ru/ekonomika/11597377",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:29:43 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            29,
+            43,
+            1,
+            159,
+            0
+        ],
+        "summary": "Ожидается, что это поможет развивающимся странам декарбонизировать экономику и ограничить глобальное потепление",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Ожидается, что это поможет развивающимся странам декарбонизировать экономику и ограничить глобальное потепление"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Экология",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Борьба с изменениями климата",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Мишустин считает важным, чтобы пожилые граждане сделали прививку от COVID-19",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мишустин считает важным, чтобы пожилые граждане сделали прививку от COVID-19"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597395"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "2801531",
+                "href": "https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20210608/6169069.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597395",
+        "id": "https://tass.ru/obschestvo/11597395",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:28:24 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            28,
+            24,
+            1,
+            159,
+            0
+        ],
+        "summary": "В то же время, по мнению премьер-министра РФ, вакцинация должна быть добровольной",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В то же время, по мнению премьер-министра РФ, вакцинация должна быть добровольной"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Пандемия COVID-19",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В России вышла книга о Викторе Буте",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В России вышла книга о Викторе Буте"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/kultura/11597231"
+            }
+        ],
+        "link": "https://tass.ru/kultura/11597231",
+        "id": "https://tass.ru/kultura/11597231",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:27:30 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            27,
+            30,
+            1,
+            159,
+            0
+        ],
+        "summary": "Автор ставил перед собой задачу реконструировать полную картину операции американских спецслужб на основе ранее не публиковавшихся документов и свидетельств очевидцев, заявили в издательстве",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Автор ставил перед собой задачу реконструировать полную картину операции американских спецслужб на основе ранее не публиковавшихся документов и свидетельств очевидцев, заявили в издательстве"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Культура",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Дело Виктора Бута",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Собянин осмотрел социальный центр для людей старшего поколения на юго-западе Москвы",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Собянин осмотрел социальный центр для людей старшего поколения на юго-западе Москвы"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/moskva/11597363"
+            }
+        ],
+        "link": "https://tass.ru/moskva/11597363",
+        "id": "https://tass.ru/moskva/11597363",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:26:36 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            26,
+            36,
+            1,
+            159,
+            0
+        ],
+        "summary": "В здании оборудовали гостиные для отдыха и чтения, кулинарную студию, творческую и ремесленную мастерскую и спортивный зал",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В здании оборудовали гостиные для отдыха и чтения, кулинарную студию, творческую и ремесленную мастерскую и спортивный зал"
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Количество многодетных семей в Подмосковье за 10 лет увеличилось втрое",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Количество многодетных семей в Подмосковье за 10 лет увеличилось втрое"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597193"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597193",
+        "id": "https://tass.ru/obschestvo/11597193",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:23:49 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            23,
+            49,
+            1,
+            159,
+            0
+        ],
+        "summary": "В 2021 году в регионе зарегистрировано 86 тыс. многодетных семей",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В 2021 году в регионе зарегистрировано 86 тыс. многодетных семей"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Московская область",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Профицит внешнеторгового баланса России в январе - апреле упал на 8,4%",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Профицит внешнеторгового баланса России в январе - апреле упал на 8,4%"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597333"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597333",
+        "id": "https://tass.ru/ekonomika/11597333",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:23:26 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            23,
+            26,
+            1,
+            159,
+            0
+        ],
+        "summary": "В целом внешнеторговый оборот РФ в январе - апреле увеличился на 16%, до $217,8 млрд",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В целом внешнеторговый оборот РФ в январе - апреле увеличился на 16%, до $217,8 млрд"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Российская креативная неделя пройдет в Москве с 8 по 11 июля",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Российская креативная неделя пройдет в Москве с 8 по 11 июля"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/moskva/11597299"
+            }
+        ],
+        "link": "https://tass.ru/moskva/11597299",
+        "id": "https://tass.ru/moskva/11597299",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:23:25 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            23,
+            25,
+            1,
+            159,
+            0
+        ],
+        "summary": "Мероприятие будет посвящено 60-летию первого полета человека в космос",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мероприятие будет посвящено 60-летию первого полета человека в космос"
+        },
+        "tags": [
+            {
+                "term": "Москва",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "В Пакистане назвали возможную причину катастрофы на железной дороге",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "В Пакистане назвали возможную причину катастрофы на железной дороге"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/proisshestviya/11597223"
+            }
+        ],
+        "link": "https://tass.ru/proisshestviya/11597223",
+        "id": "https://tass.ru/proisshestviya/11597223",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:22:51 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            22,
+            51,
+            1,
+            159,
+            0
+        ],
+        "summary": "К столкновению поездов мог привести дефект пути, сообщила газета News",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "К столкновению поездов мог привести дефект пути, сообщила газета News"
+        },
+        "tags": [
+            {
+                "term": "Происшествия",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Мишустин поручил скорректировать расчеты при оплате соцуслуг для людей с инвалидностью",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Мишустин поручил скорректировать расчеты при оплате соцуслуг для людей с инвалидностью"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/obschestvo/11597293"
+            }
+        ],
+        "link": "https://tass.ru/obschestvo/11597293",
+        "id": "https://tass.ru/obschestvo/11597293",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:22:47 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            22,
+            47,
+            1,
+            159,
+            0
+        ],
+        "summary": "Премьер-министр также сообщил, что правительство планирует до конца 2022 года распространить систему центров социального обслуживания на всю территорию России",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Премьер-министр также сообщил, что правительство планирует до конца 2022 года распространить систему центров социального обслуживания на всю территорию России"
+        },
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Путин 9 июня онлайн примет участие в запуске Амурского газоперерабатывающего завода",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Путин 9 июня онлайн примет участие в запуске Амурского газоперерабатывающего завода"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tass.ru/ekonomika/11597251"
+            }
+        ],
+        "link": "https://tass.ru/ekonomika/11597251",
+        "id": "https://tass.ru/ekonomika/11597251",
+        "guidislink": false,
+        "published": "Tue, 08 Jun 2021 15:22:24 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            8,
+            12,
+            22,
+            24,
+            1,
+            159,
+            0
+        ],
+        "summary": "Выход завода на проектную мощность запланирован на январь 2025 года",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://tass.ru/rss/v2.xml",
+            "value": "Выход завода на проектную мощность запланирован на январь 2025 года"
+        },
+        "tags": [
+            {
+                "term": "Экономика и бизнес",
                 "scheme": null,
                 "label": null
             }

@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Пандемия коронавируса. Самое актуальное на 12 июня",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Пандемия коронавируса. Самое актуальное на 12 июня"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/12/06/2021/5e2fe9459a79479d102bada6"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/756214096194311.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/12/06/2021/5e2fe9459a79479d102bada6",
+        "summary": "В Москве из-за заболеваемости продлили выходные дни и на неделю ограничили работу общепита в ночное время . Главные новости о COVID — в обзоре РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В Москве из-за заболеваемости продлили выходные дни и на неделю ограничили работу общепита в ночное время . Главные новости о COVID — в обзоре РБК"
+        },
+        "authors": [
+            {
+                "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+            }
+        ],
+        "author": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл",
+        "author_detail": {
+            "name": "Юлия Сапронова, Анастасия Антипова, Георгий Тадтаев, Владислав Гордеев, Дада Линделл"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/5e2fe9459a79479d102bada6",
+        "guidislink": false,
+        "published": "Sat, 12 Jun 2021 15:30:59 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            12,
+            12,
+            30,
+            59,
+            5,
+            163,
+            0
+        ]
+    }
+]

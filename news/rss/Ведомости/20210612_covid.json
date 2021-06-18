@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 13 510 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 13 510 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/06/12/874026-v-rossii-za-sutki-viyavili-13-510-novih-sluchaya-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/4j/nwdi2/normal-uz2.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/06/12/874026-v-rossii-za-sutki-viyavili-13-510-novih-sluchaya-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/06/12/874026-v-rossii-za-sutki-viyavili-13-510-novih-sluchaya-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/06/12/874026-v-rossii-za-sutki-viyavili-13-510-novih-sluchaya-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 12 Jun 2021 11:09:29 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            12,
+            8,
+            9,
+            29,
+            5,
+            163,
+            0
+        ]
+    }
+]

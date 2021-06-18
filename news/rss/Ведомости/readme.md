@@ -172,7 +172,20 @@
 05.06.2021 | 19 | 3 
 06.06.2021 | 12 | 2 
 07.06.2021 | 51 | 2 
+08.06.2021 | 40 | 5 
+09.06.2021 | 44 | 3 
+10.06.2021 | 49 | 3 
+11.06.2021 | 41 | 4 
+12.06.2021 | 10 | 1 
+13.06.2021 | 12 | 4 
+14.06.2021 | 13 | 2 
+15.06.2021 | 48 | 8 
+16.06.2021 | 43 | 9 
+17.06.2021 | 48 | 5 
 
 > ### Последние новости по теме covid-19:
-+ [В Бурятии ужесточили ограничения из-за роста случаев коронавируса](https://www.vedomosti.ru/society/news/2021/06/07/873200-v-buryatii-uzhestochili-ogranicheniya-iz-za-rosta-zabolevaemosti-koronavirusom)
-+ [В России за сутки выявили 9429 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/06/07/873164-9429-sluchaev-koronavirusa)
++ [Опрос показал долю готовых привиться от коронавируса работников сферы услуг](https://www.vedomosti.ru/society/news/2021/06/17/874548-opros-pokazal-dolyu-gotovih-privitsya-ot-koronavirusa-rabotnikov-sferi-uslug)
++ [Власти Петербурга сообщили о госпитализации 850 человек в сутки из-за коронавируса](https://www.vedomosti.ru/society/news/2021/06/17/874532-vlasti-peterburga-soobschili-o-gospitalizatsii-850-chelovek-v-sutki-iz-za-koronavirusa)
++ [В России за сутки выявили 14 057 новых случаев коронавируса](https://www.vedomosti.ru/society/news/2021/06/17/874473-v-rossii-za-sutki-viyavili-14-057-novih-sluchaev-koronavirusa)
++ [В Санкт-Петербурге ужесточили ограничения из-за коронавируса](https://www.vedomosti.ru/society/news/2021/06/17/874443-v-sankt-peterburge-uzhestochili-ogranicheniya-iz-za-koronavirusa)
++ [Ректоры вузов Москвы предложили пускать на пары только привившихся от коронавируса](https://www.vedomosti.ru/society/news/2021/06/17/874439-rektori-predlozhili-puskat-pari-tolko-privivshihsya)

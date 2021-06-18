@@ -171,6 +171,16 @@
 05.06.2021 | 8 | 1 
 06.06.2021 | 8 | 1 
 07.06.2021 | 24 | 0 
+08.06.2021 | 25 | 1 
+09.06.2021 | 23 | 0 
+10.06.2021 | 25 | 0 
+11.06.2021 | 21 | 0 
+12.06.2021 | 9 | 1 
+13.06.2021 | 8 | 1 
+14.06.2021 | 9 | 1 
+15.06.2021 | 18 | 0 
+16.06.2021 | 25 | 1 
+17.06.2021 | 25 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [За сутки коронавирусом в России заболели вновь более 9 тыс. человек](http://expert.ru/2021/06/6/koronavirus-statistika/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/06/6/koronavirus-statistika/)
++ [Правительство субсидирует наём молодых специалистов, получивших дипломы в период пандемии](http://expert.ru/2021/06/17/pravitelstvo-subsidiruyet-naym-molodykh-spetsialistov-poluchivshikh-diplomy-v-period-pandemii/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/06/17/pravitelstvo-subsidiruyet-naym-molodykh-spetsialistov-poluchivshikh-diplomy-v-period-pandemii/)

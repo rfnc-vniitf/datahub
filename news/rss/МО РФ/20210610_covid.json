@@ -1,0 +1,46 @@
+[
+    {
+        "title": "В Восточном военном округе от коронавирусной инфекции привиты более 140 тыс. человек",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Восточном военном округе от коронавирусной инфекции привиты более 140 тыс. человек"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12366074@egNews"
+            },
+            {
+                "length": "187605",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/OU9A4802-550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12366074@egNews",
+        "summary": "В числе прошедших вакцинацию – военнослужащие, члены их семей и гражданский персонал воинских частей.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В числе прошедших вакцинацию – военнослужащие, члены их семей и гражданский персонал воинских частей."
+        },
+        "published": "Thu, 10 Jun 2021 09:30:51 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            10,
+            6,
+            30,
+            51,
+            3,
+            161,
+            0
+        ],
+        "id": "12366074@egNews",
+        "guidislink": false
+    }
+]

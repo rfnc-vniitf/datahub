@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Мурашко рассказал о мутации коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Мурашко рассказал о мутации коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1178958/video/murashko-rasskazal-o-mutatcii-koronavirusa"
+            }
+        ],
+        "link": "https://iz.ru/1178958/video/murashko-rasskazal-o-mutatcii-koronavirusa",
+        "summary": "",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": ""
+        },
+        "published": "Tue, 15 Jun 2021 16:00:53 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            15,
+            13,
+            0,
+            53,
+            1,
+            166,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/1178958/video/murashko-rasskazal-o-mutatcii-koronavirusa",
+        "guidislink": false
+    },
+    {
+        "title": "Мурашко о мутации коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": "Мурашко о мутации коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://iz.ru/1178952/video/murashko-o-mutatcii-koronavirusa"
+            }
+        ],
+        "link": "https://iz.ru/1178952/video/murashko-o-mutatcii-koronavirusa",
+        "summary": "",
+        "summary_detail": {
+            "type": "text/html",
+            "language": "ru",
+            "base": "https://iz.ru/xml/rss/all.xml",
+            "value": ""
+        },
+        "published": "Tue, 15 Jun 2021 15:49:31 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            15,
+            12,
+            49,
+            31,
+            1,
+            166,
+            0
+        ],
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "id": "https://iz.ru/1178952/video/murashko-o-mutatcii-koronavirusa",
+        "guidislink": false
+    }
+]

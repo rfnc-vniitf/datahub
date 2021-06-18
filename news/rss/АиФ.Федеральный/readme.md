@@ -172,7 +172,20 @@
 05.06.2021 | 56 | 1 
 06.06.2021 | 54 | 1 
 07.06.2021 | 119 | 1 
-08.06.2021 | 1 | 0 
+08.06.2021 | 112 | 4 
+09.06.2021 | 114 | 3 
+10.06.2021 | 113 | 4 
+11.06.2021 | 119 | 2 
+12.06.2021 | 50 | 1 
+13.06.2021 | 57 | 4 
+14.06.2021 | 65 | 6 
+15.06.2021 | 133 | 10 
+16.06.2021 | 134 | 7 
+17.06.2021 | 113 | 6 
 
 > ### Последние новости по теме covid-19:
-+ [В России выявили 9429 случаев коронавируса за сутки](https://aif.ru/culture/movie/umer_akter_iz_ulic_razbityh_fonarey_artem_anchukov)
++ [Сколько держится иммунитет после прививки от коронавируса?](https://aif.ru/health/coronavirus/skolko_derzhitsya_immunitet_posle_privivki_ot_koronavirusa)
++ [В центре «Вектор» назвали число выявленных в РФ мутаций коронавируса](https://aif.ru/health/coronavirus/chto_za_supershtamm_koronavirusa_mozhet_poyavitsya_v_budushchem)
++ [За последние сутки коронавирусом в России заразились 14 057 человек](https://aif.ru/health/coronavirus/v_kostromskoy_oblasti_vveli_obyazatelnuyu_samoizolyaciyu_dlya_priezzhayushchih)
++ [В Санкт-Петербурге начали действовать новые ограничения из-за коронавируса](https://aif.ru/health/coronavirus/kakie_ogranicheniya_vvedut_v_sankt-peterburge_iz-za_pandemii)
++ [Сколько россиян стали экономить на продуктах питания во время пандемии?](https://aif.ru/money/mymoney/skolko_rossiyan_stali_ekonomit_na_produktah_pitaniya_vo_vremya_pandemii)
