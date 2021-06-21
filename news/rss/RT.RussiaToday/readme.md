@@ -182,8 +182,9 @@
 15.06.2021 | 50 | 1 
 16.06.2021 | 50 | 5 
 17.06.2021 | 50 | 3 
+18.06.2021 | 38 | 3 
 
 > ### Последние новости по теме covid-19:
-+ [Сборная Словакии объявила о двух заболевших коронавирусом перед матчем Евро-2020](https://russian.rt.com/sport/news/874412-sbornaya-slovakii-koronavirus-evro-2020?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Ставропольском крае провели около 2 млн тестов на COVID-19 с начала пандемии](https://russian.rt.com/russia/news/874397-region-pandemiya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Оренбургской области рассказали о работе по борьбе с пандемией](https://russian.rt.com/russia/news/874394-region-pandemiya-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Власти Уэльса перенесли срок начала снятия ограничений из-за коронавируса](https://russian.rt.com/world/news/874733-uels-koronavirus-britaniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Губернатор Калужской области госпитализирован с коронавирусом](https://russian.rt.com/russia/news/874737-gubernator-kaluga-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Роспотребнадзор создал базу данных мутаций коронавируса](https://russian.rt.com/russia/news/874719-mutacii-koronavirusa-rospotrebnadzor?utm_source=rss&utm_medium=rss&utm_campaign=RSS)

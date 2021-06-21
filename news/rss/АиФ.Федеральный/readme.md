@@ -182,6 +182,7 @@
 15.06.2021 | 133 | 10 
 16.06.2021 | 134 | 7 
 17.06.2021 | 113 | 6 
+18.06.2021 | 26 | 0 
 
 > ### Последние новости по теме covid-19:
 + [Сколько держится иммунитет после прививки от коронавируса?](https://aif.ru/health/coronavirus/skolko_derzhitsya_immunitet_posle_privivki_ot_koronavirusa)

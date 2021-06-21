@@ -164,6 +164,7 @@
 15.06.2021 | 7 | 0 
 16.06.2021 | 7 | 0 
 17.06.2021 | 11 | 0 
+18.06.2021 | 4 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Преждевременные воды: как пандемия повлияла на путешествия по России и за ее пределы](http://www.forbes.ru/forbeslife/431305-prezhdevremennye-vody-kak-pandemiya-povliyala-na-puteshestviya-po-rossii-i-za-ee)
++ [Голая правда: как владелец эротического сервиса OnlyFans стал миллиардером благодаря пандемии](http://www.forbes.ru/milliardery/432479-golaya-pravda-kak-vladelec-eroticheskogo-servisa-onlyfans-stal-milliarderom)

@@ -182,6 +182,7 @@
 15.06.2021 | 20 | 1 
 16.06.2021 | 20 | 1 
 17.06.2021 | 20 | 1 
+18.06.2021 | 20 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Эфир: Иммунолог Викулов развенчивает мифы и приводит факты о вирусных заболеваниях](https://riafan.ru/1467476-efir-immunolog-vikulov-razvenchivaet-mify-i-privodit-fakty-o-virusnykh-zabolevaniyakh)
++ [Губернатора Калужской области госпитализировали с коронавирусом](https://riafan.ru/1468156-gubernatora-kaluzhskoi-oblasti-gospitalizirovali-s-koronavirusom)

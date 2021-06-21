@@ -182,6 +182,7 @@
 15.06.2021 | 50 | 2 
 16.06.2021 | 50 | 2 
 17.06.2021 | 50 | 1 
+18.06.2021 | 50 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [В Подмосковье за неделю число госпитализаций с коронавирусом выросло на 70%](https://iz.ru/1180110/2021-06-17/v-podmoskove-za-nedeliu-chislo-gospitalizatcii-s-koronavirusom-vyroslo-na-70)
++ [Собянин оценил вероятность ужесточения мер против коронавируса в Москве](https://iz.ru/1180424/2021-06-18/sobianin-otcenil-veroiatnost-uzhestocheniia-mer-protiv-koronavirusa-v-moskve)

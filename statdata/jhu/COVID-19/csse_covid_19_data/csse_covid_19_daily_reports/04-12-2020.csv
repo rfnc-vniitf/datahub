@@ -414,7 +414,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31031,Cherry,Nebraska,US,2020-04-12 23:18:00,42.54502621,-101.1244332,1,0,0,1,"Cherry, Nebraska, US"
 51550,Chesapeake,Virginia,US,2020-04-12 23:18:00,36.67670048,-76.30545744,121,0,0,121,"Chesapeake, Virginia, US"
 33005,Cheshire,New Hampshire,US,2020-04-12 23:18:00,42.92015988,-72.25311043,18,0,0,18,"Cheshire, New Hampshire, US"
-42029,Chester,Pennsylvania,US,2020-04-12 23:18:00,39.97291773,-75.74768357,562,17,0,545,"Chester, Pennsylvania, US"
+42029,Chester,Pennsylvania,US,2020-04-12 23:18:00,39.97291773,-75.74768357,607,32,0,545,"Chester, Pennsylvania, US"
 45023,Chester,South Carolina,US,2020-04-12 23:18:00,34.69249168,-81.1583216,19,0,0,19,"Chester, South Carolina, US"
 47023,Chester,Tennessee,US,2020-04-12 23:18:00,35.42527478,-88.6095842,6,0,0,6,"Chester, Tennessee, US"
 45025,Chesterfield,South Carolina,US,2020-04-12 23:18:00,34.64137396,-80.1564014,22,0,0,22,"Chesterfield, South Carolina, US"
@@ -829,7 +829,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31061,Franklin,Nebraska,US,2020-04-12 23:18:00,40.17636348,-98.95299073,2,0,0,2,"Franklin, Nebraska, US"
 36033,Franklin,New York,US,2020-04-12 23:18:00,44.59040891,-74.29926032,12,0,0,12,"Franklin, New York, US"
 37069,Franklin,North Carolina,US,2020-04-12 23:18:00,36.081519,-78.28708884,64,0,0,64,"Franklin, North Carolina, US"
-39049,Franklin,Ohio,US,2020-04-12 23:18:00,39.96995815,-83.01115755,943,28,0,929,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,2020-04-12 23:18:00,39.96995815,-83.01115755,943,29,0,929,"Franklin, Ohio, US"
 42055,Franklin,Pennsylvania,US,2020-04-12 23:18:00,39.92956518,-77.72157791,64,0,0,64,"Franklin, Pennsylvania, US"
 47051,Franklin,Tennessee,US,2020-04-12 23:18:00,35.15634626,-86.09201039,22,1,0,21,"Franklin, Tennessee, US"
 48159,Franklin,Texas,US,2020-04-12 23:18:00,33.17653242,-95.21917243,1,0,0,1,"Franklin, Texas, US"
@@ -985,7 +985,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20075,Hamilton,Kansas,US,2020-04-12 23:18:00,37.99978709,-101.7921066,1,0,0,1,"Hamilton, Kansas, US"
 31081,Hamilton,Nebraska,US,2020-04-12 23:18:00,40.87349452,-98.02099117,11,0,0,11,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-04-12 23:18:00,43.66146647,-74.49721957,3,0,0,3,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,2020-04-12 23:18:00,39.19673558,-84.54502924,535,25,0,518,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,2020-04-12 23:18:00,39.19673558,-84.54502924,535,26,0,518,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,2020-04-12 23:18:00,35.17670231,-85.16652245,107,10,0,97,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,2020-04-12 23:18:00,31.70470573,-98.11083887,3,0,0,3,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,2020-04-12 23:18:00,44.67385954,-97.18829593,1,0,0,1,"Hamlin, South Dakota, US"
@@ -2936,7 +2936,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Panama,2020-04-12 23:17:00,8.538,-80.7821,3234,79,23,3132,Panama
 ,,,Papua New Guinea,2020-04-12 23:17:00,-6.314993,143.95555,2,0,0,2,Papua New Guinea
 ,,,Paraguay,2020-04-12 23:17:00,-23.4425,-58.4438,134,6,22,106,Paraguay
-,,,Peru,2020-04-12 23:17:00,-9.19,-75.0152,7519,193,1798,5528,Peru
+,,,Peru,2020-04-12 23:17:00,-9.19,-75.0152,7519,846,1798,5528,Peru
 ,,,Philippines,2020-04-12 23:17:00,12.879721,121.774017,4648,297,197,4154,Philippines
 ,,,Poland,2020-04-12 23:17:00,51.9194,19.1451,6674,232,439,6003,Poland
 ,,,Portugal,2020-04-12 23:17:00,39.3999,-8.2245,16585,504,277,15804,Portugal
@@ -2990,3 +2990,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zimbabwe,2020-04-12 23:17:00,-19.015438,29.154857,14,3,0,11,Zimbabwe
 ,unassigned,Utah,US,2020-04-12 23:18:00,,,4,5,0,-1,"unassigned, Utah, US"
 ,,Unknown,China,2020-04-12 23:18:00,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,2020-04-12 23:18:00,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,2020-04-12 23:18:00,-3.3704,-168.734,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-04-12 23:18:00,-3.3704,-168.734,0,0,0,0,"Cook Islands, New Zealand"

@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Какие ограничения вводят регионы из-за новой вспышки COVID-19. Главное",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Какие ограничения вводят регионы из-за новой вспышки COVID-19. Главное"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/society/18/06/2021/60c8cb989a79472556f8b890"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/3/37/756237783482373.jpg",
+                "rel": "enclosure"
+            },
+            {
+                "type": "video/mp4",
+                "length": "",
+                "href": "https://edge-upvideo.rbc.ru/archive/2021/06/14/_-2020-2_mp4/720p.mp4",
+                "rel": "enclosure"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/82/756236904058825.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/society/18/06/2021/60c8cb989a79472556f8b890",
+        "summary": "В России начался резкий рост заболеваемости коронавирусом — количество ежедневно выявляемых случаев за неделю выросло на треть. На этом фоне регионы стали снова вводить ограничения. Главные из них — в материале РБК",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "В России начался резкий рост заболеваемости коронавирусом — количество ежедневно выявляемых случаев за неделю выросло на треть. На этом фоне регионы стали снова вводить ограничения. Главные из них — в материале РБК"
+        },
+        "authors": [
+            {
+                "name": "Гаяна Демурина"
+            }
+        ],
+        "author": "Гаяна Демурина",
+        "author_detail": {
+            "name": "Гаяна Демурина"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/60c8cb989a79472556f8b890",
+        "guidislink": false,
+        "published": "Fri, 18 Jun 2021 09:29:12 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            18,
+            6,
+            29,
+            12,
+            4,
+            169,
+            0
+        ]
+    }
+]
