@@ -183,6 +183,7 @@
 16.06.2021 | 20 | 1 
 17.06.2021 | 20 | 1 
 18.06.2021 | 20 | 1 
+21.06.2021 | 20 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Губернатора Калужской области госпитализировали с коронавирусом](https://riafan.ru/1468156-gubernatora-kaluzhskoi-oblasti-gospitalizirovali-s-koronavirusom)
++ [В Пензе ужесточат режим повышенной готовности из-за коронавируса](https://riafan.ru/1469102-v-penze-uzhestochat-rezhim-povyshennoi-gotovnosti-iz-za-koronavirusa)

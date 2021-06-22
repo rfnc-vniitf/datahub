@@ -183,10 +183,7 @@
 16.06.2021 | 134 | 7 
 17.06.2021 | 113 | 6 
 18.06.2021 | 26 | 0 
+21.06.2021 | 28 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Сколько держится иммунитет после прививки от коронавируса?](https://aif.ru/health/coronavirus/skolko_derzhitsya_immunitet_posle_privivki_ot_koronavirusa)
-+ [В центре «Вектор» назвали число выявленных в РФ мутаций коронавируса](https://aif.ru/health/coronavirus/chto_za_supershtamm_koronavirusa_mozhet_poyavitsya_v_budushchem)
-+ [За последние сутки коронавирусом в России заразились 14 057 человек](https://aif.ru/health/coronavirus/v_kostromskoy_oblasti_vveli_obyazatelnuyu_samoizolyaciyu_dlya_priezzhayushchih)
-+ [В Санкт-Петербурге начали действовать новые ограничения из-за коронавируса](https://aif.ru/health/coronavirus/kakie_ogranicheniya_vvedut_v_sankt-peterburge_iz-za_pandemii)
-+ [Сколько россиян стали экономить на продуктах питания во время пандемии?](https://aif.ru/money/mymoney/skolko_rossiyan_stali_ekonomit_na_produktah_pitaniya_vo_vremya_pandemii)
++ [Уроки ковида. О чем сожалеют москвичи, тяжело переболевшие коронавирусом](https://aif.ru/health/coronavirus/uroki_kovida_o_chem_sozhaleyut_moskvichi_tyazhelo_perebolevshie_koronavirusom)

@@ -183,8 +183,7 @@
 16.06.2021 | 43 | 9 
 17.06.2021 | 48 | 5 
 18.06.2021 | 12 | 3 
+21.06.2021 | 10 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Минобороны разработает лекарство от коронавируса в виде жвачки](https://www.vedomosti.ru/society/news/2021/06/18/874633-minoboroni-lekarstvo-koronavirusa-zhvachki)
-+ [Губернатор Калужской области госпитализирован с коронавирусом](https://www.vedomosti.ru/society/news/2021/06/18/874631-gubernator-kaluzhskoi-oblasti-gospitalizirovan-koronavirusom)
-+ [Вакцину «Спутник V» не будут адаптировать к индийскому штамму коронавируса](https://www.vedomosti.ru/society/news/2021/06/18/874625-vaktsinu-ne-budut-adaptirovat-indiiskomu-shtammu)
++ [В Индии обнаружили новую мутацию коронавируса](https://www.vedomosti.ru/society/news/2021/06/21/874860-indii-novuyu-mutatsiyu-koronavirusa)

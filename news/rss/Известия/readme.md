@@ -183,6 +183,7 @@
 16.06.2021 | 50 | 2 
 17.06.2021 | 50 | 1 
 18.06.2021 | 50 | 1 
+21.06.2021 | 50 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Собянин оценил вероятность ужесточения мер против коронавируса в Москве](https://iz.ru/1180424/2021-06-18/sobianin-otcenil-veroiatnost-uzhestocheniia-mer-protiv-koronavirusa-v-moskve)
++ [В Индии зафиксировали 20 случаев нового штамма коронавируса](https://iz.ru/1181624/2021-06-21/v-indii-zafiksirovali-20-sluchaev-novogo-shtamma-koronavirusa)
