@@ -166,6 +166,7 @@
 17.06.2021 | 11 | 0 
 18.06.2021 | 4 | 1 
 21.06.2021 | 4 | 0 
+22.06.2021 | 1 | 0 
 
 > ### Последние новости по теме covid-19:
 + [Голая правда: как владелец эротического сервиса OnlyFans стал миллиардером благодаря пандемии](http://www.forbes.ru/milliardery/432479-golaya-pravda-kak-vladelec-eroticheskogo-servisa-onlyfans-stal-milliarderom)

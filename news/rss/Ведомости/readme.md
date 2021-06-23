@@ -184,6 +184,7 @@
 17.06.2021 | 48 | 5 
 18.06.2021 | 12 | 3 
 21.06.2021 | 10 | 1 
+22.06.2021 | 10 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [В Индии обнаружили новую мутацию коронавируса](https://www.vedomosti.ru/society/news/2021/06/21/874860-indii-novuyu-mutatsiyu-koronavirusa)
++ [Гинцбург рассказал об опасности индийского штамма коронавируса](https://www.vedomosti.ru/society/news/2021/06/22/875035-opasnosti-indiiskogo-shtamma)

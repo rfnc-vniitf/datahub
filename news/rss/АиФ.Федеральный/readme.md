@@ -184,6 +184,7 @@
 17.06.2021 | 113 | 6 
 18.06.2021 | 26 | 0 
 21.06.2021 | 28 | 1 
+22.06.2021 | 23 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [Уроки ковида. О чем сожалеют москвичи, тяжело переболевшие коронавирусом](https://aif.ru/health/coronavirus/uroki_kovida_o_chem_sozhaleyut_moskvichi_tyazhelo_perebolevshie_koronavirusom)
++ [Гинцбург назвал главную «хитрость» индийского штамма коронавируса](https://aif.ru/health/coronavirus/gincburg_zayavil_ob_effektivnosti_sputnika_v_protiv_indiyskogo_shtamma)

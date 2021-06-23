@@ -184,6 +184,7 @@
 17.06.2021 | 50 | 1 
 18.06.2021 | 50 | 1 
 21.06.2021 | 50 | 1 
+22.06.2021 | 50 | 1 
 
 > ### Последние новости по теме covid-19:
-+ [В Индии зафиксировали 20 случаев нового штамма коронавируса](https://iz.ru/1181624/2021-06-21/v-indii-zafiksirovali-20-sluchaev-novogo-shtamma-koronavirusa)
++ [Москалькова призвала соблюдать права переболевших коронавирусом](https://iz.ru/1182202/2021-06-22/moskalkova-prizvala-sobliudat-prava-perebolevshikh-koronavirusom)

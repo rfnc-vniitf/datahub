@@ -184,10 +184,9 @@
 17.06.2021 | 50 | 3 
 18.06.2021 | 38 | 3 
 21.06.2021 | 40 | 6 
+22.06.2021 | 47 | 3 
 
 > ### Последние новости по теме covid-19:
-+ [На Украине за сутки выявили 323 случая коронавируса](https://russian.rt.com/ussr/news/875883-ukraina-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Число случаев коронавируса в Индии превысило 29,9 млн](https://russian.rt.com/world/news/875865-indiya-koronavirus-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Число случаев коронавируса в Казахстане достигло 409 580](https://russian.rt.com/world/news/875857-kazahstan-koronavirus-zabolevaemost?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Сингапуре ослабили ограничительные меры из-за коронавируса](https://russian.rt.com/world/news/875850-singapur-koronavirus-ogranicheniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Бразилии за сутки зафиксировали более 44 тысяч случаев коронавируса](https://russian.rt.com/world/news/875848-braziliya-koronavirus-zabolevaemost?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [На Украине за сутки выявили 296 случаев коронавируса](https://russian.rt.com/ussr/news/876451-ukraina-sluchai-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [В Колумбии число выявленных случаев коронавируса достигло 3 968 405](https://russian.rt.com/world/news/876411-kolumbiya-chislo-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Гинцбург высказался об индийском штамме коронавируса](https://russian.rt.com/russia/news/876424-indiiskii-shtamm-koronavirusa?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
