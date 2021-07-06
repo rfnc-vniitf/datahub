@@ -1091,7 +1091,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20075,Hamilton,Kansas,US,2020-05-25 02:32:44,37.99978709,-101.7921066,10,0,0,10,"Hamilton, Kansas, US"
 31081,Hamilton,Nebraska,US,2020-05-25 02:32:44,40.87349452,-98.02099117,54,10,0,44,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-05-25 02:32:44,43.66146647,-74.49721957,5,0,0,5,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,2020-05-25 02:32:44,39.19673558,-84.54502924,2403,124,0,2275,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,2020-05-25 02:32:44,39.19673558,-84.54502924,2403,123,0,2275,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,2020-05-25 02:32:44,35.17670231,-85.16652245,552,14,0,538,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,2020-05-25 02:32:44,31.70470573,-98.11083887,7,1,0,6,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,2020-05-25 02:32:44,44.67385954,-97.18829593,4,0,0,4,"Hamlin, South Dakota, US"
@@ -1661,7 +1661,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21153,Magoffin,Kentucky,US,2020-05-25 02:32:44,37.70820545,-83.0657714,2,0,0,2,"Magoffin, Kentucky, US"
 19123,Mahaska,Iowa,US,2020-05-25 02:32:44,41.33521503,-92.64083907,52,6,0,46,"Mahaska, Iowa, US"
 27087,Mahnomen,Minnesota,US,2020-05-25 02:32:44,47.32557075,-95.80921485,5,1,0,4,"Mahnomen, Minnesota, US"
-39099,Mahoning,Ohio,US,2020-05-25 02:32:44,41.01631101,-80.77287029,1334,172,0,1165,"Mahoning, Ohio, US"
+39099,Mahoning,Ohio,US,2020-05-25 02:32:44,41.01631101,-80.77287029,1334,173,0,1165,"Mahoning, Ohio, US"
 40093,Major,Oklahoma,US,2020-05-25 02:32:44,36.31149996,-98.53467076,6,1,0,5,"Major, Oklahoma, US"
 41045,Malheur,Oregon,US,2020-05-25 02:32:44,43.1937027,-117.6227395,28,0,0,28,"Malheur, Oregon, US"
 51683,Manassas,Virginia,US,2020-05-25 02:32:44,38.7464321,-77.48509905,806,7,0,799,"Manassas, Virginia, US"
@@ -3414,5 +3414,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 2063,Chugach,Alaska,US,2021-04-02 15:13:53,61.16666,-149.9,2,0,0,0,"Chugach, Alaska, US"
 ,,Unknown,China,2020-05-25 02:32:44,,,0,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-05-25 02:32:44,-3.3704,-168.734,0,0,0,0,Kiribati
-,,,Palau,2020-05-25 02:32:44,-3.3704,-168.734,0,0,0,0,Palau
-,,Cook Islands,New Zealand,2020-05-25 02:32:44,-3.3704,-168.734,0,0,0,0,"Cook Islands, New Zealand"
+,,,Palau,2020-05-25 02:32:44,7.515,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-05-25 02:32:44,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,2020-05-25 02:32:44,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

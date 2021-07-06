@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Роспотребнадзор оценил ущерб российской экономике от коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "Роспотребнадзор оценил ущерб российской экономике от коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rbc.ru/economics/05/07/2021/60e279799a794700a6e6de2c"
+            },
+            {
+                "type": "image/jpeg",
+                "length": "",
+                "href": "https://s0.rbk.ru/v6_top_pics/media/img/5/63/756254576110635.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.rbc.ru/economics/05/07/2021/60e279799a794700a6e6de2c",
+        "summary": "По данным ведомства, в 2020 пандемийном году ущерб экономике от коронавируса составил почти 1 трлн руб., это в 1,4 раза больше, чем суммарный урон от остальных инфекционных болезней. Роспотребнадзор не учитывал потери ВВП",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+            "value": "По данным ведомства, в 2020 пандемийном году ущерб экономике от коронавируса составил почти 1 трлн руб., это в 1,4 раза больше, чем суммарный урон от остальных инфекционных болезней. Роспотребнадзор не учитывал потери ВВП"
+        },
+        "authors": [
+            {
+                "name": "Наталия Анисимова"
+            }
+        ],
+        "author": "Наталия Анисимова",
+        "author_detail": {
+            "name": "Наталия Анисимова"
+        },
+        "id": "http://static.feed.rbc.ru/rbc/logical/footer/60e279799a794700a6e6de2c",
+        "guidislink": false,
+        "published": "Mon, 05 Jul 2021 06:41:53 +0300",
+        "published_parsed": [
+            2021,
+            7,
+            5,
+            3,
+            41,
+            53,
+            0,
+            186,
+            0
+        ]
+    }
+]

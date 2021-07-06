@@ -1,0 +1,53 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/world/2021/06/26/1908523.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/world/2021/06/26/1908523.html",
+        "title": "ВОЗ готовится одобрить еще две вакцины против коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "ВОЗ готовится одобрить еще две вакцины против коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/world/2021/06/26/1908523.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/97/1b/6f/c7/8mhq49kw7nYT-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Информацию о препаратах организация пока держит в секрете.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Информацию о препаратах организация пока держит в секрете."
+        },
+        "published": "Sat, 26 Jun 2021 03:26:00 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            26,
+            0,
+            26,
+            0,
+            5,
+            177,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В мире",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

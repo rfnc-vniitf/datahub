@@ -1,0 +1,46 @@
+[
+    {
+        "title": "В ЮВО более 4,5 тыс. новобранцев вакцинировались от новой коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В ЮВО более 4,5 тыс. новобранцев вакцинировались от новой коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12369589@egNews"
+            },
+            {
+                "length": "53398",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/03072017-logo_video-346534573467(1).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12369589@egNews",
+        "summary": "Всего в округе вакцинировано более 130 тыс. человек из числа военнослужащих, членов их семей и гражданских специалистов.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Всего в округе вакцинировано более 130 тыс. человек из числа военнослужащих, членов их семей и гражданских специалистов."
+        },
+        "published": "Thu, 1 Jul 2021 10:30:00 +0300",
+        "published_parsed": [
+            2021,
+            7,
+            1,
+            7,
+            30,
+            0,
+            3,
+            182,
+            0
+        ],
+        "id": "12369589@egNews",
+        "guidislink": false
+    }
+]

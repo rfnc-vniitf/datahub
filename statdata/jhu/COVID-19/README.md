@@ -151,7 +151,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Wyoming Department of Health: https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/
   - New Hampshire Department of Health and Human Services: https://www.nh.gov/covid19/dashboard/summary.htm
   - Idaho Government: https://coronavirus.idaho.gov/
-  - Virgin Islands Department of Health: https://www.covid19usvi.com/
+  - Virgin Islands Department of Health: https://www.covid19usvi.com/ and https://www.covid19usvi.com/covid19-report
   - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
   - Kansas: Reno County Health Department: https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/
   - Kansas: Kansas Department Of Health And Environment: https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas
@@ -243,7 +243,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Kazinform: https://www.coronavirus2020.kz/
   - Kosovo:
     - National Institute of Health of Kosovo Dashboard: https://corona-ks.info/?lang=en
-    - National Institute of Health of Kosovo JSON: https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json 
+    - National Institute of Health of Kosovo JSON: https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
+    - National Institute of Health of Kosovo Data Studio Dashboard: https://datastudio.google.com/embed/reporting/2e546d77-8f7b-4c35-8502-38533aa0e9e8/page/MT0qB 
   - Lebanon  
     - Lebanese Ministry Of Information: https://corona.ministryinfo.gov.lb/
   - Lithuania: 
@@ -256,6 +257,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
   - Netherlands:
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+  - Palau:
+    - http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
   - Pakistan:
     - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - Peru:

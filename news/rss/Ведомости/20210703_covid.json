@@ -1,0 +1,50 @@
+[
+    {
+        "title": "В России за сутки выявили 24 439 новых случаев коронавируса",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.vedomosti.ru/rss/news",
+            "value": "В России за сутки выявили 24 439 новых случаев коронавируса"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.vedomosti.ru/society/news/2021/07/03/876784-v-rossii-za-sutki-viyavili-24-439-novih-sluchaev-koronavirusa"
+            },
+            {
+                "type": "image/jpeg",
+                "href": "https://cdn.vdmsti.ru/image/2021/54/oze9j/normal-wdm.jpeg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://www.vedomosti.ru/society/news/2021/07/03/876784-v-rossii-za-sutki-viyavili-24-439-novih-sluchaev-koronavirusa",
+        "id": "https://www.vedomosti.ru/society/news/2021/07/03/876784-v-rossii-za-sutki-viyavili-24-439-novih-sluchaev-koronavirusa",
+        "guidislink": false,
+        "pdalink": "https://www.vedomosti.ru/society/news/2021/07/03/876784-v-rossii-za-sutki-viyavili-24-439-novih-sluchaev-koronavirusa",
+        "authors": [
+            {}
+        ],
+        "author": "",
+        "tags": [
+            {
+                "term": "Общество",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "published": "Sat, 03 Jul 2021 11:40:33 +0300",
+        "published_parsed": [
+            2021,
+            7,
+            3,
+            8,
+            40,
+            33,
+            5,
+            184,
+            0
+        ]
+    }
+]

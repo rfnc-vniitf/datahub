@@ -1,0 +1,104 @@
+[
+    {
+        "id": "https://www.rosbalt.ru/russia/2021/07/03/1909688.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/russia/2021/07/03/1909688.html",
+        "title": "Россия побила рекорд по числу смертей в пандемию",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Россия побила рекорд по числу смертей в пандемию"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/russia/2021/07/03/1909688.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/2f/27/2c/45/JmNQnWzqLk72-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "Статистику за сутки привел федеральный оперативный штаб. Из 697 летальных исходов 116 и 110 пришлись на Москву и Петербург.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Статистику за сутки привел федеральный оперативный штаб. Из 697 летальных исходов 116 и 110 пришлись на Москву и Петербург."
+        },
+        "published": "Sat, 03 Jul 2021 11:28:00 +0300",
+        "published_parsed": [
+            2021,
+            7,
+            3,
+            8,
+            28,
+            0,
+            5,
+            184,
+            0
+        ],
+        "tags": [
+            {
+                "term": "В России",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    {
+        "id": "https://www.rosbalt.ru/piter/2021/07/03/1909641.html",
+        "guidislink": true,
+        "link": "https://www.rosbalt.ru/piter/2021/07/03/1909641.html",
+        "title": "Биолог объяснил, чем отличается иммунитет переболевших коронавирусом и привитых",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "Биолог объяснил, чем отличается иммунитет переболевших коронавирусом и привитых"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rosbalt.ru/piter/2021/07/03/1909641.html"
+            },
+            {
+                "length": "0",
+                "type": "image/jpeg",
+                "href": "https://img.rosbalt.ru/photobank/93/72/9d/c2/CjyrVYH3K6xG-580.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "summary": "После выздоровления переболевшим коронавирусной инфекцией необходимо привиться, так как иммунитет мог сформироваться не так, как необходимо. Такое мнение...",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.rosbalt.ru/feed/",
+            "value": "После выздоровления переболевшим коронавирусной инфекцией необходимо привиться, так как иммунитет мог сформироваться не так, как необходимо. Такое мнение..."
+        },
+        "published": "Sat, 03 Jul 2021 03:21:00 +0300",
+        "published_parsed": [
+            2021,
+            7,
+            3,
+            0,
+            21,
+            0,
+            5,
+            184,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Петербург",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Свыше 1 тыс. военнослужащих танковой армии ЗВО весеннего призыва привились от коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Свыше 1 тыс. военнослужащих танковой армии ЗВО весеннего призыва привились от коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12369438@egNews"
+            },
+            {
+                "length": "192733",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/550-6515(6).jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12369438@egNews",
+        "summary": "На данный момент свыше 16,5 тыс. военнослужащих, гражданского персонала и членов их семей привились вакциной от COVID-19 в гвардейской танковой армии Западного военного округа.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "На данный момент свыше 16,5 тыс. военнослужащих, гражданского персонала и членов их семей привились вакциной от COVID-19 в гвардейской танковой армии Западного военного округа."
+        },
+        "published": "Wed, 30 Jun 2021 09:40:21 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            30,
+            6,
+            40,
+            21,
+            2,
+            181,
+            0
+        ],
+        "id": "12369438@egNews",
+        "guidislink": false
+    },
+    {
+        "title": "Военные медики ЗВО приступили к лечению первых пациентов с коронавирусной инфекцией в Туле.",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Военные медики ЗВО приступили к лечению первых пациентов с коронавирусной инфекцией в Туле."
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12369393@egNews"
+            },
+            {
+                "length": "80832",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/fdgdf (2)-550.JPG",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12369393@egNews",
+        "summary": "Более 50 пациентов с коронавирусной инфекцией приняли военные медики в первые дни работы в больнице.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "Более 50 пациентов с коронавирусной инфекцией приняли военные медики в первые дни работы в больнице."
+        },
+        "published": "Wed, 30 Jun 2021 05:00:03 +0300",
+        "published_parsed": [
+            2021,
+            6,
+            30,
+            2,
+            0,
+            3,
+            2,
+            181,
+            0
+        ],
+        "id": "12369393@egNews",
+        "guidislink": false
+    }
+]

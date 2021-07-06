@@ -1,0 +1,46 @@
+[
+    {
+        "title": "В Южном военном округе приступили к ревакцинации военнослужащих против новой коронавирусной инфекции",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "В Южном военном округе приступили к ревакцинации военнослужащих против новой коронавирусной инфекции"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://function.mil.ru:443/news_page/country/more.htm?id=12370125@egNews"
+            },
+            {
+                "length": "162162",
+                "type": "image/jpeg",
+                "href": "https://function.mil.ru:443/images/military/gallery/2019/456045546605-550.jpg",
+                "rel": "enclosure"
+            }
+        ],
+        "link": "https://function.mil.ru:443/news_page/country/more.htm?id=12370125@egNews",
+        "summary": "За весь период проведения массовой иммунизации в зоне ответственности военного округа прививку против новой коронавирусной инфекции получили около 130 тыс. человек",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+            "value": "За весь период проведения массовой иммунизации в зоне ответственности военного округа прививку против новой коронавирусной инфекции получили около 130 тыс. человек"
+        },
+        "published": "Mon, 5 Jul 2021 08:45:59 +0300",
+        "published_parsed": [
+            2021,
+            7,
+            5,
+            5,
+            45,
+            59,
+            0,
+            186,
+            0
+        ],
+        "id": "12370125@egNews",
+        "guidislink": false
+    }
+]

@@ -184,6 +184,21 @@
 18.06.2021 | 6 | 0 
 21.06.2021 | 6 | 0 
 22.06.2021 | 4 | 0 
+23.06.2021 | 20 | 1 
+24.06.2021 | 23 | 1 
+25.06.2021 | 25 | 5 
+26.06.2021 | 6 | 1 
+27.06.2021 | 4 | 0 
+28.06.2021 | 25 | 7 
+29.06.2021 | 21 | 5 
+30.06.2021 | 25 | 0 
+01.07.2021 | 24 | 1 
+02.07.2021 | 21 | 3 
+03.07.2021 | 15 | 2 
+04.07.2021 | 11 | 2 
+05.07.2021 | 19 | 2 
+06.07.2021 | 2 | 0 
 
 > ### Последние новости по теме covid-19:
-+ [Правительство субсидирует наём молодых специалистов, получивших дипломы в период пандемии](http://expert.ru/2021/06/17/pravitelstvo-subsidiruyet-naym-molodykh-spetsialistov-poluchivshikh-diplomy-v-period-pandemii/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/06/17/pravitelstvo-subsidiruyet-naym-molodykh-spetsialistov-poluchivshikh-diplomy-v-period-pandemii/)
++ [В Хакасию и Коми направили военных врачей из-за коронавируса](http://expert.ru/2021/07/5/v-khakasiyu-i-komi-napravili-voyennykh-vrachey-iz-za-koronavirusa/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/07/5/v-khakasiyu-i-komi-napravili-voyennykh-vrachey-iz-za-koronavirusa/)
++ [Байден заявил о начале нормальной жизни в США после пандемии коронавируса](http://expert.ru/2021/07/5/bayden-zayavil-o-nachale-normalnoy-zhizni-v-ssha-posle-pandemii-koronavirusa/?utm_source=mis&utm_medium=vk&utm_campaign=rss&utm_term=/2021/07/5/bayden-zayavil-o-nachale-normalnoy-zhizni-v-ssha-posle-pandemii-koronavirusa/)

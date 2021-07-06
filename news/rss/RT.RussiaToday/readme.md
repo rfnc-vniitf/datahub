@@ -185,8 +185,23 @@
 18.06.2021 | 38 | 3 
 21.06.2021 | 40 | 6 
 22.06.2021 | 47 | 3 
+23.06.2021 | 50 | 3 
+24.06.2021 | 50 | 4 
+25.06.2021 | 50 | 1 
+26.06.2021 | 50 | 3 
+27.06.2021 | 50 | 3 
+28.06.2021 | 50 | 3 
+29.06.2021 | 50 | 9 
+30.06.2021 | 50 | 2 
+01.07.2021 | 50 | 4 
+02.07.2021 | 50 | 3 
+03.07.2021 | 50 | 2 
+04.07.2021 | 50 | 3 
+05.07.2021 | 50 | 1 
+06.07.2021 | 46 | 4 
 
 > ### Последние новости по теме covid-19:
-+ [На Украине за сутки выявили 296 случаев коронавируса](https://russian.rt.com/ussr/news/876451-ukraina-sluchai-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [В Колумбии число выявленных случаев коронавируса достигло 3 968 405](https://russian.rt.com/world/news/876411-kolumbiya-chislo-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
-+ [Гинцбург высказался об индийском штамме коронавируса](https://russian.rt.com/russia/news/876424-indiiskii-shtamm-koronavirusa?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Гран-при Австралии отменён из-за коронавируса](https://russian.rt.com/sport/news/882277-gran-pri-avstralii-koronavirus?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [На Украине за сутки выявили 541 случай коронавируса](https://russian.rt.com/ussr/news/882259-ukraina-koronavirus-sluchai?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Число случаев коронавируса в Казахстане превысило 439 тысяч](https://russian.rt.com/ussr/news/882240-kazahstan-koronavirus-zabolevaemost?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
++ [Общее число случаев коронавируса в Аргентине достигло 4 552 750](https://russian.rt.com/world/news/882235-argentina-koronavirus-zabolevaemost?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
